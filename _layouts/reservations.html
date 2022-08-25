@@ -1,0 +1,48 @@
+{% assign current_page = 'reservations' %}
+{% assign page_title = 'Reservations' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<main class="cover-image">
+  <div class="h-screen pb-8 pr-24 mr-20 flex items-end justify-end">
+    <div class="reservations-section w-2/5 bck-opacity py-6 px-20">
+      <div class="h-full overflow-y-scroll">
+        <h2 class="reservations-title mb-4">Reservations</h2>
+        <div class="reservations-text">
+          <p>
+            Omnia Bistro is a vibrant and elegant restaurant which can host lunch events from
+            12pm – 4pm or dinner events from 6pm – 10pm. We can comfortably accommodate up to 100 guests for a cocktail
+            event and up to 60 guests for a seated event.
+          </p>
+          <p>
+            You will have a choice of 4 hour cocktail menu or three, four, five course set menu. We have a vast variety of
+            beverages available for selection. Beverages will be charged on consumption which can include champagne,
+            prosecco, sparkling wine, wine, tap beers, cocktails, spirts and non-alcoholic beverages.
+          </p>
+          <p>
+            Minimum spends apply for exclusive use of Omnia and is inclusive of venue hire, food and beverage
+            arrangements.
+          </p>
+          <p>
+            For all other enquiries:
+          </p>
+          <p>
+            Omnia large group reservations for up to 10 guests,
+            email info@omniabistro.com.au.
+          </p>
+          <p>
+            Events enquiries at Bromley Event Space, email events@lkhospitality.com.au.
+          </p>
+        </div>
+        <a href="#" class="book-btn">
+          Book
+        </a>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %}

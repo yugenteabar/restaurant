@@ -1,0 +1,280 @@
+* {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+html, body, div, p {
+  color: #fff;
+}
+
+body {
+  background-color: #000000;
+  font-family: 'Garnett', sans-serif;
+}
+
+
+/* additional css */
+
+.w-55per {
+  width: 55%;
+}
+
+.w-45per {
+  width: 45%;
+}
+.-z-1{
+  z-index: -1;
+}
+
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/*                             DEFINE HEADINGS                              */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+
+h2 {
+  font-size: 36px;
+  line-height: 43px;
+}
+
+header {
+  background-color: transparent;
+}
+
+header .open-navigation-btn,
+header .header-logo {
+  height: 45px;
+}
+header .header-logo img,
+header .open-navigation-btn img {
+  height: 45px;
+  width: 100%;
+}
+
+body main {
+  height: 100vh;
+}
+
+body nav #navigation {
+  background-color: rgba(0,0,0,.55);
+  box-sizing: border-box;
+}
+
+nav #navigation a.nav-link {
+  display: block;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  padding-right: 3rem;
+  margin-bottom: 40px;
+}
+
+.bck-opacity {
+  background-color: rgba(0,0,0,.45)
+}
+
+.cover-image{
+  background-position: center center;
+  background-size: cover;
+}
+.bck-image {
+  background-position: center center;
+  background-size: cover;
+}
+
+/*  --------------------------  */
+/*    H  O  M  E  P  A  G  E    */
+/*  --------------------------  */
+
+
+#homepage .cover-image,
+#about .cover-image{
+  background-image: url('/img/Homepage.jpg')
+}
+
+
+/*  -----------  */
+/*    F O O D    */
+/*  -----------  */
+
+#section {
+  font-family: 'Actor', sans-serif;
+}
+
+#food .bck-image {
+  background-image: url('/img/Food.jpg');
+}
+
+#food h2 {
+  letter-spacing: 0.08em;
+}
+
+#food p {
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+
+/*  ---------------------------  */
+/*      O  M  A  K  A  S  E      */
+/*  ---------------------------  */
+
+#omakase .cover-image{
+  background-image: url('/img/Omakase.jpg')
+}
+
+#omakase .omakase-section {
+  /* screen - nav height + margins */
+  height: calc(100vh - 180px);
+}
+
+#omakase .omakase-text {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+
+/*  --------------------------  */
+/*    B  E  V  E  R  A  G  E    */
+/*  --------------------------  */
+
+#beverage {
+  font-family: 'Actor', sans-serif;
+}
+
+#beverage .bck-image {
+  background-image: url('/img/Beverage.jpg');
+}
+
+
+
+/*  ---------------------  */
+/*      M  U  S  I  C      */
+/*  ---------------------  */
+
+#music .bck-image {
+  background-image: url('/img/Music.jpg');
+}
+
+#music .section {
+  max-width: 440px;
+}
+
+#music .section {
+  margin-left: 160px;
+}
+
+/*  -----------------------  */
+/*     E  V  E  N  T  S      */
+/*  -----------------------  */
+
+#events .bck-image-right,
+#events .bck-image-left{
+  background-position: center center;
+  background-size: cover;
+}
+
+#events .bck-image-right {
+  background-image: url('/img/Events.jpg');
+}
+#events .bck-image-left {
+  background-image: url('/img/Events2.jpg');
+}
+
+#events .events-title,
+#reservations .reservations-title,
+#omakase .omakase-title {
+  font-family: 'Jaldi';
+  font-size: 36px;
+  line-height: 61px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+#events .events-text,
+#reservations .reservations-text  {
+  font-family: 'Garnett';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+#events .events-title,
+#events .events-text {
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*  --------------------------------------  */
+/*    R  E  S  E  R  V  A  T  I  O  N  S    */
+/*  --------------------------------------  */
+
+#reservations .cover-image {
+  background-image: url('/img/Reservations.jpg');
+}
+
+#reservations .reservations-text {
+  line-height: 1.45;
+}
+#reservations .reservations-text p {
+  padding-top: 24px;
+}
+
+#reservations .book-btn {
+  display: inline-block;
+  font-family: 'Jaldi';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 34px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  border: 1px solid white;
+  border-radius: 40px;
+  padding: 8px 20px;
+  margin-top: 32px;
+}
+
+
+
+
+
+@media (min-width: 1480px) { 
+  .container {
+    max-width: 1440px;
+  }
+}
+
+@media (min-width: 1681px) { 
+  .container {
+    max-width: 1536px;
+  }
+
+  
+}

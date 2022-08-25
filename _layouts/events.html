@@ -1,0 +1,33 @@
+{% assign current_page = 'events' %}
+{% assign page_title = 'Events' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+
+<main class="min-h-screen flex">
+  <div class="w-1/2 max-w-1/2 bck-image-left flex justify-center items-end pb-16">
+    <div class="bck-opacity w-3/4 py-8 px-20">
+      <h2 class="events-title mb-8">Sake tasting</h2>
+      <div class="events-text">
+        Omnia Bistro is a vibrant and elegant restaurant which can host lunch events from <br>
+        12pm – 4pm or dinner events from 6pm – 10pm. We can comfortably accommodate up to 100 guests for a cocktail
+        event and up to 60 guests for a seated event.
+      </div>
+    </div>
+  </div>
+  <div class="w-1/2 max-w-1/2 bck-image-right flex justify-center items-end pb-16">
+    <div class="bck-opacity w-3/4 py-8 px-20">
+      <h2 class="events-title mb-8">Father’s day</h2>
+      <div class="events-text ">
+        Omnia Bistro is a vibrant and elegant restaurant which can host lunch events from <br>
+        12pm – 4pm or dinner events from 6pm – 10pm. We can comfortably accommodate up to 100 guests for a cocktail
+        event and up to 60 guests for a seated event.
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %}

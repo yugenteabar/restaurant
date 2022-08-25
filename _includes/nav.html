@@ -1,0 +1,43 @@
+{% assign url = page.url | remove:'index.html' %}
+<header class="fixed top-0 left-0 w-full">
+  <div class="container mx-auto py-6 flex justify-between items-center">
+    <div class="header-logo">
+      <a href="/">
+        <img src="{{ 'img/logo.svg' | asset_url }}" width="70" alt="menu" class="white-invert">
+      </a>
+    </div>
+    <div class="open-navigation-btn cursor-pointer">
+      <img src="{{ 'img/menu.svg' | asset_url }}" width="175" alt="yugen logo"> 
+    </div> 
+  </div>
+</header>
+
+<nav id="nav-bg" class="absolute top-0 right-0 bottom-0 left-0 hidden">
+  <div id="navigation" class="absolute right-0 w-1/3 min-h-screen flex flex-col justify-center
+                              p-10 pr-16 text-right">
+    <div class="-mt-8">
+      <a href="/about" class="nav-link">
+        About Yugen
+      </a>
+      <a href="/food" class="nav-link">
+        Food
+      </a>
+      <a href="/omakase" class="nav-link">
+        Omakase
+      </a>
+      <a href="/beverage" class="nav-link">
+        Beverage
+      </a>
+      <a href="/music" class="nav-link">
+        Music
+      </a>
+      <a href="/events" class="nav-link">
+        Events
+      </a>
+      <a href="/reservations" class="nav-link">
+        Reservations
+      </a>
+    </div>
+  </div>
+</nav>
+

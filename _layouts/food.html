@@ -1,0 +1,38 @@
+{% assign current_page = 'food' %}
+{% assign page_title = 'Food' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<main class="min-h-screen flex">
+  <div class="w-full md:w-1/2 relative">
+    <div class="bck-image -z-1 absolute top-0 bottom-0 left-0 right-0"></div>
+  </div>
+  <div class="w-full md:w-1/2 min-h-screen overflow-y-scroll py-40">
+    <div class="h-full px-52 flex flex-col justify-center ">
+      <div class="section">
+        <h2 class="title mb-5">Food</h2>
+        <p class="text">
+          At the omakase bar, there’s adherence to a traditional sequence, but chef Alex Yu’s food is contemporary. Downstairs, dishes are bold and fiery, packed with umami, spice and sizzle.
+        </p>
+        <a href="#" class="block mt-8 underline uppercase underline-offset-4">
+          MENU
+        </a>
+      </div>
+      <div class="section mt-24">
+        <h2 class="title mb-5">Philosophy</h2>
+        <p class="section-text">
+          eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget
+        </p>
+        <a href="#" class="block mt-8 underline uppercase underline-offset-2">
+          Stephen nairn
+        </a>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %} 
+
