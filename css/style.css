@@ -73,7 +73,7 @@ body nav #navigation {
   box-sizing: border-box;
 }
 
-nav #navigation a.nav-link {
+.nav-link {
   display: block;
   font-size: 36px;
   font-style: italic;
@@ -117,10 +117,6 @@ nav #navigation a.nav-link {
   font-family: 'Actor', sans-serif;
 }
 
-#food .bck-image {
-  background-image: url('/img/Food.jpg');
-}
-
 #food h2 {
   letter-spacing: 0.08em;
 }
@@ -141,12 +137,12 @@ nav #navigation a.nav-link {
   background-image: url('/img/Omakase.jpg')
 }
 
-#omakase .omakase-section {
+#omakase .section {
   /* screen - nav height + margins */
   height: calc(100vh - 180px);
 }
 
-#omakase .omakase-text {
+#omakase .text {
   font-family: 'Jaldi', sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -164,27 +160,16 @@ nav #navigation a.nav-link {
   font-family: 'Actor', sans-serif;
 }
 
-#beverage .bck-image {
-  background-image: url('/img/Beverage.jpg');
-}
-
 
 
 /*  ---------------------  */
 /*      M  U  S  I  C      */
 /*  ---------------------  */
 
-#music .bck-image {
-  background-image: url('/img/Music.jpg');
-}
-
 #music .section {
   max-width: 440px;
 }
 
-#music .section {
-  margin-left: 160px;
-}
 
 /*  -----------------------  */
 /*     E  V  E  N  T  S      */
@@ -204,8 +189,8 @@ nav #navigation a.nav-link {
 }
 
 #events .events-title,
-#reservations .reservations-title,
-#omakase .omakase-title {
+#reservations .title,
+#omakase .title {
   font-family: 'Jaldi';
   font-size: 36px;
   line-height: 61px;
@@ -214,7 +199,7 @@ nav #navigation a.nav-link {
 }
 
 #events .events-text,
-#reservations .reservations-text  {
+#reservations .text  {
   font-family: 'Garnett';
   font-style: italic;
   font-weight: 500;
@@ -240,10 +225,10 @@ nav #navigation a.nav-link {
   background-image: url('/img/Reservations.jpg');
 }
 
-#reservations .reservations-text {
+#reservations .text {
   line-height: 1.45;
 }
-#reservations .reservations-text p {
+#reservations .text p {
   padding-top: 24px;
 }
 
@@ -263,7 +248,23 @@ nav #navigation a.nav-link {
 
 
 
-
+@media (min-width: 576px) { 
+  .sm\:max-w-55per {
+    max-width: 55%;
+  }
+  .sm\:w-55per {
+    width: 55%;
+  }
+  .sm\:max-w-45per {
+    max-width: 45%;
+  }
+  .sm\:w-45per {
+    width: 45%;
+  }
+  .sm\:-z-1 {
+    z-index: -1;
+  }
+}
 
 @media (min-width: 1480px) { 
   .container {
@@ -275,6 +276,78 @@ nav #navigation a.nav-link {
   .container {
     max-width: 1536px;
   }
-
-  
 }
+
+@media (max-width: 450px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  body nav #navigation {
+    background-color: rgba(0,0,0,.75);
+  }
+
+  .nav-link {
+    width: 100%;
+    font-size: 28px;
+    line-height: 36px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    margin-bottom: 8px;
+  }
+
+  .image-section {
+    max-height: 530px;
+  }
+
+  #beverage .bck-image {
+    height: 60vh;
+    width: 100%;
+  }
+  
+  #beverage .section {
+    font-family: 'Garnett';
+    /* font-style: italic; */
+  }
+  
+  #music .section .title,
+  #beverage .section .title,
+  /* #reservations .section .title, */
+  #food .section .title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  #music .section .text,
+  #music .section a,
+  /* #reservations .section .text,
+  #reservations .section .text p,
+  #reservations .section a, */
+  #food .section .text,
+  #food .section a,
+  #beverage .section .text,
+  #beverage .section a {
+    font-size: 12px;
+    line-height: 17px;
+  }
+
+  #food img {
+    width: 100%;
+    height: 100%;
+  }
+
+  #events .bck-image-left,
+  #events .bck-image-right {
+    min-height: 630px;
+    height: auto;
+  }
+
+  #events .bck-image-right {
+    background-position: 66%;
+  }
+
+}
+
+

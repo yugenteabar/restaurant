@@ -7,12 +7,12 @@
 {% include nav.html %}
 
 
-<main class="min-h-screen">
-  <div class="container mx-auto pt-40 pb-20">
-    <div class="w-45per pr-72 flex flex-col ">
+<main class="min-h-screen flex flex-col sm:flex-row">
+  <div class="sm:w-45per custom-padding-left sm:pt-40 pb-20 order-2 sm:order-1">
+    <div class="pl-16 pr-24 sm:pb-24 sm:px-0 w-full sm:w-1/2 flex flex-col ">
       <div class="section">
         <h2 class="title mb-5">Bar</h2>
-        <p class="section-text">
+        <p class="text">
           At the omakase bar, there’s adherence to a traditional sequence, but chef Alex Yu’s food is contemporary.
           Downstairs, dishes are bold and fiery, packed with umami, spice and sizzle.
         </p>
@@ -20,9 +20,9 @@
           Cocktail list
         </a>
       </div>
-      <div class="section mt-20">
+      <div class="section mt-12 sm:mt-20">
         <h2 class="title mb-5">Sake & Wine</h2>
-        <p class="section-text">
+        <p class="text">
           eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem
           sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget Lorem
         </p>
@@ -30,9 +30,9 @@
           SAKE & WINE LIST
         </a>
       </div>
-      <div class="section mt-20">
+      <div class="section mt-12 sm:mt-20">
         <h2 class="title mb-5">Philosophy</h2>
-        <p class="section-text">
+        <p class="text">
           eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem
           sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget Lorem
         </p>
@@ -42,8 +42,9 @@
       </div>
     </div>
   </div>
-
-  <div class="w-55per -z-1 max-w-1/2 bck-image fixed right-0 top-0 bottom-0"></div>
+  <div class="sm:w-55per sm:-z-1 max-h-screen mb-12 sm:fixed right-0 top-0 bottom-0 sm:mb-0 order-1 sm:order-2 image-section">
+    <img src="../img/Beverage.jpg" alt="Beverage" class="w-full h-full">
+  </div>
 </main>
 
 {% include footer.html %}

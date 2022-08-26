@@ -1,21 +1,28 @@
 {% assign url = page.url | remove:'index.html' %}
 <header class="fixed top-0 left-0 w-full">
-  <div class="container mx-auto py-6 flex justify-between items-center">
+  <div class="container mx-auto py-6 flex flex-row-reverse sm:flex-row justify-between items-center">
     <div class="header-logo">
       <a href="/">
-        <img src="{{ 'img/logo.svg' | asset_url }}" width="70" alt="menu" class="white-invert">
+        <img src="/img/logo.svg" width="70" alt="menu">
       </a>
     </div>
     <div class="open-navigation-btn cursor-pointer">
-      <img src="{{ 'img/menu.svg' | asset_url }}" width="175" alt="yugen logo"> 
+      <img src="/img/menu.svg" width="175" alt="yugen logo"> 
     </div> 
   </div>
 </header>
 
-<nav id="nav-bg" class="absolute top-0 right-0 bottom-0 left-0 hidden">
-  <div id="navigation" class="absolute right-0 w-1/3 min-h-screen flex flex-col justify-center
-                              p-10 pr-16 text-right">
-    <div class="-mt-8">
+<nav id="navBg" class="fixed top-0 right-0 bottom-0 left-0 hidden">
+  <div id="navigation" class="absolute right-0 w-full sm:w-1/3 min-h-screen flex flex-col 
+  justify-between sm:justify-center sm:p-10 sm:pr-16 text-right">
+    <div class="flex text-left sm:hidden">
+      <span id="closeNavBtn" class="ml-6 mt-6 p-2 ">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m-15 0l15 15" />
+        </svg>      
+      </span>
+    </div>
+    <div class="sm:-mt-8 mb-20 sm:mb-0">
       <a href="/about" class="nav-link">
         About Yugen
       </a>
