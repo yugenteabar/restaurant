@@ -1,3 +1,4 @@
+import setScrollAnimation from './scroll.js'
 (function () {
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
   let TOGGLE_MENU = false
@@ -9,8 +10,8 @@
     const container = document.querySelector('.container')
     containerMargin = (innerWidth - container.offsetWidth) / 2
 
-    const cpls =  document.querySelectorAll('.custom-padding-left')
-    const cprs =  document.querySelectorAll('.custom-padding-right')
+    const cpls = document.querySelectorAll('.custom-padding-left')
+    const cprs = document.querySelectorAll('.custom-padding-right')
 
     cpls.forEach(cpl => {
       cpl.style.paddingLeft = containerMargin + 'px'
@@ -29,29 +30,28 @@
   const nav = document.querySelector('#navBg')
   const closeNavBtn = document.querySelector('#closeNavBtn')
   menuBtn.addEventListener('click', () => {
-    if(!TOGGLE_MENU){
+    if (!TOGGLE_MENU) {
       nav.classList.remove('hidden')
-    }
-    else{
+    } else {
       nav.classList.add('hidden')
     }
     TOGGLE_MENU = !TOGGLE_MENU
   })
 
   nav.addEventListener('click', (e) => {
-    if(e.target.id === 'navBg'){
+    if (e.target.id === 'navBg') {
       nav.classList.add('hidden')
       TOGGLE_MENU = !TOGGLE_MENU
     }
   })
 
   closeNavBtn.addEventListener('click', (e) => {
-      nav.classList.add('hidden')
-      TOGGLE_MENU = !TOGGLE_MENU
+    nav.classList.add('hidden')
+    TOGGLE_MENU = !TOGGLE_MENU
   })
 
   addEventListener('keydown', e => {
-    if(!nav.classList.contains('hidden') && (e.key === "Escape" || e.key === "Esc")){
+    if (!nav.classList.contains('hidden') && (e.key === "Escape" || e.key === "Esc")) {
       nav.classList.add('hidden')
       TOGGLE_MENU = !TOGGLE_MENU
     }
@@ -60,4 +60,6 @@
   addEventListener('resize', defineContainerMargin)
 
   defineContainerMargin()
+
+  setScrollAnimation()
 })()

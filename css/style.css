@@ -113,10 +113,6 @@ body nav #navigation {
 /*    F O O D    */
 /*  -----------  */
 
-#section {
-  font-family: 'Actor', sans-serif;
-}
-
 #food h2 {
   letter-spacing: 0.08em;
 }
@@ -143,7 +139,6 @@ body nav #navigation {
 }
 
 #omakase .text {
-  font-family: 'Jaldi', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 27px;
@@ -155,10 +150,6 @@ body nav #navigation {
 /*  --------------------------  */
 /*    B  E  V  E  R  A  G  E    */
 /*  --------------------------  */
-
-#beverage {
-  font-family: 'Actor', sans-serif;
-}
 
 
 
@@ -191,7 +182,6 @@ body nav #navigation {
 #events .events-title,
 #reservations .title,
 #omakase .title {
-  font-family: 'Jaldi';
   font-size: 36px;
   line-height: 61px;
   letter-spacing: 0.08em;
@@ -200,7 +190,6 @@ body nav #navigation {
 
 #events .events-text,
 #reservations .text  {
-  font-family: 'Garnett';
   font-style: italic;
   font-weight: 500;
   font-size: 14px;
@@ -225,6 +214,11 @@ body nav #navigation {
   background-image: url('/img/Reservations.jpg');
 }
 
+#reservations .section {
+  /* screen - nav height + margins */
+  height: calc(100vh - 200px);
+}
+
 #reservations .text {
   line-height: 1.45;
 }
@@ -234,8 +228,7 @@ body nav #navigation {
 
 #reservations .book-btn {
   display: inline-block;
-  font-family: 'Jaldi';
-  font-weight: 700;
+  font-weight: 500;
   font-size: 20px;
   line-height: 34px;
   letter-spacing: 0.08em;
@@ -244,6 +237,11 @@ body nav #navigation {
   border-radius: 40px;
   padding: 8px 20px;
   margin-top: 32px;
+  transition: all 0.3s ease-in-out;
+}
+#reservations .book-btn:hover {
+  background-color: white;
+  color: black;
 }
 
 
@@ -288,6 +286,10 @@ body nav #navigation {
     background-color: rgba(0,0,0,.75);
   }
 
+  .bck-opacity-sm {
+    background-color: rgba(0,0,0,.45)
+  }
+
   .nav-link {
     width: 100%;
     font-size: 28px;
@@ -307,28 +309,29 @@ body nav #navigation {
     width: 100%;
   }
   
-  #beverage .section {
-    font-family: 'Garnett';
-    /* font-style: italic; */
-  }
-  
   #music .section .title,
   #beverage .section .title,
-  /* #reservations .section .title, */
-  #food .section .title {
+  #reservations .section .title,
+  #food .section .title,
+  #events .title,
+  #omakase .section .title{
     font-size: 20px;
     line-height: 28px;
   }
 
   #music .section .text,
+  #music .section .text p,
   #music .section a,
-  /* #reservations .section .text,
+  #reservations .section .text,
   #reservations .section .text p,
-  #reservations .section a, */
+  #reservations .section a,
   #food .section .text,
   #food .section a,
   #beverage .section .text,
-  #beverage .section a {
+  #beverage .section a,
+  #events .text,
+  #omakase .section .text,
+  #omakase .section a{
     font-size: 12px;
     line-height: 17px;
   }
@@ -348,6 +351,10 @@ body nav #navigation {
     background-position: 66%;
   }
 
+  #reservations .section {
+    /* screen - nav height + margins */
+    height: calc(100vh - 150px);
+  }
 }
 
 
