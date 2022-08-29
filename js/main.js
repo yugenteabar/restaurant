@@ -5,7 +5,6 @@ import setScrollAnimation from './scroll.js'
 
   let containerMargin
 
-
   function defineContainerMargin() {
     const container = document.querySelector('.container')
     containerMargin = (innerWidth - container.offsetWidth) / 2
@@ -21,7 +20,16 @@ import setScrollAnimation from './scroll.js'
     })
   }
 
+  function test() {
+    const reavlElements =  document.querySelectorAll('[class*="hide-reaveal"]')
+    if(reavlElements.length){
+      reavlElements.forEach((rel) => {
+        rel.classList.remove('hide-reaveal')
+      })
+    }
+  }
 
+  test()
 
 
 
@@ -62,4 +70,8 @@ import setScrollAnimation from './scroll.js'
   defineContainerMargin()
 
   setScrollAnimation()
+
+  window.onbeforeunload = () => {
+    window.scrollTo(0, 0);
+  }
 })()
