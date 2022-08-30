@@ -49,14 +49,19 @@ addEventListener('load', () => {
 
 
 
-  const menuBtn = document.querySelector('.open-navigation-btn')
   const nav = document.querySelector('#navBg')
   const closeNavBtn = document.querySelector('#closeNavBtn')
+  const menuBtn = document.querySelector('#menuBtn')
+
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
       nav.classList.remove('hidden')
+      menuBtn.classList.add('hidden')
+      closeNavBtn.classList.remove('hidden')
     } else {
       nav.classList.add('hidden')
+      menuBtn.classList.remove('hidden')
+      closeNavBtn.classList.add('hidden')
     }
     TOGGLE_MENU = !TOGGLE_MENU
   })
@@ -70,6 +75,8 @@ addEventListener('load', () => {
 
   closeNavBtn.addEventListener('click', (e) => {
     nav.classList.add('hidden')
+    menuBtn.classList.remove('hidden')
+    closeNavBtn.classList.add('hidden')
     TOGGLE_MENU = !TOGGLE_MENU
   })
 
