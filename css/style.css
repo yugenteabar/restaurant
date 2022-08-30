@@ -21,6 +21,26 @@ body {
   font-family: 'Garnett', sans-serif;
 }
 
+/* animate */
+.animate-delay-100 {
+  animation-delay: .1s
+}
+.animate-delay-200 {
+  animation-delay: .2s
+}
+.animate-delay-300 {
+  animation-delay: .3s
+}
+.animate-delay-400 {
+  animation-delay: .4s
+}
+.animate-delay-500 {
+  animation-delay: .5s
+}
+.animate-delay-600 {
+  animation-delay: .6s
+}
+
 
 /* additional css */
 
@@ -34,7 +54,7 @@ body {
 .-z-1{
   z-index: -1;
 }
-.reveal-hidden-test {
+.hide-reveal {
   display: none;
 }
 .underline-animation {
@@ -46,6 +66,15 @@ body {
 a:hover .underline-animation {
   background-color: #fff;
   animation: load ease-out forwards 0.5s;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 
@@ -73,7 +102,7 @@ body main {
 }
 
 body nav #navigation {
-  background-color: rgba(0,0,0,.55);
+  background-color: rgba(0,0,0,.65);
   box-sizing: border-box;
 }
 
@@ -287,7 +316,7 @@ body nav #navigation {
   }
 
   body nav #navigation {
-    background-color: rgba(0,0,0,.75);
+    background-color: rgba(0,0,0,1);
   }
 
   .bck-opacity-sm {

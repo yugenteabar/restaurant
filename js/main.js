@@ -1,5 +1,5 @@
 import setScrollAnimation from './scroll.js'
-(function () {
+addEventListener('load', () => {
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
   let TOGGLE_MENU = false
 
@@ -20,7 +20,7 @@ import setScrollAnimation from './scroll.js'
     })
   }
 
-  function test() {
+  function removeHideReveal() {
     const reavlElements =  document.querySelectorAll('[class*="hide-reaveal"]')
     if(reavlElements.length){
       reavlElements.forEach((rel) => {
@@ -29,7 +29,22 @@ import setScrollAnimation from './scroll.js'
     }
   }
 
-  test()
+  removeHideReveal()
+
+  const animatedElements = document.querySelectorAll('.animate__animated')
+  if(animatedElements){
+    if(innerWidth < 900){
+      animatedElements.forEach((animEl => {
+        animEl.classList.remove('animate__animated')
+        animEl.classList.remove('animate-delay-200')
+        animEl.classList.remove('animate-delay-300')
+        animEl.classList.remove('animate-delay-400')
+        animEl.classList.remove('animate-delay-500')
+        animEl.classList.remove('animate-delay-600')
+        animEl.classList.add('reveal')
+      }))
+    }
+  }
 
 
 
@@ -74,4 +89,4 @@ import setScrollAnimation from './scroll.js'
   window.onbeforeunload = () => {
     window.scrollTo(0, 0);
   }
-})()
+})
