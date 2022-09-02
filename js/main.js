@@ -93,7 +93,7 @@ addEventListener('load', () => {
 
   setScrollAnimation()
 
-  window.onbeforeunload = () => {
-    window.scrollTo(0, 0);
-  }
+  // window.onbeforeunload = () => {
+  //   window.scrollTo(0, 0);
+  // }
 })

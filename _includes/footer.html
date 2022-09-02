@@ -1,5 +1,81 @@
 {% assign pageUrl = page.path | split: "/" %}
-<footer class="flex items-center justify-center">
+<footer class="container mx-auto py-16">
+  <!-- upper section -->
+  <div class="flex flex-col sm:flex-row justify-between items-center">
+    <!-- footer text -->
+    <div class="footer-text">
+      Senses are heightened underground. <br>
+      But that doesn’t stop us from turning up the volume. Leave the real world at street level. Descend into ours. <br>
+      There’s nothing else like it.
+    </div>
+    <!-- logo -->
+    <div>
+      <a href="#">
+        <img src="/img/logo.svg" alt="yugen footer logo">
+      </a>
+    </div>
+    <!-- social networks -->
+    <div class="footer-social-networks">
+      <a href="#">
+        <img src="/img/instagram.svg" alt="instagram" style="width: 22px;">
+      </a>
+    </div>
+    <!-- informations -->
+    <div class="footer-informations flex flex-col text-right">
+      <div class="">
+        Wednesday - Sunday
+      </div>
+      <div class="">
+        5:30pm - 3:00am
+      </div>
+      <a href="https://www.google.com/maps/place/Omnia+Bistro+And+Restaurant+South+Yarra/@-37.8389116,144.9953926,15z/data=!4m5!3m4!1s0x0:0x8354098583c6a976!8m2!3d-37.8389116!4d144.9953926"
+        target="_blank">
+        <div class="pt-6">
+          625 Chapel street
+          <br>
+          South Yarra, Melbourne
+        </div>
+      </a>
+
+      <a href="mailto:info@yugen.com.au">
+        <div class="pt-6">
+          info@yugen.com.au
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- below section -->
+  <div class="flex flex-col sm:flex-row justify-between items-center mt-16">
+    <a href="/about" class="footer-nav-link">
+      Yugen EXPERIENCE
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/food" class="footer-nav-link">
+      Food
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/omakase" class="footer-nav-link">
+      Omakase
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/beverage" class="footer-nav-link">
+      Beverage
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/music" class="footer-nav-link">
+      Music
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/events" class="footer-nav-link">
+      What’s On At Yugen
+      <div class="underline-animation"></div>
+    </a>
+    <a href="/private-dining" class="footer-nav-link">
+      Private Dining
+      <div class="underline-animation"></div>
+    </a>
+  </div>
 </footer>
 <!-- Javascript -->
 <script src="../js/scrollreveal.js"></script>

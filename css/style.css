@@ -19,6 +19,7 @@ html, body, div, p {
 body {
   background-color: #000000;
   font-family: 'Garnett', sans-serif;
+  animation: load ease-in-out forwards 1s;
 }
 
 /* animate */
@@ -51,6 +52,7 @@ body {
 .w-45per {
   width: 45%;
 }
+
 .-z-1{
   z-index: -1;
 }
@@ -65,7 +67,7 @@ body {
 
 a:hover .underline-animation {
   background-color: #fff;
-  animation: load ease-out forwards 0.5s;
+  animation: loadUnderline ease-out forwards 0.5s;
 }
 
 .no-scrollbar::-webkit-scrollbar {
@@ -75,6 +77,10 @@ a:hover .underline-animation {
 .no-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+.custom-overlay {
+  background-color: rgba(0,0,0,0.6);
 }
 
 
@@ -98,24 +104,30 @@ header .open-navigation-btn img {
 }
 
 body main {
-  height: 100vh;
+  min-height: 100vh;
 }
-
 body nav #navigation {
-  background-color: rgba(0,0,0,.85);
+  background-color: rgba(0,0,0,1);
   box-sizing: border-box;
+  animation: load ease-out forwards 0.5s;
 }
 
 .nav-link {
   font-family: 'Garnett', sans-serif;
-  /* display: block; */
   font-size: 36px;
-  /* font-style: italic; */
   font-weight: 400;
   line-height: 50px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  user-select: none;
+  color: rgba(255,255,255,0.8);
+  transition: color 0.3 ease-in-out;
+}
+
+.nav-link:hover {
+  color: #FFF;
 }
 
 .bck-opacity {
@@ -131,151 +143,246 @@ body nav #navigation {
   background-size: cover;
 }
 
-/*  --------------------------  */
-/*    H  O  M  E  P  A  G  E    */
-/*  --------------------------  */
-
-
-#homepage .cover-image,
-#about .cover-image{
-  background-image: url('/img/Homepage.jpg')
-}
-
-
-/*  -----------  */
-/*    F O O D    */
-/*  -----------  */
-
-#food h2 {
-  letter-spacing: 0.08em;
-}
-
-#food p {
-  font-size: 16px;
-  line-height: 19px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-}
-
-
-/*  ---------------------------  */
-/*      O  M  A  K  A  S  E      */
-/*  ---------------------------  */
-
-#omakase .cover-image{
-  background-image: url('/img/Omakase.jpg')
-}
-
-#omakase .section {
-  /* screen - nav height + margins */
-  height: calc(100vh - 180px);
-}
-
-#omakase .text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 27px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-}
-
-
-/*  --------------------------  */
-/*    B  E  V  E  R  A  G  E    */
-/*  --------------------------  */
-
-
-
-/*  ---------------------  */
-/*      M  U  S  I  C      */
-/*  ---------------------  */
-
-#music .section {
-  max-width: 440px;
-}
-
-
-/*  -----------------------  */
-/*     E  V  E  N  T  S      */
-/*  -----------------------  */
-
-#events .bck-image-right,
-#events .bck-image-left{
-  background-position: center center;
-  background-size: cover;
-}
-
-#events .bck-image-right {
-  background-image: url('/img/Events.jpg');
-}
-#events .bck-image-left {
-  background-image: url('/img/Events2.jpg');
-}
-
-#events .events-title,
-#reservations .title,
-#omakase .title {
-  font-size: 36px;
-  line-height: 61px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-}
-
-#events .events-text,
-#reservations .text  {
+.footer-text {
   font-style: italic;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 0.5);
+  max-width: 420px;
+}
+
+.footer-informations div{
+  font-style: italic;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-nav-link {
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transition: color 0.3s ease-in-out;
+}
+
+.footer-nav-link .underline-animation {
+  background-color: transparent;
+}
+
+.footer-nav-link:hover {
+  color: white
+}
+
+.footer-nav-link:hover .underline-animation {
+  background-color: #808080;
+}
+
+.section-title {
   font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+  color: #FFFFFF;
+}
+
+/*  ------------  */
+/*    HOMEPAGE    */
+/*  ------------  */
+
+
+.enter-site {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  bottom: 15vh;
+  transform: translate(-50%, -50%);
+}
+
+.enter-site a {
+  font-size: 16px;
+  padding: 8px 48px;
+  border-radius: 50px;
+  border: 1px solid white;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  transition: all .3s ease;
+}
+
+.enter-site a:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.book-now {
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  border: 1px solid white;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  transition: all .3s ease;
+  font-weight: 500;
+}
+
+.book-now:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+
+/*  -----------  */
+/*     ABOUT     */
+/*  -----------  */
+
+#about .custom-text p{
+  font-weight: 300;
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
   text-transform: lowercase;
 }
 
-#events .events-title,
-#events .events-text {
-  max-width: 450px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 
-/*  --------------------------------------  */
-/*    R  E  S  E  R  V  A  T  I  O  N  S    */
-/*  --------------------------------------  */
+/*  -----------  */
+/*      FOOD     */
+/*  -----------  */
 
-#reservations .cover-image {
-  background-image: url('/img/Reservations.jpg');
-}
-
-#reservations .section {
-  /* screen - nav height + margins */
-  height: calc(100vh - 200px);
-}
-
-#reservations .text {
-  line-height: 1.45;
-}
-#reservations .text p {
-  padding-top: 24px;
-}
-
-#reservations .book-btn {
-  display: inline-block;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 34px;
+#food .custom-text p {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing: 0.08em;
   text-transform: lowercase;
-  border: 1px solid white;
-  border-radius: 40px;
-  padding: 8px 20px;
-  margin-top: 32px;
-  transition: all 0.3s ease-in-out;
+  color: rgba(255,255,255,0.7);
 }
-#reservations .book-btn:hover {
-  background-color: white;
-  color: black;
+
+#food .custom-link {
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
+
+
+/*  -------------  */
+/*      OMAKASE    */
+/*  -------------  */
+
+#omakase .custom-text p{
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+#omakase .custom-link {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+
+
+/*  -------------  */
+/*     BEVERAGE    */
+/*  -------------  */
+
+#beverage .custom-text p {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  color: rgba(255,255,255,0.7);
+}
+
+#food .custom-link {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+
+/*  -------------  */
+/*      MUSIC      */
+/*  -------------  */
+
+#music .custom-text p{
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-align: left;
+}
+
+
+/*  --------------  */
+/*      EVENTS      */
+/*  --------------  */
+
+#events .page-title{
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.08em;
+}
+
+#events .event-image {
+  border-radius: 125px;
+  overflow: hidden;
+  min-height: 400px;
+  max-height: 470px;
+  width: 697px;
+}
+#events .event-image img {
+  width: 100%;
+}
+
+#events .event-title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+}
+
+#events .event-text p{
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+
+
+/*  ----------------  */
+/*    RESERVATIONS    */
+/*  ----------------  */
+
+#privatedining .custom-text p{
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+}
+
+#privatedining .custom-text p a {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+}
+
 
 
 
@@ -332,6 +439,7 @@ body nav #navigation {
     padding-bottom: 8px;
     padding-right: 20px;
     margin-bottom: 8px;
+    margin-top: 4px;
   }
 
   .image-section {
@@ -393,8 +501,13 @@ body nav #navigation {
 }
 
 
-@keyframes load {
+@keyframes loadUnderline {
   0% { width: 0%; }
   20% { width: 0%; }
   100% { width: 100%; }
+}
+
+@keyframes load {
+  0% { opacity: 0;}
+  100% {opacity: 100%;}
 }

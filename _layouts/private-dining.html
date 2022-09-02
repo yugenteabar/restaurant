@@ -1,0 +1,39 @@
+{% assign current_page = 'privatedining' %}
+{% assign page_title = 'Private Dining' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+<main class="cover-image" style="background-image: url('/img/Private\ Dining.jpeg');">
+  <div class="container mx-auto h-full pt-40 pb-40 flex flex-col items-end justify-center">
+    <div class="w-2/5 pl-8 pr-20">
+      <h2 class="section-title mb-20">Private Dining & Events</h2>
+      <div class="custom-text pr-4">
+        <p class="mt-8">
+          Yugen is open from 6pm to late, Tuesday to Sunday.
+          We are closed on Monday, Tuesday and on public holidays.
+          10% surcharge applies on Sundays
+        </p>
+        <p class="mt-8">
+          Dinner reservations take place across two sittings:
+          1st session: 6pm to 8pm
+          2nd session: from 8.30pm - 10:30pm
+        </p>
+        <p class="mt-16">
+          For group bookings 8 guests or more please get in touch with our reservations team at
+          <a href="mailto:email@yugen.com.au">
+            email@yugen.com.au
+          </a>
+          or by calling 
+          <a href="tel:+0380808080">
+            03 8080 8080
+          </a>
+          between 9pm and 5pm, Tuesday to Saturday
+        </p>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %}
