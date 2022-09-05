@@ -68,7 +68,7 @@ function setScrollAnimation(){
       opacity: 0,
       delay: 150,
       duration: 1100,
-      easing: 'ease-in-out'
+      easing: 'ease-out'
     })
   }
   if (document.querySelector('.reveal-left-delay-1')) {

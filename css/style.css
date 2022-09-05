@@ -83,6 +83,10 @@ a:hover .underline-animation {
   background-color: rgba(0,0,0,0.6);
 }
 
+.animate__delay-1s {
+  --animate-delay: 1s;
+}
+
 
 h2 {
   font-size: 36px;
@@ -123,7 +127,7 @@ body nav #navigation {
   margin-top: 20px;
   user-select: none;
   color: rgba(255,255,255,0.8);
-  transition: color 0.3 ease-in-out;
+  transition: color 0.3s ease-in-out;
 }
 
 .nav-link:hover {
@@ -198,11 +202,11 @@ body nav #navigation {
 
 
 .enter-site {
-  position: fixed;
+  position: absolute;
   width: 100%;
   display: flex;
   justify-content: center;
-  bottom: 15vh;
+  bottom: 100px;
   transform: translate(-50%, -50%);
 }
 
