@@ -6,6 +6,7 @@ addEventListener('load', () => {
   const nav = document.querySelector('#navBg')
   const closeNavBtn = document.querySelector('#closeNavBtn')
   const menuBtn = document.querySelector('#menuBtn')
+  const navLinks = document.querySelectorAll('.nav-link')
 
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
@@ -13,10 +14,11 @@ addEventListener('load', () => {
       menuBtn.classList.add('hidden')
       closeNavBtn.classList.remove('hidden')
       document.body.style.top = `-${window.scrollY}px`
+      document.body.style.right = `0px`
+      document.body.style.left = `0px`
       document.body.style.position = 'fixed'
+      TOGGLE_MENU = true
     }
-
-    TOGGLE_MENU = true
   })
 
   closeNavBtn.addEventListener('click', () => {
@@ -27,17 +29,28 @@ addEventListener('load', () => {
       const scrollY = document.body.style.top
       document.body.style.position = ''
       document.body.style.top = ''
+      document.body.style.right = ``
+      document.body.style.left = ``
       window.scrollTo(0, parseInt(scrollY || '0') * -1)
+      TOGGLE_MENU = false
     }
-    TOGGLE_MENU = false
   })
 
   addEventListener('keydown', (e) => {
     if (!nav.classList.contains('hidden') && (e.key === "Escape" || e.key === "Esc")) {
       nav.classList.add('hidden')
+      menuBtn.classList.remove('hidden')
+      closeNavBtn.classList.add('hidden')
+      const scrollY = document.body.style.top
+      document.body.style.position = ''
+      document.body.style.top = ''
+      document.body.style.right = ``
+      document.body.style.left = ``
+      window.scrollTo(0, parseInt(scrollY || '0') * -1)
       TOGGLE_MENU = !TOGGLE_MENU
     }
   })
+
 
   setScrollAnimation()
 

@@ -19,8 +19,9 @@ html, body, div, p {
 body {
   background-color: #000000;
   font-family: 'Garnett', sans-serif;
-  animation: load ease-in-out forwards 1s;
+  animation: load ease-in-out forwards 2s;
 }
+
 
 /* animate */
 .animate-delay-100 {
