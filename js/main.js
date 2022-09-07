@@ -3,10 +3,6 @@ addEventListener('load', () => {
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
   let TOGGLE_MENU = false
 
-  const nav = document.querySelector('#navBg')
-  const closeNavBtn = document.querySelector('#closeNavBtn')
-  const menuBtn = document.querySelector('#menuBtn')
-  const navLinks = document.querySelectorAll('.nav-link')
 
   function init(){
     // new SmoothScroll(target,speed,smooth)
@@ -76,6 +72,10 @@ addEventListener('load', () => {
     }()
   }
 
+  const nav = document.querySelector('#navBg')
+  const closeNavBtn = document.querySelector('#closeNavBtn')
+  const menuBtn = document.querySelector('#menuBtn')
+
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
       nav.classList.remove('hidden')
@@ -85,6 +85,10 @@ addEventListener('load', () => {
       document.body.style.right = `0px`
       document.body.style.left = `0px`
       document.body.style.position = 'fixed'
+      if(innerWidth < 500) {
+        document.querySelector('#bookNow').classList.add('hidden')
+        document.querySelector('#mobileLogo').classList.remove('hidden')
+      }
       TOGGLE_MENU = true
     }
   })
@@ -99,6 +103,11 @@ addEventListener('load', () => {
       document.body.style.top = ''
       document.body.style.right = ``
       document.body.style.left = ``
+      if(innerWidth < 500) {
+        document.querySelector('#bookNow').classList.remove('hidden')
+        document.querySelector('#mobileLogo').classList.add('hidden')
+      }
+      
       window.scrollTo(0, parseInt(scrollY || '0') * -1)
       TOGGLE_MENU = false
     }
@@ -114,6 +123,10 @@ addEventListener('load', () => {
       document.body.style.top = ''
       document.body.style.right = ``
       document.body.style.left = ``
+      if(innerWidth < 500) {
+        document.querySelector('#bookNow').classList.remove('hidden')
+        document.querySelector('#mobileLogo').classList.add('hidden')
+      }
       window.scrollTo(0, parseInt(scrollY || '0') * -1)
       TOGGLE_MENU = !TOGGLE_MENU
     }
