@@ -484,7 +484,7 @@ body nav #navigation {
 }
 
 @media (max-width: 400px) {
-  body main {
+  body#beverage main {
     min-height: 750px;
   }
 }
