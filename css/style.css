@@ -483,7 +483,7 @@ body nav #navigation {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 768px) {
   /* animations for mobile */
 
   .animate__fadeInRight,
