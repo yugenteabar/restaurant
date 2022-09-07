@@ -483,6 +483,13 @@ body nav #navigation {
   }
 }
 
+@media (max-width: 400px) {
+  body main {
+    min-height: 750px;
+  }
+}
+
+
 @media (max-width: 768px) {
   /* animations for mobile */
 
