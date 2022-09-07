@@ -484,11 +484,17 @@ body nav #navigation {
 }
 
 @media (max-width: 450px) {
+  /* animations for mobile */
+
+  .animate__fadeInRight,
+  .animate__fadeInLeft {
+    animation-name: fadeInUp;
+  }
+
   .container {
     padding-left: 24px;
     padding-right: 24px;
   }
-
 
   .nav-link {
     display: block;
