@@ -23,6 +23,62 @@ body {
 }
 
 
+/* -------------- */
+/* LOADING SCREEN */
+/* -------------- */
+
+#loading-screen {
+  position: fixed;
+  background-color: black;
+  left: 0; top: 0; right: 0; bottom: 0;
+  z-index: 100;
+  transition: transform 8s cubic-bezier(0.25,1.05,1,1);
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+}
+
+#loading-screen .custom-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#loading-screen #teaBar, 
+#loading-screen #dining {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#loading-screen #teaBar {
+  background-image: url('/img/Pouring\ tea\ -\ About\ Page.jpg');
+  background-position: center;
+}
+#loading-screen #dining {
+  background-image: url('/img/Beverage-old.jpg');
+  background-position: center 80%;
+}
+
+#teaBar .custom-center,
+#dining .custom-center {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.5);
+  transition: all 0.3s ease-in-out;
+}
+
+#teaBar:hover .custom-center,
+#dining:hover .custom-center {
+  background-color: rgba(0,0,0,.1);
+}
+
+.z-101 {
+  z-index: 101;
+}
+
+
 /* animate */
 .animate-delay-100 {
   animation-delay: .1s
@@ -206,7 +262,9 @@ body nav #navigation {
   position: absolute;
   width: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   bottom: 100px;
   transform: translate(-50%, -50%);
 }
@@ -218,6 +276,7 @@ body nav #navigation {
   border: 1px solid white;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
+  width: 208px;
   transition: all .3s ease;
 }
 
@@ -226,7 +285,8 @@ body nav #navigation {
   color: #000;
 }
 
-.book-now {
+.book-now,
+.email-btn {
   font-size: 14px;
   padding: 8px 20px;
   border-radius: 50px;
@@ -237,7 +297,8 @@ body nav #navigation {
   font-weight: 500;
 }
 
-.book-now:hover {
+.book-now:hover,
+.email-btn:hover {
   background-color: #fff;
   color: #000;
 }
@@ -288,6 +349,7 @@ body nav #navigation {
   line-height: 20px;
   letter-spacing: 0.08em;
   text-transform: lowercase;
+  color:rgba(255,255,255,0.7)
 }
 
 #omakase .custom-link {
@@ -423,23 +485,16 @@ body nav #navigation {
 
 @media (max-width: 450px) {
   .container {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
-  body nav #navigation {
-    background-color: rgba(0,0,0,1);
-  }
-
-  .bck-opacity-sm {
-    background-color: rgba(0,0,0,.45)
-  }
 
   .nav-link {
     display: block;
     width: 100%;
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 20px;
+    line-height: 28px;
     padding-top: 8px;
     padding-bottom: 8px;
     padding-right: 20px;
@@ -447,62 +502,56 @@ body nav #navigation {
     margin-top: 4px;
   }
 
-  .image-section {
-    height: 530px;
-    max-height: 530px;
+  .enter-site {
+    bottom: 50px;
   }
 
-  #beverage .bck-image {
-    height: 60vh;
-    width: 100%;
+  .cover-image {
+    height: 500px;
+  }
+
+  .footer-informations div{
+    text-align: center;
+    font-size: 14px;
   }
   
-  #music .section .title,
-  #beverage .section .title,
-  #reservations .section .title,
-  #food .section .title,
-  #events .title,
-  #omakase .section .title{
+  .footer-text {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .section-title,
+  #events .page-title,
+  #events .event-title,
+  #events .event-title {
     font-size: 20px;
     line-height: 28px;
   }
 
-  #music .section .text,
-  #music .section .text p,
-  #music .section a,
-  #reservations .section .text,
-  #reservations .section .text p,
-  #reservations .section a,
-  #food .section .text,
-  #food .section a,
-  #beverage .section .text,
-  #beverage .section a,
-  #events .text,
-  #omakase .section .text,
-  #omakase .section a{
+  #food .custom-text p,
+  #omakase .custom-text p,
+  #beverage .custom-text p,
+  #music .custom-text p,
+  #events .event-text p,
+  #privatedining .custom-text p {
     font-size: 12px;
-    line-height: 17px;
+    line-height: 18px;
+  }
+  #food .custom-link,
+  #omakase .custom-link,
+  #beverage .custom-link
+  #music .custom-link,
+  #privatedining .custom-link{
+    font-size: 14px;
   }
 
-  #food img {
-    width: 100%;
-    height: 100%;
+  #events .event-image {
+    min-height: 150px;
+    max-height: 170px;
+    width: 270px;
+    border-radius: 60px;
   }
 
-  #events .bck-image-left,
-  #events .bck-image-right {
-    min-height: 630px;
-    height: auto;
-  }
-
-  #events .bck-image-right {
-    background-position: 66%;
-  }
-
-  #reservations .section {
-    /* screen - nav height + margins */
-    height: calc(100vh - 150px);
-  }
 }
 
 

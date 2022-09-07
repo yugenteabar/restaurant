@@ -1,15 +1,15 @@
 {% assign url = page.url | remove:'index.html' %}
-<header class="fixed top-0 left-0 w-full z-20 pt-4">
-  <div class="container mx-auto py-6 flex flex-row-reverse sm:flex-row justify-between items-center">
+<header class="absolute top-0 left-0 w-full z-20 pt-4">
+  <div class="container mx-auto py-6 flex sm:justify-between items-center">
     <!-- logo -->
-    <div class="header-logo">
+    <div class="hidden sm:block header-logo">
       <a href="/">
         <img src="/img/logo.svg" width="70" alt="logo" class="animate__animated animate__fadeIn">
       </a>
     </div>
-    <div class="flex items-center">
+    <div class="w-full sm:w-auto flex items-center justify-between sm:justify-end">
       <!-- Book now btn -->
-      <div class="hidden sm:block mr-20">
+      <div class="mr-20">
         <a href="https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=8edbade4-ea84-4e05-8fb8-4d552deb61cb"
           target="_blank"
           class="book-now animate__animated animate__fadeIn">
@@ -34,12 +34,12 @@
 <nav id="navBg" class="fixed top-0 right-0 bottom-0 left-0 z-10 hidden">
   <div id="navigation" class="absolute right-0 w-full min-h-screen">
     <div class="container mx-auto h-screen flex justify-end sm:justify-between 
-        items-end sm:items-center sm:items-stretch py-8 sm:py-20">
+        sm:items-center sm:items-stretch py-40 sm:py-20">
       <!-- 3 yugen vectors -->
-      <div class="text-xl w-1/2 hidden sm:flex self-end">
-        <div class="flex flex-col justify-end items-end mr-6">
-          <img src="/img/nav-horizontal-vector.svg" alt="yugen horizontal" class="mb-6 select-none text-red-500">
-          <img src="/img/nav-circle-vector.svg" alt="yugen circle" class="w-40 -mr-6 select-none">
+      <div class="text-xl w-3/4 sm:w-1/2 absolute left-4 bottom-10 sm:static flex self-end">
+        <div class="flex flex-col justify-end items-end mr-4 sm:mr-6">
+          <img src="/img/nav-horizontal-vector.svg" alt="yugen horizontal" class="mb-4 sm:mb-6 select-none text-red-500">
+          <img src="/img/nav-circle-vector.svg" alt="yugen circle" class="w-28 sm:w-40 -mr-6 select-none">
         </div>
         <div class="pb-28">
           <img src="/img/nav-vertical-vector.svg" alt="yugen vertical" class="select-none">
@@ -47,7 +47,7 @@
       </div>
 
       <!-- navigation -->
-      <div class="mb-8 sm:mb-0 sm:mr-16 flex flex-col sm:justify-center text-right">
+      <div class="w-full sm:w-auto mb-8 sm:mb-0 sm:mr-16 flex flex-col sm:justify-center text-right">
         <a href="/about" class="nav-link animate__animated animate__fadeIn">
           Yugen EXPERIENCE
         </a>

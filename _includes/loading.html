@@ -1,0 +1,49 @@
+<section id="loading-screen" class="h-screen w-full">
+  <div class="w-full h-full flex flex-col relative">
+    <!-- logo -->
+    <div class="z-101 custom-center">
+      <div class="w-64">
+        <img src="/img/logo.svg" alt="menu" class="w-full select-none animate__animated animate__fadeIn">
+      </div>
+    </div>
+    <!-- Tea bar section -->
+    <div id="teaBar" class="h-1/2 flex items-center justify-center relative">
+      <a href="https://teabar.vercel.app/?a=hidden">
+        <div class="custom-center flex flex-col items-center justify-center">
+          <div>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.6" stroke="white"
+              class="w-12 h-12">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75L12 3m0 0l3.75 3.75M12 3v18" />
+            </svg>
+          </div>
+          <div class="p-8">
+            TEA BAR
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- Dining section -->
+    <div id="dining" class="h-1/2 flex items-center justify-center cursor-pointer relative">
+      <a href="/?a=hidden">
+        <div class="custom-center flex flex-col items-center justify-center">
+          <div class="p-8">
+            DINING
+          </div>
+          <div>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.6" stroke="white"
+              class="w-12 h-12">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25L12 21m0 0l-3.75-3.75M12 21V3" />
+            </svg>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+<script>
+  // remove animation if clicked on home link in nav
+  (function () {
+    if (window.location.search === '?a=hidden' && document.getElementById('loading-screen'))
+      document.getElementById('loading-screen').remove()
+  })()
+</script>
