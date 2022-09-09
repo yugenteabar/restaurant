@@ -166,6 +166,7 @@ header .open-navigation-btn img {
 
 body main {
   min-height: 100vh;
+  max-height: max-content;
 }
 body nav #navigation {
   background-color: rgba(0,0,0,1);
@@ -198,10 +199,7 @@ body nav #navigation {
 .cover-image{
   background-position: center center;
   background-size: cover;
-}
-.bck-image {
-  background-position: center center;
-  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .footer-text {
@@ -253,10 +251,27 @@ body nav #navigation {
   color: #FFFFFF;
 }
 
+
+
+#about .text p,
+#food .text p,
+#omakase .text p,
+#beverage .text p,
+#music .text p {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  color:rgba(220, 220, 220)
+}
+
 /*  ------------  */
 /*    HOMEPAGE    */
 /*  ------------  */
 
+#homepage  .cover-image {
+  background-image: url('/img/Yugen_HomePage.png');
+}
 
 .enter-site {
   position: absolute;
@@ -308,12 +323,12 @@ body nav #navigation {
 /*     ABOUT     */
 /*  -----------  */
 
-#about .custom-text p{
-  font-weight: 300;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
+#about .cover-image {
+  background-image: url('/img/Yugen_About.png');
+}
+
+#about .text p{
+  margin-top: 1.5rem;
 }
 
 
@@ -322,13 +337,12 @@ body nav #navigation {
 /*      FOOD     */
 /*  -----------  */
 
-#food .custom-text p {
-  font-weight: 300;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-  color: rgba(255,255,255,0.7);
+#food .cover-image {
+  background-image: url('/img/Yugen_Food.png');
+}
+
+#food .text p {
+  margin-top: 1.5rem;
 }
 
 #food .custom-link {
@@ -343,13 +357,9 @@ body nav #navigation {
 /*      OMAKASE    */
 /*  -------------  */
 
-#omakase .custom-text p{
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 20px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-  color:rgba(255,255,255,0.7)
+#omakase .cover-image {
+  background-image: url('/img/Yugen_Omakase.png');
+  background-position: center 30%;
 }
 
 #omakase .custom-link {
@@ -366,16 +376,15 @@ body nav #navigation {
 /*     BEVERAGE    */
 /*  -------------  */
 
-#beverage .custom-text p {
-  font-weight: 300;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-  color: rgba(255,255,255,0.7);
+#beverage .cover-image {
+  background-image: url('/img/Yugen_Beverage.png');
 }
 
-#food .custom-link {
+#beverage .text p {
+  margin-top: 1.5rem;
+}
+
+#beverage .custom-link {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
@@ -387,10 +396,21 @@ body nav #navigation {
 /*      MUSIC      */
 /*  -------------  */
 
-#music .custom-text p{
+#music .cover-image {
+  background-image: url('/img/Yugen_Music.png');
+}
+
+
+#music .text p{
+  margin-top: 1.5rem;
   line-height: 20px;
   letter-spacing: 0.08em;
   text-align: left;
+}
+#music .text h5 {
+  margin-top: 1.5rem;
+  font-size: 14px;
+  letter-spacing: 0.08px;
 }
 
 
@@ -425,30 +445,79 @@ body nav #navigation {
 }
 
 #events .event-text p{
-  font-weight: 500;
+  font-weight: 300;
   font-size: 13px;
   line-height: 20px;
   letter-spacing: 0.08em;
   text-transform: lowercase;
+  color: rgba(255,255,255);
 }
 
 
 
-/*  ----------------  */
-/*    RESERVATIONS    */
-/*  ----------------  */
+/*  ------------------  */
+/*    PRIVATE DINING    */
+/*  ------------------  */
 
-#privatedining .custom-text p{
+#privatedining .cover-image {
+  background-image: url('/img/Yugen_PrivateDining.png');
+}
+
+#privatedining .text p{
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  margin-top: 1.5rem;
+  font-weight: 300;
+  color: rgba(225,225,225);
+}
+
+#privatedining .text p:last-child{
+  margin-top: 4.5rem;
+}
+
+#privatedining .text p a {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
 }
 
-#privatedining .custom-text p a {
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing: 0.08em;
+
+/*  ---------------  */
+/*    COMING PAGE    */
+/*  ---------------  */
+
+#comingsoon .cover-image {
+  background-image: url('/img/Yugen_Temp\ Landing\ Page.png');
 }
+
+#comingsoon img {
+  width: 100%;
+}
+
+#comingsoon p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+}
+
+#comingsoon h5 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#comingsoon input {
+  border: 1px solid white;
+  display: block;
+  background-color: transparent;
+  padding: 6px;
+  outline: none;
+}
+
 
 
 
@@ -483,12 +552,34 @@ body nav #navigation {
   }
 }
 
-@media (max-width: 400px) {
-  body#beverage main {
-    min-height: 750px;
+
+@media (max-width: 450px) {
+  #homepage  .cover-image {
+    background-image: url('/img/Yugen_HomePage_mobile.png');
+  }
+
+  #about .cover-image {
+    background-image: url('/img/Yugen_About_mobile.png');
+  }
+
+  #food .cover-image {
+    background-image: url('/img/Yugen_Food_mobile.png');
+  }
+  #omakase .cover-image {
+    background-image: url('/img/Yugen_Omakase_mobile.png');
+    background-position: center center;
+  }
+  #beverage .cover-image {
+    background-image: url('/img/Yugen_Beverage_mobile.png');
+    background-position: center center;
+  }
+  #music .cover-image {
+    background-image: url('/img/Yugen_Music_mobile.png');
+  }
+  #privatedining .cover-image {
+    background-image: url('/img/Yugen_PrivateDining_mobile.png');
   }
 }
-
 
 @media (max-width: 768px) {
   /* animations for mobile */
@@ -515,13 +606,13 @@ body nav #navigation {
     margin-top: 4px;
   }
 
-  .enter-site {
+.enter-site {
     bottom: 50px;
   }
 
-  .cover-image {
+  /* .cover-image {
     height: 500px;
-  }
+  } */
 
   .footer-informations div{
     text-align: center;
@@ -541,12 +632,13 @@ body nav #navigation {
     line-height: 28px;
   }
 
-  #food .custom-text p,
-  #omakase .custom-text p,
+  #food .text p,
+  #omakase .text p,
   #beverage .custom-text p,
-  #music .custom-text p,
+  #music .text p,
   #events .event-text p,
-  #privatedining .custom-text p {
+  #privatedining .text p,
+  #privatedining .text p a{
     font-size: 12px;
     line-height: 18px;
   }
@@ -565,6 +657,13 @@ body nav #navigation {
     border-radius: 60px;
   }
 
+  #privatedining .text p {
+    margin-top: 1rem;
+  }
+
+  #privatedining .text p:last-child {
+    margin-top: 3rem;
+  }
 }
 
 

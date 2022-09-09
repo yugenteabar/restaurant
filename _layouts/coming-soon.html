@@ -1,0 +1,46 @@
+{% assign current_page = 'comingsoon' %}
+{% assign page_title = 'Coming Soon' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+
+<main class="cover-image flex items-center justify-center">
+  <div class="">
+    <div class="mb-24">
+      <div class="mb-6 w-64 mx-auto">
+        <img src="/img/logo.svg" alt="yugen logo">
+      </div>
+      <p>
+        DINING
+      </p>
+      <p>
+        LAUNCHING SOON
+      </p>
+    </div>
+    <div class="text-center mb-20">
+      <h5 class="mb-4">BOOK your table </h5>
+      <div>
+        <a href="https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=8edbade4-ea84-4e05-8fb8-4d552deb61cb"
+          target="_blank" class="book-now animate__animated animate__fadeIn">
+          Book now
+        </a>
+      </div>
+    </div>
+
+    <div>
+      <h5 class="mb-4">Enter your email to be the first to know</h5>
+      <div>
+        <input type="text" class="mx-auto w-80">
+      </div>
+      <div class="mt-10 text-center">
+        <a href="#"
+          target="_blank" 
+          class="book-now animate__animated animate__fadeIn">
+          Notify me
+        </a>
+      </div>
+    </div>
+
+  </div>
+</main>

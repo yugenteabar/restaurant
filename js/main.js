@@ -76,6 +76,10 @@ addEventListener('load', () => {
   const closeNavBtn = document.querySelector('#closeNavBtn')
   const menuBtn = document.querySelector('#menuBtn')
 
+  const horizontalYugen = document.querySelector('#horizontalYugen')
+  const circleYugen = document.querySelector('#circleYugen')
+  const verticalYugen = document.querySelector('#verticalYugen')
+
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
       nav.classList.remove('hidden')
@@ -129,6 +133,18 @@ addEventListener('load', () => {
       }
       window.scrollTo(0, parseInt(scrollY || '0') * -1)
       TOGGLE_MENU = !TOGGLE_MENU
+    }
+  })
+
+  addEventListener('mousemove', (e) => {
+    if(TOGGLE_MENU){
+      console.log(e)
+      if(e.target == verticalYugen) {
+
+      }
+      else {
+      }
+
     }
   })
 
