@@ -164,6 +164,19 @@ header .open-navigation-btn img {
   width: 100%;
 }
 
+.closeNavBtn {
+  margin: 0 auto;
+}
+
+.customFadeIn {
+  animation: customFadeIn ease-in-out forwards 1s;
+}
+
+.customFadeInCloseBtn {
+  animation: customFadeInCloseBtn ease-in-out forwards 1s;
+
+}
+
 body main {
   min-height: 100vh;
   max-height: max-content;
@@ -249,6 +262,19 @@ body nav #navigation {
   line-height: 33px;
   letter-spacing: 0.08em;
   color: #FFFFFF;
+}
+
+#yugenWaterMark {
+  will-change: transform;
+}
+
+#verticalYugen svg path,
+#horizontalYugen svg path,
+#circleYugen svg path{
+  transition: all 0.3s ease-in-out;
+}
+#yugenWaterMark:hover svg path{
+  stroke:rgba(255,255,255,0.4)
 }
 
 
@@ -576,8 +602,22 @@ body nav #navigation {
   #music .cover-image {
     background-image: url('/img/Yugen_Music_mobile.png');
   }
+
+  #music .text p{
+    margin-top: 1.2rem;
+  }
   #privatedining .cover-image {
     background-image: url('/img/Yugen_PrivateDining_mobile.png');
+  }
+
+  #circleYugen {
+    margin-top: -60px;
+  }
+
+  #verticalYugen svg,
+  #horizontalYugen svg,
+  #circleYugen svg {
+    width: 100%;
   }
 }
 
@@ -676,4 +716,25 @@ body nav #navigation {
 @keyframes load {
   0% { opacity: 0;}
   100% {opacity: 100%;}
+}
+
+@keyframes customFadeInCloseBtn {
+  0% {
+    opacity: 0;
+    width: 10px;
+  }
+  100% {
+    opacity: 1;
+    width: 100%;
+  }
+}
+@keyframes customFadeIn{
+  0% {
+    opacity: 0;
+    width: 30px;
+  }
+  100% {
+    opacity: 1;
+    width: 100%;
+  }
 }
