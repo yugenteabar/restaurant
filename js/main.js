@@ -80,6 +80,7 @@ addEventListener('load', () => {
   const closeNavBtn = document.querySelector('#closeNavBtn')
   const menuBtn = document.querySelector('#menuBtn')
   const yugenCircles = document.querySelector('#yugenWaterMark')
+  const navList = document.querySelector('#navList')
 
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
@@ -140,7 +141,7 @@ addEventListener('load', () => {
   let positions = []
 
   addEventListener("mousemove", e => {
-    if (TOGGLE_MENU && innerWidth > 768) {
+    if (TOGGLE_MENU && innerWidth > 1024) {
       const x = -(e.pageX + yugenCircles.offsetLeft) / 50;
       const y = -(e.pageY + yugenCircles.offsetTop) / 50;
       positions.push({
@@ -172,6 +173,13 @@ addEventListener('load', () => {
   // window.onbeforeunload = () => {
   //   window.scrollTo(0, 0);
   // }
+
+  navList.style.height = (window.innerHeight - 130) + 'px'
+  navList.style.overflow = 'scroll'
+  window.onresize = () => {
+    navList.style.height = (window.innerHeight - 130) + 'px'
+    navList.style.overflow = 'scroll'
+  }
 
   window.onscroll = function () {
     const top = window.scrollY

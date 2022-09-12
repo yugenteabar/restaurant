@@ -749,11 +749,6 @@ body nav #navigation {
     font-size: 13px;
   }
   
-  .footer-informations div{
-    text-align: center;
-    font-size: 14px;
-  }
-  
   .footer-text {
     text-align: center;
     font-size: 12px;
@@ -820,6 +815,20 @@ body nav #navigation {
 
   #verticalYugen {
     width: 105px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .footer-informations div{
+    text-align: center;
+    font-size: 16px;
+  }
+  .footer-text {
+    text-align: center;
+    font-size: 14px;
+  }
+  #contact .contact-map {
+    max-width: 100%;
   }
 }
 
