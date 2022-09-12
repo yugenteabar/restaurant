@@ -74,6 +74,14 @@ body {
   background-color: rgba(0,0,0,.1);
 }
 
+#teaBar:hover .arrowUp{
+  animation: arrowUp ease-in-out infinite 1s;
+}
+
+#dining:hover .arrowDown {
+  animation: arrowDown ease-in-out infinite 1s;
+}
+
 .z-101 {
   z-index: 101;
 }
@@ -728,7 +736,7 @@ body nav #navigation {
     line-height: 22px;
   } 
 
-  
+
   #contact .subscribe-title {
     font-size: 16px;
     line-height: 22px;
@@ -907,5 +915,28 @@ body nav #navigation {
   }
   100% {
     transform: rotate(0);
+  }
+}
+
+@keyframes arrowUp {
+  0% {
+    transform: translate(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translate(0px);
+  }
+}
+@keyframes arrowDown {
+  0% {
+    transform: translate(0px);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translate(0px);
   }
 }

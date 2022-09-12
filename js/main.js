@@ -191,4 +191,37 @@ addEventListener('load', () => {
       header.classList.remove('scrolled')
     }
   }
+
+
+
+
+
+
+
+  // loading page
+
+  const landingTeaBar = document.getElementById('teaBar')
+  const landingDining = document.getElementById('dining')
+  if(landingTeaBar && landingDining){
+    landingTeaBar.addEventListener('wheel', (e) => {
+      if(e.wheelDelta < 0) {
+        window.location.assign("/?a=hidden")
+      }
+    })
+    landingTeaBar.addEventListener('touchmove', (e) => {
+      if(e.wheelDelta < 0) {
+        window.location.assign("/?a=hidden")
+      }
+    })
+    landingDining.addEventListener('wheel', (e) => {
+      if(e.wheelDelta >= 0) {
+        window.location.assign("https://restaurant-lime-xi.vercel.app/?a=hidden")
+      }
+    })
+    landingDining.addEventListener('touchmove', (e) => {
+      if(e.wheelDelta >= 0) {
+        window.location.assign("https://restaurant-lime-xi.vercel.app/?a=hidden")
+      }
+    })
+  }
 })
