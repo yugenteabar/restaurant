@@ -707,6 +707,40 @@ body nav #navigation {
     margin-top: -60px;
   }
 
+  #contact .page-title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  
+  #contact .contact-label,
+  #contact .careers-title {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  #contact .careers-text {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  #contact .contact-value a {
+    font-size: 16px;
+    line-height: 22px;
+  } 
+
+  
+  #contact .subscribe-title {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  #contact .subscribe-text {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  #contact .subscribe-btn {
+    font-size: 14px;
+  }
 }
 
 @media (min-width: 450px) and (max-width: 768px)  {
