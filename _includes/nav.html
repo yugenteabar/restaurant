@@ -1,5 +1,5 @@
 {% assign url = page.url | remove:'index.html' %}
-<header class="absolute md:fixed top-0 left-0 w-full z-20 pt-4">
+<header class="fixed top-0 left-0 w-full z-20">
   <div class="container mx-auto py-6 flex sm:justify-between items-center">
     <!-- logo -->
     <div class="hidden sm:block header-logo">
@@ -18,7 +18,7 @@
 
       <!-- Book now btn -->
       <div id="bookNow" class="mr-20">
-        <a href="https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=8edbade4-ea84-4e05-8fb8-4d552deb61cb"
+        <a href="https://www.opentable.com.au/restref/client/?restref=170390&ref=10813&lang=en-AU&corrid=e61e8238-9392-4979-8db9-ef3e77d48a5b"
           target="_blank" class="book-now animate__animated animate__fadeIn">
           Book now
         </a>
@@ -28,7 +28,7 @@
       <div class="open-navigation-btn cursor-pointer w-20 flex items-center justify-center">
         <span id="closeNavBtn" class="hidden">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-            stroke="currentColor" class="w-12 h-12 mx-auto customFadeInCloseBtn">
+            stroke="currentColor" class="w-10 md:w-12 h-10 md:h-12 mx-auto customFadeInCloseBtn customShake">
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m-15 0l15 15" />
           </svg>
         </span>
@@ -42,7 +42,7 @@
 <nav id="navBg" class="fixed top-0 right-0 bottom-0 left-0 z-10 hidden">
   <div id="navigation" class="absolute right-0 w-full min-h-screen">
     <div class="container mx-auto h-screen flex justify-end sm:justify-between 
-        sm:items-center sm:items-stretch py-40 sm:py-20">
+        sm:items-center sm:items-stretch pt-28 pb-20 sm:py-20">
       <!-- 3 yugen vectors -->
       <div id="yugenWaterMark" class="text-xl w-3/4 sm:w-1/2 absolute left-4 bottom-10 sm:static flex self-end">
         <div class="flex flex-col justify-end items-end mr-4 sm:mr-6">
@@ -69,7 +69,7 @@
       </div>
 
       <!-- navigation -->
-      <div class="w-full sm:w-auto mb-8 sm:mb-0 sm:mr-16 flex flex-col sm:justify-center text-right">
+      <div class="w-full sm:w-auto mb-8 sm:mb-0 sm:mr-6 flex flex-col sm:justify-center text-right">
         <a href="/about" class="nav-link animate__animated animate__fadeIn">
           Yugen EXPERIENCE
         </a>
@@ -90,6 +90,9 @@
         </a>
         <a href="/private-dining" class="nav-link animate__animated animate__fadeIn">
           Private Dining
+        </a>
+        <a href="/contact" class="nav-link animate__animated animate__fadeIn">
+          Contact us
         </a>
         <a target="_blank" href="https://teabar.vercel.app/?a=hidden"
           class="nav-link animate__animated animate__fadeIn">

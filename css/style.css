@@ -152,6 +152,12 @@ h2 {
 
 header {
   background-color: transparent;
+  transition: all .5s ease-in-out;
+}
+
+header.scrolled {
+	background: black;
+  transition: all 0.5s ease;
 }
 
 header .open-navigation-btn,
@@ -164,8 +170,9 @@ header .open-navigation-btn img {
   width: 100%;
 }
 
-.closeNavBtn {
-  margin: 0 auto;
+
+#closeNavBtn:hover {
+  animation: customShake ease-in-out forwards 0.5s;
 }
 
 .customFadeIn {
@@ -173,8 +180,7 @@ header .open-navigation-btn img {
 }
 
 .customFadeInCloseBtn {
-  animation: customFadeInCloseBtn ease-in-out forwards 1s;
-
+  animation: customFadeInCloseBtn ease-in-out forwards 1.5s;
 }
 
 body main {
@@ -189,13 +195,13 @@ body nav #navigation {
 
 .nav-link {
   font-family: 'Garnett', sans-serif;
-  font-size: 36px;
+  font-size: 24px;
   font-weight: 400;
-  line-height: 50px;
+  line-height: 36px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: 14px;
+  margin-top: 14px;
   user-select: none;
   color: rgba(255,255,255,0.8);
   transition: color 0.3s ease-in-out;
@@ -258,8 +264,8 @@ body nav #navigation {
 
 .section-title {
   font-weight: 500;
-  font-size: 24px;
-  line-height: 33px;
+  font-size: 20px;
+  line-height: 28px;
   letter-spacing: 0.08em;
   color: #FFFFFF;
 }
@@ -278,15 +284,14 @@ body nav #navigation {
 }
 
 
-
 #about .text p,
 #food .text p,
 #omakase .text p,
 #beverage .text p,
 #music .text p {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 18px;
   letter-spacing: 0.08em;
   color:rgba(220, 220, 220)
 }
@@ -372,6 +377,7 @@ body nav #navigation {
 }
 
 #food .custom-link {
+  font-weight: 500;
   font-size: 16px;
   line-height: 19px;
   letter-spacing: 0.08em;
@@ -403,16 +409,16 @@ body nav #navigation {
 /*  -------------  */
 
 #beverage .cover-image {
-  background-image: url('/img/Yugen_Beverage.png');
+  background-image: url('/img/Yugen_Beverage.jpg');
 }
 
 #beverage .text p {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 #beverage .custom-link {
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 16px;
+  line-height: 22px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -428,7 +434,7 @@ body nav #navigation {
 
 
 #music .text p{
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   line-height: 20px;
   letter-spacing: 0.08em;
   text-align: left;
@@ -493,19 +499,106 @@ body nav #navigation {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   font-weight: 300;
   color: rgba(225,225,225);
 }
 
 #privatedining .text p:last-child{
-  margin-top: 4.5rem;
+  margin-top: 3rem;
 }
 
 #privatedining .text p a {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
+}
+
+
+/* ----------- */
+/*   CONTACT   */
+/* ----------- */
+
+#contact .page-title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+  text-transform: capitalize;
+}
+
+#contact .contact-label,
+#contact .careers-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#contact .careers-text {
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+}
+
+#contact .contact-value a {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.8);
+  transition: color 0.3s ease-in-out;
+} 
+
+#contact .contact-value:hover a {
+  color:rgba(255,255,255,1)
+}
+
+#contact .contact-value a .underline-animation {
+  background-color: transparent;
+}
+#contact .contact-value:hover a .underline-animation {
+  background-color: white;
+}
+
+#contact .subscribe-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#contact .subscribe-text {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.8);
+}
+
+#contact .subscribe-btn {
+  font-size: 16px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  border: 1px solid white;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  transition: all .3s ease;
+  font-weight: 500;
+}
+
+#contact .subscribe-btn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+#contact .contact-map {
+  overflow: hidden;
+  border-radius: 24px;
+  max-width: 600px;
+  height: 450px;
 }
 
 
@@ -614,10 +707,11 @@ body nav #navigation {
     margin-top: -60px;
   }
 
-  #verticalYugen svg,
-  #horizontalYugen svg,
-  #circleYugen svg {
-    width: 100%;
+}
+
+@media (min-width: 450px) and (max-width: 768px)  {
+  #horizontalYugen {
+    margin-bottom: -40px;
   }
 }
 
@@ -639,21 +733,22 @@ body nav #navigation {
     width: 100%;
     font-size: 20px;
     line-height: 28px;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-right: 20px;
-    margin-bottom: 8px;
-    margin-top: 4px;
+    margin-bottom: 2px;
+    margin-top: 2px;
   }
 
-.enter-site {
-    bottom: 50px;
+  .enter-site {
+    bottom: 80px;
   }
 
-  /* .cover-image {
-    height: 500px;
-  } */
-
+  .book-now,
+  .email-btn {
+    font-size: 13px;
+  }
+  
   .footer-informations div{
     text-align: center;
     font-size: 14px;
@@ -662,6 +757,10 @@ body nav #navigation {
   .footer-text {
     text-align: center;
     font-size: 12px;
+  }
+
+  .footer-logo {
+    width: 135px;
   }
 
   .section-title,
@@ -704,6 +803,24 @@ body nav #navigation {
   #privatedining .text p:last-child {
     margin-top: 3rem;
   }
+
+  #verticalYugen svg,
+  #horizontalYugen svg,
+  #circleYugen svg {
+    width: 100%;
+  }
+
+  #horizontalYugen {
+    width: 185px;
+  }
+
+  #circleYugen {
+    width: 112px;
+  }
+
+  #verticalYugen {
+    width: 105px;
+  }
 }
 
 
@@ -721,20 +838,31 @@ body nav #navigation {
 @keyframes customFadeInCloseBtn {
   0% {
     opacity: 0;
-    width: 10px;
   }
   100% {
     opacity: 1;
-    width: 100%;
   }
 }
 @keyframes customFadeIn{
   0% {
     opacity: 0;
-    width: 30px;
   }
   100% {
     opacity: 1;
-    width: 100%;
+  }
+}
+
+@keyframes customShake {
+  0% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(10deg);
+  }
+  75% {
+    transform: rotate(-10deg);
+  }
+  100% {
+    transform: rotate(0);
   }
 }

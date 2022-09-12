@@ -4,27 +4,31 @@ addEventListener('load', () => {
   let TOGGLE_MENU = false
 
 
-  function init(){
+  function init() {
     // new SmoothScroll(target,speed,smooth)
-    new SmoothScroll(document,50,16)
+    new SmoothScroll(document, 50, 16)
   }
 
   function SmoothScroll(target, speed, smooth) {
     if (target === document)
-      target = (document.scrollingElement
-                || document.documentElement
-                || document.body.parentNode
-                || document.body)
+      target = (document.scrollingElement ||
+        document.documentElement ||
+        document.body.parentNode ||
+        document.body)
 
     let moving = false
     let pos = target.scrollTop
-    let frame = target === document.body
-                && document.documentElement
-                ? document.documentElement
-                : target
+    let frame = target === document.body &&
+      document.documentElement ?
+      document.documentElement :
+      target
 
-    target.addEventListener('mousewheel', scrolled, { passive: false })
-    target.addEventListener('DOMMouseScroll', scrolled, { passive: false })
+    target.addEventListener('mousewheel', scrolled, {
+      passive: false
+    })
+    target.addEventListener('DOMMouseScroll', scrolled, {
+      passive: false
+    })
 
     function scrolled(e) {
       e.preventDefault();
@@ -36,14 +40,14 @@ addEventListener('load', () => {
       if (!moving) update()
     }
 
-    function normalizeWheelDelta(e){
-      if(e.detail){
-        if(e.wheelDelta)
-          return e.wheelDelta/e.detail/40 * (e.detail>0 ? 1 : -1) // Opera
+    function normalizeWheelDelta(e) {
+      if (e.detail) {
+        if (e.wheelDelta)
+          return e.wheelDelta / e.detail / 40 * (e.detail > 0 ? 1 : -1) // Opera
         else
-          return -e.detail/3 // Firefox
-      }else
-        return e.wheelDelta/120 // IE,Safari,Chrome
+          return -e.detail / 3 // Firefox
+      } else
+        return e.wheelDelta / 120 // IE,Safari,Chrome
     }
 
     function update() {
@@ -58,14 +62,14 @@ addEventListener('load', () => {
         moving = false
     }
 
-    let requestFrame = function() { // requestAnimationFrame cross browser
+    let requestFrame = function () { // requestAnimationFrame cross browser
       return (
         window.requestAnimationFrame ||
         window.webkitRequestAnimationFrame ||
         window.mozRequestAnimationFrame ||
         window.oRequestAnimationFrame ||
         window.msRequestAnimationFrame ||
-        function(func) {
+        function (func) {
           window.setTimeout(func, 1000 / 50);
         }
       );
@@ -76,9 +80,6 @@ addEventListener('load', () => {
   const closeNavBtn = document.querySelector('#closeNavBtn')
   const menuBtn = document.querySelector('#menuBtn')
   const yugenCircles = document.querySelector('#yugenWaterMark')
-  // const horizontalYugen = document.querySelector('#horizontalYugen')
-  // const circleYugen = document.querySelector('#circleYugen')
-  // const verticalYugen = document.querySelector('#verticalYugen')
 
   menuBtn.addEventListener('click', () => {
     if (!TOGGLE_MENU) {
@@ -89,7 +90,7 @@ addEventListener('load', () => {
       document.body.style.right = `0px`
       document.body.style.left = `0px`
       document.body.style.position = 'fixed'
-      if(innerWidth < 500) {
+      if (innerWidth < 500) {
         document.querySelector('#bookNow').classList.add('hidden')
         document.querySelector('#mobileLogo').classList.remove('hidden')
       }
@@ -107,11 +108,11 @@ addEventListener('load', () => {
       document.body.style.top = ''
       document.body.style.right = ``
       document.body.style.left = ``
-      if(innerWidth < 500) {
+      if (innerWidth < 500) {
         document.querySelector('#bookNow').classList.remove('hidden')
         document.querySelector('#mobileLogo').classList.add('hidden')
       }
-      
+
       window.scrollTo(0, parseInt(scrollY || '0') * -1)
       TOGGLE_MENU = false
     }
@@ -127,7 +128,7 @@ addEventListener('load', () => {
       document.body.style.top = ''
       document.body.style.right = ``
       document.body.style.left = ``
-      if(innerWidth < 500) {
+      if (innerWidth < 500) {
         document.querySelector('#bookNow').classList.remove('hidden')
         document.querySelector('#mobileLogo').classList.add('hidden')
       }
@@ -136,33 +137,31 @@ addEventListener('load', () => {
     }
   })
 
-  // addEventListener('mousemove', (e) => {
-  //   if(TOGGLE_MENU){
-  //     console.log(e)
-  //     if(e.target == verticalYugen) {
-
-  //     }
-  //     else {
-  //     }
-
-  //   }
-  // })
-
   let positions = []
 
   addEventListener("mousemove", e => {
-    if(TOGGLE_MENU){
+    if (TOGGLE_MENU && innerWidth > 768) {
       const x = -(e.pageX + yugenCircles.offsetLeft) / 50;
       const y = -(e.pageY + yugenCircles.offsetTop) / 50;
-      positions.push({ x, y });
+      positions.push({
+        x,
+        y
+      });
       const averageCount = 10;
       if (positions.length > averageCount)
         positions.splice(0, 1);
-        
-      const current = positions.reduce((acc, e) => { acc.x += e.x; acc.y += e.y; return acc }, { x: 0, y: 0 });
+
+      const current = positions.reduce((acc, e) => {
+        acc.x += e.x;
+        acc.y += e.y;
+        return acc
+      }, {
+        x: 0,
+        y: 0
+      });
       current.x /= positions.length;
       current.y /= positions.length;
-      
+
       yugenCircles.style.transform = `translateX(${current.x}px) translateY(${current.y}px)`;
     }
   })
@@ -173,4 +172,15 @@ addEventListener('load', () => {
   // window.onbeforeunload = () => {
   //   window.scrollTo(0, 0);
   // }
+
+  window.onscroll = function () {
+    const top = window.scrollY
+    const header = document.getElementsByTagName('header')[0]
+    const offset = header.clientHeight
+    if (top > offset - 40) {
+      header.classList.add('scrolled')
+    } else {
+      header.classList.remove('scrolled')
+    }
+  }
 })
