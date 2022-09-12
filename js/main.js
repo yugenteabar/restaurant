@@ -202,25 +202,38 @@ addEventListener('load', () => {
 
   const landingTeaBar = document.getElementById('teaBar')
   const landingDining = document.getElementById('dining')
-  if(landingTeaBar && landingDining){
+  const loadingScreen = document.getElementById('loading-screen')
+  if (landingTeaBar && landingDining) {
+    let mobCurrPos = 0
+    let mobPrevPos = mobCurrPos
+    const sensitivityError = 5
+
+    // desktop teabar event
     landingTeaBar.addEventListener('wheel', (e) => {
-      if(e.wheelDelta < 0) {
-        window.location.assign("/?a=hidden")
+      if (e.wheelDelta < 0) {
+        window.location.assign("https://teabar.vercel.app/?a=hidden")
       }
     })
-    landingTeaBar.addEventListener('touchmove', (e) => {
-      if(e.wheelDelta < 0) {
-        window.location.assign("/?a=hidden")
-      }
-    })
+
+    // desktop restaurant event
     landingDining.addEventListener('wheel', (e) => {
-      if(e.wheelDelta >= 0) {
+      if (e.wheelDelta >= 0) {
         window.location.assign("https://restaurant-lime-xi.vercel.app/?a=hidden")
       }
     })
-    landingDining.addEventListener('touchmove', (e) => {
-      if(e.wheelDelta >= 0) {
-        window.location.assign("https://restaurant-lime-xi.vercel.app/?a=hidden")
+
+    // mobile restaurant event
+    loadingScreen.addEventListener('touchmove', (e) => {
+      mobCurrPos = e.changedTouches[0].pageY
+
+      if (Math.abs(mobCurrPos - mobPrevPos) > sensitivityError) {
+        if (mobCurrPos < mobPrevPos) {
+          window.location.assign("https://teabar.vercel.app/?a=hidden")
+        }
+        else {
+          window.location.assign("https://restaurant-lime-xi.vercel.app/?a=hidden")
+        }
+        mobPrevPos = mobCurrPos
       }
     })
   }
