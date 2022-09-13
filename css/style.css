@@ -858,6 +858,14 @@ body nav #navigation {
   #verticalYugen {
     width: 105px;
   }
+
+  #teaBar .arrowUp{
+    animation: arrowUp ease-in-out infinite 1s;
+  }
+  
+  #dining .arrowDown {
+    animation: arrowDown ease-in-out infinite 1s;
+  }
 }
 
 @media (max-width: 1024px) {
