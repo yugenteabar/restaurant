@@ -29,9 +29,12 @@ body {
 
 #loading-screen {
   position: fixed;
-  background-color: black;
   left: 0; top: 0; right: 0; bottom: 0;
   z-index: 100;
+  background: url('/img/Landing\ page.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   transition: transform 8s cubic-bezier(0.25,1.05,1,1);
   color: white;
   font-size: 18px;
@@ -46,7 +49,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-#loading-screen #teaBar, 
+/* #loading-screen #teaBar, 
 #loading-screen #dining {
   background-size: cover;
   background-repeat: no-repeat;
@@ -59,7 +62,7 @@ body {
 #loading-screen #dining {
   background-image: url('/img/Beverage-old.jpg');
   background-position: center 80%;
-}
+} */
 
 #teaBar .custom-center,
 #dining .custom-center {
