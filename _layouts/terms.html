@@ -1,0 +1,19 @@
+{% assign current_page = 'contact' %}
+{% assign page_title = 'Contact' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<main class="container mx-auto py-40">
+  <div class="text-center">
+    <h1 class="page-title sm:mb-10">Terms and Conditions </h1>
+  </div>
+  <div class="page-text">
+    {{ page.content | markdownify }}
+  </div>
+
+</main>
+
+{% include footer.html %}
