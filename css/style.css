@@ -304,7 +304,8 @@ body nav #navigation {
   font-weight: 300;
   line-height: 18px;
   letter-spacing: 0.08em;
-  color:rgba(220, 220, 220)
+  /* color:rgba(220, 220, 220) */
+  color: #FFFFFF;
 }
 
 /*  ------------  */
@@ -365,12 +366,19 @@ body nav #navigation {
 /*     ABOUT     */
 /*  -----------  */
 
+
 #about .cover-image {
-  background-image: url('/img/Yugen_About.png');
+  background-image: url('/img/Yugen_About_Page.png');
+}
+
+#about .text h5 {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
 }
 
 #about .text p{
-  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -380,17 +388,17 @@ body nav #navigation {
 /*  -----------  */
 
 #food .cover-image {
-  background-image: url('/img/Yugen_Food.png');
+  background-image: url('/img/Yugen_Food_Page.png');
 }
 
 #food .text p {
-  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 #food .custom-link {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
+  font-size: 14px;
+  line-height: 16px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -420,7 +428,7 @@ body nav #navigation {
 /*  -------------  */
 
 #beverage .cover-image {
-  background-image: url('/img/Yugen_Beverage.jpg');
+  background-image: url('/img/Yugen_Beverage_Page.png');
 }
 
 #beverage .text p {
@@ -432,6 +440,7 @@ body nav #navigation {
   line-height: 22px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 
@@ -445,13 +454,13 @@ body nav #navigation {
 
 
 #music .text p{
-  margin-top: 1rem;
+  margin-bottom: 1rem;
   line-height: 20px;
   letter-spacing: 0.08em;
   text-align: left;
 }
 #music .text h5 {
-  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   font-size: 14px;
   letter-spacing: 0.08px;
 }
@@ -492,7 +501,7 @@ body nav #navigation {
   font-size: 13px;
   line-height: 20px;
   letter-spacing: 0.08em;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
   color: rgba(255,255,255);
 }
 
@@ -503,7 +512,7 @@ body nav #navigation {
 /*  ------------------  */
 
 #privatedining .cover-image {
-  background-image: url('/img/Yugen_PrivateDining.png');
+  background-image: url('/img/Yugen_Private_Dining_Page.png');
 }
 
 #privatedining .text p{
@@ -736,19 +745,27 @@ body nav #navigation {
   }
 
   #about .cover-image {
-    background-image: url('/img/Yugen_About_mobile.png');
+    background-image: url('/img/Yugen_About_Page_mobile.png');
   }
 
   #food .cover-image {
-    background-image: url('/img/Yugen_Food_mobile.png');
+    background-image: url('/img/Yugen_Food_Page_mobile.png');
   }
+
+  #food .text p {
+    margin-bottom: 1.2rem;
+  }
+
   #omakase .cover-image {
     background-image: url('/img/Yugen_Omakase_mobile.png');
     background-position: center center;
   }
   #beverage .cover-image {
-    background-image: url('/img/Yugen_Beverage_mobile.png');
+    background-image: url('/img/Yugen_Beverage_Page_mobile.png');
     background-position: center center;
+  }
+  #beverage .custom-link {
+    font-size: 14px;
   }
   #music .cover-image {
     background-image: url('/img/Yugen_Music_mobile.png');
@@ -758,7 +775,7 @@ body nav #navigation {
     margin-top: 1.2rem;
   }
   #privatedining .cover-image {
-    background-image: url('/img/Yugen_PrivateDining_mobile.png');
+    background-image: url('/img/Yugen_Private_Dining_Page_mobile.png');
   }
 
   #circleYugen {
@@ -772,29 +789,29 @@ body nav #navigation {
   
   #contact .contact-label,
   #contact .careers-title {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 12px;
+    line-height: 18px;
   }
   
   #contact .careers-text {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 12px;
+    line-height: 18px;
   }
   
   #contact .contact-value a {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 12px;
+    line-height: 18px;
   } 
 
 
   #contact .subscribe-title {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 12px;
+    line-height: 18px;
   }
   
   #contact .subscribe-text {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 12px;
+    line-height: 18px;
   }
   #contact .subscribe-btn {
     font-size: 14px;
@@ -816,8 +833,8 @@ body nav #navigation {
   }
 
   .container {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 28px;
+    padding-right: 28px;
   }
 
   .nav-link {
@@ -877,9 +894,9 @@ body nav #navigation {
   }
 
   #events .event-image {
-    min-height: 150px;
-    max-height: 170px;
-    width: 270px;
+    min-height: 170px;
+    max-height: 200px;
+    width: 320px;
     border-radius: 60px;
   }
 
