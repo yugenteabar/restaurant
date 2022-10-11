@@ -907,11 +907,11 @@ body nav #navigation {
   }
 
   #privatedining .text p {
-    margin-top: 1rem;
+    /* margin-bottom: 0.4rem; */
   }
 
   #privatedining .text p:last-child {
-    margin-top: 3rem;
+    margin-top: 1.5rem;
   }
 
   #verticalYugen svg,
