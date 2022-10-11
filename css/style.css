@@ -432,7 +432,7 @@ body nav #navigation {
 }
 
 #beverage .text p {
-  margin-top: 1rem;
+  margin-top: 0.6rem;
 }
 
 #beverage .custom-link {
@@ -519,19 +519,23 @@ body nav #navigation {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
-  margin-top: 1rem;
+  margin-bottom: 5px;
   font-weight: 300;
   color: rgba(225,225,225);
 }
 
 #privatedining .text p:last-child{
-  margin-top: 3rem;
+  margin-top: 1.75rem;
 }
 
 #privatedining .text p a {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
+}
+
+#privatedining .am-pm {
+  font-size: 13px;
 }
 
 
@@ -560,6 +564,8 @@ body nav #navigation {
   font-size: 20px;
   line-height: 28px;
   letter-spacing: 0.08em;
+  font-weight: 300;
+  color: rgba(255,255,255,0.8);
 }
 
 #contact .contact-value a {
@@ -946,6 +952,21 @@ body nav #navigation {
   }
   #contact .contact-map {
     max-width: 100%;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  #beverage main.cover-image > .container.h-full.pt-40 {
+    padding-top: 6.5rem;
+  }
+  #beverage .text p {
+    margin-top: 0.4rem;
+  }
+  .custom-smaller-padding {
+    padding-left: 0.5rem
+  }
+  #beverage .custom-link {
+    font-size: 14px;
   }
 }
 
