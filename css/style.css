@@ -906,10 +906,6 @@ body nav #navigation {
     border-radius: 60px;
   }
 
-  #privatedining .text p {
-    /* margin-bottom: 0.4rem; */
-  }
-
   #privatedining .text p:last-child {
     margin-top: 1.5rem;
   }
