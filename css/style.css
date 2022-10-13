@@ -764,7 +764,7 @@ body nav #navigation {
 
   #omakase .cover-image {
     background-image: url('/img/Yugen_Omakase_mobile.png');
-    background-position: center center;
+    background-position: left center;
   }
   #beverage .cover-image {
     background-image: url('/img/Yugen_Beverage_Page_mobile.png');
