@@ -1,0 +1,11 @@
+---
+label: Beverage
+hide_body: true
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: beverage
+  hidden: true

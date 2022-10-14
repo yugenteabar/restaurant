@@ -1,0 +1,11 @@
+---
+label: Private Dining
+hide_body: false
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: private-dining
