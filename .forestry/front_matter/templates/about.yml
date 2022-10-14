@@ -20,3 +20,4 @@ fields:
     schema:
       format: markdown
   label: Text
+  description: text in 'p' tag<br>mini heading in 'h5' tag
