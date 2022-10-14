@@ -20,4 +20,5 @@ fields:
     schema:
       format: markdown
   label: Text
-  description: text in 'p' tag<br>mini heading in 'h5' tag
+  description: Write mini headings in h5 tag (like 'Dining Room', 'Omakase Bar', etc.)<br>Write
+    other text in p tag
