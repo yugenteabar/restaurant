@@ -1,5 +1,5 @@
 ---
-label: Music
+label: Omakase
 hide_body: false
 fields:
 - name: layout
@@ -8,4 +8,4 @@ fields:
     required: false
   label: layout
   hidden: true
-  default: music
+  default: omakase
