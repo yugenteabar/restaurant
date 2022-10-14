@@ -1,6 +1,6 @@
 ---
 label: Yugen Experience
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: layout
@@ -11,14 +11,3 @@ fields:
   config:
     required: false
   label: Title
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Text
-  description: Write mini headings in h5 tag (like 'Dining Room', 'Omakase Bar', etc.)<br>Write
-    other text in p tag
