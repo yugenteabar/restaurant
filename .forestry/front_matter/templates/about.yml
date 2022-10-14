@@ -11,3 +11,13 @@ fields:
   config:
     required: false
   label: Title
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+  description: Write headings in h5 tag ('Dining Room', 'Omakase Bar', etc.)
