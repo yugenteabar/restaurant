@@ -10,11 +10,15 @@ fields:
   hidden: true
   default: contact
 - name: phone_number
-  type: text
-  config:
-    required: false
+  type: number
   label: Phone number
-  description: Add number without +, space, or any special character
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: email
   type: text
   config:
@@ -50,13 +54,3 @@ fields:
   config:
     required: false
   label: Subsribe button link
-- name: test
-  type: number
-  label: test
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
