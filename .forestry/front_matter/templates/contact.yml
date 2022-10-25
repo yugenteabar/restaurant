@@ -9,3 +9,54 @@ fields:
   label: layout
   hidden: true
   default: contact
+- name: phone_number
+  type: text
+  config:
+    required: false
+  label: Phone number
+  description: Add number without +, space, or any special character
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+- name: careers_title
+  type: text
+  config:
+    required: false
+  label: Careers title
+- name: careers_text
+  type: text
+  config:
+    required: false
+  label: Careers text
+- name: newsletter_title
+  type: text
+  config:
+    required: false
+  label: Newsletter title
+- name: newsletter_text
+  type: text
+  config:
+    required: false
+  label: Newsletter text
+- name: subsribe_button_text
+  type: text
+  config:
+    required: false
+  label: Subsribe button text
+- name: subsribe_button_link
+  type: text
+  config:
+    required: false
+  label: Subsribe button link
+- name: test
+  type: number
+  label: test
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
