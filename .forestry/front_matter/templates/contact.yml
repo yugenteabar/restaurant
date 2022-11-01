@@ -54,3 +54,5 @@ fields:
   config:
     required: false
   label: Subsribe button link
+pages:
+- contact.md
