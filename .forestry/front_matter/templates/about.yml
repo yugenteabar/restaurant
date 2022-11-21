@@ -28,9 +28,10 @@ fields:
     config:
       required: true
     label: Experience_title
+    default: Experience title
   - name: experience_text
     type: textarea
-    default: ''
+    default: Experience text
     config:
       required: false
       wysiwyg: false
