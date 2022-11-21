@@ -1,6 +1,6 @@
 ---
 label: Music
-hide_body: false
+hide_body: true
 fields:
 - name: layout
   type: text
@@ -9,3 +9,48 @@ fields:
   label: layout
   hidden: true
   default: music
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: music_sections
+  type: field_group_list
+  fields:
+  - name: section_title
+    type: text
+    config:
+      required: false
+    label: Section_Title
+  - name: section_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Section Text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Music Sections
+- name: working_hours
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Working hours
