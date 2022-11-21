@@ -10,5 +10,6 @@ subsribe_button_link: https://forms.zohopublic.com.au/omniaportal/form/YugenTeab
 test: '123123213123'
 newsletter_title: 'Subscribe to Our Newsletter '
 subsribe_button_text: Subscribe
+title: Contact Us
 
 ---

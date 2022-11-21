@@ -9,6 +9,11 @@ fields:
   label: layout
   hidden: true
   default: contact
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: phone_number
   type: number
   label: Phone number
