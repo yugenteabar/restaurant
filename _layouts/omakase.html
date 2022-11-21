@@ -9,21 +9,13 @@
 <main class="cover-image">
   <div class="container mx-auto h-full pt-40 lg:pt-48 pb-20 flex flex-col items-end">
     <div class="md:w-2/5 lg:px-8">
-      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">Omakase - Coming Soon</h1>
-      <div class="text pr-4 animate__animated animate__fadeInUp">
-        <p class="mb-4">
-          Yugen offers a modern take on omakase tradition. A melding of culinary techniques born in Japan, refined in Australia. 
-        </p>
-        <p class="mb-4">
-          We deliver omakase dining with community at its core. Relationships formed with guests, and producers, create a memorable, intimate experience. A showcase of the finest produce from Australia and Japan, sourced without compromise, and tailored specifically for you. 
-        </p>
-        <p>
-          With only six seats at our mezzanine bar, Alex Yu will guide you through a dedicated, evolving showcase. Memorable dishes made using the highest quality produce turn first time guests into family. A mutual experience of trust and discovery, to satisfy your senses in new and profound ways.
-        </p>
+      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">{{ page.title }}</h1>
+      <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
+        {{ page.text | markdownify }}
       </div>
       <div class="flex mt-8 animate__animated animate__fadeInUp animate__delay-1s">
         <span class="custom-link">
-          ALEX YU - Head Chef
+          {{ page.signature }}
         </span>
       </div>
     </div>

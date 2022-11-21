@@ -9,24 +9,12 @@
   <div class="container mx-auto min-h-screen pt-32 md:pt-48 pb-40 flex flex-col items-end md:justify-center">
     <div class="md:w-2/5 lg:pl-8 lg:pr-20">
       <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
-        Private Dining & Events
+        {{ page.title }}
       </h2>
       <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-1s">
-        <p>
-          Yugen is open Wednesday to Sunday
-        </p>
-        <p>
-          Wednesday, Thursday & Sunday from 6:00pm to 11:00pm
-        </p>
-        <p>
-          Friday & Saturday from 06.00pm until late with late night snacks menu until 1:00am.
-        </p>
-        <p class="mt-6">
-          We are closed Monday, Tuesday, and Public Holidays.
-        </p>
-        <p>
-          All Sunday bookings accrue a 10% surcharge.
-        </p>
+        <div class="private-dining-text">
+          {{ page.text | markdownify }}
+        </div>
         <p>
           If you are visiting us as a party of seven or more, please get in touch with our reservations team at  <a
             href="mailto:info@yugen.com.au" target="_blank">
@@ -38,8 +26,8 @@
         </p>
       </div>
       <div class="mt-12 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
-        <a href="mailto:email@yugen.com.au" target="_blank" class="email-btn animate__animated animate__fadeIn">
-          Email us
+        <a href="mailto:{{ page.button_link }}" target="_blank" class="email-btn animate__animated animate__fadeIn">
+          {{ page.button_text }}
         </a>
       </div>
     </div>

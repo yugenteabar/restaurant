@@ -8,41 +8,35 @@
 
 <main class="cover-image">
   <div class="container mx-auto h-full pt-32 md:pt-48 pb-20 flex flex-col items-end">
-    <div class="md:w-2/5 lg:px-8">
-      <h2 class="section-title mb-6 animate__animated animate__fadeInUp">Food</h2>
-      <div class="text pr-4 animate__animated animate__fadeInUp">
-        <p>
-          Our à la carte menu is led by the five senses, marked not just by what is tasted, but what is seen, heard, touched, and smelt. 
-        </p>
-        <p>
-          Our menu draws from the cultural richness of Asia, dishes depart from convention and arrive at the meeting point of flavour and texture. A far-reaching offering held togetherby the common thread of a roaring open fire.
-        </p>
+    <div class="md:w-2/5 lg:px-8 mb-8">
+      {% for section in page.food_sections %}
+      {% if forloop.index == 1 %}
+        <div class="mb-12">
+      {% else %}
+        <div class="mb-8">
+      {% endif %}
+        <h2 class="section-title mb-6 animate__animated animate__fadeInUp">
+          {{ section.section_title }}
+        </h2>
+        <div class="text pr-4 animate__animated animate__fadeInUp">
+          {{ section.section_text | markdownify}}
+        </div>
       </div>
-    </div>
-    <div class="md:w-2/5 lg:px-8 mt-8">
-      <h2 class="section-title mb-6 animate__animated animate__fadeInUp">Philosophy</h2>
-      <div class="text pr-4 animate__animated animate__fadeInUp">
-        <p>
-          We support and work alongside trusted local suppliers. Relationships formed mindfully to deliver quality, seasonal produce to each guest, every time. Together we carefully gather Australia’s finest produce and prepare it with a depth of knowledge and care. The right ingredients to make a night unforgettable.	
-        </p>
-      </div>
-      <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+      {% endfor %}
+      <div class="flex animate__animated animate__fadeInUp animate__delay-1s">
         <span class="custom-link">
-          Stephen nairn - CULINARY DIRECTOR
+          {{ page.culinary_signature }}
         </span>
       </div>
-      <div class="flex mt-10 animate__animated animate__fadeInUp animate__delay-1s">
-        <a class="custom-link" target="_blank" href="/pdf/Yugen Dining Food Menu.pdf">
-          A LA CARTE MENU
-          <div class="underline-animation"></div>
-        </a>
-      </div>
+      {% for menu in page.menus %}
       <div class="flex mt-10 animate__animated animate__fadeInUp animate__delay-2s">
-        <a class="custom-link" target="_blank" href="/pdf/Yugen Dining - Late Night Supper Menu.pdf">
-          Late Night Supper Menu
+        <a class="custom-link" target="_blank" href="{{ menu.pdf_file }}">
+          {{ menu.menu_title }}
           <div class="underline-animation"></div>
         </a>
       </div>
+      {% endfor %}
+    </div>
     </div>
   </div>
 </main>

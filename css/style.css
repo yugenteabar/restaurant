@@ -421,6 +421,10 @@ body nav #navigation {
   text-transform: uppercase;
 }
 
+#omakase .omakase-text p {
+  margin-bottom: 16px;
+}
+
 
 
 /*  -------------  */
@@ -524,9 +528,6 @@ body nav #navigation {
   color: rgba(225,225,225);
 }
 
-#privatedining .text p:last-child{
-  margin-top: 1.75rem;
-}
 
 #privatedining .text p a {
   font-size: 14px;
@@ -538,6 +539,12 @@ body nav #navigation {
   font-size: 13px;
 }
 
+#privatedining .private-dining-text p:nth-child(4) {
+  margin-top: 1.75rem;
+}
+#privatedining .private-dining-text p:nth-child(5) {
+  margin-bottom: 1.75rem;
+}
 
 /* ----------- */
 /*   CONTACT   */

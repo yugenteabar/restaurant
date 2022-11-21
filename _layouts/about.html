@@ -9,31 +9,18 @@
 <main class="cover-image">
     <div class="container mx-auto h-full pt-32 md:pt-60 pb-20 flex flex-col items-end">
       <div class="w-full md:w-2/5 lg:px-6 sm:mt-0">
-        <h1 class="section-title mb-8 animate__animated animate__fadeInUp">The Yugen Experience</h1>
+        <h1 class="section-title mb-8 animate__animated animate__fadeInUp">{{ page.title }}</h1>
         <div class="text lg:pr-4 animate__animated animate__fadeInUp">
+          {{ page.text_after_title | markdownify }}
+
+          {% for experience in page.list_of_experiences %}
+          <div>
+            <h5>{{ experience.experience_title }}</h5>
+            {{ experience.experience_text | markdownify}}
+          </div>
+          {% endfor %}
           <p>
-            Leave your world behind. Dine, drink, and move with us. The night has just begun. <br>
-            Yugen is influenced by the cultural richness of Asia, inspired by tradition, but not bound by it.
-          </p>
-          <p>
-            Start by taking your night underground. Six-metre-high stone walls and refined industrial interiors abound
-            with three distinct areas for you to savour:
-          </p>
-          <h5>Dining Room</h5>
-          <p>
-            A lower dining room offers considered dishes, bold flavours, the sizzling accent of umami, and late nights.
-          </p>
-          <h5>Omakase Bar</h5>
-          <p>
-            A six-seat mezzanine omakase bar introduces the finest of tradition to modern instinct.
-          </p>
-          <h5>Golden Orb</h5>
-          <p>
-            Our eight-seat golden orb brings everyone together and provides the ultimate vantage point to see the night
-            unfold.
-          </p>
-          <p>
-            Come. Let go. Turn up the volume. Express yourself. See you underground.
+            {{ page.experience_conclusion }}
           </p>
         </div>
       </div>
