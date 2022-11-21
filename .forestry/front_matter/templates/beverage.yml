@@ -54,3 +54,5 @@ fields:
     max: 
     labelField: 
   label: Menus
+pages:
+- beverage.md
