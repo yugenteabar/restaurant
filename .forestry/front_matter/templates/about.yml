@@ -12,10 +12,14 @@ fields:
     required: false
   label: Title
 - name: text_after_title
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
-  label: text after title
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text after title
 - name: list_of_experiences
   type: field_group_list
   fields:
