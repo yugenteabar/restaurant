@@ -34,3 +34,8 @@ fields:
     max: 
     labelField: 
   label: List of experiences
+- name: experience_conclusion
+  type: text
+  config:
+    required: false
+  label: Experience_conclusion
