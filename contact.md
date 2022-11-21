@@ -1,6 +1,8 @@
 ---
 layout: contact
-phone_number: '0370003232'
+phone_number:
+  phone_number: "(03) 7000 3232"
+  phone_number_formated: '0370003232'
 email: " info@yugen.com.au "
 careers_title: Careers
 careers_text: 'If you are interested in joining our team, please email your resume
