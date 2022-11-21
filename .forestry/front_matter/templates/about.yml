@@ -29,9 +29,13 @@ fields:
       required: true
     label: Experience_title
   - name: experience_text
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Experience_text
   config:
     min: 
