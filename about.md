@@ -15,7 +15,7 @@ list_of_experiences:
 - experience_title: Omakase Bar
   experience_text: A six-seat mezzanine omakase bar introduces the finest of tradition
     to modern instinct.
-title: ''
+title: The Yugen Experience
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you
   underground.
 
