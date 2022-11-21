@@ -11,7 +11,7 @@ text: |-
   We are closed Monday, Tuesday, and Public Holidays.
 
   All Sunday bookings accrue a 10% surcharge.
-button_text: ''
-button_link: ''
+button_text: Email us
+button_link: email@yugen.com.au
 
 ---
