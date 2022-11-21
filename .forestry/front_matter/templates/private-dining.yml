@@ -33,3 +33,5 @@ fields:
   config:
     required: false
   label: Button link
+pages:
+- private-dining.md
