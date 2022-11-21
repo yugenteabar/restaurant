@@ -37,14 +37,14 @@ fields:
   config:
     required: false
   label: Culinary signature
-- name: links
+- name: menus
   type: field_group_list
   fields:
-  - name: link_text
+  - name: menu_text
     type: text
     config:
       required: true
-    label: Link text
+    label: Menu text
     default: ''
   - name: pdf_file
     type: file
@@ -56,6 +56,6 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Links
+  label: Menus
 pages:
 - food.md
