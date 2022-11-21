@@ -6,7 +6,7 @@ phone_number:
 email: " info@yugen.com.au "
 careers_title: Careers
 careers_text: 'If you are interested in joining our team, please email your resume
-  to: info@yugen.com.au '
+  to:'
 newsletter_text: 'We send occasional emails with exclusive offers, news and events. '
 subsribe_button_link: https://forms.zohopublic.com.au/omniaportal/form/YugenTeabarNewsletter/formperma/uur9ukIiQEcekhWWqTZOaU2NE7NV1Kgy0exTheLVPZE
 test: '123123213123'
