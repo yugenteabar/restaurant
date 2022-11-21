@@ -1,6 +1,6 @@
 ---
 label: Private Dining
-hide_body: false
+hide_body: true
 fields:
 - name: layout
   type: text
@@ -9,3 +9,27 @@ fields:
   label: layout
   hidden: true
   default: private-dining
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: button_text
+  type: text
+  config:
+    required: false
+  label: Button text
+- name: button_link
+  type: text
+  config:
+    required: false
+  label: Button link
