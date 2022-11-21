@@ -12,5 +12,12 @@ music_sections:
 working_hours: |-
   Wednesday, Thursday, and Sunday from 6:30pm to 12:00am
   Friday and Saturday from 6:30pm to 1:00am
+opening_hours:
+- days: Wednesday, Thursday, and Sunday
+  open_hours: 6:30pm
+  closing_hours: 12:00am
+- days: Friday and Saturday
+  open_hours: 6:30pm
+  closing_hours: 1:00am
 
 ---
