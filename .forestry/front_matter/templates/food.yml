@@ -40,11 +40,11 @@ fields:
 - name: menus
   type: field_group_list
   fields:
-  - name: menu_text
+  - name: menu_title
     type: text
     config:
       required: true
-    label: Menu text
+    label: Menu title
     default: ''
   - name: pdf_file
     type: file
