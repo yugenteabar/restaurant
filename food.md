@@ -1,3 +1,17 @@
 ---
 layout: food
+food_sections:
+- section_title: Food
+  section_text: |-
+    Our à la carte menu is led by the five senses, marked not just by what is tasted, but what is seen, heard, touched, and smelt.
+
+    Our menu draws from the cultural richness of Asia, dishes depart from convention and arrive at the meeting point of flavour and texture. A far-reaching offering held togetherby the common thread of a roaring open fire.
+- section_title: Philosophy
+  section_text: We support and work alongside trusted local suppliers. Relationships
+    formed mindfully to deliver quality, seasonal produce to each guest, every time.
+    Together we carefully gather Australia’s finest produce and prepare it with a
+    depth of knowledge and care. The right ingredients to make a night unforgettable.
+links: []
+culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
+
 ---

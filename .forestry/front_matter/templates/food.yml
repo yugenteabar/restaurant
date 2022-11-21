@@ -57,3 +57,5 @@ fields:
     max: 
     labelField: 
   label: Links
+pages:
+- food.md
