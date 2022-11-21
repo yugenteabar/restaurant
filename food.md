@@ -11,7 +11,9 @@ food_sections:
     formed mindfully to deliver quality, seasonal produce to each guest, every time.
     Together we carefully gather Australia’s finest produce and prepare it with a
     depth of knowledge and care. The right ingredients to make a night unforgettable.
-links: []
+links:
+- pdf_file: "/assets/images/yugen-dining-food-menu.pdf"
+  link_text: A LA CARTE MENU
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 
 ---
