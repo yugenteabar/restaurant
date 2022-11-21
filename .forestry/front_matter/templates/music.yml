@@ -54,3 +54,5 @@ fields:
     schema:
       format: markdown
   label: Working hours
+pages:
+- music.md
