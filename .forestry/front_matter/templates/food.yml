@@ -9,3 +9,51 @@ fields:
   label: layout
   hidden: true
   default: food
+- name: food_sections
+  type: field_group_list
+  fields:
+  - name: section_title
+    type: text
+    config:
+      required: false
+    label: Section Title
+    default: Section Title
+  - name: section_text
+    type: textarea
+    default: Section text
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Section text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Food sections
+- name: culinary_signature
+  type: text
+  config:
+    required: false
+  label: Culinary signature
+- name: links
+  type: field_group_list
+  fields:
+  - name: link_text
+    type: text
+    config:
+      required: true
+    label: Link text
+    default: add link text
+  - name: link_url
+    type: text
+    config:
+      required: true
+    label: Link url
+    default: add Link url
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links
