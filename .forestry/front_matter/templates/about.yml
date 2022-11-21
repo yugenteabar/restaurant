@@ -47,3 +47,5 @@ fields:
   config:
     required: false
   label: Experience_conclusion
+pages:
+- about.md
