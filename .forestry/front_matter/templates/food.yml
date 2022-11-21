@@ -46,12 +46,12 @@ fields:
       required: true
     label: Link text
     default: add link text
-  - name: link_url
-    type: text
+  - name: pdf_file
+    type: file
     config:
-      required: true
-    label: Link url
-    default: add Link url
+      maxSize: 64
+    label: PDF file
+    description: Uplaod PDF file
   config:
     min: 
     max: 
