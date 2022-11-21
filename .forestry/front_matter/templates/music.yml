@@ -45,14 +45,31 @@ fields:
     max: 
     labelField: 
   label: Music Sections
-- name: working_hours
-  type: textarea
-  default: ''
+- name: opening_hours
+  type: field_group_list
+  fields:
+  - name: days
+    type: text
+    config:
+      required: false
+    label: Days
+    description: 'Example: Wednesday, Thursday, and Sunday'
+  - name: open_hours
+    type: text
+    config:
+      required: false
+    label: Open_hours
+    description: Add time format (pm / am)
+  - name: closing_hours
+    type: text
+    config:
+      required: false
+    label: Closing_hours
+    description: Add time format (pm / am)
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Working hours
+    min: 
+    max: 
+    labelField: 
+  label: Opening hours
 pages:
 - music.md
