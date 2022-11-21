@@ -9,6 +9,13 @@ fields:
   label: layout
   hidden: true
   default: food
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  default: Food
+  hidden: true
 - name: food_sections
   type: field_group_list
   fields:
