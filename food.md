@@ -15,5 +15,8 @@ links:
 - pdf_file: "/assets/images/yugen-dining-food-menu.pdf"
   link_text: A LA CARTE MENU
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
+menus:
+- menu_text: A LA CARTE MENU
+  pdf_file: "/assets/images/yugen-dining-food-menu.pdf"
 
 ---
