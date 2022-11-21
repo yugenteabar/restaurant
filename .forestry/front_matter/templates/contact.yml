@@ -15,15 +15,26 @@ fields:
     required: false
   label: Title
 - name: phone_number
-  type: number
+  type: field_group
+  config: {}
+  fields:
+  - name: phone_number
+    type: text
+    config:
+      required: false
+    label: Phone number
+    description: Write phone number to be shown on website
+  - name: phone_number_formated
+    type: number
+    label: Phone number formated
+    description: Just numbers, without space
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
   label: Phone number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 - name: email
   type: text
   config:
