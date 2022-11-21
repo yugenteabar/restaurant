@@ -11,13 +11,26 @@ fields:
   config:
     required: false
   label: Title
-- name: text
-  type: textarea
-  default: ''
+- name: text_after_title
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Text
-  description: Write headings in h5 tag ('Dining Room', 'Omakase Bar', etc.)
+  label: text after title
+- name: list_of_experiences
+  type: field_group_list
+  fields:
+  - name: experience_title
+    type: text
+    config:
+      required: true
+    label: Experience_title
+  - name: experience_text
+    type: text
+    config:
+      required: false
+    label: Experience_text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: List of experiences
