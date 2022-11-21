@@ -9,3 +9,48 @@ fields:
   label: layout
   default: beverage
   hidden: true
+- name: beverage_sections
+  type: field_group_list
+  fields:
+  - name: section_title
+    type: text
+    config:
+      required: false
+    label: Section title
+  - name: section_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Section text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Beverage sections
+- name: manager_signature
+  type: text
+  config:
+    required: false
+  label: Manager signature
+- name: menus
+  type: field_group_list
+  fields:
+  - name: menu_title
+    type: text
+    config:
+      required: false
+    label: Menu title
+  - name: menu_pdf
+    type: file
+    config:
+      maxSize: 64
+    label: Menu_PDF
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Menus
