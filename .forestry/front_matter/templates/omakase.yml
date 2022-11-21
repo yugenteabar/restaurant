@@ -1,6 +1,6 @@
 ---
 label: Omakase
-hide_body: false
+hide_body: true
 fields:
 - name: layout
   type: text
@@ -9,3 +9,22 @@ fields:
   label: layout
   hidden: true
   default: omakase
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: signature
+  type: text
+  config:
+    required: false
+  label: Signature
