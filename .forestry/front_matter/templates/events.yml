@@ -26,6 +26,31 @@ fields:
       schema:
         format: markdown
     label: Event Description
+  - name: event_date
+    type: text
+    config:
+      required: false
+    label: Event Date
+  - name: event_time
+    type: text
+    config:
+      required: false
+    label: Event time
+  - name: event_adress
+    type: text
+    config:
+      required: false
+    label: Event Address
+  - name: event_ticket_info
+    type: text
+    config:
+      required: false
+    label: Event_Ticket_info
+  - name: event_extra_info
+    type: text
+    config:
+      required: false
+    label: Event Extra Info
   - name: button_text
     type: text
     config:
