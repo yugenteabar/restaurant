@@ -9,3 +9,34 @@ fields:
   label: layout
   hidden: true
   default: events
+- name: events
+  type: field_group_list
+  fields:
+  - name: event_title
+    type: text
+    config:
+      required: false
+    label: Event Title
+  - name: event_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Event Description
+  - name: event_date
+    type: datetime
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    label: Event Date
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Events
