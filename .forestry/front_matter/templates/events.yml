@@ -26,15 +26,16 @@ fields:
       schema:
         format: markdown
     label: Event Description
-  - name: event_date
-    type: datetime
-    description: ''
+  - name: button_text
+    type: text
     config:
       required: false
-      date_format: 
-      time_format: 
-      display_utc: false
-    label: Event Date
+    label: Button Text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button Link
   config:
     min: 
     max: 
