@@ -41,3 +41,5 @@ fields:
     max: 
     labelField: 
   label: Events
+pages:
+- events.md
