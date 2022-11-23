@@ -193,6 +193,17 @@ addEventListener('load', () => {
   }
 
 
+  if(document.querySelector('#homepage')){
+    setTimeout(() => {
+      const homepagePopup = document.querySelector('#homepage-popup')
+
+      homepagePopup.classList.remove('hidden')
+
+      document.querySelector('#closeHomepagePopup').addEventListener('click', () => {
+        homepagePopup.classList.add('hidden')
+      })
+    }, 2500)
+  }
 
 
 
