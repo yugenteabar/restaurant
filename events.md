@@ -16,5 +16,6 @@ events:
   event_adress: 605 Chapel street, South Yarra
   event_ticket_info: Tickets $345pp
   event_extra_info: Bookings essential, tickets are limited.
+  event_image: "/assets/images/new_year_event-1.jpg"
 
 ---
