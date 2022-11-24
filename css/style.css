@@ -362,7 +362,7 @@ body nav #navigation {
 }
 
 #homepage-popup {
-  background-color: rgba(0,0,0, 0.45)
+  background-color: rgba(0,0,0, 0.6)
 }
 
 #homepage-popup .homepage-popup-modal {
@@ -380,13 +380,17 @@ body nav #navigation {
 }
 
 #homepage-popup h2 {
-  font-size: 28px;
-  line-height: 36px;
+  font-size: 22px;
+  line-height: 30px;
 }
 
 #homepage-popup .book-now {
   font-size: 16px;
   padding: 10px 28px;
+}
+
+#homepage-popup .homepage-popup-modal p {
+  font-size: 14px;
 }
 
 
@@ -521,7 +525,8 @@ body nav #navigation {
   width: 100%;
 }
 
-#events .event-title {
+#events .event-title,
+#events .event-title p{
   font-weight: 500;
   font-size: 24px;
   line-height: 33px;
@@ -541,6 +546,11 @@ body nav #navigation {
 #events .event-extra-text p {
   font-size: 14px;
   line-height: 18px;
+}
+
+#events .event-text p:last-child,
+#events .event-extra-text p:last-child {
+  margin-top: 20px;
 }
 
 
@@ -795,7 +805,7 @@ body nav #navigation {
   }
   
   #homepage-popup h2 {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 34px;
   }
   #homepage-popup .homepage-popup-modal p {

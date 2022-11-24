@@ -22,7 +22,7 @@
       
       <div class="w-full pl-8 md:pl-0  md:w-2/5 md:pl-12 md:pr-20 mt-6 md:mt-0">
         <h2 class="event-title mb-6 animate__animated animate__fadeInRight animate__slow">
-          {{ event.event_title }}
+          {{ event.event_title | markdownify}}
         </h2>
         <div class="event-text animate__animated animate__fadeInRight animate__delay-1s">
           {{ event.event_description | markdownify}}
@@ -36,12 +36,16 @@
 
           {{ event.event_ticket_info | markdownify}}
 
-          {{ event.event_extra_info | markdownify}}
+          <p>
+            Bookings essential, <br>
+            tickets are limited.
+          </p>
         </div>
 
         <div class="mt-12">
           <a 
             href="{{ event.button_link }}"
+            target="_blank"
             class="book-now animate__animated animate__fadeInRight animate__delay-2s"
           >
           {{ event.button_text }}
