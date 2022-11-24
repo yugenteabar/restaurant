@@ -1,7 +1,7 @@
 ---
 layout: events
 events:
-- event_title: SUBTERRANEAN NEW YEAR’S EVE LIKE NO OTHER
+- event_title: "SUBTERRANEAN \n\nNEW YEAR’S EVE \n\nLIKE NO OTHER"
   event_description: |
     Guests will indulge in  a multi-sensory experience featuring live music and performers,
     some of Melbourne’s finest DJ’s including Greg Sara & De Saint spinning throughout the night, a dazzling Champagne tower and much, much more.
