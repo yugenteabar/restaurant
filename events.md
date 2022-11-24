@@ -10,7 +10,7 @@ events:
 
     Dress to impress and see you underground.
   button_text: Book now
-  button_link: https://www.opentable.com.au/restref/client/specials?restref=170390&ref=10813&lang=en-AU&corrid=ae28777c-220d-4fe2-b9b4-ede29f35a9fb
+  button_link: https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=114957
   event_date: 31st December 2022
   event_time: 8:30PM – 1AM
   event_adress: 605 Chapel street, South Yarra
