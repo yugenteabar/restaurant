@@ -362,7 +362,8 @@ body nav #navigation {
 }
 
 #homepage-popup {
-  background-color: rgba(0,0,0, 0.6)
+  background-color: rgba(0,0,0, 0.6);
+  z-index: 100;
 }
 
 #homepage-popup .homepage-popup-modal {
