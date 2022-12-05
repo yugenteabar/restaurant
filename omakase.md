@@ -21,5 +21,6 @@ terms_and_conditions: 'Yugen omakase starts at 7:00 pm sharp for all diners; ple
   This is also due to the potential traces of allergens in the supplied ingredients
   and in the work environment. Please note: cancellations within 48 hours of your
   booking date/no shows will be charged a $285 cancellation fee per person.'
+book_omakase_btn_link: https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 
 ---
