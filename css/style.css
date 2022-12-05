@@ -460,6 +460,10 @@ body nav #navigation {
 
 #omakase .terms p {
   font-size: 10px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  color: rgb(225,225,225)
 }
 
 
