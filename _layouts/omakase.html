@@ -7,16 +7,36 @@
 {% include nav.html %}
 
 <main class="cover-image">
-  <div class="container mx-auto h-full pt-40 lg:pt-48 pb-20 flex flex-col items-end">
-    <div class="md:w-2/5 lg:px-8">
-      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">{{ page.title }}</h1>
+  <div class="container mx-auto h-full pt-40 lg:pt-32 pb-20 flex flex-col items-end">
+    <div class="md:w-2/5">
+      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">
+        {{ page.title }}
+      </h1>
       <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
         {{ page.text | markdownify }}
       </div>
-      <div class="flex mt-8 animate__animated animate__fadeInUp animate__delay-1s">
+      <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
         <span class="custom-link">
           {{ page.signature }}
         </span>
+      </div>
+      <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-2s">
+        <p>Price: {{ page.price }}</p>
+        <p>Beverage pairing: {{ page.beverage_pairing }}</p>
+        <p class="mt-4">
+          Availability: {{ page.availability }}
+        </p>
+      </div>
+      <div class="mt-8 terms animate__animated animate__fadeInUp animate__delay-3s">
+        <p>Terms & Conditions: </p> 
+        <p>
+          {{ page.terms_and_conditions }}
+        </p>
+      </div>
+      <div class="mt-8 terms animate__animated animate__fadeInUp animate__delay-3s">
+        <a href="{{ page.book_omakase_btn_link }}" class="book-now" target="_blank">
+          BOOK OMAKASE
+        </a>
       </div>
     </div>
   </div>
