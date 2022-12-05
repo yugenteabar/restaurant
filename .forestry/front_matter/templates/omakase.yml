@@ -56,5 +56,10 @@ fields:
     schema:
       format: markdown
   label: Terms & Conditions
+- name: book_omakase_btn_link
+  type: text
+  config:
+    required: false
+  label: Book omakase btn link
 pages:
 - omakase.md
