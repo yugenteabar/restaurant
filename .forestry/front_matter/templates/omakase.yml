@@ -28,5 +28,33 @@ fields:
   config:
     required: false
   label: Signature
+- name: price
+  type: text
+  config:
+    required: false
+  label: Price
+- name: beverage_pairing
+  type: text
+  config:
+    required: false
+  label: Beverage pairing
+- name: availability
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Availability
+- name: terms_and_conditions
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Terms & Conditions
 pages:
 - omakase.md
