@@ -19,6 +19,6 @@ beverage_sections:
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
 - menu_title: BEVERAGE LIST
-  menu_pdf: "/assets/images/yugen-dining-beverage-menu-november-22-web-layout.pdf"
+  menu_pdf: "/assets/images/yugen-dining-beverage-menu-december-22.pdf"
 
 ---
