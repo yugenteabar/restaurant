@@ -20,7 +20,7 @@ menus:
   pdf_file: "/assets/images/yugen-a4-menu-20-january-2023.pdf"
   menu_title: A LA CARTE MENU
 - menu_text: Late Night Supper Menu
-  pdf_file: "/assets/images/yugen-dining-late-night-supper-menu.pdf"
+  pdf_file: "/assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf"
   menu_title: LATE NIGHT SUPPER MENU
 title: ''
 
