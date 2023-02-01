@@ -7,7 +7,7 @@ events:
   event_time: ''
   event_adress: 605 Chapel Street, South Yarra
   event_ticket_info: ''
-  event_extra_info: ''
+  event_extra_info: Walk-in's available
   button_text: ''
   button_link: ''
   event_description: 'Spend your Friday and Saturday late nights at Yugen. DJ’s energizing
