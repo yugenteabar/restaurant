@@ -3,8 +3,8 @@ layout: events
 events:
 - event_image: "/assets/images/prequel-designs-08.png"
   event_title: Friday and Saturday Late Night DJ's at Yugen
-  event_date: ''
-  event_time: ''
+  event_date: Friday & Saturday nights
+  event_time: 10pm
   event_adress: 605 Chapel Street, South Yarra
   event_ticket_info: ''
   event_extra_info: Walk-in's available
