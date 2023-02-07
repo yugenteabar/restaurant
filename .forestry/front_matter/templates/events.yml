@@ -80,7 +80,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: event_title
   label: Events
 pages:
 - events.md
