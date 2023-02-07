@@ -9,6 +9,13 @@ fields:
   label: layout
   hidden: true
   default: events
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  hidden: true
+  default: What’s On
 - name: events
   type: field_group_list
   fields:
