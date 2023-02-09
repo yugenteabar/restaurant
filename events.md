@@ -10,10 +10,11 @@ events:
   event_extra_info: ''
   button_text: Late Night Supper Menu
   button_link: https://yugendining.com.au/assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf
-  event_description: "Late Supper, DJ performance and extensive spirit selection &
-    cocktails. \nSpend your Friday and Saturday late nights at Yugen. DJ’s energizing
-    the dining room and our bar team introducing you to some new and beautiful flavours,
-    shaken or stirred down into cocktails a companied with a late supper menu. "
+  event_description: "Late night supper menu, DJ performances, extensive spirit selection
+    and cocktails. \nSpend your Friday and Saturday late nights at Yugen. DJ’s energizing
+    the dining room and our bar team introducing you to some new and intriguing flavours,
+    shaken or stirred down into cocktails accompanied with a delicious late supper
+    menu. "
 title: What’s On
 
 ---
