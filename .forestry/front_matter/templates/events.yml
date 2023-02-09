@@ -62,7 +62,7 @@ fields:
     config:
       required: false
     label: Event_Ticket_info
-    hidden: true
+    hidden: false
   - name: event_extra_info
     type: text
     config:
