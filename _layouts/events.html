@@ -36,21 +36,21 @@
 
           {{ event.event_ticket_info | markdownify}}
 
-          <p>
-            Bookings essential, <br>
-            tickets are limited.
-          </p>
+          {{ event.event_ticket_info | markdownify }}
         </div>
 
-        <div class="mt-12">
-          <a 
-            href="{{ event.button_link }}"
-            target="_blank"
-            class="book-now animate__animated animate__fadeInRight animate__delay-2s"
-          >
-          {{ event.button_text }}
-          </a>
-        </div>
+
+        {% if event.button_link %}
+          <div class="mt-12">
+            <a 
+              href="{{ event.button_link }}"
+              target="_blank"
+              class="book-now animate__animated animate__fadeInRight animate__delay-2s"
+            >
+            {{ event.button_text }}
+            </a>
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>
