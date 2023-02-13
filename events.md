@@ -1,7 +1,7 @@
 ---
 layout: events
 events:
-- event_image: "/assets/images/yugen-djs-18th-feb-website.mp4"
+- event_image: "/assets/images/yugen-djs-18th-feb-website-08.png"
   event_title: Yugen Late Night DJ's
   event_date: ''
   event_time: 10pm - Late
