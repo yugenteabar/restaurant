@@ -12,6 +12,6 @@ text: |-
 
   All Sunday bookings accrue a 10% surcharge.
 button_text: Email us
-button_link: email@yugen.com.au
+button_link: info@yugen.com.au
 
 ---
