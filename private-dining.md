@@ -6,7 +6,7 @@ text: |-
 
   Wednesday, Thursday & Sunday from 6:00pm to 11:00pm
 
-  Friday & Saturday from 06.00pm until late with late night snacks menu until 1:00am.
+  Friday & Saturday from 6:00pm until late with late night snacks menu until 1:00am.
 
   We are closed Monday, Tuesday, and Public Holidays.
 
