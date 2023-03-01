@@ -443,6 +443,9 @@ body nav #navigation {
 /*  -------------  */
 /*      OMAKASE    */
 /*  -------------  */
+#omakase #bookNow {
+  display: none;
+}
 
 #omakase .cover-image {
   background-image: url('/img/Yugen_Omakase.png');
@@ -848,6 +851,19 @@ body nav #navigation {
     margin-bottom: 1.2rem;
   }
 
+  #omakase header .show-omakase {
+    display: block;
+  }
+  #omakase header .show-omakase img {
+    height: 60px;
+    margin-top: -10px;
+  }
+  #omakase header #mobileLogo {
+    display: none;
+  }
+  #omakase header .mobile-header-container {
+    justify-content: flex-end;
+  }
   #omakase .cover-image {
     background-image: url('/img/Yugen_Omakase_mobile.png');
     background-position: left center;
