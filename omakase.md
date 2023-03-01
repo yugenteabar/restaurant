@@ -11,10 +11,11 @@ signature: ALEX YU - HEAD CHEF
 price: "$285pp"
 beverage_pairing: "$180pp"
 availability: |-
-  Yugen omakase is available for dinner, Wednesday to Sunday, at 7:00 pm.
-  Please note we have a limited number of seats available each month which are released on the 1st Wednesday of the month.
-terms_and_conditions: 'Yugen omakase starts at 7:00 pm sharp for all diners; please
-  arrive before to ensure the best dining experience for all omakase guests. Unfortunately
+  Yugen Omakase is available for dinner, Wednesday to Sunday, at 7:00 pm.
+  Please note we have a limited number of seats available each month, booking dates are released two months in advance on the 1st Wednesday of the second month.
+  Example: dates for May/June will be released on the first Wednesday of April.
+terms_and_conditions: 'Yugen Omakase starts at 7:00 pm sharp for all diners; please
+  arrive before to ensure the best dining experience for all Omakase guests. Unfortunately
   the Chef’s cannot cater for missed dishes for late guests as it will affect other
   guests experiences. Omakase is dependent on seasonal produce and changes daily,
   for this reason, we are unable to cater for food allergies and/or dietary restrictions.
