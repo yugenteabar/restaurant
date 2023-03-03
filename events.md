@@ -1,7 +1,7 @@
 ---
 layout: events
 events:
-- event_image: "/assets/images/prequel-designs-08.png"
+- event_image: "/assets/images/yugen-djs-3rd-march-06.png"
   event_title: Yugen Late Night DJ's
   event_date: ''
   event_time: 10pm - Late
