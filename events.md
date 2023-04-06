@@ -1,6 +1,18 @@
 ---
 layout: events
 events:
+- event_image: "/assets/images/yugen-ume-negroni-jana-langhorst.jpg"
+  event_title: Good Friday
+  event_description: |-
+    We’re open this Good Friday
+    from 6pm - 9pm
+  event_date: Friday 7th April
+  event_time: 6pm
+  event_adress: 605 Chapel Street, South Yarra
+  event_ticket_info: ''
+  event_extra_info: ''
+  button_text: Book now
+  button_link: https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=1334062e-8fbb-41b9-9405-aa2f9f99b172
 - event_image: "/assets/images/img_6993.jpg"
   event_title: Good Friday Eve
   event_description: "Join us for a Late Night Supper \nfor the first time on a Thursday
