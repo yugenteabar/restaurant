@@ -12,7 +12,7 @@ events:
   event_extra_info: ''
   button_text: Book now
   button_link: https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=1334062e-8fbb-41b9-9405-aa2f9f99b172
-- event_image: "/assets/images/yugen-djs-10th-march-06.png"
+- event_image: "/assets/images/yugen-djs-6th-april-06.png"
   event_title: Yugen Late Night DJ's
   event_date: ''
   event_time: 10pm - Late
