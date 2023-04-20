@@ -17,7 +17,7 @@ links:
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
 - menu_text: A LA CARTE MENU
-  pdf_file: "/assets/images/yd-food-menu-08-03-2023.pdf"
+  pdf_file: "/assets/images/yd-food-menu-20-04-2023.pdf"
   menu_title: A LA CARTE MENU
 - menu_text: Late Night Supper Menu
   pdf_file: "/assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf"
