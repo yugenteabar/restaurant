@@ -1,24 +1,14 @@
 ---
 layout: events
 events:
-- event_image: "/assets/images/yugen-ume-negroni-jana-langhorst.jpg"
-  event_title: Good Friday
+- event_image: "/assets/images/ma262.jpg"
+  event_title: Mother's Day at Yugen Dining
   event_description: |-
-    We’re open this Good Friday
-    from 6pm - 9pm
-  event_date: Friday 7th April
-  event_time: 6pm
-  event_adress: 605 Chapel Street, South Yarra
-  event_ticket_info: ''
-  event_extra_info: ''
-  button_text: Book now
-  button_link: https://www.opentable.com.au/restref/client/?restref=158744&lang=en-AU&ot_source=Restaurant%20website&corrid=1334062e-8fbb-41b9-9405-aa2f9f99b172
-- event_image: "/assets/images/img_6993.jpg"
-  event_title: Good Friday Eve
-  event_description: "Join us for a Late Night Supper \nfor the first time on a Thursday
-    night.\nDJ's till late, and our late night supper menu and cocktails from 10pm."
-  event_date: Thursday 6th April
-  event_time: 6pm
+    Make your mother feel the very best this Mother's Day at Yugen Dining. With your booking Mum will receive a complimentary drink on arrival.
+
+    Add that extra special touch by surprising her with a bouquet of flowers on arrival, available for pre-order when you book!⁠
+  event_date: 14th May 2023
+  event_time: 6pm - 9:30pm
   event_adress: 605 Chapel Street, South Yarra
   event_ticket_info: ''
   event_extra_info: ''
