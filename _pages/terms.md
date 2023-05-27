@@ -1,8 +1,10 @@
 ---
 
 layout: terms
+permalink: /terms/
 title: Privacy Policy
 subtitle: LK Hospitality Group
+
 
 ---
 
