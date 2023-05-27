@@ -1,7 +1,6 @@
 ---
 layout: about
 permalink: /about/
-_template: about
 text_after_title: >-
   Leave your world behind. Dine, drink, and move with us. The night has just
   begun.
@@ -27,5 +26,8 @@ list_of_experiences:
       ultimate vantage point to see the night unfold.
 title: The Yugen Experience
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
+_template: about
 ---
+
+
 
