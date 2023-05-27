@@ -27,17 +27,22 @@ export function yugen_experienceFields() {
       name: "list_of_experiences",
       label: "List of experiences",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: `${item?.experience_title} `}
+        },
+      },
       fields: [
         {
           type: "string",
           name: "experience_title",
-          label: "Experience_title",
+          label: "Title",
           required: true,
         },
         {
           type: "string",
           name: "experience_text",
-          label: "Experience_text",
+          label: "Text",
           ui: {
             component: "textarea",
           },
@@ -47,7 +52,7 @@ export function yugen_experienceFields() {
     {
       type: "string",
       name: "experience_conclusion",
-      label: "Experience_conclusion",
+      label: "Experiences conclusion",
     },
   ] as TinaField[];
 }
@@ -111,7 +116,7 @@ export function beverageFields() {
         {
           type: "image",
           name: "menu_pdf",
-          label: "Menu_PDF",
+          label: "Menu PDF",
         },
       ],
     },
@@ -216,12 +221,12 @@ export function eventsFields() {
         {
           type: "image",
           name: "event_image",
-          label: "Event Image",
+          label: "Image",
         },
         {
           type: "string",
           name: "event_title",
-          label: "Event_title",
+          label: "Title",
           ui: {
             component: "textarea",
           },
@@ -252,7 +257,7 @@ export function eventsFields() {
         {
           type: "string",
           name: "event_ticket_info",
-          label: "Event_Ticket_info",
+          label: "Event Ticket info",
         },
         {
           type: "string",
@@ -382,12 +387,12 @@ export function musicFields() {
         {
           type: "string",
           name: "section_title",
-          label: "Section_Title",
+          label: "Title",
         },
         {
           type: "string",
           name: "section_text",
-          label: "Section Text",
+          label: "Text",
           ui: {
             component: "textarea",
           },
