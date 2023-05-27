@@ -316,7 +316,7 @@ body nav #navigation {
 /*  ------------  */
 
 #homepage  .cover-image {
-  background-image: url('/img/Yugen_HomePage.png');
+  background-image: url('/img/Yugen_HomePage.webp');
 }
 
 .enter-site {
@@ -424,7 +424,7 @@ body nav #navigation {
 /*  -----------  */
 
 #food .cover-image {
-  background-image: url('/img/Yugen_Food_Page.png');
+  background-image: url('/img/Yugen_Food_Page.jpg');
 }
 
 #food .text p {
@@ -819,7 +819,7 @@ body nav #navigation {
 
 @media (max-width: 450px) {
   #homepage  .cover-image {
-    background-image: url('/img/Yugen_HomePage_mobile.png');
+    background-image: url('/img/Yugen_HomePage_mobile.webp');
   }
 
   #homepage-popup {
