@@ -819,7 +819,7 @@ body nav #navigation {
 
 @media (max-width: 450px) {
   #homepage  .cover-image {
-    background-image: url('/img/Yugen_HomePage_mobile.webp');
+    background-image: url('/img/Yugen_HomePage_mobile.jpg');
   }
 
   #homepage-popup {
