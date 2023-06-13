@@ -339,7 +339,6 @@ export function foodFields() {
           type: "string",
           name: "menu_title",
           label: "Menu title",
-          required: true,
         },
         {
           type: "image",
