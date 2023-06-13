@@ -24,12 +24,12 @@ links:
     link_text: A LA CARTE MENU
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
-  - menu_title: $150 set menu
-    pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
   - menu_title: A LA CARTE MENU
     pdf_file: /assets/images/YD A la Carte Menu 09.06.2023.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf
+  - menu_title: $150 set menu
+    pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
 title: Food
 _template: food
 ---
