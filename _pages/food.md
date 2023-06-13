@@ -28,8 +28,16 @@ menus:
     pdf_file: /assets/images/YD A la Carte Menu 09.06.2023.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf
+  - menu_title: $150 set menu
+    pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
+  - menu_title: Vegetarian and Vegan menu
+    pdf_file: '/assets/images/Yugen Vego - Vegan Menu 09.06.2023[70].pdf'
+  - menu_title: Chef’s experience menu
+    pdf_file: '/assets/images/Yugen Dining - 180 Chef Experience 09.06.2023[81].pdf'
 title: Food
 _template: food
 ---
+
+
 
 
