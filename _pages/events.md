@@ -2,7 +2,7 @@
 layout: events
 permalink: /events/
 events:
-  - event_image: ''
+  - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
       Yugen Dining's late night DJ experience is a unique and unforgettable
@@ -21,6 +21,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
