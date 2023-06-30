@@ -33,8 +33,7 @@ availability: >-
    <p>
    <p>
    <p><h1 style="color:Tomato;"><a href="https://mailchi.mp/1679dc94ed6a/yugen-omakase">Subscribe to our waitlist</a></h1>
-  <a href="https://mailchi.mp/1679dc94ed6a/yugen-omakase">Subscribe to our
-  waitlist</a> </p>
+   </p>
 terms_and_conditions: >-
   Terms and Conditions: 
 
@@ -55,6 +54,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
