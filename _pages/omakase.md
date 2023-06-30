@@ -21,7 +21,7 @@ signature: ALEX YU - HEAD CHEF
 price: $285pp
 beverage_pairing: $180pp
 availability: >-
-  Availability: Yugen Omakase is available Wednesday to Sunday ONLY at 7pm. 
+  Yugen Omakase is available Wednesday to Sunday ONLY at 7pm. 
 
   Booking dates are released 2 months in advance on the 1st Wednesday of the
   month. 
@@ -55,6 +55,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
