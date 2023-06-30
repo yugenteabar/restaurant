@@ -31,8 +31,8 @@ availability: >
 
   Limited seats are available each month. 
 
-  To be added to the WAITLIST  - Complete form HERE: <a href="url">
-  http://eepurl.com/gRW_Mz </a>
+  To be added to the WAITLIST  - Complete form HERE: <a
+  href="http://eepurl.com/ia-SI9/">Omakase Waitlist</a>
 terms_and_conditions: >-
   Terms and Conditions: 
 
@@ -53,6 +53,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
