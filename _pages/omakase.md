@@ -28,6 +28,10 @@ availability: >-
   month.
 
   Example: dates for May/June will be released on the first Wednesday of April.
+
+
+
+  Omakase Waitlist: http://eepurl.com/gRW_Mz
 terms_and_conditions: >-
   Yugen Omakase starts at 7:00 pm sharp for all diners; please arrive before to
   ensure the best dining experience for all Omakase guests. Unfortunately the
@@ -42,6 +46,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
