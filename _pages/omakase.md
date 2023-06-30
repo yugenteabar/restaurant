@@ -30,8 +30,9 @@ availability: >-
 
 
   Limited seats are available each month. 
-
-
+   
+   
+   
   <a href="https://mailchi.mp/1679dc94ed6a/yugen-omakase">Subscribe to our
   waitlist</a> 
 terms_and_conditions: >-
@@ -54,6 +55,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
