@@ -30,7 +30,8 @@ availability: >
   Example: dates for May/June will be released on the first Wednesday of April.
 
 
-  WAITLIST
+
+  OMAKASE WAITLIST
 
   <div id="mc_embed_shell">
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -74,6 +75,7 @@ book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
 _template: omakase
 ---
+
 
 
 
