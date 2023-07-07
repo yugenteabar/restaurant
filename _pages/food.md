@@ -25,7 +25,7 @@ links:
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
-    pdf_file: /assets/images/YD A la Carte Menu 22.06.2023.pdf
+    pdf_file: /assets/images/YD A la Carte Menu 06.07.2023.pdf
   - menu_title: Group set menu
     pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
   - menu_title: Chef’s experience mezzanine menu
@@ -37,6 +37,7 @@ menus:
 title: Food
 _template: food
 ---
+
 
 
 
