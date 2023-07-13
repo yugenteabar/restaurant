@@ -37,10 +37,11 @@ manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
   - menu_title: 'Cocktail & Spirits Bar Menu  |  '
     menu_pdf: ''
-  - menu_title: Sake & Wine List
+  - menu_title: '   Sake & Wine List'
     menu_pdf: ''
 _template: beverage
 ---
+
 
 
 
