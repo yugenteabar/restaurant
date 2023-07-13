@@ -1,9 +1,7 @@
 ---
 layout: beverage
 permalink: /beverage/
-_template: beverage
 title: Beverage
-
 beverage_sections:
   - section_title: Philosophy
     section_text: >-
@@ -38,6 +36,8 @@ beverage_sections:
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
   - menu_title: BEVERAGE LIST
-    menu_pdf: /assets/images/yugen-dining-beverage-menu-27-01-2022.pdf
+    menu_pdf: /assets/images/Yugen Dining Beverage Menu - JULY 2023.pdf
+_template: beverage
 ---
+
 
