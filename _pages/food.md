@@ -31,12 +31,13 @@ menus:
   - menu_title: Chef’s experience mezzanine menu
     pdf_file: '/assets/images/Yugen Dining - 180 Chef Experience 09.06.2023[81].pdf'
   - menu_title: Vegetarian and Vegan menu
-    pdf_file: /assets/images/Yugen Vego - Vegan Menu 22.06.2023.pdf
+    pdf_file: /assets/images/Yugen Vego - Vegan Menu 10.08.2023.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf
 title: Food
 _template: food
 ---
+
 
 
 
