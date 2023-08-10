@@ -29,7 +29,7 @@ menus:
   - menu_title: Group set menu
     pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
   - menu_title: Chef’s experience mezzanine menu
-    pdf_file: /assets/images/Yugen Dining - Mezzanine Sushi Menu.pdf
+    pdf_file: '/assets/images/Yugen Dining - 180 Chef Experience 09.06.2023[81].pdf'
   - menu_title: Vegetarian and Vegan menu
     pdf_file: /assets/images/Yugen Vego - Vegan Menu 10.08.2023.pdf
   - menu_title: LATE NIGHT SUPPER MENU
@@ -37,6 +37,7 @@ menus:
 title: Food
 _template: food
 ---
+
 
 
 
