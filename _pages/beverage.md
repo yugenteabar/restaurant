@@ -36,9 +36,10 @@ beverage_sections:
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
   - menu_title: BEVERAGE MENU
-    menu_pdf: /assets/images/Yugen Dining Beverage Menu - JULY 2023.pdf
+    menu_pdf: /assets/images/Yugen Sake & Wine list 10.08.2023.pdf
 _template: beverage
 ---
+
 
 
 
