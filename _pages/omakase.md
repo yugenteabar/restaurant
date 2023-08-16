@@ -1,8 +1,6 @@
 ---
 layout: omakase
 permalink: /omakase/
-_template: omakase
-
 title: Omakase
 text: >-
   Yugen offers a modern take on omakase tradition. A melding of culinary
@@ -23,24 +21,58 @@ signature: ALEX YU - HEAD CHEF
 price: $285pp
 beverage_pairing: $180pp
 availability: >-
-  Yugen Omakase is available for dinner, Wednesday to Sunday, at 7:00 pm.
+  Yugen Omakase is available Wednesday to Sunday ONLY at 7pm. 
 
-  Please note we have a limited number of seats available each month, booking
-  dates are released two months in advance on the 1st Wednesday of the second
-  month.
+  Booking dates are released 2 months in advance on the 1st Wednesday of the
+  month. 
 
-  Example: dates for May/June will be released on the first Wednesday of April.
+  For September/October, bookings will be released on Wed August 2nd. 
+
+
+
+  Limited seats are available each month. 
+   <p> </p>
+   <p> </p>
+   <p><h1 style="color:Tomato;"><a href="https://mailchi.mp/1679dc94ed6a/yugen-omakase">Subscribe to our waitlist here</a></h1>
+   </p>
 terms_and_conditions: >-
-  Yugen Omakase starts at 7:00 pm sharp for all diners; please arrive before to
-  ensure the best dining experience for all Omakase guests. Unfortunately the
-  Chef’s cannot cater for missed dishes for late guests as it will affect other
-  guests experiences. Omakase is dependent on seasonal produce and changes
-  daily, for this reason, we are unable to cater for food allergies and/or
-  dietary restrictions. This is also due to the potential traces of allergens in
-  the supplied ingredients and in the work environment. Please note:
-  cancellations within 48 hours of your booking date/no shows will be charged a
-  $285 cancellation fee per person.
+  Terms and Conditions: 
+
+  Omakase starts at 7pm sharp. For the best dining experience, please ensure all
+  guests arrive at 15 min before. 
+
+  Unfortunately, Chef cannot accommodate for late guests and will not supply
+  missed dishes. 
+
+  Our Omakase is dependant on seasonal produce and changes daily. For this
+  reason, we are unable to cater to food allergies and/or dietary restrictions.
+  This is also due to the potential traces of allergens in the supplied
+  ingredients and in the work environment. 
+
+  Please note: Cancellations within 48 hours of your booking date/no shows will
+  be charged a $285 cancellation fee per person. 
 book_omakase_btn_link: >-
   https://www.quandoo.com.au/place/yugen-omakase-94412/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link
+_template: omakase
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
