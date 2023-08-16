@@ -1,0 +1,56 @@
+{% assign current_page = 'reservations' %}
+{% assign page_title = 'Reservations' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<main class="cover-image">
+  <div class="container mx-auto h-full pt-32 md:pt-60 pb-20 flex flex-col md:flex-row">
+    <div class="w-full md:w-2/3 lg:px-6 sm:mt-0">
+      <h1 class="title mb-10 animate__animated animate__fadeInUp">
+        {{ page.title }}
+      </h1>
+      <div class="mb-12 text animate__animated animate__fadeInUp animate__delay-1s">
+        {% if page.yugen_omakase_price and page.yugen_omakase_price != "" %}
+          <p>Price: {{ page.yugen_omakase_price }}</p>
+        {% endif %}
+        {% if page.yugen_omakase_beverage_pairing and page.yugen_omakase_beverage_pairing != "" %}
+          <div class="beverage-pairing">
+            Beverage pairing: 
+            {{ page.yugen_omakase_beverage_pairing }}
+          </div>
+        {% endif %}
+        {% if page.yugen_omakase_availability and page.yugen_omakase_availability != "" %}
+          <p class="mt-4 md:w-2/3">
+            <span class="underline">Availability:</span> 
+            {{ page.yugen_omakase_availability }}
+          </p>
+        {% endif %}
+      </div>
+
+      <h2 class="section-title mb-8 animate__animated animate__fadeInUp animate__delay-2s">
+        {{ page.terms_title }}
+      </h2>
+
+      <div class="text terms-text font-light animate__animated animate__fadeInUp animate__delay-2s">
+        {{ page.terms_text | markdownify }}
+      </div>
+    </div>
+
+    <!-- right column -->
+    <div class="w-full mt-8 md:mt-0 md:w-1/3 flex items-center justify-center relative ">
+      <div class="book-overlay absolute inset-0 z-10"></div>
+      <div class="flex flex-col items-center justify-center animate__animated animate__fadeInUp animate__delay-3s">
+        <div class='terms-warning text-center mb-4'>
+          Please accept the terms and conditions to book a table.
+        </div>
+        <script type='text/javascript'
+    src='https://www.opentable.com.au/widget/reservation/loader?rid=60050&type=standard&theme=tall&color=4&dark=true&iframe=true&domain=comau&lang=en-AU&newtab=false&ot_source=Restaurant%20website'></script>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %}

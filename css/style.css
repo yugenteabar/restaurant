@@ -135,7 +135,8 @@ header.site-header[role='banner'] {
   margin-top: -2px;
   background-color: white;
 }
-
+.terms-text-open-dialog:hover .underline-animation,
+label:hover .underline-animation,
 a:hover .underline-animation {
   background-color: #fff;
   animation: loadUnderline ease-out forwards 0.5s;
@@ -301,6 +302,11 @@ body nav #navigation {
 #about .text p,
 #food .text p,
 #omakase .text p,
+#omakase .text p span,
+#omakase .beverage-pairing,
+#reservations .text p,
+#reservations .text p span,
+#reservations .beverage-pairing,
 #beverage .text p,
 #music .text p {
   font-size: 12px;
@@ -470,6 +476,137 @@ body nav #navigation {
   font-weight: 300;
   letter-spacing: 0.08em;
   color: rgb(225,225,225)
+}
+
+#omakase .yugen-omakase,
+#omakase .nidaime-omakase{
+  background-position: center 10%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 85vh;
+  max-height: max-content;
+
+}
+
+#omakase .custom-overlay{
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0,0,0,0);
+}
+
+#omakase .nidaime-omakase .custom-overlay{
+  background-color: rgba(0, 0, 0, .5);
+}
+
+#omakase .custom-link {
+  font-size: 14px;
+}
+#omakase .waitlist-text {
+  letter-spacing: 0.96px;
+}
+#omakase .beverage-pairing p {
+  padding-left: 1em;
+}
+#omakase .terms-label,
+#omakase .terms-text-open-dialog {
+  color: #FFF;
+  font-family: Garnett Medium;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.12px;
+  text-transform: uppercase;
+}
+#omakase main .book-now, 
+#omakase main .email-btn {
+  padding: 10px 32px;
+}
+#yugen-terms-checkbox,
+#nidaime-terms-checkbox {
+  width: 16px;
+  height: 16px;
+}
+
+#omakase .book-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 0.1s ease-in-out;
+}
+#omakase .book-overlay.hide-behind {
+  background-color: rgba(0, 0, 0, 0);
+  z-index: -1;
+}
+#omakase .section-title {
+  font-family: 'Manofa';
+  font-size: 32px;
+  line-height: 40px;
+}
+
+#terms-popup-yugen,
+#terms-popup-nidaime {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 0.1s ease-in-out;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: customFadeIn 0.3s ease-in-out;
+}
+#terms-popup-yugen.hidden,
+#terms-popup-nidaime.hidden {
+  display: none;
+}
+#terms-popup-yugen.opacity-0,
+#terms-popup-nidaime.opacity-0 {
+  transition: all 0.3s ease-in-out;
+}
+
+#omakase .terms-text p:nth-child(2){
+  margin-top: 20px;
+}
+#omakase .terms-text p{
+  font-size: 10px;
+}
+#omakase .terms-popup-container {
+  padding: 80px 60px;
+  background-color: rgba(0, 0, 0, 1);
+  transition: all 0.3s ease-in-out;
+  border: 1px solid rgba(225,225,225, 0.6);
+  max-width: 800px;
+  /* opacity: 0; */
+}
+#omakase .terms-popup-container .title {
+  color: #FFF;
+  font-family: Manofa;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+#omakase .terms-popup-container .section-title {
+  font-family: Manofa;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+#omakase .terms-popup-container .text p,
+#omakase .terms-popup-container .beverage-pairing,
+#omakase .terms-popup-container .text p span {
+  font-weight: 500;
+}
+.close-terms-popup {
+  position: absolute;
+  top: 32px;
+  right: 32px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
 }
 
 
@@ -941,8 +1078,8 @@ body nav #navigation {
   }
 
   .container {
-    padding-left: 28px;
-    padding-right: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .nav-link {
@@ -981,6 +1118,36 @@ body nav #navigation {
   #events .event-title {
     font-size: 20px;
     line-height: 28px;
+  }
+  #omakase .title {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #omakase .teterms-text-open-dialog div {
+    letter-spacing: 1px;
+    font-size: 12px;
+  }
+  #omakase .terms-text-open-dialog > div {
+    font-size: 14px;
+    letter-spacing: 0;
+  }
+  #omakase .terms-popup-container {
+    padding: 20px 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    max-height: 85vh;
+    overflow-y: scroll;
+  }
+  #omakase .terms-popup-container .title {
+    font-size: 24px;
+  }
+  #omakase .terms-popup-container .section-title {
+    font-size: 20px;
+  }
+  .close-terms-popup {
+    top: 20px;
+    right: 20px;
+    z-index: 101;
   }
 
   #food .text p,

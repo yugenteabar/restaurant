@@ -524,3 +524,61 @@ export function private_diningFields() {
     },
   ] as TinaField[];
 }
+export function reservationsFields() {
+  return [
+    {
+      type: "string",
+      name: "layout",
+      label: "layout",
+      ui: {
+        component: () => null
+      }
+    },
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+    },
+    {
+      type: "string",
+      name: "yugen_omakase_price",
+      label: "Price",
+    },
+    {
+      type: "string",
+      name: "yugen_omakase_beverage_pairing",
+      label: "Beverage Pairing",
+    },
+    {
+      type: "string",
+      name: "yugen_omakase_availability",
+      label: "Availability",
+      ui: {
+        component: "textarea",
+      },
+    },
+    {
+      type: "string",
+      name: "terms_title",
+      label: "Terms & Conditions Title",
+    },
+    {
+      type: "string",
+      name: "terms_text",
+      label: "Terms & Conditions Text",
+      ui: {
+        component: "textarea",
+      },
+    },
+    {
+      type: "string",
+      name: "button_text",
+      label: "Button text",
+    },
+    {
+      type: "string",
+      name: "button_link",
+      label: "Button link",
+    },
+  ] as TinaField[];
+}

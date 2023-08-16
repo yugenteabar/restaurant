@@ -231,4 +231,77 @@ addEventListener('load', () => {
       }
     })
   }
+
+  function setCustomMargin() {
+    const customMargin = document.querySelectorAll('.custom-margin')
+    const container = document.querySelector('.container')
+    const containerStyle = container.currentStyle || window.getComputedStyle(container);
+
+    customMargin.forEach((cm) => {
+      cm.style.marginLeft = containerStyle.marginLeft
+      cm.style.marginRight = containerStyle.marginRight
+    })
+  }
+
+  if(document.querySelector('.custom-margin')){
+    setCustomMargin()
+
+    addEventListener('resize', () => {
+      setCustomMargin()
+    })
+  }
+
+  if(document.querySelector('.terms-text input') && document.querySelector('.terms-text-open-dialog')) {
+    const nidaimeBox = document.querySelector('.nidaime-terms-container')
+    const yugenBox = document.querySelector('.yugen-terms-container')
+
+    const termsYugenTextOpenDialog = document.querySelector('.yugen-terms-container .terms-text-open-dialog')
+    const termsYugenPopup = document.querySelector('#terms-popup-yugen')
+    openCloseTermsModel(termsYugenPopup, termsYugenTextOpenDialog)
+    
+    const termsNidaimeTextOpenDialog = document.querySelector('.nidaime-terms-container .terms-text-open-dialog')
+    const termsNidaimePopup = document.querySelector('#terms-popup-nidaime')
+
+    openCloseTermsModel(termsNidaimePopup, termsNidaimeTextOpenDialog)
+
+    if(nidaimeBox) {
+      const nidaimeTermsCheckbox = nidaimeBox.querySelector('.nidaime-terms-container .terms-text input')
+      nidaimeTermsCheckbox.addEventListener('change', () => acceptTerms(nidaimeBox));
+    }
+    if(yugenBox) {
+      const yugenTermsCheckbox = yugenBox.querySelector('.yugen-terms-container .terms-text input')
+      yugenTermsCheckbox.addEventListener('change', () => acceptTerms(yugenBox));
+    }
+  }
+  
+
+  function openCloseTermsModel(termsPopup, termsTextOpenDialog) {
+    const closeTermsPopup = termsPopup.querySelector('.close-terms-popup')
+
+    termsTextOpenDialog.addEventListener('click', () => {
+      termsPopup.classList.remove('hidden')
+      termsPopup.classList.remove('opacity-0')
+      termsPopup.classList.remove('hidden')
+    })
+    closeTermsPopup.addEventListener('click', () => {
+      termsPopup.classList.add('opacity-0')
+      setTimeout(() => {
+        termsPopup.classList.add('hidden')
+      }, 300)
+    })
+  }
+
+  function acceptTerms(checkboxContainer) {
+    console.log('checkboxContainer', checkboxContainer)
+    const bookOverlay = checkboxContainer.querySelector('.book-overlay')
+    const checkbox = checkboxContainer.querySelector('.terms-text input')
+    if(checkbox.checked) {
+      bookOverlay.classList.add('hide-behind')
+    }
+    else {
+      bookOverlay.classList.remove('hide-behind')
+    }
+  }
+  
+
 })
