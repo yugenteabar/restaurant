@@ -7,7 +7,6 @@ import { foodFields } from "./templates";
 import { musicFields } from "./templates";
 import { omakaseFields } from "./templates";
 import { private_diningFields } from "./templates";
-import { reservationsFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -74,11 +73,6 @@ export default defineConfig({
             name: 'private_dining',
             label: 'Private Dining page',
             fields: private_diningFields(),
-          },
-          {
-            name: 'reservations',
-            label: 'Reservations page',
-            fields: reservationsFields(),
           },
         ]
       },

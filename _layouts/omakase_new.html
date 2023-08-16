@@ -7,11 +7,11 @@
 {% include nav.html %}
 
 <main class="flex flex-col md:flex-row">
-  <div class="lg:w-1/2 px-6 md:px-0">
+  <div class="lg:w-1/2">
     <div class="yugen-omakase relative pt-40 lg:pt-80 pb-20"
       style="background-image: url('{{ page.yugen_omakase_image }}');">
       <div class="custom-overlay"></div>
-      <div class="custom-margin flex flex-col relative z-1">
+      <div class="custom-margin px-6 md:px-0 flex flex-col relative z-1">
         <h1 class="section-title mb-8 animate__animated animate__fadeInUp">
           {{ page.yugen_omakase_title }}
         </h1>
@@ -25,7 +25,7 @@
         </div>
       </div>
     </div>
-    <div class="yugen-terms-container mt-10 mb-8 md:mb-20">
+    <div class="yugen-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
       <div class="custom-margin flex flex-col relative z-1">
         <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
           {% if page.yugen_omakase_price and page.yugen_omakase_price != "" %}
@@ -75,11 +75,11 @@
       </div>
     </div>
   </div>
-  <div class="lg:w-1/2 px-6 md:px-0">
+  <div class="lg:w-1/2">
     <div class="nidaime-omakase relative pt-40 lg:pt-80 pb-20"
       style="background-image: url('{{ page.yugen_nidaime_image }}');">
       <div class="custom-overlay"></div>
-      <div class="custom-margin flex flex-col relative z-1">
+      <div class="custom-margin  px-6 md:px-0 flex flex-col relative z-1">
         {% if page.yugen_nidaime_title and page.yugen_nidaime_title != "" %}
           <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
             {{ page.yugen_nidaime_title }}
@@ -99,7 +99,7 @@
         {% endif %}
       </div>
     </div>
-    <div class="nidaime-terms-container mt-10 mb-8 md:mb-20">
+    <div class="nidaime-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
       <div class="custom-margin flex flex-col relative z-1">
         <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
           {% if page.yugen_nidaime_price and page.yugen_nidaime_price != "" %}
@@ -202,7 +202,7 @@
       </svg>
     </div>
     <h1 class="title mb-8 md:mb-10 animate__animated animate__fadeInUp">
-      {{ page.yugen_omakase_popup_title }}
+      {{ page.nidiame_popup_title }}
     </h1>
     <div class="mb-12 text animate__animated animate__fadeInUp animate__delay-1s">
       {% if page.yugen_nidaime_price and page.yugen_nidaime_price != "" %}
