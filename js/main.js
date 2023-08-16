@@ -262,6 +262,8 @@ addEventListener('load', () => {
     const termsNidaimeTextOpenDialog = document.querySelector('.nidaime-terms-container .terms-text-open-dialog')
     const termsNidaimePopup = document.querySelector('#terms-popup-nidaime')
 
+    
+
     openCloseTermsModel(termsNidaimePopup, termsNidaimeTextOpenDialog)
 
     if(nidaimeBox) {
@@ -278,6 +280,15 @@ addEventListener('load', () => {
   function openCloseTermsModel(termsPopup, termsTextOpenDialog) {
     const closeTermsPopup = termsPopup.querySelector('.close-terms-popup')
 
+    termsPopup.addEventListener('click', (e) => {
+      if(e.target === termsPopup) {
+        termsPopup.classList.add('opacity-0')
+        setTimeout(() => {
+          termsPopup.classList.add('hidden')
+        }, 300)
+      }
+    })  
+
     termsTextOpenDialog.addEventListener('click', () => {
       termsPopup.classList.remove('hidden')
       termsPopup.classList.remove('opacity-0')
@@ -292,7 +303,6 @@ addEventListener('load', () => {
   }
 
   function acceptTerms(checkboxContainer) {
-    console.log('checkboxContainer', checkboxContainer)
     const bookOverlay = checkboxContainer.querySelector('.book-overlay')
     const checkbox = checkboxContainer.querySelector('.terms-text input')
     if(checkbox.checked) {

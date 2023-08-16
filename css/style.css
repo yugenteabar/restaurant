@@ -1135,7 +1135,7 @@ body nav #navigation {
     padding: 20px 12px;
     margin-left: 12px;
     margin-right: 12px;
-    max-height: 85vh;
+    max-height: 75vh;
     overflow-y: scroll;
   }
   #omakase .terms-popup-container .title {
