@@ -27,7 +27,7 @@ yugen_omakase_availability: >-
 terms_and_conditions_title: OMAKASE TERMS & CONDITIONS
 yugen_omakase_waitlist_text: Missed out on getting a seat this month, join our waitlist to be notified of cancellations
 yugen_omakase_book_text: BOOK OMAKASE
-yugen_omakase_book_link: https://www.opentable.com.au/restref/client/?restref=170390&ref=10813&lang=en-AU&corrid=2b9a2ac0-6ff6-4030-9908-e09e83f78fdd
+yugen_omakase_book_link: https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=191894&utm_source=external&utm_medium=referral&utm_campaign=shared
 
 yugen_omakase_waitlist_button_text: OMAKASE WAITLIST
 yugen_omakase_waitlist_button_link: https://mailchi.mp/1679dc94ed6a/yugen-omakase
@@ -77,7 +77,7 @@ yugen_nidaime_beverage_pairing: >-
 yugen_nidaime_availability: >-
   Nidaime Omakase is available for dinner, Wednesday to Sunday, at 6pm or 8:30pm.
 yugen_nidaime_book_text: BOOK OMAKASE
-yugen_nidiame_book_link: https://www.opentable.com.au/restref/client/?restref=170390&ref=10813&lang=en-AU&corrid=2b9a2ac0-6ff6-4030-9908-e09e83f78fdd
+yugen_nidiame_book_link: https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=191894&utm_source=external&utm_medium=referral&utm_campaign=shared
 
 
 nidiame_popup_title: Nidaime Omakase
