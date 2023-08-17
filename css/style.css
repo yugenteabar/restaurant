@@ -1061,6 +1061,11 @@ body nav #navigation {
   #contact .subscribe-btn {
     font-size: 14px;
   }
+
+  #omakase .yugen-omakase, #omakase .nidaime-omakase {
+    min-height: 70vh;
+    max-height: 80vh;
+  }
 }
 
 @media (min-width: 450px) and (max-width: 768px)  {
@@ -1220,6 +1225,12 @@ body nav #navigation {
   }
 }
 
+@media (min-width: 768px) and (max-width: 1024px)  {
+  #omakase .terms-text-open-dialog .underline-animation{
+    background-color: black;
+  }
+}
+
 @media (min-width: 1024px) and (max-width: 1440px) {
   #beverage main.cover-image > .container.h-full.pt-40 {
     padding-top: 6.5rem;
@@ -1233,6 +1244,10 @@ body nav #navigation {
   #beverage .custom-link {
     font-size: 14px;
   }
+  #omakase .terms-text-open-dialog > div{
+    font-size: 14px;
+  }
+
 }
 
 

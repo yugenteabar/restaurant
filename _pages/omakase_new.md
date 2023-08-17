@@ -52,7 +52,7 @@ yugen_omakase_terms_text: >-
 
 
 yugen_nidaime_title: Nidaime Omakase
-yugen_nidaime_image: '/assets/images/Nidaime\ Omakase.jpg'
+yugen_nidaime_image: '/assets/images/Nidaime_PO_JL7552 2.png'
 yugen_nidaime_text: >-
   Immerse yourself in the enigmatic world of Nidaime Omakase.
 
