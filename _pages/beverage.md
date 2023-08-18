@@ -35,10 +35,13 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
+  - menu_title: Bar Menu
+    menu_pdf: /assets/images/Yugen Dining A5 Bar Menu - AUGUST 2023.pdf
   - menu_title: BEVERAGE MENU
     menu_pdf: /assets/images/Yugen Sake & Wine list 10.08.2023.pdf
 _template: beverage
 ---
+
 
 
 
