@@ -44,16 +44,16 @@
     </div>
     <div class="yugen-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
       <div class="custom-margin flex flex-col relative z-1">
-        <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
+        <div class="md:mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
           {% if page.yugen_omakase_price and page.yugen_omakase_price != "" %}
             <p>Price: {{ page.yugen_omakase_price }}</p>
           {% endif %}
           {% if page.yugen_omakase_beverage_pairing and page.yugen_omakase_beverage_pairing != "" %}
-            <div class="beverage-pairing">Beverage pairing: {{ page.yugen_omakase_beverage_pairing | markdownify}}</div>
+            <div class="beverage-pairing">Beverage pairing:  {{ page.yugen_omakase_beverage_pairing }}</div>
           {% endif %}
           {% if page.yugen_omakase_availability and page.yugen_omakase_availability != "" %}
             <p class="mt-4">
-              <span class="underline">Availability:</span> {{ page.yugen_omakase_availability }}
+              <span class="underline">Availability:</span> {{ page.yugen_omakase_availability | markdownify }}
             </p>
           {% endif %}
         </div>
@@ -76,7 +76,7 @@
           </div>
         {% endif %}
         {% if page.yugen_omakase_waitlist_text and page.yugen_omakase_waitlist_text != "" %}
-          <div class="flex waitlist-text mt-12 animate__animated animate__fadeInUp animate__delay-1s">
+          <div class="flex waitlist-text mt-6 animate__animated animate__fadeInUp animate__delay-1s">
             <p class="mt-4 text-xs font-light lg:w-2/3">
               {{ page.yugen_omakase_waitlist_text }}
             </p>
@@ -141,7 +141,7 @@
     </div>
     <div class="nidaime-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
       <div class="custom-margin flex flex-col relative z-1">
-        <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
+        <div class="md:mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
           {% if page.yugen_nidaime_price and page.yugen_nidaime_price != "" %}
             <p>Price: {{ page.yugen_nidaime_price }}</p>
           {% endif %}
@@ -150,7 +150,7 @@
           {% endif %}
           {% if page.yugen_nidaime_availability and page.yugen_nidaime_availability != "" %}
             <p class="mt-4">
-              <span class="underline">Availability:</span> {{ page.yugen_nidaime_availability }}
+              <span class="underline">Availability:</span> {{ page.yugen_nidaime_availability | markdownify }}
             </p>
           {% endif %}
         </div>
@@ -173,7 +173,7 @@
           </div>
         {% endif %}
         {% if page.yugen_nidaime_waitlist_text and page.yugen_nidaime_waitlist_text != "" %}
-          <div class="flex waitlist-text mt-12 animate__animated animate__fadeInUp animate__delay-1s">
+          <div class="flex waitlist-text mt-6 animate__animated animate__fadeInUp animate__delay-1s">
             <p class="mt-4 text-xs font-light lg:w-2/3">
               {{ page.yugen_nidaime_waitlist_text }}
             </p>
@@ -200,28 +200,7 @@
         <line x1="0.353553" y1="0.646447" x2="17.3536" y2="17.6464" stroke="#FDFDFD"/>
       </svg>
     </div>
-    <!-- <h1 class="title mb-8 md:mb-10">
-      {{ page.yugen_omakase_popup_title }}
-    </h1>
-    <div class="mb-12 text">
-      {% if page.yugen_omakase_price and page.yugen_omakase_price != "" %}
-        <p>Price: {{ page.yugen_omakase_price }}</p>
-      {% endif %}
-      {% if page.yugen_omakase_beverage_pairing and page.yugen_omakase_beverage_pairing != "" %}
-        <div class="beverage-pairing">
-          Beverage pairing: 
-          {{ page.yugen_omakase_beverage_pairing }}
-        </div>
-      {% endif %}
-      {% if page.yugen_omakase_availability and page.yugen_omakase_availability != "" %}
-        <p class="mt-4 md:w-2/3">
-          <span class="underline">Availability:</span> 
-          {{ page.yugen_omakase_availability }}
-        </p>
-      {% endif %}
-    </div> -->
-
-    <h2 class="section-title mb-4 md:mb-8">
+    <h2 class="section-title mb-8">
       {{ page.yugen_omakase_terms_title }}
     </h2>
 
@@ -241,26 +220,10 @@
         <line x1="0.353553" y1="0.646447" x2="17.3536" y2="17.6464" stroke="#FDFDFD"/>
       </svg>
     </div>
-    <!-- <h1 class="title mb-8 md:mb-10">
-      {{ page.nidiame_popup_title }}
-    </h1>
-    <div class="mb-12 text">
-      {% if page.yugen_nidaime_price and page.yugen_nidaime_price != "" %}
-        <p>Price: {{ page.yugen_nidaime_price }}</p>
-      {% endif %}
-      {% if page.yugen_nidaime_beverage_pairing and page.yugen_nidaime_beverage_pairing != "" %}
-        <div class="beverage-pairing">Beverage pairing: {{ page.yugen_nidaime_beverage_pairing | markdownify }}</div>
-      {% endif %}
-      {% if page.yugen_nidaime_availability and page.yugen_nidaime_availability != "" %}
-        <p class="mt-4">
-          <span class="underline">Availability:</span> {{ page.yugen_nidaime_availability }}
-        </p>
-      {% endif %}
-    </div>
 
     <h2 class="section-title mb-8 ">
       {{ page.nidiame_terms_title }}
-    </h2> -->
+    </h2>
 
     <div class="text terms-text font-light">
       {{ page.nidiame_terms_text | markdownify }}

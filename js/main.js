@@ -312,6 +312,30 @@ addEventListener('load', () => {
       bookOverlay.classList.remove('hide-behind')
     }
   }
+
+  if(document.querySelector('#omakase .yugen-omakase') && document.querySelector('#omakase .nidaime-omakase')) {
+    if(innerWidth > 768) {
+      setSameHeightSections()
+      addEventListener('resize', () => {
+        setSameHeightSections()
+      })
+    }
+  }
+
+  function setSameHeightSections() {
+    const yugenOmakase = document.querySelector('#omakase .yugen-omakase')
+    const nidaimeOmakase = document.querySelector('#omakase .nidaime-omakase')
+
+    const yugenOmakaseSectionHeight = yugenOmakase.clientHeight
+    const nidaimeOmakaseSectionHeight = nidaimeOmakase.clientHeight
+
+    if(yugenOmakaseSectionHeight > nidaimeOmakaseSectionHeight) {
+      nidaimeOmakase.style.height = yugenOmakaseSectionHeight + 'px'
+    }
+    else {
+      yugenOmakase.style.height = nidaimeOmakaseSectionHeight + 'px'
+    }
+  }
   
 
 })

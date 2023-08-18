@@ -565,7 +565,7 @@ body nav #navigation {
   transition: all 0.3s ease-in-out;
 }
 
-#omakase .terms-text p:nth-child(2){
+#omakase .terms-text p{
   margin-top: 20px;
 }
 #omakase .terms-text p{
@@ -608,6 +608,18 @@ body nav #navigation {
   height: 20px;
   cursor: pointer;
 }
+
+#omakase .terms-popup-container .text p {
+  font-size: 12px;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.9);
+}
+#omakase .terms-popup-container .text p b{
+  font-size: 12px;
+  font-weight: 500;
+  color: white
+}
+
 
 
 
@@ -1065,6 +1077,22 @@ body nav #navigation {
   #omakase .yugen-omakase, #omakase .nidaime-omakase {
     min-height: 70vh;
     max-height: 80vh;
+    background-position-y: 100%;
+  }
+  #omakase .custom-margin h2.section-title,
+  #omakase .custom-margin h1.section-title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  #omakase .custom-margin .omakase-text p,
+  #omakase .yugen-terms-container p,
+  #omakase .yugen-terms-container p span,
+  #omakase .yugen-terms-container .beverage-pairing,
+  #omakase .nidaime-terms-container p,
+  #omakase .nidaime-terms-container p span,
+  #omakase .nidaime-terms-container .beverage-pairing{
+    font-weight: 100;
+    color: rgba(255,255,255,0.85);
   }
 }
 
@@ -1137,7 +1165,7 @@ body nav #navigation {
     letter-spacing: 0;
   }
   #omakase .terms-popup-container {
-    padding: 20px 12px;
+    padding: 60px 12px;
     margin-left: 12px;
     margin-right: 12px;
     max-height: 75vh;
