@@ -480,12 +480,25 @@ body nav #navigation {
 
 #omakase .yugen-omakase,
 #omakase .nidaime-omakase{
-  background-position: center 10%;
+  background-position-y: 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 85vh;
+  min-height: 90vh;
   max-height: max-content;
 
+}
+
+.nidaime-terms-container .beverage-pairing p::before {
+  content: "\2022";  
+  color: white; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em;
+}
+.nidaime-terms-container .beverage-pairing p {
+  padding-left: 28px;
+  line-height: 18px;
 }
 
 #omakase .custom-overlay{
