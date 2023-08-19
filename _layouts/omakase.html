@@ -6,40 +6,229 @@
 
 {% include nav.html %}
 
-<main class="cover-image">
-  <div class="container mx-auto h-full pt-40 lg:pt-32 pb-20 flex flex-col items-end">
-    <div class="md:w-2/5">
-      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">
-        {{ page.title }}
-      </h1>
-      <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
-        {{ page.text | markdownify }}
+<main class="flex flex-col md:flex-row">
+  <div class="lg:w-1/2">
+    <div class="yugen-omakase relative pt-40 lg:pt-48 pb-24"
+      style="background-image: url('{{ page.yugen_omakase_image }}');">
+      <div class="custom-overlay"></div>
+      <div class="hidden md:block">
+        <div class="custom-margin px-6 md:px-0 lg:px-0 flex flex-col relative z-1">
+          <h1 class="section-title mb-8 animate__animated animate__fadeInUp">
+            {{ page.yugen_omakase_title }}
+          </h1>
+          <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
+            {{ page.yugen_omakase_text | markdownify }}
+          </div>
+          <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+            <span class="custom-link">
+              {{ page.yugen_omakase_signature }}
+            </span>
+          </div>
+        </div>
       </div>
-      <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
-        <span class="custom-link">
-          {{ page.signature }}
-        </span>
+    </div>
+    <div class="md:hidden mt-4">
+      <div class="custom-margin px-6 md:px-0 lg:px-0 flex flex-col relative z-1">
+        <h1 class="section-title mb-8 animate__animated animate__fadeInUp">
+          {{ page.yugen_omakase_title }}
+        </h1>
+        <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
+          {{ page.yugen_omakase_text | markdownify }}
+        </div>
+        <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+          <span class="custom-link">
+            {{ page.yugen_omakase_signature }}
+          </span>
+        </div>
       </div>
-      <div class="mt-8 text animate__animated animate__fadeInUp animate__delay-2s">
-        <p>Price: {{ page.price }}</p>
-        <p>Beverage pairing: {{ page.beverage_pairing }}</p>
-        <p class="mt-4">
-          Availability: {{ page.availability }}
-        </p>
+    </div>
+    <div class="yugen-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
+      <div class="custom-margin flex flex-col relative z-1">
+        <div class="md:mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
+          {% if page.yugen_omakase_price and page.yugen_omakase_price != "" %}
+            <p>Price: {{ page.yugen_omakase_price }}</p>
+          {% endif %}
+          {% if page.yugen_omakase_beverage_pairing and page.yugen_omakase_beverage_pairing != "" %}
+            <div class="beverage-pairing">Beverage pairing:  {{ page.yugen_omakase_beverage_pairing }}</div>
+          {% endif %}
+          {% if page.yugen_omakase_availability and page.yugen_omakase_availability != "" %}
+            <p class="mt-4">
+              <span class="underline">Availability:</span> {{ page.yugen_omakase_availability | markdownify }}
+            </p>
+          {% endif %}
+        </div>
+        <!-- Accept T&C -->
+        <div class="terms-text mt-4 flex items-center font-light animate__animated animate__fadeInUp animate__delay-1s">
+          <input type="checkbox" class="mr-2 cursor-pointer" id="yugen-terms-checkbox">
+          <div class="terms-text-open-dialog px-1">
+            <div class="cursor-pointer py-2">
+              I ACCEPT THE OMAKASE TERMS & CONDITIONS
+              <div class="underline-animation"></div>
+            </div>
+          </div>
+        </div>
+        {% if page.yugen_omakase_book_text and page.yugen_omakase_book_text != "" %}
+          <div class="relative pt-8 pb-4 terms animate__animated animate__fadeInUp animate__delay-1s">
+            <div class="book-overlay"></div>
+            <a href="{{ page.yugen_omakase_book_link }}" class="book-now">
+              {{ page.yugen_omakase_book_text }}
+            </a>
+          </div>
+        {% endif %}
+        {% if page.yugen_omakase_waitlist_text and page.yugen_omakase_waitlist_text != "" %}
+          <div class="flex waitlist-text mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+            <p class="mt-4 text-xs font-light lg:w-2/3">
+              {{ page.yugen_omakase_waitlist_text }}
+            </p>
+          </div>
+        {% endif %}
+        {% if page.yugen_omakase_waitlist_button_text and page.yugen_omakase_waitlist_button_text != "" %}
+          <div class="mt-8 terms animate__animated animate__fadeInUp animate__delay-1s">
+            <a href="{{ page.yugen_omakase_waitlist_button_link }}" class="book-now" target="_blank">
+              {{ page.yugen_omakase_waitlist_button_text }}
+            </a>
+          </div>
+        {% endif %}
       </div>
-      <div class="mt-4 terms animate__animated animate__fadeInUp animate__delay-3s">
-        <p>Terms & Conditions: </p> 
-        <p>
-          {{ page.terms_and_conditions }}
-        </p>
+    </div>
+  </div>
+  <div class="lg:w-1/2">
+    <div class="nidaime-omakase relative pt-40 lg:pt-48 pb-24"
+      style="background-image: url('{{ page.yugen_nidaime_image }}');">
+      <!-- <div class="custom-overlay"></div> -->
+      <div class="hidden md:block">
+        <div class="custom-margin  px-6 md:px-0 flex flex-col relative z-1">
+          {% if page.yugen_nidaime_title and page.yugen_nidaime_title != "" %}
+            <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
+              {{ page.yugen_nidaime_title }}
+            </h2>
+          {% endif %}
+          {% if page.yugen_nidaime_text and page.yugen_nidaime_text != "" %}
+            <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
+              {{ page.yugen_nidaime_text | markdownify }}
+            </div>
+          {% endif %}
+          {% if page.yugen_nidaime_signature and page.yugen_nidaime_signature != "" %}
+            <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+              <span class="custom-link">
+                {{ page.yugen_nidaime_signature }}
+              </span>
+            </div>
+          {% endif %}
+        </div>
       </div>
-      <div class="mt-8 terms animate__animated animate__fadeInUp animate__delay-3s">
-        <a href="{{ page.book_omakase_btn_link }}" class="book-now" target="_blank">
-          BOOK OMAKASE
-        </a>
+    </div>
+    <div class="md:hidden mt-4">
+      <div class="custom-margin  px-6 md:px-0 flex flex-col relative z-1">
+        {% if page.yugen_nidaime_title and page.yugen_nidaime_title != "" %}
+          <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
+            {{ page.yugen_nidaime_title }}
+          </h2>
+        {% endif %}
+        {% if page.yugen_nidaime_text and page.yugen_nidaime_text != "" %}
+          <div class="omakase-text text pr-4 animate__animated animate__fadeInUp">
+            {{ page.yugen_nidaime_text | markdownify }}
+          </div>
+        {% endif %}
+        {% if page.yugen_nidaime_signature and page.yugen_nidaime_signature != "" %}
+          <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+            <span class="custom-link">
+              {{ page.yugen_nidaime_signature }}
+            </span>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    <div class="nidaime-terms-container mt-10 mb-8 md:mb-20  px-6 md:px-0">
+      <div class="custom-margin flex flex-col relative z-1">
+        <div class="md:mt-8 text animate__animated animate__fadeInUp animate__delay-1s">
+          {% if page.yugen_nidaime_price and page.yugen_nidaime_price != "" %}
+            <p>Price: {{ page.yugen_nidaime_price }}</p>
+          {% endif %}
+          {% if page.yugen_nidaime_beverage_pairing and page.yugen_nidaime_beverage_pairing != "" %}
+            <div class="beverage-pairing">Beverage pairing: {{ page.yugen_nidaime_beverage_pairing | markdownify }}</div>
+          {% endif %}
+          {% if page.yugen_nidaime_availability and page.yugen_nidaime_availability != "" %}
+            <p class="mt-4">
+              <span class="underline">Availability:</span> {{ page.yugen_nidaime_availability | markdownify }}
+            </p>
+          {% endif %}
+        </div>
+        <!-- Accept T&C -->
+        <div class="terms-text mt-4 flex items-center font-light animate__animated animate__fadeInUp animate__delay-1s">
+          <input type="checkbox" class="mr-2 cursor-pointer" id="nidaime-terms-checkbox">
+          <div class="terms-text-open-dialog px-1">
+            <div class="cursor-pointer py-2">
+              I ACCEPT THE OMAKASE TERMS & CONDITIONS
+              <div class="underline-animation"></div>
+            </div>
+          </div>
+        </div>
+        {% if page.yugen_nidaime_book_text and page.yugen_nidaime_book_text != "" %}
+          <div class="relative pt-8 pb-4 terms animate__animated animate__fadeInUp animate__delay-1s">
+            <div class="book-overlay"></div>
+            <a href="{{page.yugen_nidiame_book_link}}" class="book-now">
+              {{ page.yugen_nidaime_book_text }}
+            </a>
+          </div>
+        {% endif %}
+        {% if page.yugen_nidaime_waitlist_text and page.yugen_nidaime_waitlist_text != "" %}
+          <div class="flex waitlist-text mt-6 animate__animated animate__fadeInUp animate__delay-1s">
+            <p class="mt-4 text-xs font-light lg:w-2/3">
+              {{ page.yugen_nidaime_waitlist_text }}
+            </p>
+          </div>
+        {% endif %}
+        {% if page.yugen_nidaime_waitlist_button_text and page.yugen_nidaime_waitlist_button_text != "" %}
+          <div class="mt-8 terms animate__animated animate__fadeInUp animate__delay-1s">
+            <a href="{{ page.yugen_nidaime_waitlist_button_link }}" class="book-now" target="_blank">
+              {{ page.yugen_nidaime_waitlist_button_text }}
+            </a>
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>
 </main>
+
+<!-- Yugen omakase popup -->
+<div id="terms-popup-yugen" class="hidden opacity-0">
+  <div class="terms-popup-container relative w-full lg:w-1/2 lg:px-6 sm:mt-0">
+    <div class="close-terms-popup">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19" fill="none">
+        <line x1="17.3536" y1="1.35355" x2="0.939761" y2="17.7673" stroke="#FDFDFD"/>
+        <line x1="0.353553" y1="0.646447" x2="17.3536" y2="17.6464" stroke="#FDFDFD"/>
+      </svg>
+    </div>
+    <h2 class="section-title mb-8">
+      {{ page.yugen_omakase_terms_title }}
+    </h2>
+
+    <div class="text terms-text font-light">
+      {{ page.yugen_omakase_terms_text | markdownify }}
+    </div>
+  </div>
+</div>
+
+
+<!-- Yugen Nidaime popup -->
+<div id="terms-popup-nidaime" class="hidden opacity-0">
+  <div class="terms-popup-container relative w-full lg:w-1/2 lg:px-6 sm:mt-0">
+    <div class="close-terms-popup">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19" fill="none">
+        <line x1="17.3536" y1="1.35355" x2="0.939761" y2="17.7673" stroke="#FDFDFD"/>
+        <line x1="0.353553" y1="0.646447" x2="17.3536" y2="17.6464" stroke="#FDFDFD"/>
+      </svg>
+    </div>
+
+    <h2 class="section-title mb-8 ">
+      {{ page.nidiame_terms_title }}
+    </h2>
+
+    <div class="text terms-text font-light">
+      {{ page.nidiame_terms_text | markdownify }}
+    </div>
+  </div>
+</div>
 
 {% include footer.html %}
