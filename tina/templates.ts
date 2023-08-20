@@ -442,51 +442,152 @@ export function omakaseFields() {
       type: "string",
       name: "title",
       label: "Title",
-    },
-    {
-      type: "string",
-      name: "text",
-      label: "Text",
       ui: {
-        component: "textarea",
-      },
+        component: () => null
+      }
     },
     {
       type: "string",
-      name: "signature",
+      name: "yugen_omakase_title",
+      label: "Yugen Omakase Title",
+    },
+    {
+      type: "image",
+      name: "yugen_omakase_image",
+      label: "Yugen Omakase Image",
+    },
+
+    {
+      type: 'rich-text',
+      name: "yugen_omakase_text",
+      label: "Yugen Omakase Text",
+    },
+    {
+      type: "string",
+      name: "yugen_omakase_signature",
       label: "Signature",
     },
     {
       type: "string",
-      name: "price",
-      label: "Price",
+      name: "yugen_omakase_price",
+      label: "Yugen Omakase Price",
     },
     {
       type: "string",
-      name: "beverage_pairing",
-      label: "Beverage pairing",
+      name: "yugen_omakase_beverage_pairing",
+      label: "Yugen Omakase Beverage pairing",
     },
     {
       type: "string",
-      name: "availability",
-      label: "Availability",
+      name: "yugen_omakase_availability",
+      label: "Yugen Omakase Availability Text",
       ui: {
         component: "textarea",
       },
     },
     {
+      type: 'string',
+      name: "yugen_omakase_book_text",
+      label: 'Book Omakase Button Text'
+    },
+    {
+      type: 'string',
+      name: "yugen_omakase_book_link",
+      label: 'Book Omakase Button Link'
+    },
+    {
+      type: 'string',
+      name: "yugen_omakase_waitlist_button_text",
+      label: 'Waitlist Button Text'
+    },
+    {
+      type: 'string',
+      name: "yugen_omakase_waitlist_button_link",
+      label: 'Waitlist Button Link'
+    },
+    {
+      type: 'string',
+      name: "yugen_omakase_popup_title",
+      label: 'Yugen Omakase T&C Title'
+    },
+    {
+      type: 'rich-text',
+      name: "yugen_omakase_terms_text",
+      label: 'Yugen Omakase Terms T&C Text'
+    },
+    
+
+    
+
+
+
+
+
+    {
       type: "string",
-      name: "terms_and_conditions",
-      label: "Terms & Conditions",
+      name: "yugen_nidaime_title",
+      label: "Yugen Nidaime Title",
+    },
+    {
+      type: "image",
+      name: "yugen_nidaime_image",
+      label: "Yugen Nidaime Image",
+    },
+
+    {
+      type: 'rich-text',
+      name: "yugen_nidaime_text",
+      label: "Yugen Nidaime Text",
+    },
+    {
+      type: "string",
+      name: "yugen_nidaime_price",
+      label: "Yugen Nidaime Price",
+    },
+    {
+      type: "rich-text",
+      name: "yugen_nidaime_beverage_pairing",
+      label: "Yugen Nidaime Beverage pairing",
+    },
+    {
+      type: "string",
+      name: "yugen_nidaime_availability",
+      label: "Yugen Nidaime Availability Text",
       ui: {
         component: "textarea",
       },
     },
     {
-      type: "string",
-      name: "book_omakase_btn_link",
-      label: "Book omakase btn link",
+      type: 'string',
+      name: "yugen_nidaime_book_text",
+      label: 'Book Nidaime Button Text'
     },
+    {
+      type: 'string',
+      name: "yugen_nidiame_book_link",
+      label: 'Book Nidaime Button Link'
+    },
+    {
+      type: 'string',
+      name: "nidiame_terms_title",
+      label: 'Yugen Nidaime T&C Title'
+    },
+    {
+      type: 'rich-text',
+      name: "nidiame_terms_text",
+      label: 'Yugen Nidaime Terms T&C Text'
+    },
+    
+
+    
+
+
+
+    
+
+
+
+    
   ] as TinaField[];
 }
 export function private_diningFields() {
