@@ -87,7 +87,7 @@ yugen_nidaime_availability: >-
   8:30pm.
 yugen_nidaime_book_text: BOOK OMAKASE
 yugen_nidiame_book_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=191894&utm_source=external&utm_medium=referral&utm_campaign=shared
+  https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 nidiame_popup_title: Nidaime Omakase
 nidiame_terms_title: Omakase Terms & Conditions
 nidiame_terms_text: >-
