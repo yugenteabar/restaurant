@@ -52,7 +52,7 @@ yugen_omakase_terms_text: >
   coeliac.
 
 
-  **Cancellation policy and no shows**: 
+  **Cancellation policy and no shows**:
 
 
   Cancellation before 48 hours of your booking will be permitted for a no
@@ -85,12 +85,12 @@ yugen_nidaime_text: >
 
 
   Our ever-evolving beverage menus will include small release, rare & one-off
-  pairings of high-quality Sake, Tea & Whisky’s to complement the food on offer.
+  pairings of high-quality Sake, Wine & Tea to complement the food on offer.
 yugen_nidaime_price: $175pp
 yugen_nidaime_beverage_pairing: |
   Indulge Sake & Wine Pairing – $85pp
 
-  Prestige Sake & Wine pairing – $165pp
+  Prestige Sake & Wine pairing – $145pp
 
   Tea Discovery – $75pp
 yugen_nidaime_availability: >-
@@ -150,6 +150,7 @@ book_omakase_btn_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 _template: omakase
 ---
+
 
 
 
