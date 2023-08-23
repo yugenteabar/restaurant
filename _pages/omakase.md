@@ -92,7 +92,7 @@ yugen_nidaime_beverage_pairing: |
 
   Prestige Sake & Wine pairing – $145pp
 
-  Tea Discovery – $75pp
+  Tea Discovery – $65pp
 yugen_nidaime_availability: >-
   Nidaime Omakase is available for dinner, Wednesday to Sunday, at 6pm or
   8:30pm.
