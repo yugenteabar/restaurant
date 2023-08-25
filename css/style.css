@@ -52,21 +52,6 @@ header.site-header[role='banner'] {
   transform: translate(-50%, -50%);
 }
 
-/* #loading-screen #teaBar, 
-#loading-screen #dining {
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#loading-screen #teaBar {
-  background-image: url('/img/Pouring\ tea\ -\ About\ Page.jpg');
-  background-position: center;
-}
-#loading-screen #dining {
-  background-image: url('/img/Beverage-old.jpg');
-  background-position: center 80%;
-} */
-
 #teaBar .custom-center,
 #dining .custom-center {
   width: 100%;
