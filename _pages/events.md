@@ -13,9 +13,8 @@ events:
     event_date: Thursday 5th October
     event_time: 7pm
     event_adress: '650 Chapel Street, South Yarra'
-    button_text: Book Now
-    button_link: >-
-      https://www.opentable.com.au/restref/client/?restref=170390&ref=10813&lang=en-AU&corrid=eba62774-b1b7-42ac-8884-c10bbbe84046
+    button_text: Menu
+    button_link: ''
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
@@ -35,6 +34,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
