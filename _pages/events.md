@@ -11,7 +11,7 @@ events:
       whiskies, paired with a bespoke 6-course menu, which includes canapes on
       arrival. 
     event_date: 'Thursday 5th October, 7pm'
-    event_time: Bookings Go Live Tuesday 5th September 12pm
+    event_time: Bookings GO LIVE Tuesday 5th September 12pm
     event_adress: '605 Chapel Street, South Yarra'
     button_text: Menu
     button_link: >-
@@ -36,6 +36,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
