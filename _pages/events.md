@@ -2,6 +2,20 @@
 layout: events
 permalink: /events/
 events:
+  - event_image: /assets/images/cb4b3f5faae8b1eec6b4c64986d0c97a.jpg
+    event_title: House of Suntory 100th Anniversary Dinner.
+    event_description: >-
+      2023 marks a century of production for Japanese spirits label, House of
+      Suntory.  In honour of this remarkable achievement, we've curated an
+      incredible dining experience showcasing a range of their limited-edition
+      whiskies, paired with a bespoke 6-course menu, which includes canapes on
+      arrival. 
+    event_date: Thursday 5th October
+    event_time: 7pm
+    event_adress: '650 Chapel Street, South Yarra'
+    button_text: Book Now
+    button_link: >-
+      https://www.opentable.com.au/restref/client/?restref=170390&ref=10813&lang=en-AU&corrid=eba62774-b1b7-42ac-8884-c10bbbe84046
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
@@ -21,6 +35,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
