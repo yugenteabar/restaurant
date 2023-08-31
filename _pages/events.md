@@ -3,16 +3,16 @@ layout: events
 permalink: /events/
 events:
   - event_image: /assets/images/cb4b3f5faae8b1eec6b4c64986d0c97a.jpg
-    event_title: House of Suntory 100th Anniversary Dinner.
+    event_title: House of Suntory 100th Anniversary Whisky Dinner.
     event_description: >-
       2023 marks the 100th year of production for Japanese spirits label, House
       of Suntory.  In honour of this remarkable achievement, we've curated an
       incredible dining experience showcasing a range of their limited-edition
-      whiskies, paired with a bespoke 6-course menu, which includes canapés on
-      arrival. 
+      whiskies, paired with a bespoke 7-course menu, which includes canapés on
+      arrival.
 
 
-      Hosted by a National Suntory ambassador, guests will taste the extremely
+      Hosted by a National Suntory Ambassador, guests will taste the extremely
       rare 18-year-old Yamazaki Mizunara 100th Anniversary, 18-year-old
       Yamazaki, 18-year-old Hakushu, and 18-year-old Hakushu Peated Malt 100th
       Anniversary.
@@ -46,6 +46,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
