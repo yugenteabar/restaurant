@@ -12,7 +12,7 @@ events:
       arrival. 
     event_date: Thursday 5th October
     event_time: 7pm
-    event_adress: '650 Chapel Street, South Yarra'
+    event_adress: '605 Chapel Street, South Yarra'
     button_text: Menu
     button_link: >-
       https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Yugen Suntory
@@ -36,6 +36,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
