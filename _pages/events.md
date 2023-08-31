@@ -5,8 +5,8 @@ events:
   - event_image: /assets/images/cb4b3f5faae8b1eec6b4c64986d0c97a.jpg
     event_title: House of Suntory 100th Anniversary Dinner.
     event_description: >-
-      2023 marks a century of production for Japanese spirits label, House of
-      Suntory.  In honour of this remarkable achievement, we've curated an
+      2023 marks the 100th year of production for Japanese spirits label, House
+      of Suntory.  In honour of this remarkable achievement, we've curated an
       incredible dining experience showcasing a range of their limited-edition
       whiskies, paired with a bespoke 6-course menu, which includes canapés on
       arrival. 
@@ -46,6 +46,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
