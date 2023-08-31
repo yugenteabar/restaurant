@@ -8,10 +8,20 @@ events:
       2023 marks a century of production for Japanese spirits label, House of
       Suntory.  In honour of this remarkable achievement, we've curated an
       incredible dining experience showcasing a range of their limited-edition
-      whiskies, paired with a bespoke 6-course menu, which includes canapes on
+      whiskies, paired with a bespoke 6-course menu, which includes canapés on
       arrival. 
+
+
+      Hosted by a National Suntory ambassador, guests will taste the extremely
+      rare 18-year-old Yamazaki Mizunara 100th Anniversary, 18-year-old
+      Yamazaki, 18-year-old Hakushu, and 18-year-old Hakushu Peated Malt 100th
+      Anniversary.
+
+
+      Tickets to this one-off event are $550 per person, limited to 20 seats
+      only. 
     event_date: 'Thursday 5th October, 7pm'
-    event_time: Bookings GO LIVE Tuesday 5th September 12pm
+    event_time: ON SALE Tuesday 5th September 12pm
     event_adress: '605 Chapel Street, South Yarra'
     button_text: Menu
     button_link: >-
@@ -36,6 +46,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
