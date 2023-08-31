@@ -14,7 +14,9 @@ events:
     event_time: 7pm
     event_adress: '650 Chapel Street, South Yarra'
     button_text: Menu
-    button_link: ''
+    button_link: >-
+      https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Yugen Suntory
+      Halo Event Menu.pdf
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
@@ -34,6 +36,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
