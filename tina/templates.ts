@@ -615,6 +615,16 @@ export function private_diningFields() {
     },
     {
       type: "string",
+      name: "workin_hour_start",
+      label: "Opening hours",
+    },
+    {
+      type: "string",
+      name: "workin_hour_end",
+      label: "Closing hours",
+    },
+    {
+      type: "string",
       name: "button_text",
       label: "Button text",
     },

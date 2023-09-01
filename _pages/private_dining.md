@@ -1,7 +1,6 @@
 ---
 layout: private_dining
 permalink: /private-dining/
-_template: private_dining
 title: Private Dining & Events
 text: >-
   Yugen is open Wednesday to Sunday
@@ -18,7 +17,12 @@ text: >-
 
 
   All Sunday bookings accrue a 10% surcharge.
+workin_hour_start: '9:30'
+workin_hour_end: '5:30'
 button_text: Email us
 button_link: info@yugen.com.au
+_template: private_dining
 ---
+
+
 
