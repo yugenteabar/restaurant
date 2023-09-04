@@ -90,7 +90,7 @@ yugen_nidaime_price: $175pp
 yugen_nidaime_beverage_pairing: |
   Indulge Sake & Wine Pairing – $85pp
 
-  Prestige Sake & Wine pairing – $145pp
+  Prestige Sake & Wine Pairing – $145pp
 
   Tea Discovery – $65pp
 yugen_nidaime_availability: >-
@@ -150,6 +150,7 @@ book_omakase_btn_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 _template: omakase
 ---
+
 
 
 
