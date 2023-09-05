@@ -23,10 +23,9 @@ events:
     event_date: 'Thursday 5th October, 7pm'
     event_time: TICKETS ON SALE Tuesday 5th September 12pm
     event_adress: '605 Chapel Street, South Yarra'
-    button_text: Menu
+    button_text: Book Now
     button_link: >-
-      https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Yugen Suntory
-      Halo Event Menu.pdf
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=196353&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
@@ -46,6 +45,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
