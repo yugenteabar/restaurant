@@ -21,10 +21,12 @@ events:
       Tickets to this one-off event are $550 per person, limited to 20 seats
       only. 
     event_date: 'Thursday 5th October, 7pm'
-    event_time: TICKETS ON SALE Tuesday 5th September 12pm
+    event_time: TICKETS ON SALE Tuesday 5th September 12pm - SOLD OUT
     event_adress: '605 Chapel Street, South Yarra'
-    button_text: ''
-    button_link: ''
+    button_text: Menu
+    button_link: >-
+      https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Yugen Suntory
+      Halo Event Menu.pdf
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
@@ -44,6 +46,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
