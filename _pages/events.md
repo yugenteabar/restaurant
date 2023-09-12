@@ -21,7 +21,7 @@ events:
       Tickets to this one-off event are $550 per person, limited to 20 seats
       only. 
     event_date: 'Thursday 5th October, 7pm'
-    event_time: TICKETS ON SALE Tuesday 5th September 12pm - SOLD OUT
+    event_time: SOLD OUT
     event_adress: '605 Chapel Street, South Yarra'
     button_text: Menu
     button_link: >-
@@ -46,6 +46,7 @@ events:
 title: What’s On
 _template: events
 ---
+
 
 
 
