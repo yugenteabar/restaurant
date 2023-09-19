@@ -27,7 +27,7 @@ menus:
   - menu_title: A LA CARTE MENU
     pdf_file: /assets/images/Yugen ALC A4 Menu - 14.09.2023.pdf
   - menu_title: Group set menu
-    pdf_file: '/assets/images/Yugen Dining $150 Set Menu - 09.06.2023[72].pdf'
+    pdf_file: /assets/images/Yugen Dining Group Set Menu 14.09.2023.pdf
   - menu_title: Chef’s experience mezzanine menu
     pdf_file: /assets/images/Yugen Dining - 180 Chef Experience 31.08.2023.pdf
   - menu_title: Vegetarian and Vegan menu
@@ -37,6 +37,7 @@ menus:
 title: Food
 _template: food
 ---
+
 
 
 
