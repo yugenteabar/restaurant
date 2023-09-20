@@ -1,7 +1,7 @@
 ---
 layout: private_dining
 permalink: /private-dining/
-title: Private Dining & Events
+title: Semi-Private Dining & Events
 text: >-
   Yugen is open Wednesday to Sunday
 
@@ -23,6 +23,7 @@ button_text: Email us
 button_link: info@yugen.com.au
 _template: private_dining
 ---
+
 
 
 
