@@ -22,12 +22,13 @@ list_of_experiences:
       modern instinct.
   - experience_title: Golden Orb
     experience_text: >-
-      Our eight-seat golden orb brings everyone together and provides the
+      Our six to nine seat golden orb brings everyone together and provides the
       ultimate vantage point to see the night unfold.
 title: The Yugen Experience
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
 _template: about
 ---
+
 
 
 
