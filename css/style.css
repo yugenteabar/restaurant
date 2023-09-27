@@ -729,15 +729,11 @@ body nav #navigation {
 /*    PRIVATE DINING    */
 /*  ------------------  */
 
-#privatedining .cover-image {
-  background-image: url('/img/Yugen_Private_Dining_Page.png');
-}
-
 #privatedining .text p{
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.08em;
-  margin-bottom: 5px;
+  margin-bottom: 1.5em;
   font-weight: 300;
   color: rgba(225,225,225);
 }

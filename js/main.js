@@ -237,9 +237,14 @@ addEventListener('load', () => {
     const container = document.querySelector('.container')
     const containerStyle = container.currentStyle || window.getComputedStyle(container);
 
+    const containerWidth = container.clientWidth
+    const viewportView = window.innerWidth
+
+    
+
     customMargin.forEach((cm) => {
-      cm.style.marginLeft = containerStyle.marginLeft
-      cm.style.marginRight = containerStyle.marginRight
+      cm.style.marginLeft = (viewportView - containerWidth) / 2 + 'px'
+      cm.style.marginRight = (viewportView - containerWidth) / 2 + 'px'
     })
   }
 

@@ -601,37 +601,51 @@ export function private_diningFields() {
       }
     },
     {
-      type: "string",
-      name: "title",
-      label: "Title",
+      type: "image",
+      name: "main_image",
+      label: "Background Image",
     },
     {
-      type: "string",
-      name: "text",
-      label: "Text",
+      type: "object",
+      name: "events",
+      label: "List of Events",
+      list: true,
       ui: {
-        component: "textarea",
+        itemProps: (item) => {
+          return { label: `${item?.title} `}
+        },
       },
-    },
-    {
-      type: "string",
-      name: "workin_hour_start",
-      label: "Opening hours",
-    },
-    {
-      type: "string",
-      name: "workin_hour_end",
-      label: "Closing hours",
-    },
-    {
-      type: "string",
-      name: "button_text",
-      label: "Button text",
-    },
-    {
-      type: "string",
-      name: "button_link",
-      label: "Button link",
+      fields: [
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+          required: true,
+        },
+        {
+          type: "string",
+          name: "text",
+          label: "Text",
+          ui: {
+            component: "textarea",
+          },
+        },
+        {
+          type: "string",
+          name: "button_text",
+          label: "Button text",
+        },
+        {
+          type: "string",
+          name: "button_email",
+          label: "Email for button",
+        },
+        {
+          type: "string",
+          name: "text_below_button",
+          label: "Text Below Button",
+        },
+      ],
     },
   ] as TinaField[];
 }

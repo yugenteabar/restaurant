@@ -5,31 +5,48 @@
 {% include head.html %}
 
 {% include nav.html %}
-<main class="cover-image">
-  <div class="container mx-auto min-h-screen pt-32 md:pt-48 pb-40 flex flex-col items-end md:justify-center">
-    <div class="md:w-2/5 lg:pl-8 lg:pr-20">
-      <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
-        {{ page.title }}
-      </h2>
-      <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-1s">
-        <div class="private-dining-text">
-          {{ page.text | markdownify }}
+<main class="cover-image" style="background-image: url('{{ page.main_image }}');">
+  <div class="container mx-auto min-h-screen pt-32 md:pt-48 pb-20 flex flex-col items-end md:justify-center">
+    <div class="md:w-2/5 lg:pl-8 lg:pr-12">
+      {% for event in page.events %}
+      <div class="mb-16 md:mb-20">
+        {% if event.event_title %}
+        <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
+          {{ event.title }}
+        </h2>
+        {% endif %}
+        {% if event.text %}
+        <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-1s">
+          <div class="private-dining-text">
+            {{ event.text | markdownify }}
+          </div>
+          <!-- <p>
+            If you are visiting us as a party of seven or more, please get in touch with our reservations team at  <a
+              href="mailto:info@yugen.com.au" target="_blank">
+              info@yugen.com.au
+            </a> or <a href="tel:+0370003232">
+              (03) 7000 3232
+            </a>
+            between {{ page.workin_hour_start }}<span class="am-pm">pm</span> and {{ page.workin_hour_end | append: '' }}<span class="am-pm">pm</span>, Tuesday to Saturday.
+          </p> -->
         </div>
-        <p>
-          If you are visiting us as a party of seven or more, please get in touch with our reservations team at  <a
-            href="mailto:info@yugen.com.au" target="_blank">
-            info@yugen.com.au
-          </a> or <a href="tel:+0370003232">
-            (03) 7000 3232
+        {% endif %}
+        {% if event.button_text and event.button_email %}
+        <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
+          <a href="mailto:{{ event.button_email }}?subject={{ event.title }} - Yugen" target="_blank" class="email-btn animate__animated animate__fadeIn">
+            {{ event.button_text }}
           </a>
-          between {{ page.workin_hour_start }}<span class="am-pm">pm</span> and {{ page.workin_hour_end | append: '' }}<span class="am-pm">pm</span>, Tuesday to Saturday.
-        </p>
+        </div>
+        {% endif %}
+        {% if event.text_below_button %}
+        <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-2s">
+          <div class="private-dining-text mt-6 italic">
+            {{ event.text_below_button | markdownify }}
+          </div>
+        </div>
+        {% endif %}
       </div>
-      <div class="mt-12 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
-        <a href="mailto:{{ page.button_link }}" target="_blank" class="email-btn animate__animated animate__fadeIn">
-          {{ page.button_text }}
-        </a>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </main>
