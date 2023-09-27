@@ -6,15 +6,23 @@
 
 {% include nav.html %}
 
-<main class="container mx-auto pt-40 pb-28 flex flex-col lg:flex-row items-center justify-between">
+<main class="container mx-auto pt-40 pb-28 flex flex-col lg:flex-row items-end justify-between">
   <div class="lg:w-1/2">
-    <h1 class="page-title mb-12 animate__animated animate__fadeInUp">
+    <!-- Open Hours -->
+    {% if page.text_before_title %}
+    <div class="working-hours-text animate__animated animate__fadeInUp">
+      {{ page.text_before_title | markdownify }}
+    </div>
+    {% endif %}
+
+
+    <h1 class="page-title mb-6 md:mb-8 mt-12 md:mt-20 animate__animated animate__fadeInUp">
       {{ page.title }}
     </h1>
 
     <!-- contact info -->
-    <div class="contact-info lg:pt-8">
-      <div class="flex items-center animate__animated">
+    <div class="contact-info lg:pt-6">
+      <div class="flex items-end animate__animated">
         <div class="contact-label pr-2">
           Phone:
         </div>
@@ -25,7 +33,7 @@
           </a>
         </div>
       </div>
-      <div class="flex items-center animate__animated animate__fadeInUp">
+      <div class="mb-1 md:mb-0 flex items-end animate__animated animate__fadeInUp">
         <div class="contact-label pr-2">
           EMAIL:
         </div>
@@ -51,7 +59,7 @@
       </div>
     </div>
 
-    <div class="mt-8">
+    <div class="mt-6">
       <h3 class="careers-title animate__animated animate__fadeInUp animate__delay-1s">
         {{ page.careers_title }}
       </h3>
@@ -67,7 +75,7 @@
     </div>
 
     <!-- subscribe -->
-    <div class="mt-16">
+    <div class="mt-12">
       <h2 class="subscribe-title animate__animated animate__fadeInUp animate__delay-2s">
         {{ page.newsletter_title }}
       </h2>

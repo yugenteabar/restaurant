@@ -134,6 +134,11 @@ export function contactFields() {
       }
     },
     {
+      type: "rich-text",
+      name: "text_before_title",
+      label: "Text Before Title",
+    },
+    {
       type: "string",
       name: "title",
       label: "Title",
@@ -149,7 +154,7 @@ export function contactFields() {
           label: "Phone number",
         },
         {
-          type: "number",
+          type: "string",
           name: "phone_number_formated",
           label: "Phone number formated",
         },

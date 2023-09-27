@@ -239,6 +239,19 @@ body nav #navigation {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.footer-privacy-policy {
+  font-style: italic;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+}
+.footer-privacy-policy .underline-animation,
+.footer-privacy-policy:hover .underline-animation {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
 .footer-nav-link {
   font-size: 20px;
   line-height: 28px;
@@ -777,12 +790,25 @@ body nav #navigation {
   text-transform: uppercase;
 }
 
-#contact .careers-text {
+#contact .careers-text,
+#contact .working-hours-text {
   font-size: 20px;
   line-height: 28px;
   letter-spacing: 0.08em;
   font-weight: 300;
   color: rgba(255,255,255,0.8);
+}
+
+#contact .working-hours-text p,
+#contact .working-hours-text p em,
+#contact .working-hours-text p b,
+#contact .working-hours-text p strong {
+  margin-bottom: 1em;
+  font-size: 18px;
+}
+#contact .working-hours-text p b,
+#contact .working-hours-text p strong {
+  font-weight: 600;
 }
 
 #contact .contact-value a {
@@ -1048,12 +1074,17 @@ body nav #navigation {
   }
   
   #contact .contact-label,
-  #contact .careers-title {
+  #contact .careers-title,
+  #contact .working-hours-text p,
+  #contact .working-hours-text p em,
+  #contact .working-hours-text p b,
+  #contact .working-hours-text p strong {
     font-size: 12px;
     line-height: 18px;
-  }
+  } 
   
-  #contact .careers-text {
+  #contact .careers-text,
+  #contact .working-hours-text {
     font-size: 12px;
     line-height: 18px;
   }
