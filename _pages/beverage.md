@@ -1,7 +1,7 @@
 ---
-layout: beverage
 permalink: /beverage/
 title: Beverage
+layout: beverage
 beverage_sections:
   - section_title: Philosophy
     section_text: >-
@@ -9,10 +9,8 @@ beverage_sections:
       intimately intertwined histories of East and West.
 
 
-      Take cues from our knowledgeable team, led by Thibaut Chuzeville. Discover
-      the depth and breadth of our extensive offering by engaging with our
-      expert beverage specialist, Ryan Kimball. We’re here to make the night
-      flow with ease.
+      Take cues from our knowledgeable team, led by Thibaut Chuzeville. We’re
+      here to make the night flow with ease.
   - section_title: Sake
     section_text: >-
       Yugen offers 20 sakes by the glass, divided into five distinct categories.
@@ -35,18 +33,10 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
-  - menu_title: Bar Menu
+  - menu_title: 'Bar Menu | '
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu - AUGUST 2023.pdf
-  - menu_title: BEVERAGE MENU
-    menu_pdf: /assets/images/Yugen Sake & Wine list 10.08.2023.pdf
+  - menu_title: '&nbsp; BEVERAGE MENU '
+    menu_pdf: /assets/images/Yugen Dining Beverage Menu 19.10.2023.pdf
 _template: beverage
 ---
-
-
-
-
-
-
-
-
 

@@ -1,6 +1,13 @@
 ---
-layout: omakase
 permalink: /omakase/
+terms_and_conditions_title: OMAKASE TERMS & CONDITIONS
+yugen_omakase_waitlist_text: >-
+  Missed out on getting a seat this month, join our waitlist to be notified of
+  cancellations
+yugen_omakase_terms_title: Omakase Terms & Conditions
+book_omakase_btn_link: >-
+  https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
+layout: omakase
 title: Omakase
 yugen_omakase_title: Yugen Omakase
 yugen_omakase_image: /assets/images/Yugen Omakase.jpg
@@ -23,22 +30,18 @@ yugen_omakase_text: >
   ways.
 yugen_omakase_signature: ALEX YU - HEAD CHEF
 yugen_omakase_price: $285pp
-yugen_omakase_beverage_pairing: $180pp
+yugen_omakase_beverage_pairing: $185pp
 yugen_omakase_availability: >-
   Yugen Omakase is served for dinner only, Wednesday to Sunday, at 7:00 pm. A
   limited number of seats are available each month, with bookings released on
-  the 1st Wednesday of the month.
-terms_and_conditions_title: OMAKASE TERMS & CONDITIONS
-yugen_omakase_waitlist_text: >-
-  Missed out on getting a seat this month, join our waitlist to be notified of
-  cancellations
+  the 1st Wednesday of the month. Next bookings go live December 6th, for
+  January & February 2024.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: >-
   https://www.quandoo.com.au/checkout-widget/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link&merchantId=94412
 yugen_omakase_waitlist_button_text: OMAKASE WAITLIST
 yugen_omakase_waitlist_button_link: 'https://mailchi.mp/1679dc94ed6a/yugen-omakase'
 yugen_omakase_popup_title: Yugen Dining Omakase
-yugen_omakase_terms_title: Omakase Terms & Conditions
 yugen_omakase_terms_text: >
   Yugen Dining Omakase starts at 7pm sharp.
 
@@ -146,22 +149,6 @@ nidiame_terms_text: >
 
   Credit card payments will incur a processing fee Mastercard / Visa 1.2% - Amex
   / Other 1.6%.
-book_omakase_btn_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 _template: omakase
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
