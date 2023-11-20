@@ -1,4 +1,46 @@
 import type { TinaField } from "tinacms";
+export function indexFields() {
+  return [
+    {
+      type: "string",
+      name: "layout",
+      label: "layout",
+      ui: {
+        component: () => null
+      }
+    },
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+    },
+    {
+      type: "boolean",
+      name: "show_popup",
+      label: "Show Popup",
+    },
+    {
+      type: "string",
+      name: "popup_title",
+      label: "Popup Title",
+    },
+    {
+      type: "rich-text",
+      name: "popup_text",
+      label: "Popup Text",
+    },
+    {
+      type: "string",
+      name: "popup_button_text",
+      label: "Popup Button Text",
+    },
+    {
+      type: "string",
+      name: "popup_button_link",
+      label: "Popup Button Link",
+    }
+  ] as TinaField[];
+}
 export function yugen_experienceFields() {
   return [
     {

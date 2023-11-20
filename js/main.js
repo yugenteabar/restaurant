@@ -192,6 +192,26 @@ addEventListener('load', () => {
     }
   }
 
+  // Popup
+  const homepagePopup = document.getElementById('homepage-popup')
+  const homepageWrapper = document.querySelector('.popup-wrapper')
+  const popupCloseButton = document.querySelector('.popup-close-button')
+  const popUpTimer = 5 // seconds
+
+  if(homepagePopup) {
+    setTimeout(() => {
+      homepagePopup.classList.remove('hidden')
+      setTimeout(() => {
+        homepageWrapper.classList.add('active')
+      }, 200)
+    }, popUpTimer*1000)
+  
+    popupCloseButton.addEventListener('click', () => {
+      homepagePopup.classList.add('hidden')
+      homepageWrapper.classList.remove('active')
+    })
+  }
+
   // loading page
 
   const landingTeaBar = document.getElementById('teaBar')

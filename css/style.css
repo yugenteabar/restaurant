@@ -367,38 +367,63 @@ body nav #navigation {
   background-color: #fff;
   color: #000;
 }
+#homepage-popup .popup-wrapper {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,0.7);
+  backdrop-filter: blur(2px);
+  z-index: -1;
+  opacity: 0;
+  transition: all .5s ease-in-out;
+}
 
-#homepage-popup {
-  background-color: rgba(0,0,0, 0.6);
+#homepage-popup .popup-wrapper.active  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
   z-index: 100;
 }
-
-#homepage-popup .homepage-popup-modal {
-  background-image: url('/assets/images/new_year_event-1.jpg');
-  background-size: cover;
-  background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.7);
-  border: 2px solid white;
-  width: 800px;
-  /* height: 400px; */
-  border-radius: 20px;
-  padding: 16px;
-  opacity: 0;
-  animation: customFadeIn 1s forwards;
+.popup-box {
+  width: clamp(340px, 40em, calc(100% - 32px));
+  padding: 4em 1.25em;
 }
-
-#homepage-popup h2 {
-  font-size: 22px;
-  line-height: 30px;
+.popup-title {
+  font-size: 28px;
+  line-height: 130%;
+  letter-spacing: 0.08em;
+  text-align: center;
 }
-
-#homepage-popup .book-now {
+.popup-content {
+  margin-bottom: 1.25em;
+}
+.popup-content p  {
+  margin-bottom: 1em;
+}
+.popup-content, 
+.popup-content p {
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: 0.08em;
+  text-align: center;
+}
+.popup-btn a{
   font-size: 16px;
-  padding: 10px 28px;
+  padding: 12px 32px;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  transition: all .3s ease;
+  font-weight: 500;
+  color: #fff;
+  
+  
 }
-
-#homepage-popup .homepage-popup-modal p {
-  font-size: 14px;
+.popup-btn a:hover {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #fff;
 }
 
 
@@ -1163,6 +1188,20 @@ body nav #navigation {
 
   .enter-site {
     bottom: 80px;
+  }
+
+  .popup-title {
+    font-size: 24px;
+  }
+  .popup-content, .popup-content p {
+    font-size: 16px;
+  }
+
+  .popup-btn a {
+    font-size: 14px;
+    padding: 12px 32px;
+    text-align: center;
+    width: 100%;
   }
 
   .book-now,

@@ -1,4 +1,5 @@
 import { defineConfig } from "tinacms";
+import { indexFields } from "./templates";
 import { yugen_experienceFields } from "./templates";
 import { beverageFields } from "./templates";
 import { contactFields } from "./templates";
@@ -34,6 +35,11 @@ export default defineConfig({
         path: '_pages',
         format: 'md',
         templates: [
+          {
+            name: 'homepage',
+            label: 'Homepage',
+            fields: indexFields()
+          },
           {
             name: 'about',
             label: 'About page',
