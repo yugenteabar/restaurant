@@ -5,8 +5,7 @@ title: Homepage
 show_popup: true
 popup_title: 'Yūgen: A Delicious Gift Idea!'
 popup_text: >
-  ![](/assets/images/IMG_0714.jpg)
-
+  ![](/assets/images/IMG0714.jpg)\
 
   Take Christmas gifting up a notch with the gift of a memorable dining
   experience!
