@@ -18,21 +18,23 @@
         </svg>
       </span>
 
-      <!-- title -->
-      <div class="popup-title mb-16 animate__animated animate__fadeInUp">
-        {{ page.popup_title }}
-      </div>
-
-      <!-- content -->
-      <div class="popup-content animate__animated animate__fadeInUp animate__delay-1s">
-        {{ page.popup_text | markdownify }}
-      </div>
-
-      <!-- button -->
-      <div class="popup-btn mt-20 flex items-center justify-center animate__animated animate__fadeInUp animate__delay-2s">
-        <a href="{{page.popup_button_link}}" target="_blank" class="popup-btn">
-          {{ page.popup_button_text }}
-        </a>
+      <div class="popup-content-box">
+        <!-- title -->
+        <div class="popup-title mb-16 animate__animated animate__fadeInUp">
+          {{ page.popup_title }}
+        </div>
+  
+        <!-- content -->
+        <div class="popup-content animate__animated animate__fadeInUp animate__delay-1s">
+          {{ page.popup_text | markdownify }}
+        </div>
+  
+        <!-- button -->
+        <div class="popup-btn mt-20 flex items-center justify-center animate__animated animate__fadeInUp animate__delay-2s">
+          <a href="{{page.popup_button_link}}" target="_blank" class="popup-btn">
+            {{ page.popup_button_text }}
+          </a>
+        </div>
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@ title: Homepage
 show_popup: false
 popup_title: 'Yūgen: A Delicious Gift Idea!'
 popup_text: >
-  ![](/assets/images/IMG0714.jpg)\
+  ![gift](/assets/images/IMG0714.jpg)\
 
   Take Christmas gifting up a notch with the gift of a memorable dining
   experience!
@@ -19,4 +19,7 @@ popup_button_text: Order gift card
 popup_button_link: 'https://yugen.vouchercart.com/app/'
 _template: homepage
 ---
+
+
+
 

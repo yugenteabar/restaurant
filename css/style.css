@@ -386,7 +386,12 @@ body nav #navigation {
 }
 .popup-box {
   width: clamp(340px, 40em, calc(100% - 32px));
-  padding: 4em 1.25em;
+  padding: 2em 1.25em;
+}
+.popup-content-box {
+  overflow-y: scroll;
+  max-height: 85vh;
+  padding: 1.5em 0;
 }
 .popup-title {
   font-size: 28px;
@@ -396,6 +401,10 @@ body nav #navigation {
 }
 .popup-content {
   margin-bottom: 1.25em;
+}
+.popup-content img {
+  max-width: 380px;
+  margin: 0 auto;
 }
 .popup-content p  {
   margin-bottom: 1em;
