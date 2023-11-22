@@ -2,7 +2,7 @@
 permalink: //
 layout: index
 title: Homepage
-show_popup: true
+show_popup: false
 popup_title: 'Yūgen: A Delicious Gift Idea!'
 popup_text: >
   ![](/assets/images/IMG0714.jpg)\
