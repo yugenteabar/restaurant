@@ -1,6 +1,21 @@
 ---
 layout: about
 permalink: /about/
+show_popup: false
+popup_title: 'Yūgen: A Delicious Gift Idea!'
+popup_text: >
+  ![](/assets/images/Yugen_October_2320948.png)\
+
+  Take Christmas gifting up a notch with the gift of a memorable dining
+  experience!
+
+
+  Our gift vouchers are the perfect stocking filler.
+
+
+  Valid for either Yūgen Dining or Yūgen Tea Bar.
+popup_button_text: Order gift card
+popup_button_link: 'https://yugen.vouchercart.com/app/'
 text_after_title: >-
   Leave your world behind. Dine, drink, and move with us. The night has just
   begun.
@@ -28,6 +43,7 @@ title: The Yugen Experience
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
 _template: about
 ---
+
 
 
 
