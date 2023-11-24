@@ -4,7 +4,7 @@ layout: events
 title: What’s On
 events:
   - event_image: /assets/images/Yugen_NYE_2023_web.png
-    event_title: Yūgens NYE Underground Countdown
+    event_title: Yūgens NYE Underground Countdown!
     event_description: >
       There is no better place for your NYE celebrations.
 
