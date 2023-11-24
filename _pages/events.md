@@ -23,7 +23,7 @@ events:
     event_date: 31/12/23
     event_time: '5:30pm'
     event_adress: '605 Chapel Street, South Yarra'
-    event_ticket_info: 'https://mailchi.mp/79f111f86893/yugen-nye'
+    event_ticket_info: ''
     button_text: FIND OUT MORE
     button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
   - event_image: /assets/images/EmptyName 114.jpg
