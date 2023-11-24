@@ -21,7 +21,7 @@ events:
 
       Click the link for more info!
     event_date: 31/12/23
-    event_time: '5:30pm'
+    event_time: '5:30pm - till late'
     event_adress: '605 Chapel Street, South Yarra'
     event_ticket_info: ''
     button_text: FIND OUT MORE
