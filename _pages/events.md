@@ -1,7 +1,19 @@
 ---
-layout: events
 permalink: /events/
+layout: events
+title: What’s On
 events:
+  - event_image: /assets/images/Yugen NYE 2023 IG post.png
+    event_title: Yūgens NYE Underground Countdown
+    event_description: |
+      There is no better place for your NYE celebrations.
+      Click the link for more info!
+    event_date: 31/12/23
+    event_time: '5:30pm'
+    event_adress: '605 Chapel Street, South Yarra'
+    event_ticket_info: 'https://mailchi.mp/79f111f86893/yugen-nye'
+    button_text: FIND OUT MORE
+    button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
   - event_image: /assets/images/cb4b3f5faae8b1eec6b4c64986d0c97a.jpg
     event_title: House of Suntory 100th Anniversary Whisky Dinner.
     event_description: >-
@@ -43,24 +55,6 @@ events:
     button_text: Late Night Supper Menu
     button_link: >-
       https://yugendining.com.au/assets/images/yugen-dining-late-night-snack-menu-january-2023.pdf
-title: What’s On
 _template: events
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
