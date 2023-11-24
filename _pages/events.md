@@ -5,8 +5,20 @@ title: What’s On
 events:
   - event_image: /assets/images/Yugen NYE 2023 IG post.png
     event_title: Yūgens NYE Underground Countdown
-    event_description: |
+    event_description: >
       There is no better place for your NYE celebrations.
+
+
+      With two dining sittings till 10:30pm then an after party to remember.
+
+
+      Get yourself a ticket to our late-night party & dance floor and includes a
+      glass of champagne on arrival. Superstar DJ DNE will get the party started
+      in style and there will be plenty of live entertainment. Dance the night
+      away, with electrifying energy from Melbourne's most-loved DJ. Enjoy a
+      late-night snack from our Supper menu, which will also be available. And
+      when the clock strikes midnight, brace yourself for the spectacular. 
+
       Click the link for more info!
     event_date: 31/12/23
     event_time: '5:30pm'
