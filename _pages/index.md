@@ -3,20 +3,11 @@ permalink: //
 layout: index
 title: Homepage
 show_popup: true
-popup_title: 'Yūgen: A Delicious Gift Idea!'
-popup_text: >
+popup_title: Yūgen's NYE Underground Countdown
+popup_text: |
   ![](</assets/images/Yugen NYE Website Pop-up.gif>)\
-
-  Take Christmas gifting up a notch with the gift of a memorable dining
-  experience!
-
-
-  Our gift vouchers are the perfect stocking filler.
-
-
-  Valid for either Yūgen Dining or Yūgen Tea Bar.
-popup_button_text: Order gift card
-popup_button_link: 'https://yugen.vouchercart.com/app/'
+popup_button_text: Join the party!
+popup_button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
 _template: homepage
 ---
 
