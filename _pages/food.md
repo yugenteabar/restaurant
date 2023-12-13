@@ -26,7 +26,7 @@ food_sections:
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
-    pdf_file: /assets/images/Yugen ALC A4 Menu 08.12.2023.pdf
+    pdf_file: /assets/images/Yugen ALC A4 Menu 13.12.2023.pdf
   - menu_title: Group set menu
     pdf_file: /assets/images/Yugen Dining Group Set Menu 14.09.2023.pdf
   - menu_title: Chef’s experience mezzanine menu
