@@ -1035,7 +1035,7 @@ body nav #navigation {
   }
 
   #homepage-popup {
-    margin-top: 120px;
+    /* margin-top: 120px; */
   }
   
   #homepage-popup h2 {
@@ -1045,7 +1045,18 @@ body nav #navigation {
   #homepage-popup .homepage-popup-modal p {
     font-size: 13px;
   }
+  .close-button-popup {
+    top: 24px;
+  }
   
+  .popup-content img,
+  .popup-content p img {
+    width: 100%;
+  }
+  .popup-content-box {
+    max-height: 85dvh;
+  }
+
   #homepage-popup .book-now {
     font-size: 14px;
     padding: 8px 20px;
