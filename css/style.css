@@ -1060,6 +1060,15 @@ body nav #navigation {
     max-height: 85dvh;
     padding-right: 5px;
   }
+  .popup-content-box::-webkit-scrollbar {
+    display: none;
+  }
+
+  .popup-content-box {
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+  }
+
 
   #homepage-popup .book-now {
     font-size: 14px;
