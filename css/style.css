@@ -1049,12 +1049,16 @@ body nav #navigation {
     top: 24px;
   }
   
+  .popup-box {
+    padding: 2em 1em;
+  }
   .popup-content img,
   .popup-content p img {
     width: 100%;
   }
   .popup-content-box {
     max-height: 85dvh;
+    padding-right: 5px;
   }
 
   #homepage-popup .book-now {
