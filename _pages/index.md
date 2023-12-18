@@ -3,9 +3,9 @@ permalink: //
 layout: index
 title: Homepage
 show_popup: true
-popup_title: Yūgen's NYE Underground Countdown
+popup_title: Give the gift of Yūgen!
 popup_text: |
-  ![](</assets/images/New Years Eve 2024 (403 x 512 px).gif>)
+  ![](</assets/images/Yugen_October_Lamb Ribs.jpg>)![]()
 popup_button_text: Join the party!
 popup_button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
 _template: homepage
