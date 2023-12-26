@@ -34,7 +34,7 @@ menus:
   - menu_title: Vegetarian and Vegan menu
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 22.11.2023.pdf
   - menu_title: LATE NIGHT SUPPER MENU
-    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 01.12.23.pdf
+    pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
 _template: food
 ---
 
