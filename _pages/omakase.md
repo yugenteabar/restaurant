@@ -34,8 +34,8 @@ yugen_omakase_beverage_pairing: $185pp
 yugen_omakase_availability: >-
   Yugen Omakase is served for dinner only, Wednesday to Sunday, at 7:00 pm. A
   limited number of seats are available each month, with bookings released on
-  the 1st Wednesday of the month. Next bookings go live December 6th, for
-  January & February 2024.
+  the 1st Wednesday of the month. Next bookings go live February 7th for March &
+  April 2024.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: >-
   https://www.quandoo.com.au/checkout-widget/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link&merchantId=94412
