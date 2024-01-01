@@ -2,7 +2,7 @@
 permalink: //
 layout: index
 title: Homepage
-show_popup: true
+show_popup: false
 popup_title: NYE Underground Countdown
 popup_text: >
   ![](</assets/images/Gold Elegant New Year's Eve Party Invitation (Youtube
