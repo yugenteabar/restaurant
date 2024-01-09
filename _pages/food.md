@@ -27,8 +27,8 @@ culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
     pdf_file: /assets/images/Yugen ALC A4 Menu 28.12.2023.pdf
-  - menu_title: Group set menu
-    pdf_file: /assets/images/Yugen Dining $150 Set Menu 08.12.2023.pdf
+  - menu_title: Group set menus
+    pdf_file: ''
   - menu_title: Chef’s experience mezzanine menu
     pdf_file: /assets/images/Yugen Dining - $180 Chef Experience 29.11.2023.pdf
   - menu_title: Vegetarian and Vegan menu
