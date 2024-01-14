@@ -3,12 +3,11 @@ permalink: //
 layout: index
 title: Homepage
 show_popup: false
-popup_title: NYE Underground Countdown
-popup_text: >
-  ![](</assets/images/Gold Elegant New Year's Eve Party Invitation (Youtube
-  Banner) (2500 x 1700 px)-3.gif>)![]()
-popup_button_text: Join the party!
-popup_button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
+popup_title: Lunar New Year at Yūgen
+popup_text: |
+  ![](/assets/images/1.jpg)
+popup_button_text: Find out more
+popup_button_link: 'https://yugendining.com.au/events'
 _template: homepage
 ---
 
