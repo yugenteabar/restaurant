@@ -17,8 +17,8 @@ events:
       The Lunar New Year is a time for renewal and fresh beginnings. We invite
       you to embrace the spirit of this joyous occasion with our exclusive
       banquets.
-    event_date: 07/02/24
-    event_time: 6pm
+    event_date: February 9th - 24th 2024
+    event_time: ''
     event_adress: '605 Chapel Street, South Yarra'
     button_text: FIND OUT MORE
     button_link: 'https://mailchi.mp/032fe1413361/lunar-new-year'
