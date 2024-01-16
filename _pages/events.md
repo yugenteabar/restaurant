@@ -3,29 +3,39 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/Yugen_NYE_2023_web.png
-    event_title: Yūgens NYE Underground Countdown!
-    event_description: >
-      There is no better place for your NYE celebrations.
+  - event_image: /assets/images/1.jpg
+    event_title: Lunar New Year at Yūgen Dining.
+    event_description: >-
+      Celebrate the Year of the Dragon with at Yūgen Dining
 
 
-      With two dining sittings till 10:30pm then an after party to remember.
+      As the Year of the Dragon dawns, Yūgen Dining invites you to an
+      extraordinary celebration filled with culinary wonders. Immerse yourself
+      in the vibrant ambiance and embark on a gastronomic journey that will
+      tantalise your taste buds and create lasting memories.
 
 
-      Get yourself a ticket to our late-night party & dance floor and includes a
-      glass of champagne on arrival. Superstar DJ DNE will get the party started
-      in style and there will be plenty of live entertainment. Dance the night
-      away, with electrifying energy from Melbourne's most-loved DJ. Enjoy a
-      late-night snack from our Supper menu, which will also be available. And
-      when the clock strikes midnight, brace yourself for the spectacular. 
+      Our exclusive banquet menus, meticulously crafted for the Golden Orb,
+      offer a symphony of flavours that capture the essence of the Lunar New
+      Year. Indulge in a feast of exquisite dishes, each showcasing the finest
+      ingredients and culinary artistry.
 
-      Click the link for more info!
-    event_date: 31/12/23
-    event_time: '5:30pm - till late'
+
+      Delight your palate with our limited-time desserts, each a masterpiece
+      inspired by the traditions and legends of the Lunar New Year. These sweet
+      creations are a testament to the creativity and skill of our pastry chefs.
+
+
+      Complement your culinary journey with our expertly curated sake and wine
+      pairings. Our sommeliers have carefully selected each pairing to enhance
+      the flavours of our dishes and create a harmonious dining experience.
+
+
+      At Yūgen Dining, we offer the perfect setting to gather with loved ones
+      and celebrate the new year in style.
+    event_date: 07/02/24
+    event_time: 6pm
     event_adress: '605 Chapel Street, South Yarra'
-    event_ticket_info: ''
-    button_text: FIND OUT MORE
-    button_link: 'https://mailchi.mp/79f111f86893/yugen-nye'
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
