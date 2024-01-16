@@ -36,6 +36,10 @@ events:
     event_date: 07/02/24
     event_time: 6pm
     event_adress: '605 Chapel Street, South Yarra'
+    button_text: Menu
+    button_link: >-
+      https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Pages from
+      LUNAR (A5) Orb $888.pdf
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
