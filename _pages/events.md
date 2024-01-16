@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/1.jpg
+  - event_image: ''
     event_title: Lunar New Year at Yūgen Dining.
     event_description: >-
       Celebrate the Year of the Dragon with at Yūgen Dining
