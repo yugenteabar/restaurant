@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/LNY EmailWebsite Header.jpg
+  - event_image: /assets/images/LUNAR (800 x 500 px).jpg
     event_title: Lunar New Year at Yūgen Dining.
     event_description: >-
       At Yūgen we believe that the Lunar New Year should be celebrated with an
