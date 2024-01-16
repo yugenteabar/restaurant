@@ -6,40 +6,22 @@ events:
   - event_image: /assets/images/LNY EmailWebsite Header.jpg
     event_title: Lunar New Year at Yūgen Dining.
     event_description: >-
-      Celebrate the Year of the Dragon with at Yūgen Dining
+      At Yūgen we believe that the Lunar New Year should be celebrated with an
+      abundance of flavours and aromas. Let your taste buds dance to the beat of
+      our carefully crafted dishes and decadent desserts, expertly prepared by
+      our talented chefs to make sure there is an explosion of flavour in every
+      bite. Each dish is an invitation to indulge in the traditions of the
+      season.
 
 
-      As the Year of the Dragon dawns, Yūgen Dining invites you to an
-      extraordinary celebration filled with culinary wonders. Immerse yourself
-      in the vibrant ambiance and embark on a gastronomic journey that will
-      tantalise your taste buds and create lasting memories.
-
-
-      Our exclusive banquet menus, meticulously crafted for the Golden Orb,
-      offer a symphony of flavours that capture the essence of the Lunar New
-      Year. Indulge in a feast of exquisite dishes, each showcasing the finest
-      ingredients and culinary artistry.
-
-
-      Delight your palate with our limited-time desserts, each a masterpiece
-      inspired by the traditions and legends of the Lunar New Year. These sweet
-      creations are a testament to the creativity and skill of our pastry chefs.
-
-
-      Complement your culinary journey with our expertly curated sake and wine
-      pairings. Our sommeliers have carefully selected each pairing to enhance
-      the flavours of our dishes and create a harmonious dining experience.
-
-
-      At Yūgen Dining, we offer the perfect setting to gather with loved ones
-      and celebrate the new year in style.
+      The Lunar New Year is a time for renewal and fresh beginnings. We invite
+      you to embrace the spirit of this joyous occasion with our exclusive
+      banquets.
     event_date: 07/02/24
     event_time: 6pm
     event_adress: '605 Chapel Street, South Yarra'
-    button_text: Menu
-    button_link: >-
-      https://assets.tina.io/423645d1-8948-496a-83be-dbe7cd59ba9d/Pages from
-      LUNAR (A5) Orb $888.pdf
+    button_text: FIND OUT MORE
+    button_link: 'https://mailchi.mp/032fe1413361/lunar-new-year'
   - event_image: /assets/images/EmptyName 114.jpg
     event_title: Yugen Late Night DJ's
     event_description: >-
