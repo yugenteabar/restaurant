@@ -3,6 +3,18 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
+  - event_image: /assets/images/Dan_Hong_Portrait_Lotus-060 (1).jpg
+    event_title: 'MFWF - Dan Hong x Yūgen Dining '
+    event_description: >-
+      In an event not to be missed, Dan Hong executive chef at Merivale Group
+      (Mr Wong, Ms G's, Sushi-e, Queen Chow) bring his cullinary expertise and
+      his love of flavour to Yūgen for two special nights as part of the
+      Melbourne Food and Wine Festival. 
+    event_date: '20th & 21st March '
+    event_time: '6.30pm - 10.30pm '
+    event_adress: '605 Chapel St '
+    button_text: BOOK NOW
+    button_link: 'https://www.melbournefoodandwine.com.au/events/dan-hong-x-yugen-dining/'
   - event_image: /assets/images/LUNAR (800 x 500 px).jpg
     event_title: Lunar New Year at Yūgen Dining.
     event_description: >-
