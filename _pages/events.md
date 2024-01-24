@@ -10,6 +10,9 @@ events:
       (Mr Wong, Ms G's, Sushi-e, Queen Chow) bring his cullinary expertise and
       his love of flavour to Yūgen for two special nights as part of the
       Melbourne Food and Wine Festival. 
+
+
+      Tickets on Sale Thursday 1st February at 10am. 
     event_date: '20th & 21st March '
     event_time: '6.30pm - 10.30pm '
     event_adress: '605 Chapel St '
