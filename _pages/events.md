@@ -17,8 +17,7 @@ events:
     event_time: '6.30pm - 10.30pm '
     event_adress: '605 Chapel St '
     button_text: 'FIND OUT MORE '
-    button_link: >-
-      https://www.melbournefoodandwine.com.au/mfwf-2024-program/global-dining-series/
+    button_link: 'https://www.melbournefoodandwine.com.au/events/dan-hong-x-yugen-dining/'
   - event_image: /assets/images/LUNAR (800 x 500 px).jpg
     event_title: Lunar New Year at Yūgen Dining.
     event_description: >-
