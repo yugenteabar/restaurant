@@ -7,7 +7,7 @@ events:
     event_title: 'MFWF - Dan Hong x Yūgen Dining '
     event_description: >-
       In an event not to be missed, Dan Hong executive chef at Merivale Group
-      (Mr Wong, Ms G's, Sushi-e, Queen Chow) bring his cullinary expertise and
+      (Mr Wong, Ms G's, Sushi-e, Queen Chow) brings his cullinary expertise and
       his love of flavour to Yūgen for two special nights as part of the
       Melbourne Food and Wine Festival. 
 
