@@ -10,25 +10,9 @@ book_omakase_btn_link: >-
 layout: omakase
 title: Omakase
 yugen_omakase_title: Yugen Omakase
-yugen_omakase_image: /assets/images/Yugen Omakase.jpg
-yugen_omakase_text: >
-  Yūgen offers a modern take on Omakase tradition.
-
-
-  A melding of culinary techniques born in Japan; refined in Australia. We
-  deliver Omakase dining with community at its core.
-
-
-  With only 6 seats at our mezzanine bar, Chef Alex Yu will guide you through an
-  evolving showcase of the finest produce from Australia and Japan, sourced
-  without compromise, and tailored specifically for you.
-
-
-  The relationships we aim to form with guests, create a memorable, intimate
-  experience, turning first time guests into family. We want to create a mutual
-  journey of trust and discovery, satisfying your senses in new and profound
-  ways.
-yugen_omakase_signature: ALEX YU - HEAD CHEF
+yugen_omakase_image: /assets/images/Yugen_Omakase - Sam Chee - Jason Loucas Photography.jpg
+yugen_omakase_text: "An exploration of taste and textures, our Omakase is a sensory journey.\_The melding of contemporary Japanese and Australian culinary techniques.\_With 6 seats available at our intimate mezzanine bar, our skilled Sushi Chefs will guide you through a personalised multi-course journey of the finest produce, led by the seasons & oceans.\_\_\\\n\nFrom the first bite to the last, we aim to form long lasting relationships with our guests, turning strangers into family.\_Trust us to create a memorable and profound dining experience which celebrates our chef's craftsmanship and precision, complimented by our elevated beverage pairings.\\\n\nProudly awarded Two Hats in the 2023 and 2024 Good Food Guide Awards.\n"
+yugen_omakase_signature: ''
 yugen_omakase_price: $285pp
 yugen_omakase_beverage_pairing: $185pp
 yugen_omakase_availability: >-
