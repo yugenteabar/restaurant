@@ -34,7 +34,7 @@ beverage_sections:
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
   - menu_title: 'Bar Menu | '
-    menu_pdf: /assets/images/Yugen Dining A5 Bar Menu - AUGUST 2023.pdf
+    menu_pdf: '/assets/images/Yugen Dining A5 Bar Menu - 17.01.2024[50].pdf'
   - menu_title: '&nbsp; BEVERAGE MENU '
     menu_pdf: /assets/images/Yugen Dining Beverage Menu 30.11.2023.pdf
 _template: beverage
