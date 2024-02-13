@@ -30,6 +30,8 @@ jekyll-archives:
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-sitemap
+
 
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
