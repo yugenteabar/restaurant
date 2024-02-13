@@ -37,3 +37,5 @@ gem "webrick", "~> 1.7"
 gem "jekyll-archives", "~> 2.2"
 
 gem 'jekyll-sitemap', '~> 1.4'
+
+gem 'jekyll-seo-tag', '~> 2.8'

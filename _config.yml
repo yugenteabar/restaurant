@@ -27,10 +27,13 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
+seo:
+  canonical: true
 plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 
