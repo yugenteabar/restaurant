@@ -905,6 +905,56 @@ body nav #navigation {
 }
 
 
+/* ------------------ */
+/*    RESERVATIONS    */
+/* ------------------ */
+
+#reservations .cover-image {
+  background-color: #000000;
+}
+
+#reservations .text p {
+  margin-bottom: 1.5rem;
+}
+
+#reservations .custom-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+#reservations .above-title {
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.7);
+  margin-bottom: 12px;
+}
+#reservations .title {
+  font-size: 60px;
+  line-height: 72px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+#reservations .text,
+#reservations .text p {
+  text-align: center;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.9);
+}
+#reservations .text {
+  margin-bottom: 60px;
+}
+
+
+
 
 /* ----------- */
 /*    TERMS    */
@@ -1032,10 +1082,6 @@ body nav #navigation {
 @media (max-width: 450px) {
   #homepage  .cover-image {
     background-image: url('/img/Yugen_HomePage_mobile.jpg');
-  }
-
-  #homepage-popup {
-    /* margin-top: 120px; */
   }
   
   #homepage-popup h2 {
@@ -1342,6 +1388,37 @@ body nav #navigation {
   
   #dining .arrowDown {
     animation: arrowDown ease-in-out infinite 1s;
+  }
+
+
+  /* ------------------ */
+  /*    RESERVATIONS    */
+  /* ------------------ */
+
+
+  #reservations .above-title {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  #reservations .title {
+    font-size: 36px;
+    line-height: 48px;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+  #reservations .text,
+  #reservations .text p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.9);
+  }
+  #reservations .text p {
+    margin-bottom: 16px;
+  }
+
+  .ot-dtp-picker.ot-standard {
+    background-color: red !important;
   }
 }
 

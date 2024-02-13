@@ -649,16 +649,46 @@ export function omakaseFields() {
       name: "nidiame_terms_text",
       label: 'Yugen Nidaime Terms T&C Text'
     },
-    
-
-    
-
-
-
-    
-
-
-
+  ] as TinaField[];
+}
+export function reservationsFields() {
+  return [
+    {
+      type: "string",
+      name: "layout",
+      label: "layout",
+      ui: {
+        component: () => null
+      }
+    },
+    {
+      type: "boolean",
+      name: "show_page",
+      label: "Show Page",
+    },
+    {
+      type: "image",
+      name: "main_image",
+      label: "Background Image",
+    },
+    {
+      type: "string",
+      name: "above_title",
+      label: "Text Above Title",
+    },
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+    },
+    {
+      type: "string",
+      name: "text",
+      label: "Text after title",
+      ui: {
+        component: "textarea",
+      },
+    }
     
   ] as TinaField[];
 }

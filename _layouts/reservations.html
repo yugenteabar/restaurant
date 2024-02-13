@@ -1,0 +1,56 @@
+{% if page.show_page %}
+
+{% assign current_page = 'reservations' %}
+{% assign page_title = 'Reservations' %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<main class="cover-image">
+  <div class="container mx-auto h-full pt-32 md:pt-48 pb-20 flex flex-col items-center">
+    <h3 class="above-title">{{ page.above_title }}</h3>
+    <h1 class="title">{{ page.title }}</h1>
+    <div class="text">{{ page.text | markdownify }}</div>
+    <script type='text/javascript' src='//www.opentable.com.au/widget/reservation/loader?rid=170390&type=standard&theme=wide&color=6&dark=true&iframe=true&domain=comau&lang=en-AU&newtab=false&ot_source=Restaurant%20website&cfe=true'></script>
+  </div>
+</main>
+
+{% include footer.html %}
+
+{% else %}
+
+<style type="text/css" media="screen">
+  body  {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+  }
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  h1, p {
+    color: white;
+  }
+</style>
+
+<div class="container">
+  <h1 class="pt-20">404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+
+{% endif %}
