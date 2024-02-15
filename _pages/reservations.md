@@ -1,11 +1,11 @@
 ---
-layout: reservations
 permalink: /reservations/
+layout: reservations
 show_page: true
-title: RESERVATIONS AT YUGEN DINING
-above_title: RESERVE YOUR TABLE
+above_title: ''
+title: RESERVATIONS
 text: >-
-  Yugen is open for dinner Wednesday to Sunday from 6pm.
+  Yūgen Dining is open for dinner Wednesday to Sunday from 6pm.
 
 
   Bookings are available online for up to 12 guests.
@@ -14,20 +14,14 @@ text: >-
   Walk-ins are welcome for our bar area.
 
 
+  Group bookings of 7 are required to dine on a set menu.
 
-  For Group bookings of 7 or more, a set menu is required.
+
+  Omakase bookings are available via our Omakase page.
 
 
   You can book anytime online, or call our Reservations team on (03) 7000 3232
   (Tues - Sat 9:30am-5:30pm)
 _template: reservations
 ---
-
-
-
-
-
-
-
-
 
