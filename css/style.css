@@ -1071,6 +1071,9 @@ footer .subscribe-btn:hover{
   outline: none;
 }
 
+.mobile-show {
+  display: none;
+}
 
 
 
@@ -1107,6 +1110,12 @@ footer .subscribe-btn:hover{
 
 
 @media (max-width: 450px) {
+  .mobile-hidden {
+    display: none;
+  }
+  .mobile-show {
+    display: block;
+  }
   #homepage  .cover-image {
     background-image: url('/img/Yugen_HomePage_mobile.jpg');
   }
@@ -1259,6 +1268,13 @@ footer .subscribe-btn:hover{
   #omakase .nidaime-terms-container .beverage-pairing{
     font-weight: 100;
     color: rgba(255,255,255,0.85);
+  }
+  .below-socials-text {
+    font-size: 14px;
+    color: rgba(255,255,255,0.5);
+  }
+  .footer-socials {
+    width: 180px;
   }
 }
 
