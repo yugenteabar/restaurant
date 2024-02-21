@@ -432,6 +432,11 @@ export function musicFields() {
       }
     },
     {
+      type: "boolean",
+      name: "show_page",
+      label: "Show Page",
+    },
+    {
       type: "string",
       name: "title",
       label: "Title",

@@ -1,8 +1,6 @@
 ---
 layout: music
 permalink: /music/
-_template: music
-
 title: Music
 description: >-
   Yugen moves with you. We take it where you want to go. From an unforgettable
@@ -26,5 +24,9 @@ opening_hours:
   - days: Friday and Saturday
     open_hours: '6:30pm'
     closing_hours: '1:00am'
+show_page: false
+_template: music
 ---
+
+
 

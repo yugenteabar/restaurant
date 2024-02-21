@@ -1,10 +1,11 @@
-{% if page.show_page %}
-
 {% assign current_page = 'reservations' %}
 {% assign page_title = 'Reservations' %}
 {% assign pageUrl = page.path | split: "/" %}
 
 {% include head.html %}
+
+
+{% if page.show_page %}
 
 {% include nav.html %}
 
@@ -40,8 +41,13 @@
     line-height: 1;
     letter-spacing: -1px;
   }
-  h1, p {
+  h1, p, a {
     color: white;
+  }
+  a {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 1.2em;
   }
 </style>
 
@@ -50,6 +56,11 @@
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <a href="/">
+    Go to Homepage
+    <div class="underline-animation"></div>
+  </a>
+  
 </div>
 
 
