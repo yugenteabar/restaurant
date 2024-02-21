@@ -230,13 +230,36 @@ body nav #navigation {
   max-width: 420px;
 }
 
-.footer-informations div{
+.footer-informations > div,
+.footer-informations > a div {
   font-style: italic;
   font-weight: 300;
   font-size: 16px;
   line-height: 22px;
-  text-align: right;
   color: rgba(255, 255, 255, 0.5);
+}
+.footer-informations a div{
+  transition: all 0.3s ease-in-out;
+}
+.footer-informations a:hover div{
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.footer-logo .below-footer-logo {
+  font-weight: 300;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(225,225,225, 0.6);
+  margin-top: 20px;
+}
+.footer-informations .below-socials-text {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(255,255,255,0.85);
 }
 
 .footer-privacy-policy {
@@ -244,7 +267,6 @@ body nav #navigation {
   font-weight: 300;
   font-size: 16px;
   line-height: 22px;
-  text-align: right;
   color: rgba(255, 255, 255, 0.5);
 }
 .footer-privacy-policy .underline-animation,
@@ -881,7 +903,8 @@ body nav #navigation {
   color: rgba(255,255,255,0.8);
 }
 
-#contact .subscribe-btn {
+#contact .subscribe-btn,
+footer .subscribe-btn {
   font-size: 16px;
   padding: 8px 20px;
   border-radius: 50px;
@@ -891,8 +914,12 @@ body nav #navigation {
   transition: all .3s ease;
   font-weight: 500;
 }
+footer .subscribe-btn {
+  color: #FFF;
+}
 
-#contact .subscribe-btn:hover {
+#contact .subscribe-btn:hover,
+footer .subscribe-btn:hover{
   background-color: #fff;
   color: #000;
 }
@@ -1208,7 +1235,8 @@ body nav #navigation {
     font-size: 12px;
     line-height: 18px;
   }
-  #contact .subscribe-btn {
+  #contact .subscribe-btn,
+  footer .subscribe-btn {
     font-size: 14px;
   }
 

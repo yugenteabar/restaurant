@@ -31,6 +31,10 @@ text: >-
 
   You can book anytime online, or call our Reservations team on (03) 7000 3232
   (Tues - Sat 9:30am-5:30pm)
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: reservations
 ---
+
 

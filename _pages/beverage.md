@@ -37,6 +37,10 @@ menus:
     menu_pdf: '/assets/images/Yugen Dining A5 Bar Menu - 17.01.2024[50].pdf'
   - menu_title: '&nbsp; BEVERAGE MENU '
     menu_pdf: '/assets/images/Yugen Dining Beverage Menu 08.02.2024[48].pdf'
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: beverage
 ---
+
 

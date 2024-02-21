@@ -35,6 +35,10 @@ menus:
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 07.02.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: food
 ---
+
 

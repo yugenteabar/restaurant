@@ -41,8 +41,12 @@ list_of_experiences:
       ultimate vantage point to see the night unfold.
 title: The Yugen Experience
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: about
 ---
+
 
 
 

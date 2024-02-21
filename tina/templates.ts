@@ -11,6 +11,11 @@ export function indexFields() {
     },
     {
       type: "string",
+      name: "meta_description",
+      label: "Meta Description",
+    },
+    {
+      type: "string",
       name: "title",
       label: "Title",
     },
@@ -50,6 +55,11 @@ export function yugen_experienceFields() {
       ui: {
         component: () => null
       }
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
     },
     {
       type: "boolean",
@@ -134,6 +144,11 @@ export function beverageFields() {
       }
     },
     {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
+    },
+    {
       type: "object",
       name: "beverage_sections",
       label: "Beverage sections",
@@ -199,6 +214,11 @@ export function contactFields() {
       ui: {
         component: () => null
       }
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
     },
     {
       type: "rich-text",
@@ -273,6 +293,11 @@ export function eventsFields() {
       ui: {
         component: () => null
       }
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
     },
     {
       type: "string",
@@ -362,6 +387,11 @@ export function foodFields() {
     },
     {
       type: "string",
+      name: "meta_description",
+      label: "Meta Description",
+    },
+    {
+      type: "string",
       name: "title",
       label: "Title",
     },
@@ -430,6 +460,11 @@ export function musicFields() {
       ui: {
         component: () => null
       }
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
     },
     {
       type: "boolean",
@@ -517,6 +552,11 @@ export function omakaseFields() {
     },
     {
       type: "string",
+      name: "meta_description",
+      label: "Meta Description",
+    },
+    {
+      type: "string",
       name: "title",
       label: "Title",
       ui: {
@@ -592,12 +632,6 @@ export function omakaseFields() {
       name: "yugen_omakase_terms_text",
       label: 'Yugen Omakase Terms T&C Text'
     },
-    
-
-    
-
-
-
 
 
     {
@@ -667,6 +701,11 @@ export function reservationsFields() {
       }
     },
     {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
+    },
+    {
       type: "boolean",
       name: "show_page",
       label: "Show Page",
@@ -706,6 +745,11 @@ export function private_diningFields() {
       ui: {
         component: () => null
       }
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta Description",
     },
     {
       type: "image",

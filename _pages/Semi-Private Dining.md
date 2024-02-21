@@ -34,8 +34,12 @@ workin_hour_start: '9:30'
 workin_hour_end: '5:30'
 button_text: Email us
 button_link: info@yugen.com.au
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: private_dining
 ---
+
 
 
 
