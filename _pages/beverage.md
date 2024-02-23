@@ -2,6 +2,9 @@
 permalink: /beverage/
 title: Beverage
 layout: beverage
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 beverage_sections:
   - section_title: Philosophy
     section_text: >-
@@ -34,13 +37,9 @@ beverage_sections:
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
   - menu_title: 'Bar Menu | '
-    menu_pdf: '/assets/images/Yugen Dining A5 Bar Menu - 17.01.2024[50].pdf'
+    menu_pdf: '/assets/images/Yugen Dining A5 Bar Menu - 21.02.2024[28].pdf'
   - menu_title: '&nbsp; BEVERAGE MENU '
     menu_pdf: '/assets/images/Yugen Dining Beverage Menu 08.02.2024[48].pdf'
-meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: beverage
 ---
-
 
