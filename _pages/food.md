@@ -4,6 +4,9 @@ links:
   - pdf_file: /assets/images/yugen-dining-food-menu.pdf
     link_text: A LA CARTE MENU
 layout: food
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Food
 food_sections:
   - section_title: Food
@@ -26,7 +29,7 @@ food_sections:
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
-    pdf_file: /assets/images/Yugen ALC A4 Menu 07.02.2024.pdf
+    pdf_file: /assets/images/Yugen ALC A4 Menu 21.02.2024.pdf
   - menu_title: Group set menus
     pdf_file: /assets/images/Yugen Dining Group Set Menus - 02.02.2024.pdf
   - menu_title: Chef’s experience mezzanine menu
@@ -35,10 +38,6 @@ menus:
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 07.02.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
-meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: food
 ---
-
 
