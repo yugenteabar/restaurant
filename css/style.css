@@ -968,6 +968,8 @@ footer .subscribe-btn:hover{
   color: white;
   font-weight: 600;
   margin-bottom: 40px;
+  font-family: 'Manofa';
+  letter-spacing: 0.08em;
 }
 #reservations .text,
 #reservations .text p {
