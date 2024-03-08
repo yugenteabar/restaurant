@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/IWD IG Stories (LinkedIn Post).gif
+  - event_image: /assets/images/Untitled design.png
     event_title: >-
       This year Yūgen will be partnering with SisterWorks, a non-profit social
       enterprise supporting refugee, migrant & asylum-seeking women through work
