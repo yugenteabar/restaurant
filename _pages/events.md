@@ -4,7 +4,8 @@ layout: events
 title: What’s On
 events:
   - event_image: /assets/images/Untitled design.png
-    event_title: >-
+    event_title: International Women's Day
+    event_description: >-
       This year Yūgen will be partnering with SisterWorks, a non-profit social
       enterprise supporting refugee, migrant & asylum-seeking women through work
       and entrepreneurship for wellbeing and economic independence. 
