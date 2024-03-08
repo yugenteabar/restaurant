@@ -15,7 +15,7 @@ events:
       from over 105 countries. This year all proceeds from our Kanro & Ume
       Negroni cocktails sold on International Woman’s Day, Friday the 8th of
       March, will go to supporting the efforts of SisterWorks.
-    event_date: 08/03/24
+    event_date: Friday 8th March
     button_text: book now
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Dan_Hong_Portrait_Lotus-060 (1).jpg
