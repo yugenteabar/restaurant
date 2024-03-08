@@ -8,6 +8,9 @@ yugen_omakase_terms_title: Omakase Terms & Conditions
 book_omakase_btn_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 layout: omakase
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Omakase
 yugen_omakase_title: Yugen Omakase
 yugen_omakase_image: /assets/images/Yugen_0218.jpg
@@ -83,7 +86,7 @@ yugen_nidaime_beverage_pairing: |
 yugen_nidaime_availability: >-
   Nidaime Omakase is available for dinner, Wednesday to Sunday, at 6pm or
   8:30pm.
-yugen_nidaime_book_text: BOOK OMAKASE
+yugen_nidaime_book_text: BOOK NIDAIME
 yugen_nidiame_book_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=191894&utm_source=external&utm_medium=referral&utm_campaign=shared
 nidiame_terms_title: Omakase Terms & Conditions
@@ -133,10 +136,6 @@ nidiame_terms_text: >
 
   Credit card payments will incur a processing fee Mastercard / Visa 1.2% - Amex
   / Other 1.6%.
-meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: omakase
 ---
-
 
