@@ -33,7 +33,7 @@ menus:
   - menu_title: Group set menus
     pdf_file: /assets/images/Yugen Dining Group Set Menus - 02.02.2024.pdf
   - menu_title: Chef’s experience mezzanine menu
-    pdf_file: /assets/images/Yugen Dining - $180 Chef Experience 01.03.2024.pdf
+    pdf_file: /assets/images/Yugen Dining - $180 Chef Experience 15.03.2024.pdf
   - menu_title: Vegetarian and Vegan menu
     pdf_file: '/assets/images/Yugen Vego & Vegan Menu 07.03.2024[12].pdf'
   - menu_title: LATE NIGHT SUPPER MENU
