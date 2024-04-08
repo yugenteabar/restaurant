@@ -31,7 +31,7 @@ menus:
   - menu_title: A LA CARTE MENU
     pdf_file: /assets/images/Yugen ALC A4 Menu 07.04.2024.pdf
   - menu_title: Group set menus
-    pdf_file: /assets/images/Yugen Dining Group Set Menus - 25.3.2024.pdf
+    pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
   - menu_title: Chef’s experience mezzanine menu
     pdf_file: /assets/images/Yugen Dining - $180 Chef Experience 15.03.2024.pdf
   - menu_title: Vegetarian and Vegan menu
