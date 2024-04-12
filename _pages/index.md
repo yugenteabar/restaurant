@@ -9,8 +9,8 @@ show_popup: true
 popup_title: 'Celebrate Your Way, This Mother''s Day'
 popup_text: |
   ![](</assets/images/yugen EDM Header.gif>)
-popup_button_text: Book now!
-popup_button_link: 'https://yugendining.com.au/reservations'
+popup_button_text: Find out more
+popup_button_link: 'https://yugendining.com.au/events'
 _template: homepage
 ---
 
