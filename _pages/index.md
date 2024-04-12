@@ -6,7 +6,7 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Homepage
 show_popup: true
-popup_title: 'Celebrate Your Way, This Mother''s Day'
+popup_title: Celebrate Your Way
 popup_text: |
   ![](</assets/images/YD Mother's Day Social Posts.gif>)
 popup_button_text: Find out more
