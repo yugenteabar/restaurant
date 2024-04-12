@@ -6,9 +6,9 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Homepage
 show_popup: false
-popup_title: International Woman's Day at Yūgen
+popup_title: 'Celebrate Your Way, This Mother''s Day'
 popup_text: |
-  ![](</assets/images/IWD IG Stories (LinkedIn Post).gif>)
+  ![](</assets/images/yugen EDM Header.gif>)
 popup_button_text: Book now!
 popup_button_link: 'https://yugendining.com.au/reservations'
 _template: homepage
