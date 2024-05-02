@@ -32,8 +32,8 @@ menus:
     pdf_file: /assets/images/Yugen ALC A4 Menu 10.04.2024.pdf
   - menu_title: Group set menus
     pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
-  - menu_title: Chef’s experience mezzanine menu
-    pdf_file: /assets/images/Yugen Chef's Exp Menu May 2024.pdf
+  - menu_title: Chef’s experience menu
+    pdf_file: /assets/images/Yugen Che'f Exp Menu May 2024.pdf
   - menu_title: Vegetarian and Vegan menu
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 07.04.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
