@@ -35,7 +35,7 @@ menus:
   - menu_title: Chef’s experience menu
     pdf_file: /assets/images/Yugen Chefs Experience Menu May 2024.pdf
   - menu_title: Vegetarian and Vegan menu
-    pdf_file: /assets/images/Yugen Vego & Vegan Menu 07.04.2024.pdf
+    pdf_file: /assets/images/Yugen Vego & Vegan Menu 04.05.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
 _template: food
