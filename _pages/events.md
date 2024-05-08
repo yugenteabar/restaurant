@@ -22,7 +22,8 @@ events:
     event_time: 6pm
     event_adress: '605 Chapel Street, South Yarra'
     button_text: Reservations
-    button_link: 'https://yugendining.com.au/reservations'
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=299736&utm_source=external&utm_medium=referral&utm_campaign=shared
 _template: events
 ---
 
