@@ -21,7 +21,7 @@ events:
     event_date: 12/05/24
     event_time: 6pm
     event_adress: '605 Chapel Street, South Yarra'
-    button_text: Rreservations
+    button_text: Reservations
     button_link: 'https://yugendining.com.au/reservations'
 _template: events
 ---
