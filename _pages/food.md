@@ -33,7 +33,7 @@ menus:
   - menu_title: Group set menus
     pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
   - menu_title: Chef’s experience menu
-    pdf_file: /assets/images/Yugen Chefs Experience Menu May 2024.pdf
+    pdf_file: /assets/images/Yugen Chef Exp Menu May 2024.pdf
   - menu_title: Vegetarian and Vegan menu
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 04.05.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
