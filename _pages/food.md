@@ -9,7 +9,7 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Food
 food_sections:
-  - section_title: Philosophy
+  - section_title: Food Philosophy
     section_text: >-
       Drawing inspiration from the diverse cultural richness of Asia, our dishes
       depart from convention and are infused with a rich and distinctive
