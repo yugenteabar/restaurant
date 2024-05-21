@@ -9,7 +9,7 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Food
 food_sections:
-  - section_title: Food Philosophy
+  - section_title: Philosophy
     section_text: >-
       Drawing inspiration from the diverse cultural richness of Asia, our dishes
       depart from convention and are infused with a rich and distinctive
@@ -19,13 +19,6 @@ food_sections:
       We aim to support and work alongside our trusted local suppliers, with
       whom we work mindfully to deliver quality, seasonal produce to each guest,
       every time.
-  - section_title: Philosophy
-    section_text: >-
-      We support and work alongside trusted local suppliers. Relationships
-      formed mindfully to deliver quality, seasonal produce to each guest, every
-      time. Together we carefully gather Australia’s finest produce and prepare
-      it with a depth of knowledge and care. The right ingredients to make a
-      night unforgettable.
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
