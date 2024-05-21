@@ -11,9 +11,9 @@ title: Food
 food_sections:
   - section_title: Philosophy
     section_text: >-
-      Drawing inspiration from the diverse cultural richness of Asia, our dishes
-      depart from convention and are infused with a rich and distinctive
-      flavours that sets them apart from the rest.
+      We aim to support and work alongside our trusted local suppliers, with
+      whom we work mindfully to deliver quality, seasonal produce to each guest,
+      every time.
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
   - menu_title: A LA CARTE MENU
