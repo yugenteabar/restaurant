@@ -443,6 +443,19 @@ export function foodFields() {
           label: "Menu title",
         },
         {
+          type: "string",
+          name: "menu_description",
+          label: "Menu description",
+          ui: {
+            component: "textarea",
+          },
+        },
+        {
+          type: "string",
+          name: "menu_link_text",
+          label: "Menu link text",
+        },
+        {
           type: "image",
           name: "pdf_file",
           label: "PDF file",

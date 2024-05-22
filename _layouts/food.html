@@ -7,11 +7,11 @@
 {% include nav.html %}
 
 <main class="cover-image" title="Food">
-  <div class="container mx-auto h-full pt-32 md:pt-48 pb-20 flex flex-col items-end">
-    <div class="md:w-2/5 lg:px-8 mb-8">
+  <div class="container mx-auto h-full pt-32 md:pt-40 pb-20 flex flex-col items-end">
+    <div class="md:w-2/5 lg:px-4 mb-8">
       {% for section in page.food_sections %}
       {% if forloop.index == 1 %}
-        <div class="mb-12">
+        <div class="mb-4">
       {% else %}
         <div class="mb-8">
       {% endif %}
@@ -28,14 +28,20 @@
           {{ page.culinary_signature }}
         </span>
       </div>
-      {% for menu in page.menus %}
-      <div class="flex mt-6 animate__animated animate__fadeInUp animate__delay-2s">
-        <a class="custom-link" target="_blank" href="{{ menu.pdf_file }}">
-          {{ menu.menu_title }}
-          <div class="underline-animation"></div>
-        </a>
+      <div class="menus mt-12">
+        {% for menu in page.menus %}
+        <div class="flex flex-col mt-8 animate__animated animate__fadeInUp animate__delay-2s">
+          <h3 class="menu-title mb-2"> {{ menu.menu_title }} </h3>
+          <div class="text mb-1"> {{ menu.menu_description | markdownify }} </div>
+          <div class="flex">
+            <a class="custom-link" target="_blank" href="{{ menu.pdf_file }}">
+              {{ menu.menu_link_text }}
+              <div class="underline-animation"></div>
+            </a>
+          </div>
+        </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
     </div>
   </div>

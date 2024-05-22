@@ -20,16 +20,48 @@ food_sections:
       every time.
 culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
 menus:
-  - menu_title: A LA CARTE MENU
+  - menu_title: À LA CARTE
+    menu_description: >-
+      Our à la carte menu is a sensory journey, where every dish is a symphony
+      of flavours, textures, and aromas that captivate the senses.
+    menu_link_text: Menu
     pdf_file: /assets/images/Yugen ALC A4 Menu 26.04.2024.pdf
-  - menu_title: Group set menus
-    pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
-  - menu_title: Chef’s experience menu
+  - menu_title: CHEF'S TASTING EXPERIENCE
+    menu_description: >-
+      In addition to our regular offerings, we also offer a unique Chef's
+      Experience menu, featuring 8 courses crafted to delight your palate.
+      Elevate your dining experience with the option of expertly selected wines
+      to perfectly complement each course.
+    menu_link_text: Menu
     pdf_file: /assets/images/Yugen Chef Exp Menu May 2024.pdf
-  - menu_title: Vegetarian and Vegan menu
+  - menu_title: GROUP SET MENUS
+    menu_description: >-
+      We offer 2 options for larger groups. Choose from our standard 8 course
+      shared menu, or upgrade to our 9 course Premium menu.
+    menu_link_text: Menu
+    pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
+  - menu_title: VEGETARIAN AND VEGAN MENU
+    menu_description: >-
+      We aim to provide a variety of options for guests looking for more
+      plant-based alternatives.
+    menu_link_text: Menu
     pdf_file: /assets/images/Yugen Vego & Vegan Menu 04.05.2024.pdf
   - menu_title: LATE NIGHT SUPPER MENU
+    menu_description: >-
+      For guests joining us for a drink at the bar, and just wanting a smaller
+      bite, we have you covered.
+    menu_link_text: Menu
     pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
 _template: food
 ---
+
+
+
+
+
+
+
+
+
+
 

@@ -488,7 +488,15 @@ body nav #navigation {
 }
 
 #food .text p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+#food .menu-title {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+
 }
 
 #food .custom-link {
@@ -1169,6 +1177,9 @@ footer .subscribe-btn:hover{
 
   #food .text p {
     margin-bottom: 1.2rem;
+  }
+  #food .menus .text p {
+    margin-bottom: 0rem;
   }
 
   #omakase header .show-omakase {
