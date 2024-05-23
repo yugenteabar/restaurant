@@ -36,8 +36,8 @@ menus:
     pdf_file: /assets/images/Yugen Chef Exp Menu May 2024.pdf
   - menu_title: GROUP SET MENUS
     menu_description: >-
-      We offer 2 options for larger groups. Choose from our standard 8 course
-      shared menu, or upgrade to our 9 course Premium menu.
+      We offer 2 options for larger groups. Choose from our standard 6 course
+      shared menu, or upgrade to our 7 course Premium menu.
     menu_link_text: Menu
     pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
   - menu_title: VEGETARIAN AND VEGAN MENU
@@ -54,14 +54,4 @@ menus:
     pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
 _template: food
 ---
-
-
-
-
-
-
-
-
-
-
 
