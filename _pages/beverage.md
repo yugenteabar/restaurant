@@ -39,7 +39,7 @@ menus:
   - menu_title: 'Bar Menu | '
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu 15.05.2024.pdf
   - menu_title: '&nbsp; BEVERAGE MENU '
-    menu_pdf: '/assets/images/Wine & Sake Menu 08.05.2024[90].pdf'
+    menu_pdf: /assets/images/Wine & Sake Menu 30.05.2024.pdf
 _template: beverage
 ---
 
