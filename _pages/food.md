@@ -33,7 +33,7 @@ menus:
       Elevate your dining experience with the option of expertly selected wines
       to perfectly complement each course.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Chef Exp Menu May 2024.pdf
+    pdf_file: '/assets/images/Yugen Chef Exp Menu June 2024[23].pdf'
   - menu_title: GROUP SET MENUS
     menu_description: >-
       We offer 2 options for larger groups. Choose from our standard 6 course
