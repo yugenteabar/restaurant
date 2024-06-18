@@ -3,6 +3,17 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
+  - event_image: /assets/images/240501 Omnia Yugen20675 LoRes.jpg
+    event_title: Father's Day at Yūgen
+    event_description: >-
+      Treat dad to a Yūgen experience undergroud this Father's Day, Sunday the
+      1st of September
+    event_date: 01/09/24
+    event_time: '6:30'
+    event_adress: '605 Chapel Street, South Yarra'
+    event_ticket_info: ''
+    button_text: Book Now
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/yugen EDM Header.gif
     event_title: Mother's Day at Yūgen
     event_description: >-
