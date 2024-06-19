@@ -49,7 +49,7 @@ yugen_omakase_terms_text: >
   cancellation fee.
 
 
-  No shows or cancellations less than 48 hours in advance will be charged a $175
+  No shows or cancellations less than 48 hours in advance will be charged a $285
   cancellation fee per person.
 
 
