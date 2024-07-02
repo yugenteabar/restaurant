@@ -8,7 +8,7 @@ title: Homepage
 show_popup: true
 popup_title: Gifting Bonus
 popup_text: |
-  ![](</assets/images/Header for Voucher Cart.png>)
+  ![](</assets/images/Yugen Website Popup GV.gif>)
 popup_button_text: Gift Vouchers
 popup_button_link: 'https://yugen.vouchercart.com/34258/july-special-offer-our-gift-to-you'
 _template: homepage
