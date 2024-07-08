@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/Fathers Day GIF June 2024.gif
+  - event_image: /assets/images/Fathers Day GIF June 2024 V2.gif
     event_title: Father's Day at Yūgen
     event_description: >+
       Bookings now open!
