@@ -8,9 +8,10 @@ events:
     event_description: >-
       On Saturday, the 10th of August, Yūgen invites you to celebrate the Qixi
       Festival, also known as Chinese Valentine’s Day, with a variety of unique
-      experiences.
+      experiences. We will open for lunch and dinner to help you celebrate this
+      special day!
     event_date: 10/08/2024
-    event_time: 12pm
+    event_time: From 12pm
     event_adress: '605 Chapel Street, South Yarra'
     event_ticket_info: ''
     button_text: See Offers
