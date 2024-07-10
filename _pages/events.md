@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/Landing Page Background.png
+  - event_image: /assets/images/Qixi Festival - What's On page.gif
     event_title: Qixi Festival
     event_description: >-
       On Saturday, the 10th of August, Yūgen invites you to celebrate the Qixi
