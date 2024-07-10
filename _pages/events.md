@@ -3,6 +3,18 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
+  - event_image: /assets/images/Landing Page Background.png
+    event_title: Qixi Festival
+    event_description: >-
+      On Saturday, the 10th of August, Yūgen invites you to celebrate the Qixi
+      Festival, also known as Chinese Valentine’s Day, with a variety of unique
+      experiences.
+    event_date: 10/08/2024
+    event_time: 12pm
+    event_adress: '605 Chapel Street, South Yarra'
+    event_ticket_info: ''
+    button_text: See Offers
+    button_link: 'https://mailchi.mp/9c4ba1bf362d/qixi-festival-landing-page'
   - event_image: /assets/images/Fathers Day GIF June 2024 V2.gif
     event_title: Father's Day at Yūgen
     event_description: >+
