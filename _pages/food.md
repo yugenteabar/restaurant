@@ -25,7 +25,7 @@ menus:
       Our à la carte menu is a sensory journey, where every dish is a symphony
       of flavours, textures, and aromas that captivate the senses.
     menu_link_text: Menu
-    pdf_file: /assets/images/New Yugen Dining Menu A4.pdf
+    pdf_file: /assets/images/A la carte Dining Menu July 24.pdf
   - menu_title: CHEF'S TASTING EXPERIENCE
     menu_description: >-
       In addition to our regular offerings, we also offer a unique Chef's
@@ -33,25 +33,25 @@ menus:
       Elevate your dining experience with the option of expertly selected wines
       to perfectly complement each course.
     menu_link_text: Menu
-    pdf_file: '/assets/images/Yugen Chef Exp Menu June 2024[23].pdf'
+    pdf_file: '/assets/images/Chef Tasting Experience July 24.pdf'
   - menu_title: GROUP SET MENUS
     menu_description: >-
       We offer 2 options for larger groups. Choose from our standard 6 course
       shared menu, or upgrade to our 7 course Premium menu.
     menu_link_text: Menu
-    pdf_file: '/assets/images/Yugen Group Set Menus 8:4:24.pdf'
+    pdf_file: '/assets/images/Group Set Menu July 24.pdf'
   - menu_title: VEGETARIAN AND VEGAN MENU
     menu_description: >-
       We aim to provide a variety of options for guests looking for more
       plant-based alternatives.
     menu_link_text: Menu
-    pdf_file: /assets/images/New Vego & Vegan Menu 04.07.2024.pdf
+    pdf_file: /assets/images/Vego & Vegan Menu July 24.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     menu_description: >-
       For guests joining us for a drink at the bar, and just wanting a smaller
       bite, we have you covered.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 17.07.24.pdf
+    pdf_file: /assets/images/Late Night Supper Menu July 24.pdf
 _template: food
 ---
 
