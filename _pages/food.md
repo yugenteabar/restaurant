@@ -51,7 +51,7 @@ menus:
       For guests joining us for a drink at the bar, and just wanting a smaller
       bite, we have you covered.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining Late Night Snack Menu 22.12.23.pdf
+    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 17.07.24.pdf
 _template: food
 ---
 
