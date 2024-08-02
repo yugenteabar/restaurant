@@ -33,13 +33,13 @@ menus:
       Elevate your dining experience with the option of expertly selected wines
       to perfectly complement each course.
     menu_link_text: Menu
-    pdf_file: '/assets/images/Chef Tasting Experience July 24.pdf'
+    pdf_file: /assets/images/Yugen Che'f Exp Menu 01.08.24.pdf
   - menu_title: GROUP SET MENUS
     menu_description: >-
       We offer 2 options for larger groups. Choose from our standard 6 course
       shared menu, or upgrade to our 7 course Premium menu.
     menu_link_text: Menu
-    pdf_file: '/assets/images/Group Set Menu July 24.pdf'
+    pdf_file: /assets/images/Group Set Menu July 24.pdf
   - menu_title: VEGETARIAN AND VEGAN MENU
     menu_description: >-
       We aim to provide a variety of options for guests looking for more
