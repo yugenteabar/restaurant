@@ -7,9 +7,15 @@ meta_description: >-
 title: Homepage
 show_popup: true
 popup_title: Qixi Festival
-popup_text: "![](</assets/images/Landing Page Background.png>)\n\nLooking for the perfect gift or just want to treat yourself?\_\n\nThis July, enjoy a 20% bonus on all Yūgen Dining gift cards.\_\n\nThe more you spend, the more you save!\n"
-popup_button_text: Gift Vouchers
-popup_button_link: 'https://yugen.vouchercart.com/34258/july-special-offer-our-gift-to-you'
+popup_text: >
+  ![](</assets/images/Landing Page Background.png>)
+
+
+  On Saturday, the 10th of August, Yugen invites you to celebrate the Qixi
+  Festival, also known as Chinese Valentine’s Day, with a variety of unique
+  experiences
+popup_button_text: Qixi Festival
+popup_button_link: 'https://mailchi.mp/yugen.com.au/qixi'
 _template: homepage
 ---
 
