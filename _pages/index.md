@@ -8,7 +8,7 @@ title: Homepage
 show_popup: true
 popup_title: Qixi Festival
 popup_text: >
-  ![](</assets/images/Landing Page Background.png>)
+  ![](</assets/images/Qixi Festival - What's On page.gif>)
 
 
   On Saturday, the 10th of August, Yugen invites you to celebrate the Qixi
