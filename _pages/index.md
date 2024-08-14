@@ -8,10 +8,6 @@ title: Homepage
 show_popup: true
 popup_title: Father's Day
 popup_text: >
-  ![](</assets/images/Final Yugen Father’s Day Designs
-  EDM.gif>)![](</assets/images/Final Yugen Father’s Day Designs EDM.gif>)
-
-
   Treat Dad to an unforgettable Yūgen experience underground this Father’s Day,
   Sunday, 1st September.⁠
 
