@@ -8,7 +8,7 @@ title: Homepage
 show_popup: false
 popup_title: Qixi Festival
 popup_text: >
-  ![](</assets/images/Qixi Festival - What's On page.gif>)
+  ![](</assets/images/Final Yugen Father’s Day Designs EDM.gif>)![]()
 
 
   On Saturday, the 10th of August, Yugen invites you to celebrate the Qixi
