@@ -16,9 +16,6 @@ popup_text: >
   Sunday, 1st September.⁠
 
 
-  ⁠
-
-
   We will be open for a special Father’s Day lunch and dinner from 6pm.⁠
 popup_button_text: Father's Day
 popup_button_link: >-
