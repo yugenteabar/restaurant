@@ -6,16 +6,13 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 title: Homepage
 show_popup: false
-popup_title: Qixi Festival
+popup_title: Father's Day
 popup_text: >
-  ![](</assets/images/Final Yugen Father’s Day Designs EDM.gif>)![]()
-
-
-  On Saturday, the 10th of August, Yugen invites you to celebrate the Qixi
-  Festival, also known as Chinese Valentine’s Day, with a variety of unique
-  experiences
-popup_button_text: Qixi Festival
-popup_button_link: 'https://mailchi.mp/yugen.com.au/qixi'
+  ![](</assets/images/Final Yugen Father’s Day Designs
+  EDM.gif>)![](</assets/images/Final Yugen Father’s Day Designs EDM.gif>)
+popup_button_text: Father's Day
+popup_button_link: >-
+  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=327348&utm_source=external&utm_medium=referral&utm_campaign=share
 _template: homepage
 ---
 
