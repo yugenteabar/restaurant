@@ -12,7 +12,8 @@ popup_text: >
   Sunday, 1st September.⁠
 
 
-  We will be open for a special Father’s Day lunch and dinner from 6pm.⁠
+  We will be open for a special Father’s Day lunch and dinner from
+  6pm.⁠![](</assets/images/Final Yugen Father’s Day Designs EDM.gif>)
 popup_button_text: Father's Day
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=327348&utm_source=external&utm_medium=referral&utm_campaign=share
