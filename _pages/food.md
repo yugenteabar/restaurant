@@ -33,7 +33,7 @@ menus:
       Elevate your dining experience with the option of expertly selected wines
       to perfectly complement each course.
     menu_link_text: Menu
-    pdf_file: /assets/images/Updated Yugen Chef Exp Menu Wine - Sake - 11.09.2024.pdf
+    pdf_file: /assets/images/Updated Yugen Chef Exp Menu Wine - Sake - 12.09.2024.pdf
   - menu_title: GROUP SET MENUS
     menu_description: >-
       We offer 2 options for larger groups. Choose from our standard 6 course
