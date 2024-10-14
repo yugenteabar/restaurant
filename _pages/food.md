@@ -25,7 +25,7 @@ menus:
       Our à la carte menu is a sensory journey, where every dish is a symphony
       of flavours, textures, and aromas that captivate the senses.
     menu_link_text: Menu
-    pdf_file: /assets/images/New Yugen Dining Menu A4 12.09.2024.pdf
+    pdf_file: /assets/images/New Yugen Dining Menu A4 12.10.2024.pdf
   - menu_title: CHEF'S TASTING EXPERIENCE
     menu_description: >-
       In addition to our regular offerings, we also offer a unique Chef's
