@@ -34,7 +34,7 @@ beverage_sections:
       Share wines that accentuate the rich palette of our menu. Mark your
       omakase experience with a bespoke pairing that focuses on wine and sake,
       or a non-alcoholic alternative.
-manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
+manager_signature: ''
 menus:
   - menu_title: Beverage Menu
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu.pdf
