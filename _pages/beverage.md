@@ -36,7 +36,7 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: ''
 menus:
-  - menu_title: Beverage Menu
+  - menu_title: 'Beverage Menu '
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu.pdf
   - menu_title: Bar Menu
     menu_pdf: /assets/images/WineSake Menu.pdf
