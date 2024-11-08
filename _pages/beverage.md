@@ -36,10 +36,7 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
-  - menu_title: 'Bar Menu | '
-    menu_pdf: /assets/images/Yugen Dining A5 Bar Menu 21.08.2024.pdf
-  - menu_title: '&nbsp; BEVERAGE MENU '
-    menu_pdf: /assets/images/Wine & Sake Menu 24.10.2025 (1).pdf
+  - menu_pdf: /assets/images/WineSake Menu.pdf
 _template: beverage
 ---
 
