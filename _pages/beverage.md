@@ -36,7 +36,7 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: THIBAUT CHUZEVILLE — GENERAL MANAGER
 menus:
-  - menu_title: Beverage Menu
+  - menu_title: Bar Menu
     menu_pdf: /assets/images/WineSake Menu.pdf
 _template: beverage
 ---
