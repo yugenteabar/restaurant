@@ -15,11 +15,13 @@ events:
 
       EarlyBird $55pp.
 
-      General Admission $85pp
+      General Admission $85pp.
+
+      Tickets essential.
     event_date: 'December 31, 2024'
     event_time: Entry from 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
-    event_ticket_info: Tickets essential.
+    event_ticket_info: ''
     button_text: Tickets Coming Soon
     button_link: ''
 _template: events
