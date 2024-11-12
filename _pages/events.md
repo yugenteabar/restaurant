@@ -6,11 +6,17 @@ events:
   - event_image: /assets/images/EmptyName 149.jpg
     event_title: NYE '24 at Yūgen
     event_description: >-
-      DESCEND into Yūgen this New Year’s Eve. The night promises signature
-      drinks on arrival, delectable modern Asian-inspired canapés while DJ DNE
-      spins a mix of disco, deep house, and progressive beats to a backdrop of
-      dancers and a live saxophonist to keep you dancing all the way to
-      midnight. This is one party you won’t want to miss.
+      DESCEND into Yūgen this New Year’s Eve. 
+
+
+      Revel in signature cocktails on arrival and delectable modern
+      Asian-inspired canapés as DJ DNE spins a mix of disco, deep house, and
+      progressive beats. Live entertainment will keep you on the dance floor all
+      the way to the midnight moment.
+
+
+      Whether you’ll kick off the evening with dinner at Yūgen or simply make an
+      entrance after dark, this is one party you won’t want to miss.
 
 
       EarlyBird $55pp.
