@@ -3,25 +3,29 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/Fathers Day GIF June 2024 V2.gif
-    event_title: Father's Day at Yūgen
+  - event_image: /assets/images/EmptyName 149.jpg
+    event_title: NYE '24 at Yūgen
     event_description: >+
-      Bookings now open!
+      DESCEND into Yūgen this New Year’s Eve.
 
 
-      Treat dad to a Yūgen experience underground this Father's Day, Sunday the
-      1st of September.
+      The night promises signature drinks, modern Asian-inspired canapés, DJ DNE
+      will be spinning a mix of disco, deep house, and progressive beats, while
+      dancers and a live saxophonist set the vibe to keep you dancing all the
+      way to midnight. This is one party you won’t want to miss.
 
 
-      We will be opening for lunch just for Father's Day and dinner from 6pm.
+      Entry is available from 10.30pm. Tickets are inclusive of a signature
+      welcome drink and canapés. NOTE: This is a standing room only event,
+      purchasing a ticket does not secure you a table. If you would like to dine
+      beforehand, bookings are available at Yūgen from 5.30pm to 8.45pm.
 
-    event_date: 01/09/24
-    event_time: '12pm - 2pm, 6pm- late'
+    event_date: 31/12/24
+    event_time: 10.30pm-1.00 am
     event_adress: '605 Chapel Street, South Yarra'
-    event_ticket_info: ''
-    button_text: Book Now
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=327348&utm_source=external&utm_medium=referral&utm_campaign=shared
+    event_ticket_info: $55pp (EarlyBird). $85pp (General Admission).
+    button_text: Buy Tickets
+    button_link: ''
 _template: events
 ---
 
