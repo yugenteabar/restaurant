@@ -15,7 +15,7 @@ events:
       way to midnight. This is one party you won’t want to miss.
 
 
-      $55pp (EarlyBird)
+      $55pp (EarlyBird) *Available until 30 November or til sold out.
 
       $85pp (General Admission)
     event_date: 'December 31, 2024'
