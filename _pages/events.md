@@ -22,8 +22,9 @@ events:
     event_time: Entry from 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
     event_ticket_info: ''
-    button_text: Tickets Coming Soon
-    button_link: ''
+    button_text: Buy Tickets
+    button_link: >-
+      https://www.eventbrite.com/e/descend-yugen-nye-24-tickets-1078939329579?aff=YūgenWebsite
 _template: events
 ---
 
