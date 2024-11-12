@@ -4,7 +4,7 @@ layout: events
 title: What’s On
 events:
   - event_image: /assets/images/EmptyName 149.jpg
-    event_title: NYE '24 at Yūgen
+    event_title: 'DESCEND: Yūgen NYE ''24'
     event_description: >-
       DESCEND into Yūgen this New Year’s Eve. 
 
