@@ -15,7 +15,9 @@ events:
       way to midnight. This is one party you won’t want to miss.
 
 
-      $55pp (EarlyBird) $85pp (General Admission)
+      $55pp (EarlyBird)
+
+      $85pp (General Admission)
     event_date: 'December 31, 2024'
     event_time: 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
