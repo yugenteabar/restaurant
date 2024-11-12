@@ -15,9 +15,6 @@ events:
 
       EarlyBird $55pp
 
-      *Available until 30 November or til sold out.
-
-
       General Admission $85pp
     event_date: 'December 31, 2024'
     event_time: Entry from 10.30pm - 1am
