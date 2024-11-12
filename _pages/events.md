@@ -20,11 +20,11 @@ events:
       purchasing a ticket does not secure you a table. If you would like to dine
       beforehand, bookings are available at Yūgen from 5.30pm to 8.45pm.
 
-    event_date: 31/12/24
-    event_time: 10.30pm-1.00 am
+    event_date: December 31
+    event_time: 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
     event_ticket_info: $55pp (EarlyBird). $85pp (General Admission).
-    button_text: Buy Tickets
+    button_text: Tickets Coming Soon
     button_link: ''
 _template: events
 ---
