@@ -20,7 +20,7 @@ events:
 
       General Admission $85pp
     event_date: 'December 31, 2024'
-    event_time: 10.30pm - 1am
+    event_time: Entry from 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
     event_ticket_info: ''
     button_text: Tickets Coming Soon
