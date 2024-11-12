@@ -13,10 +13,13 @@ events:
       will be spinning a mix of disco, deep house, and progressive beats, while
       dancers and a live saxophonist set the vibe to keep you dancing all the
       way to midnight. This is one party you won’t want to miss.
+
+
+      $55pp (EarlyBird) $85pp (General Admission)
     event_date: 'December 31, 2024'
     event_time: 10.30pm - 1am
     event_adress: '605 Chapel Street, South Yarra'
-    event_ticket_info: $55pp (EarlyBird) $85pp (General Admission)
+    event_ticket_info: ''
     button_text: Tickets Coming Soon
     button_link: ''
 _template: events
