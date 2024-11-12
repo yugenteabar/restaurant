@@ -13,7 +13,7 @@ events:
       is one party you won’t want to miss.
 
 
-      EarlyBird $55pp
+      EarlyBird $55pp.
 
       General Admission $85pp
     event_date: 'December 31, 2024'
