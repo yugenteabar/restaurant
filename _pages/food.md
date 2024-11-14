@@ -18,7 +18,7 @@ food_sections:
       We aim to support and work alongside our trusted local suppliers, with
       whom we work mindfully to deliver quality, seasonal produce to each guest,
       every time.
-culinary_signature: STEPHEN NAIRN - CULINARY DIRECTOR
+culinary_signature: ''
 menus:
   - menu_title: À LA CARTE
     menu_description: >-
