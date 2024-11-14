@@ -32,7 +32,7 @@ beverage_sections:
       or a non-alcoholic alternative.
 manager_signature: ''
 menus:
-  - menu_title: Bar Menu
+  - menu_title: 'Bar Menu                        '
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu Nov.pdf
   - menu_title: Wine & Sake Menu
     menu_pdf: /assets/images/Wine & Sake Menu 14.11.2024.pdf
