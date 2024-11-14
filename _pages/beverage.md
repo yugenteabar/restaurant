@@ -10,10 +10,6 @@ beverage_sections:
     section_text: >-
       Yugen offers beverages that pair to every taste. A way to explore the
       intimately intertwined histories of East and West.
-
-
-      Take cues from our knowledgeable team, led by Thibaut Chuzeville. We’re
-      here to make the night flow with ease.
   - section_title: Sake
     section_text: >-
       Yugen offers 20 sakes by the glass, divided into five distinct categories.
