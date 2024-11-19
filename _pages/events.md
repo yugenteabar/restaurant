@@ -12,8 +12,6 @@ events:
       dance floor all the way to the midnight moment.
 
 
-      Whether you’ll kick off the evening with dinner at Yūgen or simply make an
-      entrance after dark, this is one party you won’t want to miss.
 
 
 
