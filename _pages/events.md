@@ -18,13 +18,13 @@ events:
 
 
       Secure your spot now with a ticket, or book a second seating dinner
-      reservation from 8.15pm at Yūgen and enjoy complimentary access to
-      DESCEND: Yūgen NYE ’24.
+      reservation from 8.15pm at Yūgen and enjoy complimentary access to the
+      event.
 
 
-      EarlyBird $55pp.
+      Early Bird $55 per person.
 
-      General Admission $85pp.
+      General Admission $85 per person.
 
       Tickets essential.
     event_date: 'December 31, 2024'
