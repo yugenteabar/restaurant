@@ -16,6 +16,7 @@ events:
       entrance after dark, this is one party you won’t want to miss.
 
 
+
       Secure your spot now with a ticket, or book a second seating dinner
       reservation from 8.15pm at Yūgen and enjoy complimentary access to
       DESCEND: Yūgen NYE ’24.
