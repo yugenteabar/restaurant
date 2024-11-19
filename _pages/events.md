@@ -12,12 +12,8 @@ events:
       dance floor all the way to the midnight moment.
 
 
-
-
-
-      Secure your spot now with a ticket, or book a second seating dinner
-      reservation from 8.15pm at Yūgen and enjoy complimentary access to the
-      event.
+      Book a second seating dinner reservation from 8.15pm at Yūgen and enjoy
+      complimentary access to the event.
 
 
       Early Bird $55 per person.
