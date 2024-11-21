@@ -425,7 +425,8 @@ body nav #navigation {
   margin-bottom: 1.25em;
 }
 .popup-content img {
-  max-width: 380px;
+  width: 600px;
+  max-width: 100%;
   margin: 0 auto;
 }
 .popup-content p  {
@@ -433,10 +434,13 @@ body nav #navigation {
 }
 .popup-content, 
 .popup-content p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 120%;
   letter-spacing: 0.08em;
   text-align: center;
+}
+.popup-content img {
+  margin-bottom: 40px;
 }
 .popup-btn a{
   font-size: 16px;

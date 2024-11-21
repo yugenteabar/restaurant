@@ -20,9 +20,11 @@
 
       <div class="popup-content-box">
         <!-- title -->
-        <div class="popup-title mb-16 animate__animated animate__fadeInUp">
-          {{ page.popup_title }}
-        </div>
+        {% if page.popup_title %}
+          <div class="popup-title mb-16 animate__animated animate__fadeInUp">
+            {{ page.popup_title }}
+          </div>
+        {% endif %}
   
         <!-- content -->
         <div class="popup-content animate__animated animate__fadeInUp animate__delay-1s">
