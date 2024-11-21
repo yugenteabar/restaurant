@@ -11,7 +11,8 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 main_image: /assets/images/MA166 1.png
 events:
-  - title: Semi-Private Dining
+  - {}
+  - title: The Golden Orb
     text: >-
       An intimate one-of-a-kind dining space. <br> Dine in our dramatic golden
       orb-shaped dining room artfully suspended from the ceiling.
