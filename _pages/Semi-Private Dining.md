@@ -19,8 +19,8 @@ events:
 
 
       The ultimate vantage point to see how the night unfolds. <br> Suited to
-      smaller groups from 6 to 9 guests. <br> Guests have a choice of either the
-      "Chefs Experience" menu or Sashimi platter for the table.
+      groups of 6-9 guests. <br> Guests have a choice of either the "Chefs
+      Experience" menu or Sashimi platter for the table.
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
     text_below_button: >-
