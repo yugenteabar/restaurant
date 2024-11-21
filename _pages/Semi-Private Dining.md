@@ -1,7 +1,14 @@
 ---
-layout: private_dining
 permalink: /private-dining/
 title: Semi-Private Dining & Events
+workin_hour_start: '9:30'
+workin_hour_end: '5:30'
+button_text: Email us
+button_link: info@yugen.com.au
+layout: private_dining
+meta_description: >-
+  Celebrating the cultural richness of Asia in a subterranean setting. Located
+  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 main_image: /assets/images/MA166 1.png
 events:
   - title: Semi-Private Dining
@@ -25,25 +32,11 @@ events:
       interiors mixed with luxurious bespoke furniture and fabrics.
 
 
-      Comfortably seats 60 guests for an intimate occasion or up to 240 guests
-      cocktail style, over 2 floors.
+      Seats 60 guests for an intimate occasion or up to 240 guests cocktail
+      style, over 2 floors.
     button_text: ENQUIRE NOW
     button_email: events@lkhospitality.com.au
     text_below_button: ''
-workin_hour_start: '9:30'
-workin_hour_end: '5:30'
-button_text: Email us
-button_link: info@yugen.com.au
-meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 _template: private_dining
 ---
-
-
-
-
-
-
-
 
