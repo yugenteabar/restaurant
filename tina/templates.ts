@@ -784,7 +784,6 @@ export function private_diningFields() {
           type: "string",
           name: "title",
           label: "Title",
-          required: true,
         },
         {
           type: "string",
