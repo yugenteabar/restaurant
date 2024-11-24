@@ -23,7 +23,7 @@ events:
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
     text_below_button: >-
-      Friday and Saturday nights attract a min spend of $2500 <br> Sundays and
+      Friday and Saturday nights attract a min spend of $2500. Sundays and
       Public holidays incur a 15% surcharge
   - title: Nidaime Omakase
     text: >-
