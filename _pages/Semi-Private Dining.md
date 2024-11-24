@@ -11,6 +11,20 @@ meta_description: >-
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 main_image: /assets/images/MA166 1.png
 events:
+  - title: The Golden Orb
+    text: >-
+      Dine in our one-of-a-kind dramatic golden orb-shaped dining room artfully
+      suspended from the ceiling. The ultimate vantage point to see how the
+      night unfolds. <br> 
+
+
+      Suited to groups of 6-9 guests. <br> Guests have a choice of either the
+      "Chefs Experience" menu or Sashimi platter for the table.
+    button_text: ENQUIRE NOW
+    button_email: info@yugen.com.au
+    text_below_button: >-
+      Friday and Saturday nights attract a min spend of $2500 <br> Sundays and
+      Public holidays incur a 15% surcharge
   - title: Nidaime Omakase
     text: >-
       Savour the Omakase experience in a space that is exclusively yours. Hosted
@@ -20,20 +34,6 @@ events:
       unique gathering for up to 8 guests.
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
-  - title: The Golden Orb
-    text: >-
-      An intimate one-of-a-kind dining space. <br> Dine in our dramatic golden
-      orb-shaped dining room artfully suspended from the ceiling.
-
-
-      The ultimate vantage point to see how the night unfolds. <br> Suited to
-      groups of 6-9 guests. <br> Guests have a choice of either the "Chefs
-      Experience" menu or Sashimi platter for the table.
-    button_text: ENQUIRE NOW
-    button_email: info@yugen.com.au
-    text_below_button: >-
-      Friday and Saturday nights attract a min spend of $2500 <br> Sundays and
-      Public holidays incur a 15% surcharge
   - title: Private Events
     text: >-
       The only event space of its kind in Melbourne. <br> A subterranean gem,
