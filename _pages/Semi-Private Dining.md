@@ -36,9 +36,10 @@ events:
     button_email: info@yugen.com.au
   - title: Private Events
     text: >-
-      The only event space of its kind in Melbourne. <br> A subterranean gem,
-      with breathtaking six-meter-high stone walls and refined industrial
-      interiors mixed with luxurious bespoke furniture and fabrics.
+      The only event space of its kind in Melbourne. Yūgen is as a subterranean
+      gem, with breathtaking six-meter-high stone walls and refined industrial
+      interiors mixed with luxurious bespoke furniture and fabrics–available for
+      exclusive hire.
 
 
       Seats 60 guests for an intimate occasion or up to 240 guests cocktail
