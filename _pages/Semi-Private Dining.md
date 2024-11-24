@@ -18,8 +18,8 @@ events:
       night unfolds. <br> 
 
 
-      Suited to groups of 6-9 guests. <br> Guests have a choice of either the
-      "Chefs Experience" menu or Sashimi platter for the table.
+      Suited to groups of 6-9 guests. Guests have a choice of either the "Chefs
+      Experience" menu or Sashimi platter for the table.
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
     text_below_button: >-
