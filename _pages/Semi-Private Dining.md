@@ -13,14 +13,11 @@ main_image: /assets/images/MA166 1.png
 events:
   - title: Nidaime Omakase
     text: >-
-      Private dining offers the opportunity to savour everything Nidaime has to
-      offer in a space that is exclusively yours. 
-
-
-      Indulge your guests in a front-row experience with a multi-course menu
-      tailored for your group featuring the finest ingredients sourced. Perfect
-      for birthdays, intimate celebrations, or a unique gathering for up to 8
-      guests.
+      Savour the Omakase experience in a space that is exclusively yours. Hosted
+      upstairs at Yūgen Tea Bar, Nidaime Omakase offers your guests a front row
+      experience and a multi-course menu tailored for your group featuring the
+      finest ingredients sourced. Perfect for birthdays, intimate celebrations,
+      or a unique gathering for up to 8 guests.
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
   - title: The Golden Orb
