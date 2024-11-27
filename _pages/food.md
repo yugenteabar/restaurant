@@ -25,7 +25,7 @@ menus:
       Our à la carte menu is a sensory journey, where every dish is a symphony
       of flavours, textures, and aromas that captivate the senses.
     menu_link_text: Menu
-    pdf_file: /assets/images/A la carte Dining Menu July 24.pdf
+    pdf_file: /assets/images/A la carte menu .pdf
   - menu_title: CHEF'S TASTING EXPERIENCE
     menu_description: >-
       In addition to our regular offerings, we also offer a unique Chef's
