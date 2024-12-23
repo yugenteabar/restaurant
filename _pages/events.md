@@ -3,7 +3,7 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/Fathers Day GIF June 2024.gif
+  - event_image: /assets/images/Yugen_TaiyakiMilkPunch_2.jpg
     event_title: Lunar New Year 2025
     event_description: >-
       Set your course to good fortune and celebrate the Year of the Snake with a
