@@ -28,29 +28,14 @@ events:
     button_text: Buy Tickets
     button_link: >-
       https://www.eventbrite.com/e/descend-yugen-nye-24-tickets-1078939329579?aff=YugenWebsite
-  - event_image: ''
+  - event_image: /assets/images/ServexYugen.png
     event_title: Broadsheet x Yūgen | Serve 2025
-    event_description: >-
+    event_description: >
       Mastercard is proud to bring back Serve 2025 - a two-week celebration of
       Melbourne’s very best in food, drink and hospitality. Running from January
       12 to 26 during Australian Open, Serve invites Mastercard cardholders to
-      exclusive events with the city’s top chefs and venues.
-
-
-      On Tuesday January 21, descend to Yūgen and enjoy an exclusive set menu
-      featuring;
-
-
-      Rock Flathead, Furikake, Finger lime and Shisho
-
-
-      Baby corn, Wild Crispy Rice, Brown Butter & Smoked Eel
-
-
-      Dry aged duck, Black Ginger, Kombu dressing
-
-
-      Kalamasi, Almond & Kaffir lime meringue
+      exclusive events with the city’s top chefs and venues including Yūgen
+      where you'll enjoy an exclusive menu.
     event_date: 'January 21, 2025'
     event_time: 7pm
     event_ticket_info: ''
