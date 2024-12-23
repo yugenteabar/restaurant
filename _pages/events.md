@@ -82,7 +82,8 @@ events:
       options are available as add-ons to make your celebration even more
       special.
     event_date: 'February 14th, 2025'
-    event_ticket_info: $165 per person
+    event_ticket_info: ''
+    event_extra_info: $165 per person
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
 _template: events
