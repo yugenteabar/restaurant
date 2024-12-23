@@ -28,7 +28,7 @@ events:
     button_text: Buy Tickets
     button_link: >-
       https://www.eventbrite.com/e/descend-yugen-nye-24-tickets-1078939329579?aff=YugenWebsite
-  - event_image: /assets/images/download.png
+  - event_image: ''
     event_title: Broadsheet x Yūgen | Serve 2025
     event_description: >-
       Mastercard is proud to bring back Serve 2025 - a two-week celebration of
