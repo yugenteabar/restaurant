@@ -11,9 +11,6 @@ events:
       Rock Oysters, Sashimi, Crispy Pork Belly, Grilled King Prawns, and a
       dessert special Caramelised Pineapple Tart. A perfect way to mark Lunar
       New Year and send wishes for a prosperous and happy year to come.
-
-
-      Available for one week only, from Wed 29 Jan - Sun 2 Feb.
     event_date: Wed 29 Jan - Sun 2 Feb
     event_ticket_info: $168 per person
     button_text: Book Now
