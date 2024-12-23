@@ -3,6 +3,20 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
+  - event_title: Lunar New Year 2025
+    event_description: >-
+      Set your course to good fortune and celebrate the Year of the Snake with a
+      5-course banquet. Indulge in dishes such as Spanner Crab & Corn Tartlets,
+      Rock Oysters, Sashimi, Crispy Pork Belly, Grilled King Prawns, and a
+      dessert special Caramelised Pineapple Tart. A perfect way to mark Lunar
+      New Year and send wishes for a prosperous and happy year to come.
+
+
+      Available for one week only, from Wed 29 Jan - Sun 2 Feb.
+    event_date: Wed 29 Jan - Sun 2 Feb
+    event_ticket_info: $168 per person
+    button_text: Book Now
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/EmptyName 149.jpg
     event_title: 'DESCEND: Yūgen NYE ''24'
     event_description: >-
