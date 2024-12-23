@@ -3,7 +3,8 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_title: Lunar New Year 2025
+  - event_image: /assets/images/Fathers Day GIF June 2024.gif
+    event_title: Lunar New Year 2025
     event_description: >-
       Set your course to good fortune and celebrate the Year of the Snake with a
       5-course banquet. Indulge in dishes such as Spanner Crab & Corn Tartlets,
