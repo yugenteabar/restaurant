@@ -53,7 +53,8 @@ events:
       Kalamasi, Almond & Kaffir lime meringue
     event_date: 'January 21, 2025'
     event_time: 7pm
-    event_ticket_info: $110 per person
+    event_ticket_info: ''
+    event_extra_info: $110 per person
     button_text: Buy Tickets
     button_link: 'https://events.humanitix.com/mastercard-serve-festival-at-yugen'
   - event_image: /assets/images/Yugen_TaiyakiMilkPunch_2.jpg
