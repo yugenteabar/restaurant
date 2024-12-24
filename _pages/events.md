@@ -37,8 +37,9 @@ events:
       dessert special Caramelised Pineapple Tart. A perfect way to mark Lunar
       New Year and send wishes for a prosperous and happy year to come.
     event_date: 'January 29 - February 2, 2025'
+    event_adress: $168 per person
     event_ticket_info: ''
-    event_extra_info: $168 per person
+    event_extra_info: ''
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/MA297.jpg
