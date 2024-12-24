@@ -67,9 +67,10 @@ events:
       exclusive events with the city’s top chefs and venues including Yūgen
       where you'll enjoy an exclusive menu.
     event_date: 'January 21, 2025'
-    event_time: 7pm
+    event_time: ''
+    event_adress: $110 per person
     event_ticket_info: ''
-    event_extra_info: $110 per person
+    event_extra_info: ''
     button_text: Buy Tickets
     button_link: 'https://events.humanitix.com/mastercard-serve-festival-at-yugen'
 _template: events
