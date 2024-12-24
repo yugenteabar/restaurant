@@ -28,6 +28,21 @@ events:
     button_text: Buy Tickets
     button_link: >-
       https://www.eventbrite.com/e/descend-yugen-nye-24-tickets-1078939329579?aff=YugenWebsite
+  - event_image: /assets/images/ServexYugen.png
+    event_title: Broadsheet x Yūgen | Serve 2025
+    event_description: >
+      Mastercard is proud to bring back Serve 2025 - a two-week celebration of
+      Melbourne’s very best in food, drink and hospitality. Running from January
+      12 to 26 during Australian Open, Serve invites Mastercard cardholders to
+      exclusive events with the city’s top chefs and venues including Yūgen
+      where you'll enjoy an exclusive menu.
+    event_date: 'January 21, 2025'
+    event_time: ''
+    event_adress: $110 per person
+    event_ticket_info: ''
+    event_extra_info: ''
+    button_text: Buy Tickets
+    button_link: 'https://events.humanitix.com/mastercard-serve-festival-at-yugen'
   - event_image: /assets/images/Yugen_TaiyakiMilkPunch_2.jpg
     event_title: Lunar New Year 2025
     event_description: >-
@@ -60,21 +75,6 @@ events:
     event_extra_info: ''
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
-  - event_image: /assets/images/ServexYugen.png
-    event_title: Broadsheet x Yūgen | Serve 2025
-    event_description: >
-      Mastercard is proud to bring back Serve 2025 - a two-week celebration of
-      Melbourne’s very best in food, drink and hospitality. Running from January
-      12 to 26 during Australian Open, Serve invites Mastercard cardholders to
-      exclusive events with the city’s top chefs and venues including Yūgen
-      where you'll enjoy an exclusive menu.
-    event_date: 'January 21, 2025'
-    event_time: ''
-    event_adress: $110 per person
-    event_ticket_info: ''
-    event_extra_info: ''
-    button_text: Buy Tickets
-    button_link: 'https://events.humanitix.com/mastercard-serve-festival-at-yugen'
 _template: events
 ---
 
