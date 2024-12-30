@@ -33,7 +33,7 @@ beverage_sections:
 manager_signature: ''
 menus:
   - menu_title: 'Bar Menu     |          '
-    menu_pdf: /assets/images/Yugen Dining A5 Bar Menu 20.11.2024.pdf
+    menu_pdf: /assets/images/Yugen Dining A5 Bar Menu 28.12.2024.pdf
   - menu_title: '|       Wine & Sake Menu'
     menu_pdf: /assets/images/Wine_web.pdf
 _template: beverage
