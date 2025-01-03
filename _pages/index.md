@@ -8,18 +8,14 @@ title: Homepage
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/banner_1.png)
+  ![](/assets/images/YugenTaiyakiMilk.jpg)
 
 
-  Secure your ticket or book a second sitting dinner reservation for
-  complimentary access to DESCEND: Yugen NYE—an unforgettable night of
-  cocktails, canapés, and live entertainment to ring in 2025.
-popup_button_text: Buy Tickets
-popup_button_link: >-
-  https://www.eventbrite.com.au/e/descend-yugen-nye-24-tickets-1078939329579?aff=YugenWebsite
+  Set your course to good fortune and celebrate the Year of the Snake with a
+  5-course banquet. The perfect way to mark Lunar New Year and send wishes for a
+  prosperous and happy year to come.
+popup_button_text: BOOK NOW
+popup_button_link: '#'
 _template: homepage
 ---
-
-
-
 
