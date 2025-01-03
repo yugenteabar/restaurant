@@ -21,7 +21,7 @@
       <div class="popup-content-box">
         <!-- title -->
         {% if page.popup_title %}
-          <div class="popup-title mb-16 animate__animated animate__fadeInUp">
+          <div class="popup-title mb-8 animate__animated animate__fadeInUp">
             {{ page.popup_title }}
           </div>
         {% endif %}
@@ -32,11 +32,13 @@
         </div>
   
         <!-- button -->
+        {% if page.popup_button_link and page.popup_button_link != "" %}
         <div class="popup-btn mt-16 flex items-center justify-center animate__animated animate__fadeInUp animate__delay-2s">
           <a href="{{page.popup_button_link}}" target="_blank" class="popup-btn">
             {{ page.popup_button_text }}
           </a>
         </div>
+        {% endif %}
       </div>
     </div>
   </div>

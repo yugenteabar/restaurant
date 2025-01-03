@@ -15,7 +15,8 @@ popup_text: >
   5-course banquet. The perfect way to mark Lunar New Year and send wishes for a
   prosperous and happy year to come.
 popup_button_text: BOOK NOW
-popup_button_link: '#'
+popup_button_link: ''
 _template: homepage
 ---
+
 
