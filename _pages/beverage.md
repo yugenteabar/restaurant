@@ -35,7 +35,7 @@ menus:
   - menu_title: 'Bar Menu     |          '
     menu_pdf: /assets/images/Yugen Dining A5 Bar Menu 28.12.2024.pdf
   - menu_title: '|       Wine & Sake Menu'
-    menu_pdf: /assets/images/Wine_web.pdf
+    menu_pdf: /assets/images/Wine & Sake Menu 03.01.2025.pdf
 _template: beverage
 ---
 
