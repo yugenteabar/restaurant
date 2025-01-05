@@ -58,84 +58,16 @@ yugen_omakase_terms_text: >
 
   Credit card payments will incur a processing fee Mastercard / Visa 1.2% -
   Amex/ Other 1.6%.
-yugen_nidaime_title: Nidaime Omakase
-yugen_nidaime_image: /assets/images/Nidaime_PO_JL7552 2.png
-yugen_nidaime_text: >
-  Immerse yourself in the enigmatic world of Nidaime Omakase.
-
-
-  Our talented Chefs and Sommeliers have curated a refined multi-course menu,
-  that goes beyond the ordinary.
-
-
-  Hosted at Yūgen Tea Bar, this intimate 8 seater Chef-to-Guest experience
-  serves as a incubator for experimental ideas, shining a light on the best
-  seasonal produce to captivate your senses in a laid-back and entertaining
-  space.
-
-
-  Our ever-evolving beverage menus will include small release, rare & one-off
-  pairings of high-quality Sake, Wine & Tea to complement the food on offer.
-yugen_nidaime_price: $175pp
-yugen_nidaime_beverage_pairing: |
-  Indulge Sake & Wine Pairing – $85pp
-
-  Prestige Sake & Wine Pairing – $145pp
-
-  Tea Discovery – $65pp
-yugen_nidaime_availability: >-
-  Nidaime Omakase is available for dinner, Wednesday to Sunday, at 6pm or
-  8:30pm.
-yugen_nidaime_book_text: BOOK NIDAIME
-yugen_nidiame_book_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=191894&utm_source=external&utm_medium=referral&utm_campaign=shared
-nidiame_terms_title: Omakase Terms & Conditions
-nidiame_terms_text: >
-  **Yugen Nidaime Omakase offer two sessions each night:**
-
-
-  1st session: begins at 6pm sharp till 8pm
-
-
-  2nd session: begins at 8.30pm sharp till 10:30pm
-
-
-  For the best dining experience, please ensure all guests arrive at 10 minutes
-  before your sitting.
-
-
-  Please be mindful of dining time as it affects other diners. Unfortunately,
-  our Chef’s cannot accommodate for late guests and will not supply missed
-  dishes.
-
-
-  **Dietaries**:
-
-
-  Our Omakase is dependent on seasonal produce and changes daily. For this
-  reason, we are unable to cater to food allergies and/or dietary restrictions.
-  This is also due to the potential traces of allergens in the supplied
-  ingredients and in the work environment. We are unable to cater for
-  vegetarians, vegans, no raw seafood, shellfish allergies, gluten free, soy and
-  coeliac.
-
-
-  **Cancellation policy and no shows:**
-
-
-  Cancellation before 48 hours of your booking will be permitted for a no
-  cancellation fee.
-
-
-  No shows or cancellations less than 48 hours in advance will be charged a $175
-  cancellation fee per person.
-
-
-  Please note a 15% surcharge apply on Sunday and public holidays.
-
-
-  Credit card payments will incur a processing fee Mastercard / Visa 1.2% - Amex
-  / Other 1.6%.
+yugen_nidaime_title: ''
+yugen_nidaime_image: ''
+yugen_nidaime_text: ''
+yugen_nidaime_price: ''
+yugen_nidaime_beverage_pairing: ''
+yugen_nidaime_availability: ''
+yugen_nidaime_book_text: ''
+yugen_nidiame_book_link: ''
+nidiame_terms_title: ''
+nidiame_terms_text: ''
 _template: omakase
 ---
 
