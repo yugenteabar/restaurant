@@ -25,18 +25,6 @@ events:
     text_below_button: >-
       Friday and Saturday nights attract a min spend of $2500. Sundays and
       Public holidays incur a 15% surcharge
-  - title: Nidaime Omakase
-    text: >-
-      Savour the Omakase experience in a space that is exclusively yours. Hosted
-      upstairs at Yūgen Tea Bar, Nidaime Omakase presents a front row experience
-      and a multi-course menu tailored for your group featuring the finest
-      ingredients sourced. <br>
-
-
-      Perfect for birthdays, intimate celebrations, or a unique gathering for up
-      to 8 guests.
-    button_text: ENQUIRE NOW
-    button_email: info@yugen.com.au
   - title: Private Events
     text: >-
       The only event space of its kind in Melbourne. Yūgen is as a subterranean
