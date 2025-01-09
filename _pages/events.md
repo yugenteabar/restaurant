@@ -29,7 +29,7 @@ events:
     event_extra_info: ''
     button_text: Buy Tickets
     button_link: 'https://events.humanitix.com/mastercard-serve-festival-at-yugen'
-  - event_image: /assets/images/Yugen_TaiyakiMilkPunch_2.jpg
+  - event_image: /assets/images/LNY_MAILCHIMP.gif
     event_title: Lunar New Year 2025
     event_description: >-
       Set your course to good fortune and celebrate the Year of the Snake with a
