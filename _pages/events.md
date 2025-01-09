@@ -44,7 +44,7 @@ events:
     button_text: Book Now
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=400708&utm_source=external&utm_medium=referral&utm_campaign=shared
-  - event_image: /assets/images/MA297.jpg
+  - event_image: /assets/images/MAIL_CHIMP_VDAY.gif
     event_title: Valentine's Day 2025
     event_description: >-
       Indulge in a truly unforgettable Valentine’s Day at Yūgen with an
