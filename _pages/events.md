@@ -4,6 +4,7 @@ layout: events
 title: What’s On
 events:
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
+    event_title: Yūgen Live DJ Sessions
     event_description: >-
       Yūgen Soundhouse is back this January, bringing you an unforgettable
       season of live DJ sets every Friday and Saturday. Whether you're here for
@@ -11,7 +12,8 @@ events:
       Melbourne's best DJs such as DJ DNE, Katie Hill, Kelvin Dana, and Edd
       Fisher. Join us for an epic night out this Summer. 
     event_date: 'January 17 - February 8, 2025'
-    event_ticket_info: 'Every Friday & Saturday, 6pm-1am'
+    event_ticket_info: ''
+    event_extra_info: 'Every Friday & Saturday, 6pm-1am'
   - event_image: /assets/images/ServexYugen.png
     event_title: Broadsheet x Yūgen | Serve 2025
     event_description: >
