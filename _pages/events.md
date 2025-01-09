@@ -54,7 +54,7 @@ events:
       personalized card, or elevate the occasion with a glass of Champagne. Both
       options are available as add-ons to make your celebration even more
       special.
-    event_date: 'February 14th, 2025'
+    event_date: 'February 14, 2025'
     event_adress: $165 per person
     event_ticket_info: ''
     event_extra_info: ''
