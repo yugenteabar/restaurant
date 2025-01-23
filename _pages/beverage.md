@@ -35,7 +35,7 @@ menus:
   - menu_title: 'Bar Menu     |          '
     menu_pdf: /assets/images/Wine & Sake Menu.pdf
   - menu_title: '|       Wine & Sake Menu'
-    menu_pdf: /assets/images/Wine & Sake Menu 03.01.2025.pdf
+    menu_pdf: /assets/images/Wine & Sake Menu 23.01.2025.pdf
 _template: beverage
 ---
 
