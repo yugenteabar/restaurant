@@ -45,7 +45,7 @@ menus:
       We aim to provide a variety of options for guests looking for more
       plant-based alternatives.
     menu_link_text: Menu
-    pdf_file: /assets/images/Vego & Vegan Menu 18.12.2024.pdf
+    pdf_file: /assets/images/V_ 08.01.25.pdf
   - menu_title: LATE NIGHT SUPPER MENU
     menu_description: >-
       For guests joining us for a drink at the bar, and just wanting a smaller
