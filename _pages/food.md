@@ -39,7 +39,7 @@ menus:
       We offer 2 options for larger groups. Choose from our standard 6 course
       shared menu, or upgrade to our 7 course Premium menu.
     menu_link_text: Menu
-    pdf_file: /assets/images/Vego_Vegan Menu 08.01.25.pdf
+    pdf_file: /assets/images/GROUP_MENU.pdf
   - menu_title: VEGETARIAN AND VEGAN MENU
     menu_description: >-
       We aim to provide a variety of options for guests looking for more
