@@ -3,21 +3,6 @@ permalink: /events/
 layout: events
 title: What’s On
 events:
-  - event_image: /assets/images/LNY_MAILCHIMP.gif
-    event_title: Lunar New Year 2025
-    event_description: >-
-      Set your course to good fortune and celebrate the Year of the Snake with a
-      5-course banquet. Indulge in dishes such as Spanner Crab & Corn Tartlets,
-      Rock Oysters, Sashimi, Crispy Pork Belly, Grilled King Prawns, and a
-      dessert special Caramelised Pineapple Tart. A perfect way to mark Lunar
-      New Year and send wishes for a prosperous and happy year to come.
-    event_date: 'January 29 - February 2, 2025'
-    event_adress: $168 per person
-    event_ticket_info: ''
-    event_extra_info: ''
-    button_text: Book Now
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=400708&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
