@@ -288,7 +288,7 @@ addEventListener("load", () => {
     document.querySelector(".terms-text-open-dialog")
   ) {
     const nidaimeBox = document.querySelector(".nidaime-terms-container");
-    const yugenBox = document.querySelector(".yugen-terms-container");
+    const yugenBoxes = document.querySelectorAll(".yugen-terms-container");
 
     const termsYugenTextOpenDialog = document.querySelector(
       ".yugen-terms-container .terms-text-open-dialog"
@@ -314,13 +314,18 @@ addEventListener("load", () => {
       );
     }
 
-    if (yugenBox) {
-      const yugenTermsCheckbox = yugenBox.querySelector(
-        ".yugen-terms-container .terms-text input"
-      );
-      yugenTermsCheckbox.addEventListener("change", () =>
-        acceptTerms(yugenBox)
-      );
+    if (yugenBoxes) {
+      Array.from(yugenBoxes).map((yb) => {
+        const yugenTermsCheckboxes = yb.querySelectorAll(
+          ".yugen-terms-container .terms-text input"
+        );
+
+        Array.from(yugenTermsCheckboxes).map((ytc) => {
+          ytc.addEventListener("change", () => {
+            acceptTerms(yb);
+          });
+        });
+      });
     }
   }
 
@@ -351,6 +356,7 @@ addEventListener("load", () => {
 
   function acceptTerms(checkboxContainer) {
     const bookOverlay = checkboxContainer.querySelector(".book-overlay");
+
     const checkbox = checkboxContainer.querySelector(".terms-text input");
     if (checkbox.checked) {
       bookOverlay.classList.add("hide-behind");
