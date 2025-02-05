@@ -39,7 +39,7 @@ menus:
       We offer 2 options for larger groups. Choose from our standard 6 course
       shared menu, or upgrade to our 7 course Premium menu.
     menu_link_text: Menu
-    pdf_file: /assets/images/YUGEN_SET_groupsets.pdf
+    pdf_file: /assets/images/Yugen Dining_group_18.12.24.pdf
   - menu_title: VEGETARIAN AND VEGAN MENU
     menu_description: >-
       We aim to provide a variety of options for guests looking for more
