@@ -13,14 +13,15 @@ beverage_sections:
       intimately intertwined histories of East and West.
   - section_title: Sake
     section_text: >-
-      Yugen offers 20 sakes by the glass, divided into five distinct categories.
-      Prefecture to prefecture, textured to creamy, savoury to robust, lighter
-      to heavier, Junmai to Kijoshu.
+      Yūgen offers a selection of 20 sakes by the glass, expertly divided into
+      five distinct categories: from prefecture to prefecture, textured to
+      creamy, savory to robust, and lighter to heavier, including Junmai to
+      Kijoshu.
 
 
-      A tale of sake’s diversity is best told by our in-house sake sommeliers.
-      If a glass tempts you towards more, we have 50 by the bottle options to
-      share.
+      Discover the full range of sake’s diversity with the guidance of our
+      in-house sake sommeliers. If one glass leaves you wanting more, we offer
+      50 additional sake options by the bottle to share and explore.
   - section_title: Wine
     section_text: >-
       Our extensive wine list features 250 diverse varietals, thoughtfully
