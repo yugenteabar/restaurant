@@ -9,8 +9,13 @@ meta_description: >-
 beverage_sections:
   - section_title: ''
     section_text: >-
-      Yugen offers beverages that pair to every taste. A way to explore the
-      intimately intertwined histories of East and West.
+      Yūgen offers a thoughtfully curated selection of beverages that cater to
+      every taste, providing the perfect pairing for our Japanese and
+      Asian-fusion dishes. Our drink offerings create an opportunity to explore
+      the intimate connection between Eastern and Western culinary traditions,
+      from expertly crafted cocktails to an extensive wine and sake list. Each
+      drink has been chosen to enhance your dining experience, inviting you to
+      discover the harmonious fusion of cultures in every sip
   - section_title: Sake
     section_text: >-
       Yūgen offers a selection of 20 sakes by the glass, expertly divided into
