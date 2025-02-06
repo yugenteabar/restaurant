@@ -24,12 +24,11 @@ menus:
     menu_description: ''
     menu_link_text: Menu
     pdf_file: /assets/images/A la carte menu 05.02.25.pdf
-  - menu_title: CHEF'S TASTING EXPERIENCE
+  - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
-      In addition to our regular offerings, we also offer a unique Chef's
-      Experience menu, featuring 8 courses crafted to delight your palate.
-      Elevate your dining experience with the option of expertly selected wines
-      to perfectly complement each course.
+      Indulge in 8 meticulously crafted courses designed to delight your palate.
+      Enhance your dining experience with a selection of expertly paired wines,
+      thoughtfully chosen to complement each dish.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Chef_Exp Menu 08.01.25.pdf
   - menu_title: GROUP SET MENUS
