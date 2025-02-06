@@ -36,9 +36,7 @@ beverage_sections:
 
       Embark on a journey from local to international producers with the
       guidance of our expert sommeliers, discovering wines that enhance the rich
-      palate of our Japanese and Asian-fusion dishes. Elevate your omakase
-      experience with a bespoke pairing, focusing on both wine and sake, or
-      explore our carefully selected non-alcoholic alternatives.
+      palate of our Japanese and Asian-fusion dishes.
 manager_signature: ''
 menus:
   - menu_title: 'Bar Menu     |          '
