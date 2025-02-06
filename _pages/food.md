@@ -10,7 +10,7 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: Food
 food_sections:
-  - section_title: ''
+  - section_title: Food Philosophy
     section_text: >-
       Yūgen draws inspiration from the rich cultural diversity of Asia, with
       Japanese and Asian-fusion dishes that deliver bold, distinctive flavours. 
