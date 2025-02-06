@@ -14,7 +14,7 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: Omakase
 yugen_omakase_title: Yūgen Omakase
-yugen_omakase_image: /assets/images/Nidaime Omakase.jpg
+yugen_omakase_image: /assets/images/Nidaime_PO_JL7374.jpg
 yugen_omakase_text: >
   Embark on a sensory journey with Yūgen Omakase, where contemporary Japanese
   and Australian culinary techniques blend seamlessly. With only 6 seats at our
