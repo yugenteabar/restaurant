@@ -11,13 +11,12 @@ title: Food
 food_sections:
   - section_title: Food Philosophy
     section_text: >-
-      Drawing inspiration from the diverse cultural richness of Asia, our dishes
-      depart from convention and are infused with rich and distinctive flavours
-      that sets them apart from the rest.
-       
-      We aim to support and work alongside our trusted local suppliers, with
-      whom we work mindfully to deliver quality, seasonal produce to each guest,
-      every time.
+      Drawing inspiration from the rich cultural diversity of Asia, our Japanese
+      and Asian fusion dishes deliver bold, distinctive flavours. 
+
+
+      We work closely with trusted local suppliers to deliver high-quality,
+      seasonal produce to every guest, every time.
 culinary_signature: ''
 menus:
   - menu_title: À LA CARTE
