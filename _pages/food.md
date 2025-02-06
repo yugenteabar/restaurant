@@ -37,10 +37,10 @@ menus:
       to the indulgent 7-course Premium menu.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Dining_group_18.12.24.pdf
-  - menu_title: VEGETARIAN AND VEGAN MENU
+  - menu_title: VEGETARIAN & VEGAN
     menu_description: >-
-      We aim to provide a variety of options for guests looking for more
-      plant-based alternatives.
+      We aim offer a diverse range of plant-based options to cater to guests
+      seeking vegetarian and vegan alternatives.
     menu_link_text: Menu
     pdf_file: /assets/images/V_ 08.01.25.pdf
   - menu_title: LATE NIGHT SUPPER MENU
