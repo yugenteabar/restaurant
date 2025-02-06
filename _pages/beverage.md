@@ -9,6 +9,7 @@ meta_description: >-
 beverage_sections:
   - section_title: Drinks Philosophy
     section_text: >-
+
       Yūgen offers a thoughtfully curated selection of beverages that cater to
       every taste, providing the perfect pairing for our Japanese and
       Asian-fusion dishes. 
