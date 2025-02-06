@@ -16,13 +16,16 @@ yugen_omakase_title: Yūgen Omakase
 yugen_omakase_image: ''
 yugen_omakase_text: "An exploration of taste and textures, our Omakase is a sensory journey.\_The melding of contemporary Japanese and Australian culinary techniques.\_With 6 seats available at our intimate mezzanine bar, our skilled Sushi Chefs will guide you through a personalised multi-course journey of the finest produce, led by the seasons & oceans.\n\nFrom the first bite to the last, we aim to form long lasting relationships with our guests, turning strangers into family.\_Trust us to create a memorable and profound dining experience which celebrates our chef's craftsmanship and precision, complimented by our elevated beverage pairings.\n\nProudly awarded Two Hats for the third year in a row in the 2025 Good Food Guide Awards.\n"
 yugen_omakase_signature: ''
-yugen_omakase_price: $285pp
-yugen_omakase_beverage_pairing: $185pp
+yugen_omakase_price: $285 per person
+yugen_omakase_beverage_pairing: $185 per person
 yugen_omakase_availability: >-
-  Yugen Omakase is served for dinner only, Wednesday to Sunday, at 7:00 pm. A
-  limited number of seats are available each month, with bookings released on
-  the 1st Wednesday of the month. Next bookings go live February 5th at 12pm for
-  March & April 2025 reservations.
+  Yūgen Omakase is available for dinner Wednesday to Sunday at 7:00pm. With a
+  limited number of seats each month, bookings are released on the first
+  Wednesday of the month. 
+
+
+  The next booking release is on April 2nd at 12pm, for May and June 2025
+  reservations.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: >-
   https://www.quandoo.com.au/checkout-widget/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link&merchantId=94412
