@@ -21,7 +21,10 @@ food_sections:
 culinary_signature: ''
 menus:
   - menu_title: À LA CARTE
-    menu_description: ''
+    menu_description: >-
+      Experience a fusion of traditional Japanese flavours and bold Asian
+      influences, crafted with the finest ingredients for a unique and memorable
+      dining experience.
     menu_link_text: Menu
     pdf_file: /assets/images/A la carte menu 05.02.25.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
