@@ -8,9 +8,9 @@ show_popup: false
 popup_title: ''
 popup_text: |
   ![]()
-popup_button_text: Order gift card
-popup_button_link: 'https://yugen.vouchercart.com/app/'
-title: The Yugen Experience
+popup_button_text: ''
+popup_button_link: ''
+title: Yugen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
   Leave your world behind. Dine, drink, and move with us. The night has just
   begun.
