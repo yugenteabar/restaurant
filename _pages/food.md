@@ -12,8 +12,8 @@ title: Food
 food_sections:
   - section_title: ''
     section_text: >-
-      Drawing inspiration from the rich cultural diversity of Asia, our Japanese
-      and Asian fusion dishes deliver bold, distinctive flavours. 
+      Yūgen draws inspiration from the rich cultural diversity of Asia, with
+      Japanese and Asian-fusion dishes that deliver bold, distinctive flavours. 
 
 
       We work closely with trusted local suppliers to deliver high-quality,
