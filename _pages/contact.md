@@ -14,7 +14,7 @@ phone_number:
 email: ' info@yugen.com.au '
 careers_title: Careers
 careers_text: 'Interested in joining our team? Email your resume to:'
-newsletter_title: 'Subscribe to Our Newsletter '
+newsletter_title: JOIN OUR LIST
 newsletter_text: 'Receive exclusive offers, news and first access to events. '
 subsribe_button_text: Subscribe
 subsribe_button_link: >-
