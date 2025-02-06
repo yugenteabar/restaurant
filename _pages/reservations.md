@@ -21,7 +21,6 @@ text: >+
   2nd Session: 8:45pm until late
 
 
-
   Bookings are available online for up to 12 guests. For groups of 7 or more,
   dining on our set menu is required.
 
