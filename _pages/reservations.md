@@ -25,8 +25,6 @@ text: >+
   Omakase reservations can be made via our dedicated Omakase page.
 
 
-  Cancellation Policy:
-
   We understand that plans can change. Please provide at least 24 hours' notice
   to avoid a cancellation fee of $80 per person for à la carte dining or $180
   per person for the Chef's Experience menu.
@@ -35,8 +33,6 @@ text: >+
   We do not permit external food or drinks (including celebration cakes) to be
   brought into the restaurant.
 
-
-  Booking Assistance:
 
   You can book anytime online or reach our Reservations team at (03) 7000 3232,
   available Tuesday to Saturday from 9:30am to 5:30pm.
