@@ -27,16 +27,14 @@ events:
     text_below_button: >-
       Friday and Saturday nights attract a minimum spend of $2500. Sundays and
       Public holidays incur a 15% surcharge
-  - title: Private Events
+  - title: Private Event Hire
     text: >-
-      The only event space of its kind in Melbourne. Yūgen is as a subterranean
-      gem, with breathtaking six-meter-high stone walls and refined industrial
-      interiors mixed with luxurious bespoke furniture and fabrics–available for
-      exclusive hire.
-
-
-      Seats 60 guests for an intimate occasion or up to 240 guests cocktail
-      style, over 2 floors.
+      Yūgen offers Melbourne’s only exclusive subterranean event space,
+      featuring stunning six-meter-high stone walls and a blend of refined
+      industrial interiors with luxurious bespoke furniture and fabrics.
+      Available for exclusive hire, this unique venue accommodates up to 60
+      guests for an intimate event or 240 guests cocktail-style across two
+      floors.
     button_text: ENQUIRE NOW
     button_email: events@lkhospitality.com.au
     text_below_button: ''
