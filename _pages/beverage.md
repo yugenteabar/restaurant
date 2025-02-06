@@ -23,14 +23,15 @@ beverage_sections:
       share.
   - section_title: Wine
     section_text: >-
-      Our wine list offers 250 diverse varietals that invite harmony and balance
-      to the boldness of our food.
+      Our extensive wine list features 250 diverse varietals, thoughtfully
+      curated to complement and balance the bold flavours of our menu.
 
 
-      Take a journey from local to international producers with our sommeliers.
-      Share wines that accentuate the rich palette of our menu. Mark your
-      omakase experience with a bespoke pairing that focuses on wine and sake,
-      or a non-alcoholic alternative.
+      Embark on a journey from local to international producers with the
+      guidance of our expert sommeliers, discovering wines that enhance the rich
+      palate of our Japanese and Asian-fusion dishes. Elevate your omakase
+      experience with a bespoke pairing, focusing on both wine and sake, or
+      explore our carefully selected non-alcoholic alternatives.
 manager_signature: ''
 menus:
   - menu_title: 'Bar Menu     |          '
