@@ -39,7 +39,7 @@ yugen_omakase_terms_text: >
   For the best dining experience, please ensure all guests arrive at 15 mins
   before. Our Omakase is dependent on seasonal produce and changes daily. For
   this reason, we are unable to cater to food allergies and/or dietary
-  restrictions.  This is also due to the potential traces of allergens in the
+  restrictions. This is also due to the potential traces of allergens in the
   supplied ingredients and in the work environment. We are unable to cater for
   vegetarians, vegans, no raw seafood, shellfish allergies, gluten free, soy and
   coeliac.
