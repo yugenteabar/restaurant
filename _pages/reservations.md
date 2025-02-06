@@ -9,32 +9,43 @@ show_page: true
 above_title: ''
 title: RESERVATIONS
 text: >+
-  Yūgen Dining is open for dinner Wednesday to Sunday, from 6pm.
+  Yūgen is open for dinner Wednesday to Sunday, from 6:00pm until late. We are
+  closed on Mondays and Tuesdays.
 
 
-  Bookings are available online for up to 12 guests.
+  We offer two seating sessions:
 
 
-  Walk-ins are welcome in our bar area. No reservation is required for drinks or
-  snacks.
+  1st Session: 6:00pm until 8:15pm
+
+  2nd Session: 8:45pm until late
 
 
-  For groups of 7 or more, dining on our set menu is required.
+
+  Bookings are available online for up to 12 guests. For groups of 7 or more,
+  dining on our set menu is required.
 
 
   Omakase reservations can be made via our dedicated Omakase page.
 
 
-  We understand that plans can change. Please provide at least 24 hours' notice
-  to avoid a cancellation fee of $80 per person for à la carte dining or $180
-  per person for the Chef's Experience menu.
+  Walk-ins are welcome in our bar area, and no reservation is required for
+  drinks or snacks.
+
+
+  We understand plans can change. Please provide at least 24 hours' notice to
+  avoid a cancellation fee of $80 per person for à la carte dining or $180 per
+  person for the Chef's Experience menu.
 
 
   We do not permit external food or drinks (including celebration cakes) to be
   brought into the restaurant.
 
 
-  You can book anytime online or reach our Reservations team at (03) 7000 3232,
+  A 15% surcharge applies to all Sunday and public holiday bookings.
+
+
+  You can book anytime online, or reach our Reservations team at (03) 7000 3232,
   available Tuesday to Saturday from 9:30am to 5:30pm.
 
 _template: reservations
