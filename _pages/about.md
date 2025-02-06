@@ -11,17 +11,18 @@ popup_text: |
   ![]()
 popup_button_text: ''
 popup_button_link: ''
-title: Yugen Dining | Fine Japanese Cuisine & Omakase Experience
+title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
-  Leave your world behind. Dine, drink, and move with us. The night has just
-  begun.
+  Leave the ordinary behind and immerse yourself in the unforgettable experience
+  at Yūgen. Dine, drink, and embrace the night as it unfolds in an environment
+  influenced by the cultural richness of Asia, blending tradition with
+  contemporary flair.
 
-  Yugen is influenced by the cultural richness of Asia, inspired by tradition,
-  but not bound by it.
 
-
-  Start by taking your night underground. Six-metre-high stone walls and refined
-  industrial interiors abound with three distinct areas for you to savour:
+  Start your evening underground, where six-meter-high stone walls and refined
+  industrial interiors set the stage. Discover three distinct areas designed to
+  elevate your dining experience, each offering its own unique atmosphere for
+  you to savour.
 list_of_experiences:
   - experience_title: Main Dining Room
     experience_text: >-
@@ -45,7 +46,7 @@ list_of_experiences:
       in style. Perfect for celebrating any special occasion, the Golden Orb
       combines elegance, privacy, and an unforgettable atmosphere, making it the
       ideal setting for a memorable dining experience.
-experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
+experience_conclusion: ''
 _template: about
 ---
 
