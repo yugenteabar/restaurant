@@ -29,7 +29,7 @@ menus:
       Indulge in 8 meticulously crafted courses designed to delight your palate.
       Enhance your dining experience with a selection of expertly paired wines,
       thoughtfully chosen to complement each dish.
-    menu_link_text: Menu
+    menu_link_text: Sample Menu
     pdf_file: /assets/images/Yugen Chef_Exp Menu 08.01.25.pdf
   - menu_title: GROUP SET MENUS
     menu_description: >-
