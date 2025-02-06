@@ -40,8 +40,11 @@ list_of_experiences:
       dining, or a late-night bite.
   - experience_title: Omakase Bar
     experience_text: >-
-      A six-seat mezzanine omakase bar introduces the finest of tradition to
-      modern instinct.
+      Experience an exclusive six-seat mezzanine omakase bar, where the finest
+      traditional techniques meet modern culinary instincts. Indulge in a
+      personalized, exceptional dining experience led by Sushi Chef Sam Chee,
+      starting from $285 per person. Proudly awarded Two Hats for the third
+      consecutive year in the 2025 Good Food Guide Awards.
   - experience_title: Golden Orb
     experience_text: >-
       Our six to nine seat golden orb brings everyone together and provides the
