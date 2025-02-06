@@ -25,8 +25,8 @@ events:
     button_text: ENQUIRE NOW
     button_email: info@yugen.com.au
     text_below_button: >-
-      Friday and Saturday nights attract a minimum spend of $2500. Sundays and
-      Public holidays incur a 15% surcharge
+      Friday and Saturday nights have a minimum spend of $2500. A 15% surcharge
+      applies on Sundays and public holidays.
   - title: Private Event Hire
     text: >-
       Yūgen offers Melbourne’s only exclusive subterranean event space,
