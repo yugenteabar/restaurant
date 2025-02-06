@@ -5,18 +5,9 @@ meta_description: >-
   Celebrating the cultural richness of Asia in a subterranean setting. Located
   in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
 show_popup: false
-popup_title: 'Yūgen: A Delicious Gift Idea!'
-popup_text: >
-  ![](/assets/images/Yugen_October_2320948.png)\
-
-  Take Christmas gifting up a notch with the gift of a memorable dining
-  experience!
-
-
-  Our gift vouchers are the perfect stocking filler.
-
-
-  Valid for either Yūgen Dining or Yūgen Tea Bar.
+popup_title: ''
+popup_text: |
+  ![]()
 popup_button_text: Order gift card
 popup_button_link: 'https://yugen.vouchercart.com/app/'
 title: The Yugen Experience
