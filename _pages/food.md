@@ -10,7 +10,7 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: Food
 food_sections:
-  - section_title: Food Philosophy
+  - section_title: ''
     section_text: >-
       Drawing inspiration from the rich cultural diversity of Asia, our Japanese
       and Asian fusion dishes deliver bold, distinctive flavours. 
