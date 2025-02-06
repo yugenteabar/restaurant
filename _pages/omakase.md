@@ -15,7 +15,19 @@ meta_description: >-
 title: Omakase
 yugen_omakase_title: Yūgen Omakase
 yugen_omakase_image: ''
-yugen_omakase_text: "An exploration of taste and textures, our Omakase is a sensory journey.\_The melding of contemporary Japanese and Australian culinary techniques.\_With 6 seats available at our intimate mezzanine bar, our skilled Sushi Chefs will guide you through a personalised multi-course journey of the finest produce, led by the seasons & oceans.\n\nFrom the first bite to the last, we aim to form long lasting relationships with our guests, turning strangers into family.\_Trust us to create a memorable and profound dining experience which celebrates our chef's craftsmanship and precision, complimented by our elevated beverage pairings.\n\nProudly awarded Two Hats for the third year in a row in the 2025 Good Food Guide Awards.\n"
+yugen_omakase_text: >
+  Embark on a sensory journey with Yūgen Omakase, where contemporary Japanese
+  and Australian culinary techniques blend seamlessly. With only 6 seats at our
+  intimate mezzanine bar, Chef Samuel Chee and our expert Sushi Chefs guide you
+  through a personalized, multi-course exploration of the finest seasonal and
+  ocean-fresh produce. Each bite-sized course is prepared right before your
+  eyes, offering an immersive dining experience.
+
+
+  Proudly awarded Two Hats for the third consecutive year in the 2025 Good Food
+  Guide Awards, Yūgen Omakase offers an unforgettable dining experience that
+  celebrates craftsmanship, precision, and is complemented by elevated beverage
+  pairings.
 yugen_omakase_signature: ''
 yugen_omakase_price: $285 per person
 yugen_omakase_beverage_pairing: $185 per person
