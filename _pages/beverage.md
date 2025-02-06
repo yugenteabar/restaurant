@@ -3,8 +3,9 @@ permalink: /beverage/
 title: Beverage
 layout: beverage
 meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
+  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
+  fusion, Yugen is nestled in a subterranean setting in the heart of South
+  Yarra, at the corner of Chapel St and Toorak Road.
 beverage_sections:
   - section_title: Philosophy
     section_text: >-
