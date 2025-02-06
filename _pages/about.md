@@ -47,8 +47,12 @@ list_of_experiences:
       consecutive year in the 2025 Good Food Guide Awards.
   - experience_title: Golden Orb
     experience_text: >-
-      Our six to nine seat golden orb brings everyone together and provides the
-      ultimate vantage point to see the night unfold.
+      Immerse yourself in the exclusive Golden Orb, a semi-private dining
+      experience with seating for six to nine guests. Offering the ultimate
+      vantage point, this intimate space allows you to watch the evening unfold
+      in style. Perfect for celebrating any special occasion, the Golden Orb
+      combines elegance, privacy, and an unforgettable atmosphere, making it the
+      ideal setting for a memorable dining experience.
 experience_conclusion: Come. Let go. Turn up the volume. Express yourself. See you underground.
 _template: about
 ---
