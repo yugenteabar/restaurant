@@ -31,10 +31,10 @@ menus:
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Chef_Exp Menu 08.01.25.pdf
-  - menu_title: GROUP SET MENUS
+  - menu_title: GROUP SET MENU | FROM $165PP
     menu_description: >-
-      We offer 2 options for larger groups. Choose from our standard 6 course
-      shared menu, or upgrade to our 7 course Premium menu.
+      For groups of 7 or more, choose from our 6-course shared menu or upgrade
+      to the indulgent 7-course Premium menu.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Dining_group_18.12.24.pdf
   - menu_title: VEGETARIAN AND VEGAN MENU
