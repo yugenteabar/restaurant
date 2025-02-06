@@ -7,7 +7,7 @@ meta_description: >-
   fusion, Yugen is nestled in a subterranean setting in the heart of South
   Yarra, at the corner of Chapel St and Toorak Road.
 text_before_title: ''
-title: Contact Us
+title: CONTACT US
 phone_number:
   phone_number: (03) 7000 3232
   phone_number_formated: '0370003232'
