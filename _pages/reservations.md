@@ -2,39 +2,45 @@
 permalink: /reservations/
 layout: reservations
 meta_description: >-
-  Celebrating the cultural richness of Asia in a subterranean setting. Located
-  in the heart of South Yarra, on the Corner of Chapel St and Toorak Road.
+  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
+  fusion, Yugen is nestled in a subterranean setting in the heart of South
+  Yarra, at the corner of Chapel St and Toorak Road.
 show_page: true
 above_title: ''
 title: RESERVATIONS
-text: >-
-  Yūgen Dining is open for dinner Wednesday to Sunday from 6pm.
+text: >+
+  Yūgen Dining is open for dinner Wednesday to Sunday, from 6pm.
 
 
   Bookings are available online for up to 12 guests.
 
 
-  Walk-ins are welcome for our bar area. No reservations are required for drinks
-  only or snacks.
+  Walk-ins are welcome in our bar area. No reservation is required for drinks or
+  snacks.
 
 
-  Group bookings of 7 or more are required to dine on our set menu.
+  For groups of 7 or more, dining on our set menu is required.
 
 
-  Omakase bookings are available via our Omakase page.
+  Omakase reservations can be made via our dedicated Omakase page.
 
 
-  We understand plans change so we request at least 24 hours notice to avoid an
-  $80pp for a la carte dining or $180pp for Chef's Experience menu cancellation
-  fee.
+  Cancellation Policy:
+
+  We understand that plans can change. Please provide at least 24 hours' notice
+  to avoid a cancellation fee of $80 per person for à la carte dining or $180
+  per person for the Chef's Experience menu.
 
 
-  No external food or drink is allowed into the restaurant (including
-  celebration cakes) 
+  We do not permit external food or drinks (including celebration cakes) to be
+  brought into the restaurant.
 
 
-  You can book anytime online, or call our Reservations team on (03) 7000 3232
-  (Tues - Sat 9:30am-5:30pm)
+  Booking Assistance:
+
+  You can book anytime online or reach our Reservations team at (03) 7000 3232,
+  available Tuesday to Saturday from 9:30am to 5:30pm.
+
 _template: reservations
 ---
 
