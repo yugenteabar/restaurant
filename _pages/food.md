@@ -43,10 +43,10 @@ menus:
       seeking vegetarian and vegan alternatives.
     menu_link_text: Menu
     pdf_file: /assets/images/V_ 08.01.25.pdf
-  - menu_title: LATE NIGHT SUPPER MENU
+  - menu_title: LATE NIGHT
     menu_description: >-
-      For guests joining us for a drink at the bar, and just wanting a smaller
-      bite, we have you covered.
+      For guests enjoying a drink at the bar and looking for a light bite, we’ve
+      got you covered.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 17.01.25.pdf
 _template: food
