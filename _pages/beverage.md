@@ -7,15 +7,15 @@ meta_description: >-
   fusion, Yugen is nestled in a subterranean setting in the heart of South
   Yarra, at the corner of Chapel St and Toorak Road.
 beverage_sections:
-  - section_title: ''
+  - section_title: DRINKS PHILOSOPHY
     section_text: >-
       Yūgen offers a thoughtfully curated selection of beverages that cater to
       every taste, providing the perfect pairing for our Japanese and
-      Asian-fusion dishes. Our drink offerings create an opportunity to explore
-      the intimate connection between Eastern and Western culinary traditions,
-      from expertly crafted cocktails to an extensive wine and sake list. Each
-      drink has been chosen to enhance your dining experience, inviting you to
-      discover the harmonious fusion of cultures in every sip
+      Asian-fusion dishes. 
+
+
+      From expertly crafted cocktails to an extensive wine and sake list. Each
+      drink has been curated to enhance your dining experience with every sip.
   - section_title: Sake
     section_text: >-
       Yūgen offers a selection of 20 sakes by the glass, expertly divided into
