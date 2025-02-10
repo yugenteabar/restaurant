@@ -114,7 +114,6 @@ export function yugen_experienceFields() {
           type: "string",
           name: "experience_title",
           label: "Title",
-          required: true,
         },
         {
           type: "string",

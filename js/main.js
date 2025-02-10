@@ -356,12 +356,15 @@ addEventListener("load", () => {
 
   function acceptTerms(checkboxContainer) {
     const bookOverlay = checkboxContainer.querySelector(".book-overlay");
+    const aHrefNearBookOverlay = bookOverlay.nextElementSibling;
 
     const checkbox = checkboxContainer.querySelector(".terms-text input");
     if (checkbox.checked) {
       bookOverlay.classList.add("hide-behind");
+      aHrefNearBookOverlay.classList.remove("hiden-href");
     } else {
       bookOverlay.classList.remove("hide-behind");
+      aHrefNearBookOverlay.classList.add("hiden-href");
     }
   }
 

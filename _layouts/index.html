@@ -1,5 +1,5 @@
-{% assign current_page = 'homepage' %}
-{% assign page_title = 'Welcome' %}
+{% assign current_page = 'index' %}
+{% assign page_title = 'About us' %}
 {% assign pageUrl = page.path | split: "/" %}
 
 {% include head.html %}
@@ -11,7 +11,7 @@
   <div class="popup-wrapper">
     <div class="popup-box relative">
       <!-- close popup -->
-      <span class="close-button-popup absolute top-0 right-2 text-white cursor-pointer">
+      <span class="absolute top-0 right-2 text-white cursor-pointer">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
           stroke="currentColor" class="w-6 md:w-8 h-6 md:h-8 mx-auto popup-close-button">
           <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m-15 0l15 15" />
@@ -21,7 +21,7 @@
       <div class="popup-content-box">
         <!-- title -->
         {% if page.popup_title %}
-          <div class="popup-title mb-8 animate__animated animate__fadeInUp">
+          <div class="popup-title mb-16 animate__animated animate__fadeInUp">
             {{ page.popup_title }}
           </div>
         {% endif %}
@@ -32,24 +32,35 @@
         </div>
   
         <!-- button -->
-        {% if page.popup_button_link and page.popup_button_link != "" %}
         <div class="popup-btn mt-16 flex items-center justify-center animate__animated animate__fadeInUp animate__delay-2s">
           <a href="{{page.popup_button_link}}" target="_blank" class="popup-btn">
             {{ page.popup_button_text }}
           </a>
         </div>
-        {% endif %}
       </div>
     </div>
   </div>
 </div>
 {% endif %}
 
-<main class="cover-image relative" title="Yugen Dining Homepage">
-  <div class="enter-site animate__animated animate__fadeInUp">
-    <a href="/about">
-      Enter Site
-    </a>
+<main class="cover-image" title="{{ page.title }}">
+  <div class="container mx-auto h-full pt-32 md:pt-60 pb-20 flex flex-col items-end">
+    <div class="w-full md:w-2/5 lg:px-6 sm:mt-0">
+      <h1 class="section-title mb-8 animate__animated animate__fadeInUp">{{ page.title }}</h1>
+      <div class="text lg:pr-4 animate__animated animate__fadeInUp">
+        {{ page.text_after_title | markdownify }}
+
+        {% for experience in page.list_of_experiences %}
+        <div>
+          <h5>{{ experience.experience_title }}</h5>
+          {{ experience.experience_text | markdownify}}
+        </div>
+        {% endfor %}
+        <p>
+          {{ page.experience_conclusion }}
+        </p>
+      </div>
+    </div>
   </div>
 </main>
 
