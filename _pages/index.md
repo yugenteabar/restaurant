@@ -5,7 +5,7 @@ meta_description: >-
   Celebrating the cultural richness of Asia with a focus on Japanese and Asian
   fusion, Yugen is nestled in a subterranean setting in the heart of South
   Yarra, at the corner of Chapel St and Toorak Road.
-show_popup: true
+show_popup: false
 popup_title: ''
 popup_text: "![](/assets/images/VDAY_ROSE_3X4.gif)\n\nAn exclusive Valentine’s Day Set Menu for Two. Tables are filling fast on Friday 14 February, don’t wait.\_\n"
 popup_button_text: BOOK NOW
@@ -26,5 +26,4 @@ list_of_experiences:
 experience_conclusion: ''
 _template: about
 ---
-
 
