@@ -18,25 +18,6 @@ events:
     event_date: 'January 17 - February 8, 2025'
     event_ticket_info: ''
     event_extra_info: 'Every Friday & Saturday, 6pm-1am'
-  - event_image: /assets/images/MAIL_CHIMP_VDAY.gif
-    event_title: Valentine's Day 2025
-    event_description: >-
-      Indulge in a truly unforgettable Valentine’s Day at Yūgen with an
-      exquisite tasting menu, featuring the delicate Strawberry & Jasmine Tart
-      as a dessert special.
-
-
-      Begin your evening with a thoughtful touch—a beautiful rose and
-      personalized card, or elevate the occasion with a glass of Champagne. Both
-      options are available as add-ons to make your celebration even more
-      special.
-    event_date: 'February 14, 2025'
-    event_adress: $165 per person
-    event_ticket_info: ''
-    event_extra_info: ''
-    button_text: Book Now
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=400109&utm_source=external&utm_medium=referral&utm_campaign=shared
 _template: events
 ---
 
