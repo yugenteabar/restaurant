@@ -27,13 +27,13 @@ menus:
       dining experience.
     menu_link_text: Menu
     pdf_file: /assets/images/A la carte menu 13.02.25.pdf
-  - menu_title: CHEF'S EXPERIENCE | $180PP
+  - menu_title: CHEF'S EXPERIENCE | $185PP
     menu_description: >-
       Indulge in 8 meticulously crafted courses designed to delight your palate.
       Enhance your dining experience with a selection of expertly paired wines,
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining $165 -23.02.25.pdf
+    pdf_file: /assets/images/Yugen Dining_185 - 23.02.25.pdf
   - menu_title: GROUP SET MENU | FROM $165PP
     menu_description: >-
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
