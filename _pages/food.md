@@ -27,7 +27,7 @@ menus:
       dining experience.
     menu_link_text: Menu
     pdf_file: /assets/images/A la carte menu 13.02.25.pdf
-  - menu_title: CHEF'S EXPERIENCE | $185PP
+  - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
       Indulge in 8 meticulously crafted courses designed to delight your palate.
       Enhance your dining experience with a selection of expertly paired wines,
