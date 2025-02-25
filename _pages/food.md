@@ -33,7 +33,7 @@ menus:
       Enhance your dining experience with a selection of expertly paired wines,
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
-    pdf_file: /assets/images/A la carte menu _13.02.25.pdf
+    pdf_file: /assets/images/A la carte menu 13.02.25.pdf
   - menu_title: GROUP SET MENU | FROM $165PP
     menu_description: >-
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
