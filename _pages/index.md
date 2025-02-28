@@ -13,7 +13,7 @@ popup_text: >
 
 
   WIN: A Luxury Staycation & Dining Experience with United Places
-popup_button_text: FIND OUT MORE
+popup_button_text: MORE INFO
 popup_button_link: 'https://omniabistro.com.au/stay-dine-with-united-places'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
