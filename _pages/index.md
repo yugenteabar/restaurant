@@ -7,10 +7,12 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: false
 popup_title: ''
-popup_text: "![](/assets/images/VDAY_ROSE_3X4.gif)\n\nAn exclusive Valentine’s Day Set Menu for Two. Tables are filling fast on Friday 14 February, don’t wait.\_\n"
-popup_button_text: BOOK NOW
-popup_button_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=400109&utm_source=external&utm_medium=referral&utm_campaign=shared
+popup_text: |
+  ![](/assets/images/stay\&dine_edm_1x1.gif)![]()
+
+  WIN: A Luxury Staycation & Dining Experience with United Places
+popup_button_text: FIND OUT MORE
+popup_button_link: 'https://omniabistro.com.au/stay-dine-with-united-places'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
   Leave the ordinary behind and immerse yourself in the unforgettable experience
