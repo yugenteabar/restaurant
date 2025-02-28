@@ -13,7 +13,12 @@ popup_text: >
 
 
   WIN: A Luxury Staycation & Dining Experience with United Places
-popup_button_text: MORE INFO
+
+
+  Dine with us this March for your chance to win an overnight stay in an urban
+  suite at United Places, plus a dinner experience for two at Omnia – valued at
+  $1,060.
+popup_button_text: FIND OUT MORE
 popup_button_link: 'https://omniabistro.com.au/stay-dine-with-united-places'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
