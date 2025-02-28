@@ -8,8 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/stay\&dine_edm_1x1.gif)![](</assets/images/stay\&dine_post
-  copy 10.png>)
+  ![](/assets/images/stay\&dine_edm_1x1.gif)![](/assets/images/stay\&dine_edmbanner_v2.png)
 
 
   WIN: A Luxury Staycation & Dining Experience with United Places
