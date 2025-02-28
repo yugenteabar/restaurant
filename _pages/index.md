@@ -7,8 +7,10 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: true
 popup_title: ''
-popup_text: |
-  ![](/assets/images/stay\&dine_edm_1x1.gif)![]()
+popup_text: >
+  ![](/assets/images/stay\&dine_edm_1x1.gif)![](</assets/images/stay\&dine_post
+  copy 10.png>)
+
 
   WIN: A Luxury Staycation & Dining Experience with United Places
 popup_button_text: FIND OUT MORE
