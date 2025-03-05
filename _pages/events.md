@@ -42,7 +42,7 @@ events:
       top talent, including DJ DNE, Katie Hill, Kelvin Dana, and Edd Fisher.
       Whether you're here for the beats, the cocktails, or the food, we've got
       everything you need for an epic Summer night.
-    event_date: 'January 17 - February 8, 2025'
+    event_date: ''
     event_ticket_info: ''
     event_extra_info: 'Every Friday & Saturday, 6pm-1am'
 _template: events
