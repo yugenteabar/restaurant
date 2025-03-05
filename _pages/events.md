@@ -7,6 +7,16 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/DSC00381_2.jpg
+    event_title: |-
+      Glenfiddich x Aston Martin Exclusive Cocktail
+      ⁠
+    event_description: >-
+      The Highballer—a cocktail as bold as the F1 action. Featuring Glenfiddich
+      Whiskey, umeshu, calvados, genmaicha syrup, apple, and a splash of soda.
+      Exclusively available this March. ⁠
+
+      ⁠
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
