@@ -44,7 +44,7 @@ events:
       everything you need for an epic Summer night.
     event_date: ''
     event_ticket_info: ''
-    event_extra_info: 'Every Friday & Saturday, 6pm-1am'
+    event_extra_info: 'Every Saturday, 6pm-1am'
 _template: events
 ---
 
