@@ -40,7 +40,7 @@ beverage_sections:
 manager_signature: ''
 menus:
   - menu_title: 'Bar Menu     |          '
-    menu_pdf: /assets/images/YUGEN_BAR_WEB.pdf
+    menu_pdf: /assets/images/YUGEN_BAR_5.3.2025.pdf
   - menu_title: '|       Wine & Sake Menu'
     menu_pdf: /assets/images/YD_Wine & Sake Menu_27.02.2025.pdf
 _template: beverage
