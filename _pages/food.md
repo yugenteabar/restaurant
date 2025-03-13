@@ -39,7 +39,7 @@ menus:
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
       to the indulgent 7-course Premium menu.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining_165_23.02.25.pdf
+    pdf_file: /assets/images/Yugen Dining Gluten Free menu 13.03.25.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: >-
       We aim offer a diverse range of plant-based options to cater to guests
