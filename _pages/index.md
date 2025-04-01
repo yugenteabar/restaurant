@@ -5,7 +5,7 @@ meta_description: >-
   Celebrating the cultural richness of Asia with a focus on Japanese and Asian
   fusion, Yugen is nestled in a subterranean setting in the heart of South
   Yarra, at the corner of Chapel St and Toorak Road.
-show_popup: true
+show_popup: false
 popup_title: ''
 popup_text: >
   ![](/assets/images/stay\&dine_edm_1x1.gif)![](/assets/images/stay\&dine_edmbanner_v2.png)
