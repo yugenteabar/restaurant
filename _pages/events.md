@@ -16,7 +16,7 @@ events:
       This Mother’s Day, we’re excited to offer exclusive lunch reservations,
       alongside our dinner service to treat the special woman in your life to a
       dining experience like no other. Upon arrival, she'll be greeted with a
-      complimentary glass of sparkling before indulging in our a la carte menu.
+      complimentary welcome cocktail before indulging in our a la carte menu.
       Secure your reservation now—this is one celebration she won't forget.
 
 
