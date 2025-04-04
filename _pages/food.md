@@ -29,7 +29,7 @@ menus:
     pdf_file: /assets/images/A la carte menu19.03.25.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
-      Indulge in 8 meticulously crafted courses designed to delight your palate.
+      Indulge in 6 meticulously crafted courses designed to delight your palate.
       Enhance your dining experience with a selection of expertly paired wines,
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
