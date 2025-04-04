@@ -8,11 +8,8 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/yugen_mothersday_webbanner_04.04.2025_1.gif
-    event_title: Mother's Day 2025
+    event_title: Celebrate Mother's Day
     event_description: >+
-      Celebrate Mother's Day at Yūgen.
-
-
       This Mother’s Day, we’re excited to offer exclusive lunch reservations,
       alongside our dinner service to treat the special woman in your life to a
       dining experience like no other. Upon arrival, she'll be greeted with a
