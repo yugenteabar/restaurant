@@ -7,18 +7,9 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: false
 popup_title: ''
-popup_text: >
-  ![](/assets/images/stay\&dine_edm_1x1.gif)![](/assets/images/stay\&dine_edmbanner_v2.png)
-
-
-  WIN: A Luxury Staycation & Dining Experience with United Places
-
-
-  Dine with us this March for your chance to win an overnight stay in an urban
-  suite at United Places, plus a dinner experience for two at Omnia – valued at
-  $1,060.
-popup_button_text: FIND OUT MORE
-popup_button_link: 'https://omniabistro.com.au/stay-dine-with-united-places'
+popup_text: "This Mother’s Day, we’re excited to offer exclusive lunch reservations, alongside our dinner service to treat her to a dining experience like no other.\_\n"
+popup_button_text: BOOK NOW
+popup_button_link: 'https://yugendining.com.au/reservations'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
 text_after_title: >-
   Leave the ordinary behind and immerse yourself in the unforgettable experience
