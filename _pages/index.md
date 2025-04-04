@@ -7,7 +7,7 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: false
 popup_title: ''
-popup_text: "![](/assets/images/yugen_mothersday_webbanner_04.04.2025_2.gif)This Mother’s Day, we’re excited to offer exclusive lunch reservations, alongside our dinner service to treat her to a dining experience like no other.\_\n"
+popup_text: "![](/assets/images/yugen_mothersday_webbanner_04.04.2025_2.gif)\n\nThis Mother’s Day, we’re excited to offer exclusive lunch reservations, alongside our dinner service to treat her to a dining experience like no other.\_\n"
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
