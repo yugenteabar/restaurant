@@ -7,6 +7,22 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/MA297.jpg
+    event_title: Mother's Day 2025
+    event_description: >+
+      Celebrate Mother's Day at Yūgen.
+
+
+      This Mother’s Day, we’re excited to offer exclusive lunch reservations,
+      alongside our dinner service to treat the special woman in your life to a
+      dining experience like no other. Upon arrival, she'll be greeted with a
+      complimentary glass of sparkling before indulging in our a la carte menu.
+      Secure your reservation now—this is one celebration she won't forget.
+
+
+
+    event_date: 'May 11, 2025'
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
