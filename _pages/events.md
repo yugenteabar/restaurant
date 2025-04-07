@@ -9,16 +9,11 @@ title: What’s On
 events:
   - event_image: /assets/images/yugen_mothersday_webbanner_04.04.2025_3.gif
     event_title: Celebrate Mother's Day
-    event_description: >+
-      This Mother’s Day, we’re excited to offer exclusive lunch reservations,
-      alongside our dinner service to treat the special mother figure in your
-      life to a dining experience like no other. Upon arrival, she'll be greeted
-      with a complimentary welcome cocktail before indulging in our a la carte
-      menu. Secure your reservation now—this is one celebration she won't
-      forget.
-
-
-
+    event_description: >-
+      This Mother’s Day, we’re excited to offer exclusive a la carte lunch
+      reservations, alongside our dinner service to treat the special mother
+      figure in your life to a dining experience like no other. Secure your
+      reservation now—this is one celebration she won't forget.
     event_date: 'May 11, 2025'
     button_text: BOOK NOW
     button_link: 'https://yugendining.com.au/reservations'
