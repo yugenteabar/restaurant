@@ -26,7 +26,7 @@ menus:
       influences, crafted with the finest ingredients for a unique and memorable
       dining experience.
     menu_link_text: Menu
-    pdf_file: /assets/images/A la carte menu19.03.25.pdf
+    pdf_file: /assets/images/A la carte menu-27.03.25.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
       Indulge in 6 meticulously crafted courses designed to delight your palate.
