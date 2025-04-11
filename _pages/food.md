@@ -45,7 +45,7 @@ menus:
       We aim offer a diverse range of plant-based options to cater to guests
       seeking vegetarian and vegan alternatives.
     menu_link_text: Menu
-    pdf_file: /assets/images/Vego & Vegan Menu 13.03.25.pdf
+    pdf_file: /assets/images/Vego & Vegan Menu 11.04.25.pdf
   - menu_title: LATE NIGHT
     menu_description: >-
       For guests enjoying a drink at the bar and looking for a light bite, we’ve
