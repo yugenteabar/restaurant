@@ -45,7 +45,8 @@ events:
     event_date: ''
     event_ticket_info: ''
     event_extra_info: 'Every Saturday, 6pm-1am'
-  - event_title: 'Guest Chef Series: Kittawa Lodge x Stephen Nairn'
+  - event_image: /assets/images/Stephen Nairn Head Shot.jpg
+    event_title: 'Guest Chef Series: Kittawa Lodge x Stephen Nairn'
     event_description: >-
       Yūgen’s Culinary Director, Stephen Nairn, is thrilled to be partnering
       with Kittawa Lodge, the exclusive off-grid accommodation on King Island,
