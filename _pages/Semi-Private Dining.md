@@ -34,9 +34,8 @@ events:
       industrial interiors with luxurious bespoke furniture and fabrics. 
 
 
-      Available for exclusive hire, this unique venue accommodates up to 60
-      guests for an intimate event or 240 guests cocktail-style across two
-      floors.
+      Available for exclusive hire, this unique venue accommodates up to 95
+      guests for a seated event or 230 guests cocktail-style across two floors.
     button_text: ENQUIRE NOW
     button_email: events@lkhospitality.com.au
     text_below_button: ''
