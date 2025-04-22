@@ -39,6 +39,9 @@ events:
     button_text: ENQUIRE NOW
     button_email: events@lkhospitality.com.au
     text_below_button: ''
+  - title: Download Pack
+    text: 'For more information, view our Events Brochure '
+    button_text: Download
 _template: private_dining
 ---
 
