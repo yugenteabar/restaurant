@@ -7,6 +7,21 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_title: 'Guest Chef Series: Kittawa Lodge x Stephen Nairn'
+    event_description: >-
+      Yūgen’s Culinary Director, Stephen Nairn, is thrilled to be partnering
+      with Kittawa Lodge, the exclusive off-grid accommodation on King Island,
+      Tasmania, for the return of its exclusive Guest Chef Series on King Island
+      for a series of intimate, chef-curated luxury experiences.
+
+
+      Kittawa Lodge is situated along a secluded stretch of untouched Tasmanian
+      coastline, celebrating local, seasonal produce, attentive, personalised
+      service, and a generosity of hospitality that has named them the number
+      one resort in Australia by Conde Nast's Reader’s Choice Awards.
+    event_date: 27 May & 31 May
+    button_text: MORE INFO
+    button_link: 'https://kittawalodge.com/guest-chef-series-2025/'
   - event_image: /assets/images/LORES 250402 Omnia & Yugen - 048.jpg
     event_title: Mother's Day High Tea x Bromley & Co. Gallery
     event_description: >-
