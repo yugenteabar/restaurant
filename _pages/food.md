@@ -53,6 +53,10 @@ menus:
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 17.01.25.pdf
   - menu_title: DESSERT
+    menu_description: >-
+      Indulge your sweet tooth and discover indulgent, handcrafted sweets
+      inspired by modern Japanese and Asian cuisine.
+    menu_link_text: MENU
     pdf_file: /assets/images/Yugen Dessert Menu A5 24.04.25.pdf
 _template: food
 ---
