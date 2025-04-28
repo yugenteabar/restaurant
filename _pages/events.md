@@ -10,16 +10,17 @@ events:
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
-      Every night from 6-8pm, we’re serving up a rotating selection of specials
-      to elevate your evenings.⁠ First up: a curated selection of sake and
-      irresistible snacks—perfect for unwinding after a long day or kicking off
-      your night.⁠
+      Enjoy a rotating selection of exclusive specials to elevate your evening.
 
-      ⁠
 
-      What will you choose? The night is yours to explore. Walk-ins only, to be
-      enjoyed at the bar.⁠
-    event_date: 'Everyday, 6-8pm'
+      First up: a curated selection of sake paired with irresistible
+      snacks—perfect for unwinding after a long day or starting your night in
+      style.
+
+
+      What will you choose? The evening is yours to savour. Walk-ins only, with
+      no bookings required—available exclusively at the bar.
+    event_date: 'Everyday, 6-8pm. '
   - event_image: /assets/images/yugen_mothersday_webbanner_04.04.2025_3.gif
     event_title: Celebrate Mother's Day
     event_description: >-
