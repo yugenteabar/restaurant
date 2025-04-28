@@ -7,6 +7,18 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
+    event_title: Kanpai Hour
+    event_description: >-
+      Every night from 6-8pm, we’re serving up a rotating selection of specials
+      to elevate your evenings.⁠ First up: a curated selection of sake and
+      irresistible snacks—perfect for unwinding after a long day or kicking off
+      your night.⁠
+
+      ⁠
+
+      What will you choose? The night is yours to explore. Walk-ins only, to be
+      enjoyed at the bar.⁠
   - event_image: /assets/images/yugen_mothersday_webbanner_04.04.2025_3.gif
     event_title: Celebrate Mother's Day
     event_description: >-
