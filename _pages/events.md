@@ -19,6 +19,7 @@ events:
 
       What will you choose? The night is yours to explore. Walk-ins only, to be
       enjoyed at the bar.⁠
+    event_date: 'Everyday, 6-8pm'
   - event_image: /assets/images/yugen_mothersday_webbanner_04.04.2025_3.gif
     event_title: Celebrate Mother's Day
     event_description: >-
