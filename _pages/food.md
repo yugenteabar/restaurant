@@ -51,7 +51,7 @@ menus:
       For guests enjoying a drink at the bar and looking for a light bite, we’ve
       got you covered.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 17.01.25.pdf
+    pdf_file: /assets/images/Late Night Snack Menu.pdf
   - menu_title: DESSERT
     menu_description: >-
       Indulge your sweet tooth and discover indulgent, handcrafted sweets
