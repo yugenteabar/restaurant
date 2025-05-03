@@ -20,23 +20,23 @@
           <div class="private-dining-text">
             {{ event.text | markdownify }}
           </div>
-          <!-- <p>
-            If you are visiting us as a party of seven or more, please get in touch with our reservations team at  <a
-              href="mailto:info@yugen.com.au" target="_blank">
-              info@yugen.com.au
-            </a> or <a href="tel:+0370003232">
-              (03) 7000 3232
-            </a>
-            between {{ page.workin_hour_start }}<span class="am-pm">pm</span> and {{ page.workin_hour_end | append: '' }}<span class="am-pm">pm</span>, Tuesday to Saturday.
-          </p> -->
         </div>
         {% endif %}
-        {% if event.button_text and event.button_email %}
-        <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
-          <a href="mailto:{{ event.button_email }}?subject={{ event.title }} - Yugen" target="_blank" class="email-btn animate__animated animate__fadeIn">
-            {{ event.button_text }}
-          </a>
-        </div>
+        {% if event.button_text %}
+          {% if event.button_email and event.is_email %}
+            <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
+              <a href="mailto:{{ event.button_email }}?subject={{ event.title }} - Yugen" target="_blank" class="email-btn animate__animated animate__fadeIn">
+                {{ event.button_text }}
+              </a>
+            </div>
+          {% endif %}
+          {% if event.file_pdf %}
+            <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
+              <a href="{{ event.file_pdf }}" target="_blank" class="email-btn animate__animated animate__fadeIn" download>
+                {{ event.button_text }}
+              </a>
+            </div>
+          {% endif %}
         {% endif %}
         {% if event.text_below_button %}
         <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-2s">

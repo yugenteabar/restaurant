@@ -23,6 +23,7 @@ events:
       between our signature 'Chef’s Experience' menu or a beautifully curated
       sashimi platter for the table.
     button_text: ENQUIRE NOW
+    is_email: true
     button_email: info@yugen.com.au
     text_below_button: >-
       Friday and Saturday nights have a minimum spend of $2500. A 15% surcharge
@@ -37,11 +38,16 @@ events:
       Available for exclusive hire, this unique venue accommodates up to 95
       guests for a seated event or 230 guests cocktail-style across two floors.
     button_text: ENQUIRE NOW
+    is_email: true
     button_email: events@lkhospitality.com.au
     text_below_button: ''
   - title: Download Pack
     text: 'For more information, view our Events Brochure '
-    button_text: Download
+    button_text: Download Events Pack
+    file_pdf: /assets/images/Yugen - Events Brochure.pdf
 _template: private_dining
 ---
+
+
+
 

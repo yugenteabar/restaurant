@@ -798,9 +798,19 @@ export function private_diningFields() {
           label: "Button text",
         },
         {
+          type: 'boolean',
+          name: 'is_email',
+          label: 'Is Email Button?'
+        },
+        {
           type: "string",
           name: "button_email",
           label: "Email for button",
+        },
+        {
+          type: "image",
+          name: "file_pdf",
+          label: "File PDF",
         },
         {
           type: "string",
