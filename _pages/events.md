@@ -49,7 +49,7 @@ events:
       What will you choose? The evening is yours to savour. Walk-ins only, with
       no bookings required—available exclusively at the bar.
     event_date: 'Everyday, 6-8pm. '
-  - event_image: /assets/images/photo0963.jpg
+  - event_image: /assets/images/_UPC5165.jpg
     event_title: Gozenshu Sake Dinner
     event_description: >-
       Discover the rich tradition of bodaimoto-style brewing, meet the maker,
