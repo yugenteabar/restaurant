@@ -7,6 +7,23 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/photo0963.jpg
+    event_title: Gozenshu Sake Dinner
+    event_description: >-
+      Discover the rich tradition of bodaimoto-style brewing, meet the maker,
+      and savour premium Japanese sake—set against the striking backdrop of
+      David Bromley’s iconic artworks.
+
+
+      Join us for an exclusive Gozenshu Sake Dinner with Soichiro Tsuji,
+      President of Tsuji Honten Co., as he personally hosts this intimate
+      evening ahead of the Melbourne Sake Festival. Enjoy a curated selection of
+      premium sakes paired with a five-course Yūgen menu in the unforgettable
+      setting of Bromley Gallery.
+    event_date: 'July 4, 2025'
+    button_text: BUY TICKETS
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=480328&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
