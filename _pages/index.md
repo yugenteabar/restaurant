@@ -26,18 +26,6 @@ text_after_title: >-
   85-seat fine dining modern Japanese and Asian Fusion restaurant, a cocktail
   bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb: a suspended VIP
   dining space offering a truly unique experience.
-list_of_experiences:
-  - experience_title: Main Dining Room
-    experience_text: Yugen’s main dining room...
-  - experience_title: Yūgen Omakase
-    experience_text: >-
-      An intimate six-seat omakase experience presented course-by-course at our
-      exclusive mezzanine bar. Awarded Two Hats in the 2025 Good Food Guide,
-      Yūgen Omakase offers an immersive journey of the finest seasonal produce,
-      precision, and curated beverage pairings.
-  - experience_title: Golden Orb
-    experience_text: Immerse yourself in the exclusive...
-  - experience_title: Mezzanine Dining
 experience_conclusion: ''
 _template: about
 ---
