@@ -15,15 +15,17 @@ popup_text: >
   experience.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
-title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
-text_after_title: >
+title: >-
   Yūgen Dining is a bold, subterranean destination redefining South Yarra’s
-  culinary scene. Hidden beneath the bustling streets, guests descend via a
-  dramatic glass-walled lift or illuminated staircase into a cavernous space
-  with six-metre-high ceilings and golden ambient light. Yūgen offers a diverse
-  range of elevated dining experiences—including an 85-seat modern Japanese and
-  Asian Fusion restaurant, a sweeping cocktail bar, the exclusive six-seat Yūgen
-  Omakase, and the Golden Orb, a suspended VIP dining space like no other.
+  culinary scene.
+text_after_title: >-
+  Hidden beneath the vibrant streets of South Yarra, guests descend via a
+  dramatic glass-walled lift or illuminated staircase into a cavernous,
+  design-led space with six-metre-high ceilings and ambient golden light. Yūgen
+  presents a curated selection of elevated dining experiences—including an
+  85-seat fine dining modern Japanese and Asian Fusion restaurant, a cocktail
+  bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb: a suspended VIP
+  dining space offering a truly unique experience.
 list_of_experiences:
   - experience_title: Main Dining Room
     experience_text: Yugen’s main dining room...
