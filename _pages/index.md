@@ -11,8 +11,8 @@ popup_text: >
   ![](/assets/images/yugen_mothersday_webbanner_04.04.2025_2.gif)
 
 
-  This Mother’s Day, we’re excited to offer exclusive lunch reservations,
-  alongside our dinner service.
+  Last chance to book for Mother's Day–join us for a special lunch or dinner
+  experience.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: Yūgen Dining | Fine Japanese Cuisine & Omakase Experience
