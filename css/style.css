@@ -1093,6 +1093,18 @@ footer .subscribe-btn:hover{
   display: none;
 }
 
+.footer-other-venue img{
+  max-width: 200px;
+  max-height: 80px;
+  opacity: 0.75;
+  transition: all .3s ease-in-out;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.footer-other-venue:hover img{
+  opacity: 1;
+}
+
 
 
 
@@ -1497,6 +1509,18 @@ footer .subscribe-btn:hover{
     font-size: 14px;
   }
   #contact .contact-map {
+    max-width: 100%;
+  }
+  .footer-other-venue {
+    width: calc(50% - .5rem);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .footer-other-venue img {
+    opacity: 1;
     max-width: 100%;
   }
 }
