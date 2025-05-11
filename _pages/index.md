@@ -15,7 +15,8 @@ popup_text: >
   featuring premium sake pairings and a five-course Yūgen menu at Bromley
   Gallery.
 popup_button_text: BOOK NOW
-popup_button_link: 'https://yugendining.com.au/reservations'
+popup_button_link: >-
+  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=480328&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
   A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
   Cuisine and Cocktails in South Yarra
