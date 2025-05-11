@@ -8,11 +8,12 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/yugen_mothersday_webbanner_04.04.2025_2.gif)
+  ![](/assets/images/photo09421.jpg)![]()
 
 
-  Last chance to book for Mother's Day–join us for a special lunch or dinner
-  experience.
+  Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
+  featuring premium sake pairings and a five-course Yūgen menu at Bromley
+  Gallery.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: >-
