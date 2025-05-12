@@ -19,7 +19,7 @@ popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=480328&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
   A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
-  Cuisine and Cocktails in South Yarra
+  Cuisine and Cocktails in South Yarra, Melbourne
 text_after_title: >-
   Hidden beneath the vibrant streets of South Yarra, descend into a cavernous,
   design-led space to discover a curated selection of elevated dining
