@@ -7,6 +7,32 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/A+L_EX1_HR-2876.jpg
+    event_title: Bigger Events. Better Rewards.
+    event_description: >-
+      EOFY and mid-year celebrations just got even more rewarding. Book your
+      event by June 30 for any date between June and August 2025, and enjoy a
+      BONUS gift voucher valued up to $1,500—yours to keep or share across our
+      iconic venues.*
+
+
+      Here’s how it works:
+
+
+      Spend $7,000 → Receive a $300 Voucher
+
+
+      Spend $15,000 → Receive a $750 Voucher
+
+
+      Spend $20,000 → Receive a $1,500 Voucher
+
+
+      From team celebrations to milestone moments, LK Hospitality Group offers a
+      collection of premier venues, including Yugen, YTB, Omnia, The Grand Room
+      and Bromley & Co Gallery, perfect for every kind of gathering.
+    button_text: LEARN MORE
+    button_link: 'https://lkhevents.com.au/'
   - event_image: /assets/images/UPC5165.jpg
     event_title: Gozenshu Sake Dinner
     event_description: >-
