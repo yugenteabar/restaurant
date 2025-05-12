@@ -21,11 +21,12 @@ title: >-
   A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
   Cuisine and Cocktails in South Yarra
 text_after_title: >-
-  Hidden beneath the vibrant streets of Toorak Road and Chapel Street, descend
-  into a cavernous, design-led space to discover a curated selection of elevated
-  dining experiences—including an 85-seat fine dining modern restaurant, a
-  cocktail bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb: a
-  suspended VIP dining space offering a truly unique experience.
+  Hidden beneath the vibrant streets of South Yarra, descend into a cavernous,
+  design-led space to discover a curated selection of elevated dining
+  experiences—including an 85-seat fine dining modern restaurant, a cocktail
+  bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb: a suspended VIP
+  dining space offering a truly unique Japanese fine-dining experience in
+  Melbourne.
 experience_conclusion: ''
 _template: about
 ---
