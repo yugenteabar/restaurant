@@ -15,9 +15,9 @@ events:
       collaboration.
 
 
-      In a rare creative exchange, Chef Stephen Nairn brings the essence of
-      Yūgen to the Mornington Peninsula — reimagined through a tasting menu
-      defined by precision, poetry, and bold reinterpretation.
+      In a rare creative exchange, our Culinary Director Stephen Nairn brings
+      the essence of Yūgen to the Mornington Peninsula — reimagined through a
+      tasting menu defined by precision, poetry, and bold reinterpretation.
 
 
       Part of Jackalope Weekend — a celebration of food, art, and cultural
