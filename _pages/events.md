@@ -20,9 +20,11 @@ events:
       tasting menu defined by precision, poetry, and bold reinterpretation.
 
 
-      Part of Jackalope Weekend — a celebration of food, art, and cultural
-      expression — where nothing is ordinary, and everything is unforgettable.
+      This even is part of Jackalope Weekend — a celebration of food, art, and
+      cultural expression — where nothing is ordinary, and everything is
+      unforgettable.
     event_date: 'June 14th, 2025'
+    event_extra_info: $180 per person.
     button_text: BOOK NOW
     button_link: 'https://www.sevenrooms.com/xC6b2eEa '
   - event_image: /assets/images/UPC5165.jpg
