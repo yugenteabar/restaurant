@@ -8,7 +8,7 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/Screenshot 2025-05-14 at 9.39.07 am.png
-    event_title: Jackalope Doot Doot Doot x Yugen
+    event_title: Jackalope x Yugen
     event_description: >-
       Step beneath the golden glow of 10,000 suspended globes as Yūgen joins
       forces with Doot Doot Doot for an extraordinary one-night-only
