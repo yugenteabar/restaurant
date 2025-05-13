@@ -7,6 +7,24 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/Screenshot 2025-05-14 at 9.39.07 am.png
+    event_title: Jackalope Doot Doot Doot x Yugen
+    event_description: >-
+      Step beneath the golden glow of 10,000 suspended globes as Yūgen joins
+      forces with Doot Doot Doot for an extraordinary one-night-only
+      collaboration.
+
+
+      In a rare creative exchange, Chef Stephen Nairn brings the essence of
+      Yūgen to the Mornington Peninsula — reimagined through a tasting menu
+      defined by precision, poetry, and bold reinterpretation.
+
+
+      Part of Jackalope Weekend — a celebration of food, art, and cultural
+      expression — where nothing is ordinary, and everything is unforgettable.
+    event_date: 'June 14th, 2025'
+    button_text: BOOK NOW
+    button_link: 'https://www.sevenrooms.com/xC6b2eEa '
   - event_image: /assets/images/UPC5165.jpg
     event_title: Gozenshu Sake Dinner
     event_description: >-
