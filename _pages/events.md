@@ -38,7 +38,7 @@ events:
       Join us for an exclusive Gozenshu Sake Dinner with Soichiro Tsuji,
       President of Tsuji Honten Co., as he personally hosts this intimate
       evening ahead of the Melbourne Sake Festival. Enjoy a curated selection of
-      premium sakes paired with a five-course Yūgen menu in the unforgettable
+      premium sakes paired with a four-course Yūgen menu in the unforgettable
       setting of Bromley Gallery.
     event_date: 'July 4, 2025'
     button_text: BUY TICKETS
