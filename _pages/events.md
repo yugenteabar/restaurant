@@ -20,7 +20,7 @@ events:
       tasting menu defined by precision, poetry, and bold reinterpretation.
 
 
-      This even is part of Jackalope Weekend — a celebration of food, art, and
+      This event is part of Jackalope Weekend — a celebration of food, art, and
       cultural expression — where nothing is ordinary, and everything is
       unforgettable.
     event_date: 'June 14th, 2025'
