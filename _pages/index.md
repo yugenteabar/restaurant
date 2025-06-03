@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/photo09421.jpg)![]()
+  ![](/assets/images/_DSC0559.jpg)
 
 
   Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
