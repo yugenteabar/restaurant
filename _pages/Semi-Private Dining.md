@@ -44,7 +44,7 @@ events:
   - title: Download Pack
     text: 'For more information, view our Events Brochure '
     button_text: Download Events Pack
-    file_pdf: /assets/images/Yugen - Events Brochure (3).pdf
+    file_pdf: /assets/images/Yugen - Events Brochure_Winter 25.pdf
 _template: private_dining
 ---
 
