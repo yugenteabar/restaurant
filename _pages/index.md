@@ -12,7 +12,7 @@ popup_text: >
 
 
   Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
-  featuring premium sake pairings and a five-course Yūgen menu at Bromley
+  featuring premium sake pairings and a four-course Yūgen menu at Bromley
   Gallery.
 popup_button_text: BOOK NOW
 popup_button_link: >-
