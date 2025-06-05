@@ -41,7 +41,7 @@ text: >+
   brought into the restaurant.
 
 
-  A 15% surcharge applies to all Sunday and public holiday bookings.
+  A 10% surcharge applies on Sundays and 15% on public holidays.
 
 
   You can book anytime online, or reach our Reservations team at (03) 7000 3232,
