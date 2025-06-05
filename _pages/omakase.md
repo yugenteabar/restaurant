@@ -38,7 +38,8 @@ yugen_omakase_availability: >-
 
 
 
-  Next booking release: June 4th at 12pm, for July & August 2025 reservations.
+  Next booking release: August 6th at 12pm, for September & October 2025
+  reservations.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: >-
   https://www.quandoo.com.au/checkout-widget/widget?aid=146&utm_source=quandoo-partner&utm_medium=widget-link&merchantId=94412
