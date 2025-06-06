@@ -8,8 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/_DSC0537.jpg)![premium sake
-  pairings](/assets/images/_DSC0537.jpg "premium sake pairings")
+  ![](/assets/images/DSC0537.jpg)
 
 
   Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
