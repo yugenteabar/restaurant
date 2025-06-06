@@ -7,6 +7,17 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: >-
+      /assets/images/Screenshot-2024-06-28-at-4.41.57-pm_65364a7b40c368df6e5496c57d49c153.jpeg
+    event_title: |
+      BONUS 20% EOFY OFFER
+    event_description: >-
+      EOFY Bonus: Get 20% Extra Value
+
+      Celebrate in style — receive a 20% bonus when you purchase a Yūgen gift
+      voucher ($100–$1000). Perfect for gifting or indulging.
+    button_text: BUY NOW
+    button_link: 'https://yugen.vouchercart.com/39194/yugen-gift-voucher'
   - event_image: /assets/images/Screenshot 2025-05-14 at 9.39.07 am.png
     event_title: Jackalope x Yugen
     event_description: >-
