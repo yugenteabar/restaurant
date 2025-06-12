@@ -26,7 +26,7 @@ menus:
       influences, crafted with the finest ingredients for a unique and memorable
       dining experience.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Che'f Exp Menu 11.06.25.pdf
+    pdf_file: /assets/images/A la carte menu_WEB.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
       Indulge in 6 meticulously crafted courses designed to delight your palate.
