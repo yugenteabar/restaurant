@@ -17,26 +17,6 @@ events:
       available until 30 June.
     button_text: BUY NOW
     button_link: 'https://yugen.vouchercart.com/39194/yugen-gift-voucher'
-  - event_image: /assets/images/Screenshot 2025-05-14 at 9.39.07 am.png
-    event_title: Jackalope x Yugen
-    event_description: >-
-      Step beneath the golden glow of 10,000 suspended globes as Yūgen joins
-      forces with Doot Doot Doot for an extraordinary one-night-only
-      collaboration.
-
-
-      In a rare creative exchange, our Culinary Director Stephen Nairn brings
-      the essence of Yūgen to the Mornington Peninsula — reimagined through a
-      tasting menu defined by precision, poetry, and bold reinterpretation.
-
-
-      This event is part of Jackalope Weekend — a celebration of food, art, and
-      cultural expression — where nothing is ordinary, and everything is
-      unforgettable.
-    event_date: 'June 14th, 2025'
-    event_extra_info: $180 per person.
-    button_text: BOOK NOW
-    button_link: 'https://www.sevenrooms.com/xC6b2eEa '
   - event_image: /assets/images/UPC5165.jpg
     event_title: Gozenshu Sake Dinner
     event_description: >-
