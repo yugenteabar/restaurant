@@ -8,7 +8,8 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](</assets/images/LoRes 250611 LK Events 1911.jpg>)![]()
+  ![](</assets/images/LoRes 250611 LK Events 1911.jpg>)![](</assets/images/LoRes
+  250611 LK Events 19112.jpg>)
 
 
   Final Tickets Remaining!
