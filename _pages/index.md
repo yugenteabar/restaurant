@@ -11,10 +11,12 @@ popup_text: >
   ![](</assets/images/LoRes 250611 LK Events 1911.jpg>)![]()
 
 
-  Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
-  featuring premium sake pairings and a four-course Yūgen menu at Bromley
-  Gallery.
-popup_button_text: BOOK NOW
+  Final Tickets Remaining!
+
+
+  Experience an exclusive Gozenshu Sake Dinner with Soichiro Tsuji – premium
+  sake pairings & a four-course Yūgen menu at Bromley Gallery.
+popup_button_text: Reserve your spot now →
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=480328&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
