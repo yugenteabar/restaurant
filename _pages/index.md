@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: ''
 popup_text: >
-  ![](/assets/images/DSC0537.jpg)
+  ![](</assets/images/LoRes 250611 LK Events 1911.jpg>)![]()
 
 
   Join us for an exclusive Gozenshu Sake Dinner hosted by Soichiro Tsuji,
