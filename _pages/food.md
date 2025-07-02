@@ -28,6 +28,11 @@ menus:
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen_A la carte.pdf
   - menu_title: PREMIUM SASHIMI PLATTERS
+    menu_description: >+
+      A luxurious expression of Japanese craftsmanship — our premium sashimi
+      platters showcase the finest cuts of seafood.
+
+    menu_link_text: MENU
     pdf_file: /assets/images/YUGEN_SUSHIPLATTER.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
