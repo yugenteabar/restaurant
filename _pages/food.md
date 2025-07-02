@@ -27,7 +27,7 @@ menus:
       dining experience.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen_A la carte.pdf
-  - menu_title: Premium Sashmi Platters
+  - menu_title: PREMIUM SASHIMI PLATTERS
     pdf_file: /assets/images/YUGEN_SUSHIPLATTER.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
