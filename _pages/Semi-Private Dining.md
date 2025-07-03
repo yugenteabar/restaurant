@@ -14,14 +14,14 @@ main_image: /assets/images/MA413.jpg
 events:
   - title: The Golden Orb
     text: >-
-      Dine in our one-of-a-kind golden orb-shaped dining room artfully suspended
-      from the ceiling. The ultimate vantage point to see how the night unfolds.
-      <br> 
+      Dine in our exclusive, golden orb-shaped dining room—suspended
+      dramatically from the ceiling for a truly one-of-a-kind experience. This
+      private space offers a breathtaking view of the entire restaurant, making
+      it the perfect vantage point to watch the evening come to life.
 
 
-      Ideal for groups of 6-9 guests, this exclusive space allows you to choose
-      between our signature 'Chef’s Experience' menu or a beautifully curated
-      sashimi platter for the table.
+      Ideal for intimate groups of 6 to 9 guests, the Golden Orb is reserved for
+      those enjoying our signature Chef’s Experience tasting menu.
     button_text: ENQUIRE NOW
     is_email: true
     button_email: info@yugen.com.au
