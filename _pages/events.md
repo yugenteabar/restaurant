@@ -58,20 +58,6 @@ events:
       What will you choose? The evening is yours to savour. Walk-ins only, with
       no bookings required—available exclusively at the bar.
     event_date: 'Everyday, 6-8pm. '
-  - event_image: /assets/images/A+L_EX1_HR-2876.jpg
-    event_title: Bigger Events. Better Rewards.
-    event_description: >-
-      EOFY and mid-year celebrations just got even better. Book your event by
-      June 30 for any date between June and August 2025, and enjoy a BONUS gift
-      voucher valued up to $1,500—yours to keep or share across our iconic
-      venues.
-
-
-      From team celebrations to milestone moments, we offer a collection of
-      premier venues, including Yugen, YTB, Omnia, The Grand Room and Bromley &
-      Co Gallery, perfect for any and every kind of gathering. T&C's apply.
-    button_text: LEARN MORE
-    button_link: 'https://lkhevents.com.au/'
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
