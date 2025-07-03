@@ -10,17 +10,10 @@ events:
   - event_image: /assets/images/YTB_JUNKO_WEB_.png
     event_title: 'High Tea & Ink: A Creative Workshop with Junko Azukawa'
     event_description: >-
-      Yugen Tea Bar is honoured to welcome sumi-e artist Junko Azukawa for a
-      unique 90-minute Japanese ink painting workshop, followed by a bespoke
-      high tea experience.
-
-
-      Begin your afternoon in the serene setting of Yugen with an immersive
-      workshop led by Junko. Learn the elegant brush techniques of Sumi-e (ink
-      painting) on delicate rice paper. Rooted in simplicity and mindfulness,
-      Sumi-e is more than art — it’s a meditative practice that invites calm,
-      focus, and self-expression. With Junko’s guidance, you’ll create your own
-      works inspired by nature.
+      Learn the elegant brush techniques of Sumi-e (ink painting) with Junko
+      Azukawa in a unique 90-minute Japanese ink painting workshop in Yugen.
+      Rooted in simplicity and mindfulness, Sumi-e is more than art — it’s a
+      meditative practice that invites calm, focus, and self-expression.
 
 
       After the workshop, head upstairs to YTB to enjoy a bespoke high tea menu,
