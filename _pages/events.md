@@ -7,6 +7,33 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_image: /assets/images/YTB_JUNKO_WEB_.png
+    event_title: 'High Tea & Ink: A Creative Workshop with Junko Azukawa'
+    event_description: >-
+      Yugen Tea Bar is honoured to welcome sumi-e artist Junko Azukawa for a
+      unique 90-minute Japanese ink painting workshop, followed by a bespoke
+      high tea experience.
+
+
+      Begin your afternoon in the serene setting of Yugen with an immersive
+      workshop led by Junko. Learn the elegant brush techniques of Sumi-e (ink
+      painting) on delicate rice paper. Rooted in simplicity and mindfulness,
+      Sumi-e is more than art — it’s a meditative practice that invites calm,
+      focus, and self-expression. With Junko’s guidance, you’ll create your own
+      works inspired by nature.
+
+
+      After the workshop, head upstairs to YTB to enjoy a bespoke high tea menu,
+      inspired by Junko’s creative style and artwork.
+
+
+      No experience necessary — whether you're new to art or simply seeking a
+      moment of calm, this workshop offers a beautiful way to slow down,
+      connect, and indulge.
+    event_date: 'July 20 & August 17, 2025'
+    button_text: BUY TICKETS
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=505537&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/UPC5165.jpg
     event_title: Gozenshu Sake Dinner
     event_description: >-
