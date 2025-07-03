@@ -7,18 +7,9 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: true
 popup_title: ''
-popup_text: >
-  ![](</assets/images/LoRes 250611 LK Events 1911.jpg>)
-
-
-  Final Tickets Remaining!
-
-
-  Experience an exclusive Gozenshu Sake Dinner with Soichiro Tsuji – premium
-  sake pairings & a four-course Yūgen menu at Bromley Gallery on Friday 4 July.
-popup_button_text: Reserve your spot now →
-popup_button_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=480328&utm_source=external&utm_medium=referral&utm_campaign=shared
+popup_text: ''
+popup_button_text: ''
+popup_button_link: ''
 title: >-
   A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
   Cuisine and Cocktails in South Yarra, Melbourne
