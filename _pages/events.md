@@ -13,16 +13,13 @@ events:
       Learn the elegant brush techniques of Sumi-e (ink painting) with Junko
       Azukawa in a unique 90-minute Japanese ink painting workshop in Yugen.
       Rooted in simplicity and mindfulness, Sumi-e is more than art — it’s a
-      meditative practice that invites calm, focus, and self-expression.
-
-
-      After the workshop, head upstairs to YTB to enjoy a bespoke high tea menu,
+      meditative practice that invites calm, focus, and self-expression. After
+      the workshop, head upstairs to YTB to enjoy a bespoke high tea menu,
       inspired by Junko’s creative style and artwork.
 
 
-      No experience necessary — whether you're new to art or simply seeking a
-      moment of calm, this workshop offers a beautiful way to slow down,
-      connect, and indulge.
+      Whether you're new to art or simply seeking a moment of calm, this
+      workshop offers a beautiful way to slow down, connect, and indulge.
     event_date: 'July 20 & August 17, 2025'
     button_text: BUY TICKETS
     button_link: >-
