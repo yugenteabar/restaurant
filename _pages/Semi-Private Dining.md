@@ -46,7 +46,7 @@ events:
       energy and ambiance of Yūgen.
     button_text: ENQUIRE NOW
     is_email: true
-    button_email: events@lkhospitality.com.au
+    button_email: info@yugen.com.au
     text_below_button: Minimum spend applies.
   - title: Private Event Hire
     text: >-
