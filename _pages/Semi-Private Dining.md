@@ -41,8 +41,18 @@ events:
     is_email: true
     button_email: events@lkhospitality.com.au
     text_below_button: ''
-  - title: Download Pack
-    text: 'For more information, view our Events Brochure '
+  - title: Private Event Hire
+    text: >-
+      Yūgen offers Melbourne’s only exclusive subterranean event space,
+      featuring stunning six-meter-high stone walls and a blend of refined
+      industrial interiors with luxurious bespoke furniture and fabrics. 
+
+
+      Available for exclusive hire, this unique venue accommodates up to 95
+      guests for a seated event or 230 guests cocktail-style across two floors.
+
+
+      For more information, download our Events Brochure 
     button_text: Download Events Pack
     file_pdf: /assets/images/Yugen Events Brochure_June_LR.pdf
 _template: private_dining
