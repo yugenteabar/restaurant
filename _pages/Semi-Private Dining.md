@@ -44,13 +44,10 @@ events:
       our semi-private, golden-curtained area within the Dining Room. This
       elevated space offers a sense of intimacy while still immersing you in the
       energy and ambiance of Yūgen.
-
-
-      Minimum spend applies.
     button_text: ENQUIRE NOW
     is_email: true
     button_email: events@lkhospitality.com.au
-    text_below_button: ''
+    text_below_button: Minimum spend applies.
   - title: Private Event Hire
     text: >-
       Yūgen offers Melbourne’s only exclusive subterranean event space,
