@@ -28,15 +28,25 @@ events:
     text_below_button: >-
       Friday and Saturday nights have a minimum spend of $2500. A 15% surcharge
       applies on Sundays and public holidays.
-  - title: Private Event Hire
+  - title: Group Dining
     text: >-
-      Yūgen offers Melbourne’s only exclusive subterranean event space,
-      featuring stunning six-meter-high stone walls and a blend of refined
-      industrial interiors with luxurious bespoke furniture and fabrics. 
+      Whether you're celebrating a milestone, planning a business dinner, or
+      bringing friends together for an unforgettable evening, the Dining Room at
+      Yūgen offers a sophisticated setting where exceptional cuisine, warm
+      hospitality, and elegant design converge.
 
 
-      Available for exclusive hire, this unique venue accommodates up to 95
-      guests for a seated event or 230 guests cocktail-style across two floors.
+      For groups of 7–18 guests, enjoy our curated set menus at banquette-style
+      tables — perfect for shared moments and seamless service.
+
+
+      Looking for something more exclusive? Groups of 20–26 guests can dine in
+      our semi-private, golden-curtained area within the Dining Room. This
+      elevated space offers a sense of intimacy while still immersing you in the
+      energy and ambiance of Yūgen.
+
+
+      Minimum spend applies.
     button_text: ENQUIRE NOW
     is_email: true
     button_email: events@lkhospitality.com.au
