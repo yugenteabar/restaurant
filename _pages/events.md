@@ -8,7 +8,7 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/YTB_JUNKO_WEB_.png
-    event_title: 'High Tea & Ink: A Creative Workshop with Junko Azukawa'
+    event_title: 'High Tea & Ink: A Creative Workshop with Junko Azukawa (SOLD OUT)'
     event_description: >-
       Learn the elegant brush techniques of Sumi-e (ink painting) with Junko
       Azukawa in a unique 90-minute Japanese ink painting workshop in Yugen.
