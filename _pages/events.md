@@ -7,6 +7,26 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
+  - event_title: An Evening with Glenfiddich
+    event_description: >-
+      Join us for an exclusive new chapter in our dinner series as Yugen
+      partners with Glenfiddich, the world’s most awarded single malt Scotch
+      whisky.
+
+
+      Hosted by Glenfiddich’s Australian Brand Ambassador, Ross Blainey, this
+      intimate evening will take you on a guided journey through some of the
+      distillery’s rarest and most exceptional aged releases. Ross will share
+      stories, tasting notes and insights that bring each dram to life.
+
+
+      From the elegance of the 18yo to the richness of the 26yo, every sip will
+      be matched with a 5-course tasting menu that highlights the whisky’s
+      character and complexity.
+    event_date: 'September 4, 2025'
+    button_text: Buy Tickets
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YTB_JUNKO_WEB_.png
     event_title: 'High Tea & Ink: A Creative Workshop with Junko Azukawa (SOLD OUT)'
     event_description: >-
