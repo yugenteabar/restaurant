@@ -7,7 +7,7 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
-  - event_image: /assets/images/Grand Cru Packshot 1.jpg
+  - event_image: /assets/images/YugenWhiskey.jpg
     event_title: An Evening with Glenfiddich
     event_description: >-
       Join us for an exclusive new chapter in our dinner series as Yugen teams
