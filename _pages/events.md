@@ -7,17 +7,17 @@ meta_description: >-
   Yarra, at the corner of Chapel St and Toorak Road.
 title: What’s On
 events:
-  - event_title: An Evening with Glenfiddich
+  - event_image: /assets/images/Grand Cru Packshot 1.jpg
+    event_title: An Evening with Glenfiddich
     event_description: >-
-      Join us for an exclusive new chapter in our dinner series as Yugen
-      partners with Glenfiddich, the world’s most awarded single malt Scotch
-      whisky.
+      Join us for an exclusive new chapter in our dinner series as Yugen teams
+      up with Glenfiddich, the world’s most awarded single malt Scotch whisky.
 
 
-      Hosted by Glenfiddich’s Australian Brand Ambassador, Ross Blainey, this
-      intimate evening will take you on a guided journey through some of the
-      distillery’s rarest and most exceptional aged releases. Ross will share
-      stories, tasting notes and insights that bring each dram to life.
+      Hosted by Glenfiddich Brand Ambassador, Ross Blainey, this intimate
+      evening will take you on a guided journey through some of the distillery’s
+      rarest and most exceptional aged releases. Ross will share the tales,
+      tasting notes and insights that brought each dram to life.
 
 
       From the elegance of the 18yo to the richness of the 26yo, every sip will
