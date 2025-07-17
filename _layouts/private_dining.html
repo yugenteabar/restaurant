@@ -45,6 +45,22 @@
           </div>
         </div>
         {% endif %}
+        {% if event.secon_button_text %}
+          {% if event.second_button_email and event.is_email_second_button %}
+            <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-3s">
+              <a href="mailto:{{ event.second_button_email }}?subject={{ event.title }} - Yugen" target="_blank" class="email-btn animate__animated animate__fadeIn">
+                {{ event.secon_button_text }}
+              </a>
+            </div>
+          {% endif %}
+        {% endif %}
+        {% if event.text_below_second_button %}
+        <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-2s">
+          <div class="private-dining-text mt-6 italic">
+            {{ event.text_below_second_button | markdownify }}
+          </div>
+        </div>
+        {% endif %}
       </div>
       {% endfor %}
     </div>

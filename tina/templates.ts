@@ -815,7 +815,27 @@ export function private_diningFields() {
         {
           type: "string",
           name: "text_below_button",
-          label: "Text Below Button",
+          label: "Text Below First Button",
+        },
+        {
+          type: "string",
+          name: "secon_button_text",
+          label: "Second Button Text",
+        },
+        {
+          type: 'boolean',
+          name: 'is_email_second_button',
+          label: 'Is Email Second Button?'
+        },
+        {
+          type: "string",
+          name: "second_button_email",
+          label: "Email for Second Button",
+        },
+        {
+          type: "string",
+          name: "text_below_second_button",
+          label: "Text Below Second Button",
         },
       ],
     },
