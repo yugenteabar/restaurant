@@ -11,8 +11,8 @@ popup_text: >
   ![](/assets/images/Yugen_JL1416.jpg)
 
 
-  Join us for an exclusive new chapter in our dinner series as Yugen teams up
-  with Glenfiddich, the world’s most awarded single malt Scotch whisky.
+  An exclusive night with Yugen and Glenfiddich—rare aged whiskies, a
+  five-course menu, and stories from Brand Ambassador Ross Blainey.
 popup_button_text: EARLYBIRD TICKETS
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
