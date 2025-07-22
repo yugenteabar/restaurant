@@ -9,7 +9,7 @@ title: What’s On
 events:
   - event_image: /assets/images/YugenWhiskey.jpg
     event_title: An Evening with Glenfiddich
-    event_description: >+
+    event_description: >-
       Join us for an exclusive new chapter in our dinner series as Yugen teams
       up with Glenfiddich, the world’s most awarded single malt Scotch whisky.
 
@@ -20,13 +20,12 @@ events:
       tasting notes and insights that brought each dram to life.
 
 
-      $200pp Earlybird Tickets. Available until 31 July.
-
-
       From the elegance of the 18yo to the richness of the 26yo, every sip will
       be matched with a 5-course tasting menu that highlights the whisky’s
       character and complexity.
 
+
+      $200pp Earlybird Tickets. Available until 31 July.
     event_date: 'September 4, 2025'
     event_ticket_info: ''
     button_text: Buy Tickets
