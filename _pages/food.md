@@ -26,7 +26,7 @@ menus:
       influences, crafted with the finest ingredients for a unique and memorable
       dining experience.
     menu_link_text: Menu
-    pdf_file: /assets/images/YUGEN_dinner.pdf
+    pdf_file: /assets/images/YUGEN_dinner_web.pdf
   - menu_title: PREMIUM SASHIMI PLATTERS
     menu_description: >+
       A luxurious expression of Japanese craftsmanship — our premium sashimi
