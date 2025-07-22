@@ -25,7 +25,7 @@ events:
       character and complexity.
 
 
-      $200pp Earlybird Tickets. Available until 31 July.
+      $200pp Earlybird Tickets. Only available until 31 July.
     event_date: 'September 4, 2025'
     event_ticket_info: ''
     button_text: Buy Tickets
