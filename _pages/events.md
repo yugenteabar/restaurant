@@ -20,12 +20,15 @@ events:
       tasting notes and insights that brought each dram to life.
 
 
+      $200pp Earlybird Tickets. Available until 31 July.
+
+
       From the elegance of the 18yo to the richness of the 26yo, every sip will
       be matched with a 5-course tasting menu that highlights the whisky’s
       character and complexity.
 
     event_date: 'September 4, 2025'
-    event_ticket_info: $200pp Earlybird Tickets. Available until 31 July.
+    event_ticket_info: ''
     button_text: Buy Tickets
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
