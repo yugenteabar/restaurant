@@ -6,10 +6,16 @@ meta_description: >-
   fusion, Yugen is nestled in a subterranean setting in the heart of South
   Yarra, at the corner of Chapel St and Toorak Road.
 show_popup: false
-popup_title: ''
-popup_text: ''
-popup_button_text: ''
-popup_button_link: ''
+popup_title: An Evening with Glenfiddich
+popup_text: >
+  ![](/assets/images/Yugen_JL1416.jpg)
+
+
+  Join us for an exclusive new chapter in our dinner series as Yugen teams up
+  with Glenfiddich, the world’s most awarded single malt Scotch whisky.
+popup_button_text: EARLYBIRD TICKETS
+popup_button_link: >-
+  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
   A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
   Cuisine and Cocktails in South Yarra, Melbourne
