@@ -23,8 +23,9 @@ menus:
   - menu_title: À LA CARTE
     menu_description: >-
       Experience a fusion of traditional Japanese flavours and bold Asian
-      influences, crafted with the finest ingredients for a unique and memorable
-      dining experience.
+      influences at Yugen—from expertly crafted nigiri and premium sashimi, to
+      signature dishes featuring select cuts of Wagyu and the finest seasonal
+      ingredients.
     menu_link_text: Menu
     pdf_file: /assets/images/YUGEN_dinner_web.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
