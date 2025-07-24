@@ -3,9 +3,9 @@ permalink: /contact/
 test: '123123213123'
 layout: contact
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Get in touch with Yugen, one of Melbourne’s best Japanese dining destinations.
+  Located in South Yarra on Chapel Street—plan your visit or make an enquiry
+  today.
 text_before_title: ''
 title: CONTACT US
 phone_number:
