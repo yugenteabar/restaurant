@@ -2,9 +2,9 @@
 permalink: /reservations/
 layout: reservations
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Reserve your table at Yugen—one of the best Japanese dining experiences in
+  Melbourne. Enjoy refined Asian fusion in an elegant subterranean setting in
+  South Yarra.
 show_page: true
 above_title: ''
 title: RESERVATIONS
