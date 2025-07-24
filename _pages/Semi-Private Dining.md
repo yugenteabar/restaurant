@@ -7,9 +7,9 @@ button_text: Email us
 button_link: info@yugen.com.au
 layout: private_dining
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Host your next event at Yugen—offering elegant private dining and group
+  experiences in South Yarra. Perfect for celebrations, corporate events, and
+  special occasions at one of Melbourne’s best Japanese restaurants.
 main_image: /assets/images/MA413.jpg
 events:
   - title: The Golden Orb
@@ -67,5 +67,4 @@ events:
     second_button_email: info@lkhevents.com.au
 _template: private_dining
 ---
-
 
