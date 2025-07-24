@@ -2,9 +2,8 @@
 permalink: /events/
 layout: events
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive
+  experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
   - event_image: /assets/images/YugenWhiskey.jpg
