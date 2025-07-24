@@ -5,9 +5,9 @@ links:
     link_text: A LA CARTE MENU
 layout: food
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Explore dinner and group set menus at Yugen, where contemporary Asian fusion
+  meets the best of Japanese cuisine in Melbourne—paired with curated cocktails
+  and an exceptional drinks list, all in a sophisticated South Yarra setting.
 title: Food
 food_sections:
   - section_title: Food Philosophy
