@@ -9,9 +9,9 @@ book_omakase_btn_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=192524&utm_source=external&utm_medium=referral&utm_campaign=shared
 layout: omakase
 meta_description: >-
-  Celebrating the cultural richness of Asia with a focus on Japanese and Asian
-  fusion, Yugen is nestled in a subterranean setting in the heart of South
-  Yarra, at the corner of Chapel St and Toorak Road.
+  Experience Yugen’s Omakase—a curated Japanese dining journey led by our chefs.
+  An intimate, refined experience at one of Melbourne’s best Japanese
+  restaurants in South Yarra on Chapel Street.
 title: Omakase
 yugen_omakase_title: Yūgen Omakase
 yugen_omakase_image: /assets/images/Omakase22.jpg
