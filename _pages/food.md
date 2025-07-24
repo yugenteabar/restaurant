@@ -6,8 +6,8 @@ links:
 layout: food
 meta_description: >-
   Explore dinner and group set menus at Yugen, where contemporary Asian fusion
-  meets the best of Japanese cuisine in Melbourne—paired with curated cocktails
-  and an exceptional drinks list, all in a sophisticated South Yarra setting.
+  meets the best of Japanese cuisine in Melbourne in the heart of South Yarra on
+  Chapel Street
 title: Food
 food_sections:
   - section_title: Food Philosophy
