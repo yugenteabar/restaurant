@@ -619,7 +619,7 @@ body nav #navigation {
   z-index: -1;
 }
 #omakase a.hiden-href {
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 #omakase .section-title {
   font-family: 'Manofa';
