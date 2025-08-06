@@ -37,8 +37,9 @@ yugen_omakase_availability: >-
   Wednesday of the month.
 
 
+  September & October 2025 Reservations are now open.
 
-  Next booking release: August 6th at 12pm, for September & October 2025
+  Next booking release: October 8th at 12pm, for November & December 2025
   reservations.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: 'https://www.opentable.com/r/yugen-omakase-south-yarra'
