@@ -61,7 +61,7 @@ events:
 
       For more information, download our Events Brochure 
     button_text: Download Events Pack
-    file_pdf: ''
+    file_pdf: /assets/images/YD Events Brochure August.pdf
     secon_button_text: Enquire Now
     is_email_second_button: true
     second_button_email: info@lkhevents.com.au
