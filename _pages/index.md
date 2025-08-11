@@ -6,14 +6,19 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: true
-popup_title: An Evening with Glenfiddich
+popup_title: An Exclusive Evening with Glenfiddich
 popup_text: >
   ![](/assets/images/Yugen_JL1416.jpg)
 
 
-  An exclusive night with Yugen and Glenfiddich—rare aged whiskies, a
-  five-course menu, and stories from Brand Ambassador Ross Blainey.
-popup_button_text: EARLYBIRD TICKETS
+  Join us and Glenfiddich for an exclusive one-night-only experience featuring
+  rare aged whiskies, a curated five-course menu, and storytelling from
+  Glenfiddich Brand Ambassador Ross Blainey.
+
+
+  Spots are limited—secure your seat now for an unforgettable evening of
+  flavour, craftsmanship, and discovery.
+popup_button_text: PURCHASE TICKETS
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
