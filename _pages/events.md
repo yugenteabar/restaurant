@@ -24,8 +24,10 @@ events:
       whisky’s character and complexity.
 
 
-      $200pp Earlybird Tickets (RRP $230). Only available until 7 August.
+      $230 per person. This exclusive event will be held upstairs in The Bromley
+      Gallery.
     event_date: 'September 4, 2025'
+    event_adress: 625 Chapel Street
     event_ticket_info: ''
     button_text: Buy Tickets
     button_link: >-
