@@ -40,7 +40,7 @@ menus:
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
       to the indulgent 7-course Premium menu.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining $185 $165 WEB.pdf
+    pdf_file: /assets/images/Yugen Dining Group Set $165_$185 pdf.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: >-
       We aim offer a diverse range of plant-based options to cater to guests
