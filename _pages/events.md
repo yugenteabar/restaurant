@@ -6,6 +6,22 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/Yugen Omnia Web_Chege Mbuthi33.jpg
+    event_title: Celebrate Dad in Style–and WIN
+    event_description: >-
+      We’ve teamed up with Julius Marlow to give you the chance to win a $1,200
+      luxury prize pack this Father’s Day.
+
+
+      The pack includes a $500 LK Hospitality dining voucher (redeemable on your
+      booking), a $500 in-store shopping spree at Julius Marlow, Myer Bourke
+      Street, and a premium bottle of Hellyers Road 10YO Single Malt whisky
+      (valued at $199.99)
+
+
+      Treat Dad. Win big. Make it a day to remember.
+    button_text: Enter Now
+    button_link: 'https://admin.typeform.com/form/q0DTS3VC/share'
   - event_image: /assets/images/YugenWhiskey.jpg
     event_title: An Evening with Glenfiddich
     event_description: >-
