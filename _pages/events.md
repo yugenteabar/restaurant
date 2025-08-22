@@ -13,16 +13,13 @@ events:
       luxury prize pack this Father’s Day.
 
 
-      This includes a $500 LK Hospitality dining voucher (redeemable on your
-      booking), a $500 in-store shopping spree at Julius Marlow, Myer Bourke
-      Street, and a premium bottle of Hellyers Road 10YO Single Malt whisky
-      (valued at $199.99)
+      This includes a $500 dining voucher, a $500 in-store shopping spree at
+      Julius Marlow, and a premium bottle of Hellyers Road 10YO Single Malt
+      whisky (valued at $199.99).
 
 
       Simply make a booking this Father's Day at Yugen, Yugen Tea Bar, or Omnia
       and follow @juliusmarlow on Instagram to be in to win.
-       
-      Treat Dad. Win big. Make it a day to remember.
     button_text: Enter Now
     button_link: 'https://admin.typeform.com/form/q0DTS3VC/share'
   - event_image: /assets/images/YugenWhiskey.jpg
