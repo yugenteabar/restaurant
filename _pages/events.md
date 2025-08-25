@@ -9,10 +9,11 @@ events:
   - event_image: /assets/images/YUGEN_QIXI_webbanner_22.08.2025_02 copy.gif
     event_title: Celebrate Qixi
     event_description: >-
-      Join us for an evening of romance and atmosphere as we mark Qixi Festival
-      in our intimate underground space. Whether you're celebrating with someone
-      special or simply enjoying a night out, it's the perfect setting for a
-      memorable Friday. Reserve your table now.
+      Mark Chinese Valentine’s Day with an intimate evening underground. Indulge
+      in Sydney Rock Oysters, Prawn Toast bites and seasonal sashimi platters
+      from our a la carte menu — or surrender to the full Yūgen adventure with
+      our Chef's Experience. Let this Qixi be a night to remember. Reserve your
+      table now.
     event_date: 'August 29, 2025'
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
