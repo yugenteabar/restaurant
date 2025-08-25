@@ -6,6 +6,16 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/YUGEN_QIXI_webbanner_22.08.2025_02 copy.gif
+    event_title: Celebrate Qixi
+    event_description: >-
+      Join us for an evening of romance and atmosphere as we mark Qixi Festival
+      in our intimate underground space. Whether you're celebrating with someone
+      special or simply enjoying a night out, it's the perfect setting for a
+      memorable Friday. Reserve your table now.
+    event_date: 'August 29, 2025'
+    button_text: Book Now
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Yugen Omnia Web_Chege Mbuthi33.jpg
     event_title: Celebrate Dad in Style–and WIN
     event_description: >-
