@@ -65,11 +65,10 @@ events:
   - event_image: /assets/images/MAIL_CHIMP_GIF.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
-      Get ready for an unforgettable night out at Yugen. Our live DJ sets are
-      back every Saturday, featuring a rotating lineup of Melbourne's top
-      talent, including DJ DNE, Katie Hill, Kelvin Dana, and Edd Fisher. Whether
-      you're here for the beats, the cocktails, or the food, we've got
-      everything you need for an epic night.
+      Join us every Saturday as we bring the vibe with live DJ sets from
+      Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, and Edd Fisher.
+      Whether you’re in for a few drinks, a bite to eat, or just to soak up the
+      atmosphere, join us at Yūgen.
     event_date: ''
     event_ticket_info: ''
     event_extra_info: 'Every Saturday, 6pm-1am'
