@@ -22,7 +22,7 @@ events:
       and follow @juliusmarlow on Instagram to be in to win.
     button_text: Enter Now
     button_link: 'https://admin.typeform.com/form/q0DTS3VC/share'
-  - event_image: /assets/images/YugenWhiskey.jpg
+  - event_image: /assets/images/IMG9865.jpg
     event_title: An Evening with Glenfiddich
     event_description: >-
       Join us for another exclusive chapter in our dinner series as Yugen teams
