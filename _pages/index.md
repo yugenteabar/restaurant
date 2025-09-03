@@ -8,22 +8,13 @@ meta_description: >-
 show_popup: true
 popup_title: An Exclusive Evening with Glenfiddich
 popup_text: >
-  ![](/assets/images/Yugen_JL1416.jpg)
+  ![](/assets/images/IMG_9865.jpg)
 
 
-  Treat Dad to an unforgettable experience this Father’s Day.
-
-
-  Join us and Glenfiddich for an exclusive one-night-only event featuring rare
-  aged whiskies, a five-course tasting menu, and captivating stories from
-  Glenfiddich Brand Ambassador Ross Blainey.
-
-
-  It’s the perfect gift for whisky lovers and an extraordinary way to celebrate.
-
-
-  Limited seats available—book now to secure your place.
-popup_button_text: PURCHASE TICKETS
+  For the whisky lovers or a memorable experience with Dad–join us tomorrow for
+  a luxurious evening of single malt discovery with Glenfiddich Brand Ambassador
+  Ross Blainey. Last tickets remain.
+popup_button_text: BUY TICKETS
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
