@@ -22,32 +22,6 @@ events:
       and follow @juliusmarlow on Instagram to be in to win.
     button_text: Enter Now
     button_link: 'https://admin.typeform.com/form/q0DTS3VC/share'
-  - event_image: /assets/images/IMG9865.jpg
-    event_title: An Evening with Glenfiddich
-    event_description: >-
-      Join us for another exclusive chapter in our dinner series as Yugen teams
-      up with Glenfiddich, the world’s most awarded single malt Scotch whisky.
-
-
-      Hosted by Glenfiddich Brand Ambassador, Ross Blainey, this intimate
-      evening will take you on a guided journey through some of the distillery’s
-      rarest and most exceptional aged releases. Ross will share the tales,
-      tasting notes and insights that brought each dram to life.
-
-
-      From the elegance of the 18yo to the richness of the 26yo, every sip will
-      be matched with a 4-course tasting menu that highlights Glenfiddich
-      whisky’s character and complexity.
-
-
-      $230 per person. This exclusive event will be held upstairs in The Bromley
-      Gallery.
-    event_date: 'September 4, 2025'
-    event_adress: 625 Chapel Street
-    event_ticket_info: ''
-    button_text: Buy Tickets
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
