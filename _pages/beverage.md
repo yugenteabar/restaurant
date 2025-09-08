@@ -42,7 +42,7 @@ menus:
   - menu_title: 'Bar Menu     |          '
     menu_pdf: /assets/images/YUGEN_BAR_ YUGEN_BAR_30.4.25.pdf
   - menu_title: '|       Wine & Sake Menu'
-    menu_pdf: /assets/images/YD Wine & Sake Menu_webpdf.pdf
+    menu_pdf: ''
 _template: beverage
 ---
 
