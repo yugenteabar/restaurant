@@ -36,9 +36,13 @@ menus:
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Che'f Exp Menu_WEB.pdf
   - menu_title: GROUP SET MENU | FROM $165PP
-    menu_description: >-
+    menu_description: >
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
       to the indulgent 7-course Premium menu.
+
+
+      Please note: From October 1st, we will be moving to a $170pp group menu
+      for all bookings of 7 or more guests.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Group Set Menus 09.pdf
   - menu_title: VEGETARIAN & VEGAN
