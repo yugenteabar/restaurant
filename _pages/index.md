@@ -18,8 +18,9 @@ popup_button_text: BUY TICKETS
 popup_button_link: >-
   https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
-  A Bold, Subterranean Fine Dining Destination Offering Japanese & Asian Fusion
-  Cuisine and Cocktails in South Yarra, Melbourne
+  A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
+  is one of the city’s best Japanese restaurants, offering a refined fusion of
+  Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.
 text_after_title: >-
   Hidden beneath the vibrant streets of South Yarra, descend into a cavernous,
   design-led space to discover Yūgen–one of Melbourne’s best Japanese
