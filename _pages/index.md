@@ -22,11 +22,11 @@ title: >-
   Cuisine and Cocktails in South Yarra, Melbourne
 text_after_title: >-
   Hidden beneath the vibrant streets of South Yarra, descend into a cavernous,
-  design-led space to discover a curated selection of elevated dining
-  experiences—including an 85-seat fine dining modern restaurant, a cocktail
-  bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb: a suspended VIP
-  dining space offering a truly unique Japanese fine-dining experience in
-  Melbourne.
+  design-led space to discover Yūgen–one of Melbourne’s best Japanese
+  restaurants. Yūgen offers an elevated dining experience, including an 85-seat
+  modern fine dining restaurant, a sophisticated cocktail bar, the exclusive
+  six-seat Yūgen Omakase, and the Golden Orb—a suspended VIP dining space
+  delivering a truly unique take on Japanese fine dining.
 experience_conclusion: ''
 _template: about
 ---
