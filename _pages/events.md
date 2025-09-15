@@ -13,9 +13,13 @@ events:
       of byAzumi. This immersive masterclass in Japanese ikebana is followed by
       a bespoke high tea experience. A mindful escape into art, nature, and
       seasonal beauty — no experience needed.
+
+
+      $210 per person
     event_date: Sunday 5th October
-    event_ticket_info: $210 per person
-    button_link: COMING SOON
+    event_ticket_info: ''
+    button_text: BOOKINGS COMING SOON
+    button_link: ''
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
