@@ -26,7 +26,7 @@ events:
       $210 per person
     event_date: Sunday 5th October
     event_ticket_info: ''
-    button_text: BOOKINGS COMING SOON
+    button_text: COMING SOON
     button_link: ''
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
