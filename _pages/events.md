@@ -7,7 +7,7 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/IKEBANA_webbanner.gif
-    event_title: YTB High Tea x Ikebana Workshop
+    event_title: High Tea x Ikebana Workshop
     event_description: >
       Join us for a rare and immersive experience with renowned floral artist
       Azumi Ishikawa of byAzumi.
