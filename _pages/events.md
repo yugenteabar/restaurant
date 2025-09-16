@@ -26,8 +26,9 @@ events:
       $210 per person
     event_date: Sunday 5th October
     event_ticket_info: ''
-    button_text: COMING SOON
-    button_link: ''
+    button_text: BUY TICKETS
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=537510&utm_source=external&utm_medium=referral&utm_campaign=shared&utm_source=Yugen&utm_campaign=17421b008d-EMAIL_CAMPAIGN_2024_12_12_COPY_01&utm_medium=email&utm_term=0_-09fe980c0f-
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
