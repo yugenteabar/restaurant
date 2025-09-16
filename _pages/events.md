@@ -9,18 +9,19 @@ events:
   - event_image: /assets/images/IKEBANA_webbanner.gif
     event_title: High Tea x Ikebana Workshop
     event_description: >
-      Join us for a rare and immersive experience with renowned floral artist
-      Azumi Ishikawa of byAzumi.
+      Join us for a seasonal celebration with local floral artist Azumi Ishikawa
+      of byAzumi, marking the arrival of spring through the elegant art of
+      ikebana.
 
 
-      Held in Yugen, this 60-minute workshop offers a hands-on introduction to
-      the Japanese art of ikebana. Learn to create your own seasonal arrangement
-      under Azumi’s guidance, followed by a bespoke High Tea experience at Yugen
-      Tea Bar.
+      Held at Yugen, this 60-minute immersive workshop offers a hands-on
+      introduction to traditional Japanese floral arrangement. Create your own
+      seasonal piece under Azumi’s expert guidance, then unwind with a bespoke
+      High Tea experience at Yugen Tea Bar.
 
 
-      A mindful journey into art, nature, and beauty — no experience necessary,
-      and all materials are provided.
+      A mindful journey into art, nature, and beauty—no experience needed, all
+      materials provided.
 
 
       $210 per person
