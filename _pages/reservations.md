@@ -8,45 +8,49 @@ meta_description: >-
 show_page: true
 above_title: ''
 title: RESERVATIONS
-text: >+
-  Yūgen is open for dinner Wednesday to Sunday, from 6:00pm until late. We are
-  closed on Mondays and Tuesdays.
+text: >-
+  Yūgen is open for dinner Wednesday to Sunday, from 6:00pm until late.
 
 
-  We offer two seating sessions:
+  We offer two seating sessions at 6:00pm or 8:15pm, with a 2-hour dining period
+  for first sitting reservations. 
 
 
-  1st Session: 6:00pm until 8:15pm
+  Our à la carte menu is served in the dining room on both standard and high-top
+  tables, while our mezzanine is reserved exclusively for the Chef’s Experience
+  menu at $180 per person.
 
-  2nd Session: 8:45pm until late
+  Online reservations are available for up to 12 guests, with groups of 7 or
+  more invited to enjoy our Yūgen Banquet.
 
 
-  Bookings are available online for up to 12 guests. For groups of 7 or more,
-  dining on our set menu is required.
-
+  For larger groups, our Reservations Team will be delighted to assist.
 
   Omakase reservations can be made via our dedicated Omakase page.
+   
+  All reservations are for full dining experiences, while our bar remains open
+  for walk-ins to enjoy drinks and snacks.
 
 
-  Walk-ins are welcome in our bar area, and no reservation is required for
-  drinks or snacks.
+  A minimum spend of $80 per person applies to Friday and Saturday reservations.
 
+  We understand plans change, to avoid cancellation fees of $80 per person for à
+  la carte or $180 per person for the Chef’s Experience, we kindly ask that any
+  changes or cancellations are made at least 24 hours in advance.
+   
+  For the comfort of all guests, flash photography is not permitted.
 
-  We understand plans can change. Please provide at least 24 hours' notice to
-  avoid a cancellation fee of $80 per person for à la carte dining or $180 per
-  person for the Chef's Experience menu.
-
-
-  We do not permit external food or drinks (including celebration cakes) to be
-  brought into the restaurant.
-
+  Outside food and beverages, including cakes, cannot be brought into the
+  restaurant.
 
   A 10% surcharge applies on Sundays and 15% on public holidays.
+   
+  Reservations can be made anytime online, or by contacting our team at
+  info@yugen.com.au or on (03) 7000 3232 from Tuesday to Saturday, 9:30am to
+  5:30pm.
 
 
-  You can book anytime online, or reach our Reservations team at (03) 7000 3232,
-  available Tuesday to Saturday from 9:30am to 5:30pm.
-
+  See you underground.
 _template: reservations
 ---
 
