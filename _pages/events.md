@@ -44,13 +44,13 @@ events:
       What will you choose? The evening is yours to savour. Walk-ins only, with
       no bookings required—available exclusively at the bar.
     event_date: 'Everyday, 6-8pm. '
-  - event_image: /assets/images/MAIL_CHIMP_GIF.gif
+  - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
       Join us every Saturday as we bring the vibe with live DJ sets from
-      Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, and Edd Fisher.
-      Whether you’re in for a few drinks, a bite to eat, or just to soak up the
-      atmosphere, join us at Yūgen.
+      Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, Christina, and
+      Edd Fisher. Whether you’re in for a few drinks, a bite to eat, or just to
+      soak up the atmosphere, join us at Yūgen.
     event_date: ''
     event_ticket_info: ''
     event_extra_info: 'Every Saturday, 6pm-1am'
