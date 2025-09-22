@@ -64,7 +64,7 @@ events:
     file_pdf: /assets/images/Yugen Events Brochure_09.pdf
     secon_button_text: Enquire Now
     is_email_second_button: true
-    second_button_email: info@lkhevents.com.au
+    second_button_email: events@lkhospitality.com.au
 _template: private_dining
 ---
 
