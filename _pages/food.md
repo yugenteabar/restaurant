@@ -62,7 +62,7 @@ menus:
       Indulge your sweet tooth and discover indulgent, handcrafted sweets
       inspired by modern Japanese and Asian cuisine.
     menu_link_text: MENU
-    pdf_file: /assets/images/Yugen Dessert Menu_web.pdf
+    pdf_file: /assets/images/Yugen Dessert Menu.pdf
 _template: food
 ---
 
