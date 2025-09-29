@@ -44,7 +44,7 @@ menus:
       Please note: From October 1st, we will be moving to a $170pp group menu
       for all bookings of 7 or more guests.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Group Set Menus 09.pdf
+    pdf_file: /assets/images/Yugen Banquet.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: >-
       We aim offer a diverse range of plant-based options to cater to guests
