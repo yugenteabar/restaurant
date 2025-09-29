@@ -35,7 +35,7 @@ menus:
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Che'f Exp Menu_WEB.pdf
-  - menu_title: GROUP SET MENU | FROM $165PP
+  - menu_title: GROUP SET MENU | FROM $170PP
     menu_description: >
       For groups of 7 or more, choose from our 6-course shared menu or upgrade
       to the indulgent 7-course Premium menu.
