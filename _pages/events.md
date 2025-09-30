@@ -6,30 +6,6 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
-  - event_image: /assets/images/IKEBANA_webbanner.gif
-    event_title: High Tea x Ikebana Workshop
-    event_description: >
-      Join us for a seasonal celebration with local floral artist Azumi Ishikawa
-      of byAzumi, marking the arrival of spring through the elegant art of
-      ikebana.
-
-
-      Held at Yugen, this 60-minute immersive workshop offers a hands-on
-      introduction to traditional Japanese floral arrangement. Create your own
-      seasonal piece under Azumi’s expert guidance, then unwind with a bespoke
-      High Tea experience at Yugen Tea Bar.
-
-
-      A mindful journey into art, nature, and beauty—no experience needed, all
-      materials provided.
-
-
-      $210 per person
-    event_date: Sunday 5th October
-    event_ticket_info: ''
-    button_text: BUY TICKETS
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=537510&utm_source=external&utm_medium=referral&utm_campaign=shared&utm_source=Yugen&utm_campaign=17421b008d-EMAIL_CAMPAIGN_2024_12_12_COPY_01&utm_medium=email&utm_term=0_-09fe980c0f-
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
