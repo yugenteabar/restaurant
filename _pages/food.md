@@ -35,14 +35,10 @@ menus:
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Che'f Exp Menu_WEB.pdf
-  - menu_title: GROUP SET MENU | FROM $170PP
-    menu_description: >
-      For groups of 7 or more, choose from our 6-course shared menu or upgrade
-      to the indulgent 7-course Premium menu.
-
-
-      Please note: From October 1st, we will be moving to a $170pp group menu
-      for all bookings of 7 or more guests.
+  - menu_title: BANQUET SET MENU | $170PP
+    menu_description: >-
+      For groups of 7 or more guests, enjoy our new banquet menu. Premium caviar
+      service and beverage packages are available as add-ons.
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Banquet.pdf
   - menu_title: VEGETARIAN & VEGAN
