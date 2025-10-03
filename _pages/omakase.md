@@ -48,7 +48,7 @@ yugen_omakase_availability: >-
 
   November & December 2025 Reservations are now open.
 
-  Next booking release: December 1st at 12pm, for January & February 2026
+  Next booking release: December 3rd at 12pm, for January & February 2026
   reservations.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: 'https://www.opentable.com/r/yugen-omakase-south-yarra'
