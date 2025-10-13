@@ -6,7 +6,7 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
-  - event_image: /assets/images/YTBxIkebana_WebBanner1.png
+  - event_image: /assets/images/YTBxIkebana_WebBanner2.png
     event_title: High Tea x Ikebana Workshop
     event_description: >-
       Join us for a seasonal celebration with local floral artist Azumi
