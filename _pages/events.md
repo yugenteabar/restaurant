@@ -43,12 +43,12 @@ events:
     event_ticket_info: ''
     event_extra_info: 'Every Saturday, 6pm-1am'
   - event_image: /assets/images/TACHIYŪGEN_5.jpg
-    event_title: We’re Open Every Day This Festive Season
+    event_title: Open Daily This Festive Season
     event_description: >-
       More days, more celebrations! Yugen is opening its doors every single day
-      this festive season from Monday 8 December, so you’ve got even more time
-      to eat, drink, and be merry. Ready to plan your Christmas party? Let’s
-      make it unforgettable — book below or enquire our with Events Team today.
+      this festive season from 3 December, so you’ve got even more time to eat,
+      drink, and be merry. Ready to plan your Christmas party? Let’s make it
+      unforgettable — book below or enquire our with Events Team today.
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
 _template: events
