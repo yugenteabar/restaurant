@@ -28,13 +28,9 @@ events:
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: Unwind at Yūgen
     event_description: >-
-      Not in the mood for a full meal? Settle in with a curated selection of
-      cocktails, wines, and irresistible snacks — perfect for unwinding after a
-      long day or kicking off your night in style.
-
-
-      The evening is yours to savour. No bookings needed, just walk in.
-      Available exclusively at the bar from 6pm 'til late
+      Not in the mood for a full meal? Join us at the bar for a curated
+      selection of cocktails, wines, and irresistible snacks. No bookings
+      needed, walk-ins welcome. Available exclusively from 6pm-8pm.
     event_date: Every Wednesday-Sunday
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
