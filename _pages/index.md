@@ -8,15 +8,13 @@ meta_description: >-
 show_popup: false
 popup_title: An Exclusive Evening with Glenfiddich
 popup_text: >
-  ![](/assets/images/IMG_9865.jpg)
+  ![](/assets/images/TACHIYŪGEN_6.jpg)![]()
 
 
-  For the whisky lovers or a memorable experience with Dad–join us tomorrow for
-  a luxurious evening of single malt discovery with Glenfiddich Brand Ambassador
-  Ross Blainey. Last tickets remain.
-popup_button_text: BUY TICKETS
-popup_button_link: >-
-  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=512550&utm_source=external&utm_medium=referral&utm_campaign=shared
+  From Monday 8 December, Yugen is open every day this festive season — more
+  time to celebrate, so book now.
+popup_button_text: BOOK NOW
+popup_button_link: 'https://yugendining.com.au/reservations'
 title: >-
   A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
   is one of the city’s best Japanese restaurants, offering a refined fusion of
