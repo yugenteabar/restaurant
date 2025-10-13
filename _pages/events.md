@@ -52,7 +52,7 @@ events:
       More days, more celebrations! Yugen is opening its doors every single day
       this festive season from Monday 8 December, so you’ve got even more time
       to eat, drink, and be merry. Ready to plan your Christmas party? Let’s
-      make it unforgettable — book now or enquire our with Events Team today.
+      make it unforgettable — book below or enquire our with Events Team today.
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
 _template: events
