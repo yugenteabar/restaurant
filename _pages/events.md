@@ -26,7 +26,7 @@ events:
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=560700&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
-    event_title: Kanpai Hour
+    event_title: Unwind at Yūgen
     event_description: >-
       Not in the mood for a full meal? Settle in with a curated selection of
       cocktails, wines, and irresistible snacks — perfect for unwinding after a
