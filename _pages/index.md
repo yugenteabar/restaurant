@@ -6,13 +6,13 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: false
-popup_title: An Exclusive Evening with Glenfiddich
+popup_title: This Festive Season
 popup_text: >
   ![](/assets/images/MA291.jpg)![](/assets/images/MA2911.jpg)
 
 
   From Monday 8 December, Yugen is open every day this festive season — more
-  time to celebrate, so book now.
+  time to celebrate!
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: >-
