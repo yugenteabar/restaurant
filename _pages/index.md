@@ -5,10 +5,10 @@ meta_description: >-
   Yugen offers a refined take on Asian fusion, earning its place among the best
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
-show_popup: false
+show_popup: true
 popup_title: This Festive Season
 popup_text: >
-  ![](/assets/images/MA291.jpg)![](/assets/images/MA2911.jpg)
+  ![](/assets/images/MA2911.jpg)
 
 
   From Monday 8 December, Yugen is open every day this festive season — more
