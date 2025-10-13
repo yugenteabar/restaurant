@@ -25,20 +25,17 @@ events:
     button_text: BUY TICKETS
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=560700&utm_source=external&utm_medium=referral&utm_campaign=shared
-  - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
+  - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: Kanpai Hour
     event_description: >-
-      Enjoy a rotating selection of exclusive specials to elevate your evening.
+      Not in the mood for a full meal? Settle in with a curated selection of
+      cocktails, wines, and irresistible snacks — perfect for unwinding after a
+      long day or kicking off your night in style.
 
 
-      First up: a curated selection of sake paired with irresistible
-      snacks—perfect for unwinding after a long day or starting your night in
-      style.
-
-
-      What will you choose? The evening is yours to savour. Walk-ins only, with
-      no bookings required—available exclusively at the bar.
-    event_date: 'Everyday, 6-8pm. '
+      The evening is yours to savour. No bookings needed, just walk in.
+      Available exclusively at the bar from 6pm 'til late
+    event_date: Every Wednesday-Sunday
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
