@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: false
 popup_title: An Exclusive Evening with Glenfiddich
 popup_text: >
-  ![](/assets/images/TACHIYŪGEN_6.jpg)![]()
+  ![](/assets/images/MA291.jpg)![]()
 
 
   From Monday 8 December, Yugen is open every day this festive season — more
