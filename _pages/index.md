@@ -6,13 +6,13 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: true
-popup_title: This Festive Season
+popup_title: Celebrate at Yugen
 popup_text: >
   ![](/assets/images/MA2911.jpg)
 
 
-  From Monday 8 December, Yugen is open every day this festive season — more
-  time to celebrate!
+  From 3 December, Yugen is open daily this festive season — giving you more
+  time to celebrate! Book your table or enquire about group functions today.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: >-
