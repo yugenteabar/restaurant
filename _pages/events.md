@@ -7,7 +7,7 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/YTBxIkebana_WebBanner1.png
-    event_title: 'High Tea x Ikebana Workshop['
+    event_title: High Tea x Ikebana Workshop
     event_description: >-
       Join us for a seasonal celebration with local floral artist Azumi
       Ishikawa, marking the arrival of spring through the elegant art of
