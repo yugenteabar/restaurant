@@ -23,6 +23,8 @@ events:
     event_date: Sunday 23 November
     event_time: $180 per person
     button_text: BUY TICKETS
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=560700&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YUGEN_KUNPAIHOUR_web_15.04.2025_v1.gif
     event_title: Kanpai Hour
     event_description: >-
