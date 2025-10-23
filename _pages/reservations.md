@@ -32,7 +32,8 @@ text: >-
   for walk-ins to enjoy drinks and snacks.
 
 
-  A minimum spend of $80 per person applies to Friday and Saturday reservations.
+  A minimum spend of $80 per person applies to Friday and Saturday reservations
+  and every evening in December.
 
   We understand plans change, to avoid cancellation fees of $80 per person for à
   la carte or $180 per person for the Chef’s Experience, we kindly ask that any
