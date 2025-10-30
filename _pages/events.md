@@ -10,8 +10,8 @@ events:
     event_title: An Intimate Whisky Dinner with The Dalmore
     event_description: >-
       Immerse yourself in an evening of fine whisky and exceptional dining at
-      Yugen. Guided by The Dalmore Single Malt Specialist, Josh Davies, guests
-      will explore the craftsmanship behind one of Scotland’s most revered
+      Yugen. Guided by The Dalmore Single Malt Specialist, Josh Davies, come
+      explore the craftsmanship behind one of Scotland’s most revered
       distilleries, paired with a bespoke four-course menu by Head Chef Justin
       Edwards. Enjoy a welcome cocktail, curated whisky and food pairings, and
       the chance to win a bottle of The Dalmore — plus exclusive access to rare
