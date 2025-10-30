@@ -6,6 +6,20 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/YDxDalmore_1.gif
+    event_title: An Intimate Whisky Dinner with The Dalmore
+    event_description: >-
+      Immerse yourself in an evening of fine whisky and exceptional dining at
+      Yugen. Guided by The Dalmore Single Malt Specialist, Josh Davies, guests
+      will explore the craftsmanship behind one of Scotland’s most revered
+      distilleries, paired with a bespoke four-course menu by Head Chef Justin
+      Edwards. Enjoy a welcome cocktail, curated whisky and food pairings, and
+      the chance to win a bottle of The Dalmore — plus exclusive access to rare
+      and limited releases on the night.
+    event_date: 'November 12, 2025'
+    button_text: BUY TICKETS
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=572870&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YTBxIkebana_WebBanner2.png
     event_title: High Tea x Ikebana Workshop
     event_description: >-
