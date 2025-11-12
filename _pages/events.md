@@ -6,6 +6,19 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/Screenshot 2025-11-12 at 1.54.19 pm.png
+    event_title: Bonus 20% Gift Vouchers
+    event_description: >-
+      GIFT MORE, GET MORE
+
+
+      One gift card, endless adventures. For a limited time, purchase a digital
+      voucher of $100 or more and receive an extra 20% in value.
+
+
+      Available at all LK Hospitality venues, including Yugen, Yugen Tea Bar,
+      and Omnia.
+    event_date: 'Until 31 November, 2025'
   - event_image: /assets/images/YDxDalmore_1.gif
     event_title: An Intimate Whisky Dinner with The Dalmore
     event_description: >-
@@ -20,25 +33,6 @@ events:
     button_text: BUY TICKETS
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=572870&utm_source=external&utm_medium=referral&utm_campaign=shared
-  - event_image: /assets/images/YTBxIkebana_WebBanner2.png
-    event_title: High Tea x Ikebana Workshop
-    event_description: >-
-      Join us for a seasonal celebration with local floral artist Azumi
-      Ishikawa, marking the arrival of spring through the elegant art of
-      ikebana.
-
-      This 60-minute immersive workshop offers a hands-on introduction to
-      traditional Japanese floral arrangement. Create your own seasonal piece
-      under Azumi's guidance, then unwind with a bespoke High Tea experience at
-      Yugen Tea Bar.
-
-      A mindful journey into art, nature, and beauty-no experience needed, all
-      materials provided.
-    event_date: Sunday 23 November
-    event_time: $180 per person
-    button_text: BUY TICKETS
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=158744&restref=158744&experienceId=560700&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: 'Cocktails, Sake, Snacks & More'
     event_description: >-
