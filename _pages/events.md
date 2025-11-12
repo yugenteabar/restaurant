@@ -7,11 +7,8 @@ meta_description: >-
 title: What’s On
 events:
   - event_image: /assets/images/Screenshot 2025-11-12 at 1.54.19 pm.png
-    event_title: Bonus 20% Gift Vouchers
+    event_title: 'GIFT MORE, GET MORE'
     event_description: >-
-      GIFT MORE, GET MORE
-
-
       One gift card, endless adventures. For a limited time, purchase a digital
       voucher of $100 or more and receive an extra 20% in value.
 
