@@ -16,20 +16,6 @@ events:
       Available at all LK Hospitality venues, including Yugen, Yugen Tea Bar,
       and Omnia.
     event_date: 'Until 31 November, 2025'
-  - event_image: /assets/images/YDxDalmore_1.gif
-    event_title: An Intimate Whisky Dinner with The Dalmore
-    event_description: >-
-      Immerse yourself in an evening of fine whisky and exceptional dining at
-      Yugen. Guided by The Dalmore Single Malt Specialist, Josh Davies, come
-      explore the craftsmanship behind one of Scotland’s most revered
-      distilleries, paired with a bespoke four-course menu by Head Chef Justin
-      Edwards. Enjoy a welcome cocktail, curated whisky and food pairings, and
-      the chance to win a bottle of The Dalmore — plus exclusive access to rare
-      and limited releases on the night.
-    event_date: 'November 12, 2025'
-    button_text: BUY TICKETS
-    button_link: >-
-      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=572870&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: 'Cocktails, Sake, Snacks & More'
     event_description: >-
