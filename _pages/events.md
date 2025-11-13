@@ -6,6 +6,28 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/Susie's 60th-441.jpg
+    event_title: New Year's Eve 25/26
+    event_description: >-
+      Take the party downstairs and descend into Yūgen this New Year’s Eve. The
+      night promises a signature cocktail on arrival, roaming canapés, DJ & live
+      entertainment to carry you well past dusk.
+
+
+      Ticket pricing inclusive of a welcome drink & roaming canapés 10:30pm -
+      11:30pm
+
+
+      Entry is available from 10.30pm, the venue will close at 1.00am.
+
+
+      NOTE: This is a standing room only event, booking does not secure a table.
+      If you would like to dine beforehand, bookings are available from 5.30pm
+      to 8.45pm via www.yugendining.com.au
+    event_date: 'December 31, 2025'
+    event_time: ''
+    button_text: BUY TICKETS
+    button_link: 'https://events.humanitix.com/nye-yugen'
   - event_image: /assets/images/Screenshot 2025-11-12 at 1.54.19 pm.png
     event_title: 'GIFT MORE, GET MORE'
     event_description: >-
