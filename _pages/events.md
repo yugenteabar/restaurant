@@ -6,6 +6,16 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/Screenshot 2025-11-12 at 1.54.19 pm.png
+    event_title: 'GIFT MORE, GET MORE'
+    event_description: >-
+      One gift card, endless adventures. For a limited time, purchase a digital
+      voucher of $100 or more and receive an extra 20% in value.
+
+
+      Available at all LK Hospitality venues, including Yugen, Yugen Tea Bar,
+      and Omnia.
+    event_date: 'Until 31 November, 2025'
   - event_image: /assets/images/Susie's 60th-441.jpg
     event_title: New Year's Eve 25/26
     event_description: >-
@@ -28,16 +38,6 @@ events:
     event_time: ''
     button_text: BUY TICKETS
     button_link: 'https://events.humanitix.com/nye-yugen'
-  - event_image: /assets/images/Screenshot 2025-11-12 at 1.54.19 pm.png
-    event_title: 'GIFT MORE, GET MORE'
-    event_description: >-
-      One gift card, endless adventures. For a limited time, purchase a digital
-      voucher of $100 or more and receive an extra 20% in value.
-
-
-      Available at all LK Hospitality venues, including Yugen, Yugen Tea Bar,
-      and Omnia.
-    event_date: 'Until 31 November, 2025'
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: 'Cocktails, Sake, Snacks & More'
     event_description: >-
