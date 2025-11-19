@@ -61,7 +61,7 @@ events:
 
       For more information, download our Events Brochure 
     button_text: Download Events Pack
-    file_pdf: /assets/images/Yugen Events Brochure_11V2.pdf
+    file_pdf: ''
     secon_button_text: Enquire Now
     is_email_second_button: true
     second_button_email: events@lkhospitality.com.au
