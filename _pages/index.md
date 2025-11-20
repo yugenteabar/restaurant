@@ -17,8 +17,8 @@ popup_text: >
 
 
   Offer available until midnight Sunday 30th November.
-popup_button_text: BOOK NOW
-popup_button_link: 'https://yugendining.com.au/reservations'
+popup_button_text: SHOP NOW
+popup_button_link: 'https://yugen.vouchercart.com/app/'
 title: >-
   A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
   is one of the city’s best Japanese restaurants, offering a refined fusion of
