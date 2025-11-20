@@ -16,7 +16,7 @@ popup_text: >
 
 
 
-  Offer available until midnight Sunday 30th November.
+  Offer ends midnight Sunday 30th November.
 popup_button_text: SHOP NOW
 popup_button_link: 'https://yugen.vouchercart.com/app/'
 title: >-
