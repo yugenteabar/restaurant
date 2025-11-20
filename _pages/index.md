@@ -6,13 +6,17 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: true
-popup_title: Celebrate at Yugen
+popup_title: 'GIFT MORE, GET MORE'
 popup_text: >
-  ![](/assets/images/MA2911.jpg)
+  ![](/assets/images/Yugen_TaiyakiMilkPunch_21.jpg)
 
 
-  From 3 December, Yugen is open daily this festive season — giving you more
-  time to celebrate! Book your table or enquire about group functions today.
+  For a limited time, receive 20% extra when you purchase a digital gift voucher
+  of $100 or more—the perfect way to spoil yourself or someone special.
+
+
+
+  Offer available until midnight Sunday 30th November.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: >-
