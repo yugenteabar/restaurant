@@ -5,7 +5,7 @@ meta_description: >-
   Yugen offers a refined take on Asian fusion, earning its place among the best
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
-show_popup: true
+show_popup: false
 popup_title: 'GIFT MORE, GET MORE'
 popup_text: >
   ![](/assets/images/Yugen_TaiyakiMilkPunch_21.jpg)
@@ -13,7 +13,6 @@ popup_text: >
 
   For a limited time, receive 20% extra when you purchase a digital gift voucher
   of $100 or more—the perfect way to spoil yourself or someone special.
-
 
 
   Offer ends midnight Sunday 30th November.
