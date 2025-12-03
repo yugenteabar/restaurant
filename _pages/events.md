@@ -28,9 +28,9 @@ events:
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: 'Cocktails, Sake, Snacks & More'
     event_description: >-
-      Not in the mood for a full meal? Join us at the bar for a curated
-      selection of cocktails, wines, and irresistible snacks. No bookings
-      needed, walk-ins welcome. Available exclusively from 6pm-8pm.
+      Head upstairs to Yugen Tea Bar on Fridays and Saturdays from 4–7pm for
+      Happy Hour. Sip cocktails, enjoy wines and snacks, and unwind to live
+      vinyl DJs. No bookings needed—just walk in.
     event_date: Every Wednesday-Sunday
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
