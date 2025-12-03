@@ -27,7 +27,7 @@ menus:
       signature dishes featuring select cuts of Wagyu and the finest seasonal
       ingredients.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen_A La Carte_19.pdf
+    pdf_file: /assets/images/Yugen_A La Carte_12.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: >-
       Indulge in 6 meticulously crafted courses designed to delight your palate.
