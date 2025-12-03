@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: false
 popup_title: Celerbrate at Yugen
 popup_text: >
-  ![](/assets/images/TACHIYŪGEN6.jpg)![]()
+  ![](/assets/images/TACHIYŪGEN6.jpg)![](/assets/images/TACHIYŪGEN7.jpg)
 
 
   For a limited time, receive 20% extra when you purchase a digital gift voucher
