@@ -6,9 +6,9 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: false
-popup_title: 'GIFT MORE, GET MORE'
+popup_title: Celerbrate at Yugen
 popup_text: >
-  ![](/assets/images/Yugen_TaiyakiMilkPunch_21.jpg)
+  ![](/assets/images/TACHIYŪGEN6.jpg)![]()
 
 
   For a limited time, receive 20% extra when you purchase a digital gift voucher
@@ -16,8 +16,8 @@ popup_text: >
 
 
   Offer ends midnight Sunday 30th November.
-popup_button_text: SHOP NOW
-popup_button_link: 'https://yugen.vouchercart.com/app/'
+popup_button_text: BOOK NOW
+popup_button_link: B
 title: >-
   A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
   is one of the city’s best Japanese restaurants, offering a refined fusion of
