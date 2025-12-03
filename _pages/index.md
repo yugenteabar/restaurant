@@ -5,7 +5,7 @@ meta_description: >-
   Yugen offers a refined take on Asian fusion, earning its place among the best
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
-show_popup: false
+show_popup: true
 popup_title: Join Us This December
 popup_text: >
   ![](/assets/images/TACHIYŪGEN6.jpg)![](/assets/images/TACHIYŪGEN7.jpg)
