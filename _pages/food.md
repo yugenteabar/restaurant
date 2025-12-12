@@ -34,7 +34,7 @@ menus:
       Enhance your dining experience with a selection of expertly paired wines,
       thoughtfully chosen to complement each dish.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Che'f Exp Menu 27.pdf
+    pdf_file: /assets/images/Yugen Che'f Exp Menu 12.pdf
   - menu_title: BANQUET SET MENU | $170PP
     menu_description: >-
       For groups of 7 or more guests, enjoy our new banquet menu. Premium caviar
