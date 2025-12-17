@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: Join Us This December
 popup_text: >
-  ![](/assets/images/TACHIYŪGEN6.jpg)![](/assets/images/TACHIYŪGEN7.jpg)
+  ![](/assets/images/TACHIYŪGEN6.jpg)
 
 
   Yugen is open seven days a week this December–including Mondays and Tuesdays.
