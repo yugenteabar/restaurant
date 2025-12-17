@@ -40,7 +40,7 @@ menus:
       For groups of 7 or more guests, enjoy our new banquet menu. Premium caviar
       service and beverage packages are available as add-ons.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Banquet.pdf
+    pdf_file: /assets/images/Yugen Banquet $170_12.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: >-
       We aim offer a diverse range of plant-based options to cater to guests
