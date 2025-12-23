@@ -8,13 +8,13 @@ meta_description: >-
 show_popup: true
 popup_title: Join Us This December
 popup_text: >
-  ![](/assets/images/TACHIYŪGEN6.jpg)
+  ![](/assets/images/YugenNYE.jpg)![]()
 
 
-  Yugen is open seven days a week this December–including Mondays and Tuesdays.
-  Join us and celebrate.
-popup_button_text: BOOK NOW
-popup_button_link: 'https://yugendining.com.au/reservations'
+  Take the party downstairs this New Year’s Eve and celebrate at Yūgen. Last
+  remaining reservations—or buy your tickets now.
+popup_button_text: BUY TICKETS
+popup_button_link: 'https://events.humanitix.com/nye-yugen'
 title: >-
   A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
   is one of the city’s best Japanese restaurants, offering a refined fusion of
