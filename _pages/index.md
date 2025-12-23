@@ -6,13 +6,13 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: true
-popup_title: Join Us This December
+popup_title: Yugen NYE
 popup_text: >
   ![](/assets/images/YugenNYE.jpg)![](/assets/images/YugenNYE1.jpg)
 
 
   Take the party downstairs this New Year’s Eve and celebrate at Yūgen. Last
-  remaining reservations—or buy your tickets now.
+  remaining reservations, or buy your tickets now.
 popup_button_text: BUY TICKETS
 popup_button_link: 'https://events.humanitix.com/nye-yugen'
 title: >-
