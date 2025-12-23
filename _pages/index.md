@@ -8,7 +8,7 @@ meta_description: >-
 show_popup: true
 popup_title: Join Us This December
 popup_text: >
-  ![](/assets/images/YugenNYE.jpg)![]()
+  ![](/assets/images/YugenNYE.jpg)![](/assets/images/YugenNYE1.jpg)
 
 
   Take the party downstairs this New Year’s Eve and celebrate at Yūgen. Last
