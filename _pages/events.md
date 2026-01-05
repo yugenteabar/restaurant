@@ -6,6 +6,19 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/MAIL_CHIMP_VDAY2.gif
+    event_title: Valentine's Day at Yugen
+    event_description: >
+      Celebrate love the Yūgen way with a specially curated Valentine’s Tasting
+      Menu, available exclusively on Saturday 14 February 2026, from $185 per
+      person.
+
+
+      Complete the experience with an added romantic touch–a single long-stem
+      rose and personalised card available to add on for $35.
+    button_text: Book Now
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=590365&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/TACHIYŪGEN_2.jpg
     event_title: 'Cocktails, Sake, Snacks & More'
     event_description: >-
