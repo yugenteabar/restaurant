@@ -7,15 +7,6 @@ meta_description: >-
   and fine wines that complement the best of Japanese cuisine in Melbourne, all
   in the heart of South Yarra on Chapel Street.
 beverage_sections:
-  - section_title: Wine
-    section_text: >-
-      Our extensive wine list features 250 diverse varietals, thoughtfully
-      curated to complement and balance the bold flavours of our menu.
-
-
-      Embark on a journey from local to international producers with the
-      guidance of our expert sommeliers, discovering wines that enhance the rich
-      palate of our Japanese and Asian-fusion dishes.
   - section_title: Drinks Philosophy
     section_text: >-
 
@@ -37,12 +28,21 @@ beverage_sections:
       Discover the full range of sake’s diversity with the guidance of our
       in-house sake sommeliers. If one glass leaves you wanting more, we offer
       50 additional sake options by the bottle to share and explore.
+  - section_title: Wine
+    section_text: >-
+      Our extensive wine list features 250 diverse varietals, thoughtfully
+      curated to complement and balance the bold flavours of our menu.
+
+
+      Embark on a journey from local to international producers with the
+      guidance of our expert sommeliers, discovering wines that enhance the rich
+      palate of our Japanese and Asian-fusion dishes.
 manager_signature: ''
 menus:
   - menu_title: 'Bar Menu     |          '
     menu_pdf: /assets/images/YUGEN_BAR_SPRING.pdf
   - menu_title: '|       Wine & Sake Menu'
-    menu_pdf: /assets/images/YD Wine & Sake Menu 12.pdf
+    menu_pdf: ''
 _template: beverage
 ---
 
