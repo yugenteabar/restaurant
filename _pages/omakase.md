@@ -36,7 +36,7 @@ yugen_omakase_text: >
   reconsider your booking, as our menu may not be suitable. We sincerely
   appreciate your understanding and consideration. If you have any concerns
   regarding dietary requirements, please contact our team at
-  [info@yugen.com.au](<mail to:info@yugen.com.au>) or 03 7000 3232.
+  [info@yugen.com.au](mailto:info@yugen.com.au) or 03 7000 3232.
 yugen_omakase_signature: ''
 yugen_omakase_price: $285 per person
 yugen_omakase_beverage_pairing: $185 per person
