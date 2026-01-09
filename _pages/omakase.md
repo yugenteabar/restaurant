@@ -46,7 +46,7 @@ yugen_omakase_availability: >-
   Wednesday of the month.
 
 
-  January & February 2026 Reservations are now open.
+  January & Febraury 2026 Reservations are now open.
 
   Next booking release: February 4th at 12pm, for March & April 2026
   reservations.
