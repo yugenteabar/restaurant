@@ -16,23 +16,23 @@ title: Omakase
 yugen_omakase_title: Yūgen Omakase
 yugen_omakase_image: /assets/images/Omakase22.jpg
 yugen_omakase_text: >
-  ###### Embark on a sensory journey with Yūgen Omakase, where contemporary
-  Japanese and Australian culinary techniques blend seamlessly. With only 6
-  seats at our intimate mezzanine bar, Chef Samuel Chee and our expert Sushi
-  Chefs guide you through a personalized, multi-course exploration of the finest
-  seasonal and ocean-fresh produce. Each bite-sized course is prepared right
-  before your eyes, offering an immersive dining experience.
+  Embark on a sensory journey with Yūgen Omakase, where contemporary Japanese
+  and Australian culinary techniques blend seamlessly. With only 6 seats at our
+  intimate mezzanine bar, Chef Samuel Chee and our expert Sushi Chefs guide you
+  through a personalized, multi-course exploration of the finest seasonal and
+  ocean-fresh produce. Each bite-sized course is prepared right before your
+  eyes, offering an immersive dining experience.
 
 
-  ###### Proudly awarded Two Hats for the fourth consecutive year in the 2026
-  Good Food Guide Awards, Yūgen Omakase offers an unforgettable dining
-  experience that celebrates craftsmanship, precision, and is complemented by
-  elevated beverage pairings.
+  Proudly awarded Two Hats for the fourth consecutive year in the 2026 Good Food
+  Guide Awards, Yūgen Omakase offers an unforgettable dining experience that
+  celebrates craftsmanship, precision, and is complemented by elevated beverage
+  pairings.
 
 
-  ###### Due to the intricacy of this experience we are unable to provide a menu
-  free from raw items, gluten, dairy, egg and shellfish, or for those seeking a
-  fully vegetarian, vegan or halal menu, we respectfully ask that you kindly
+  Due to the intricacy of this experience we are unable to provide a menu free
+  from raw items, gluten, dairy, egg and shellfish, or for those seeking a fully
+  vegetarian, vegan or halal menu, we respectfully ask that you kindly
   reconsider your booking, as our menu may not be suitable. We sincerely
   appreciate your understanding and consideration. If you have any concerns
   regarding dietary requirements, please contact our team at
