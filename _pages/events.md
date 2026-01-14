@@ -6,6 +6,18 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_title: TACHIYUGEN
+    event_description: >-
+      For one night only, Yūgen transforms into a tachinomi — the vibrant,
+      no-reservations standing bars of Japan where food is fast, drinks flow
+      freely, and the vibe is always electric. Explore three different levels
+      each pulsing with energy, flavour and live music channelling Tokyo’s
+      legendary listening bars. Mini cocktails and a menu of sashimi, nigiri,
+      yakitori and izakaya-style bites will be circulating all evening. Stay for
+      a drink or settle in for the night.
+    event_date: '26 March, 2026'
+    button_text: Buy Tickets
+    button_link: 'https://www.melbournefoodandwine.com.au/events/tachiyugen/#tickets'
   - event_image: /assets/images/Yugen_LNY.jpg
     event_title: Lunar New Year
     event_description: >-
