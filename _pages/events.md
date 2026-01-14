@@ -36,16 +36,16 @@ events:
   - event_image: /assets/images/Yugen opening night (123).jpg
     event_title: TACHIYUGEN
     event_description: >-
-      For one night only, Yūgen transforms into a tachinomi — the vibrant,
-      no-reservations standing bars of Japan where food is fast, drinks flow
-      freely, and the vibe is always electric. Explore three different levels
-      each pulsing with energy, flavour and live music channelling Tokyo’s
-      legendary listening bars. Mini cocktails and a menu of sashimi, nigiri,
-      yakitori and izakaya-style bites will be circulating all evening. Stay for
-      a drink or settle in for the night.
+      For one night only, Yūgen transforms into a tachinomi–Japan’s lively,
+      no-reservations standing bars where food moves fast, drinks flow freely,
+      and the atmosphere crackles with energy. Explore three dynamic levels,
+      each alive with flavour, sound and live music inspired by Tokyo’s
+      legendary listening bars. Mini cocktails circulate alongside sashimi,
+      nigiri, yakitori and izakaya-style bites throughout the night. Drop in for
+      a drink or stay and soak it all in.
 
 
-      Part of Melbourne Food & Wine Festival 2026 Program
+      Part of the Melbourne Food & Wine Festival 2026 Program.
     event_date: '26 March, 2026'
     button_text: Buy Tickets
     button_link: 'https://www.melbournefoodandwine.com.au/events/tachiyugen/#tickets'
