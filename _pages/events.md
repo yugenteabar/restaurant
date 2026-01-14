@@ -6,6 +6,19 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
+  - event_image: /assets/images/Yugen_LNY.jpg
+    event_title: Lunar New Year
+    event_description: >-
+      Welcome the Year of the Horse in 2026 with a week of abundance, tradition,
+      and celebration over a delicious feast.
+
+
+      For one week only, enjoy our specially curated Lunar New Year Menu for
+      $188pp, designed to share prosperity, longevity, and good fortune through
+      flavour.
+
+
+      Exclusively available from 18th-22nd February.
   - event_image: /assets/images/MAIL_CHIMP_VDAY2.gif
     event_title: Valentine's Day at Yugen
     event_description: >
