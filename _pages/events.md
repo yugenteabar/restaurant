@@ -20,7 +20,7 @@ events:
 
       Exclusively available from 18th-22nd February.
   - event_image: /assets/images/MAIL_CHIMP_VDAY2.gif
-    event_title: Valentine's Day at Yugen
+    event_title: Valentine's Day
     event_description: >
       Celebrate love the Yūgen way with a specially curated Valentine’s Tasting
       Menu, available exclusively on Saturday 14 February 2026, from $185 per
