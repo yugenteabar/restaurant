@@ -15,6 +15,9 @@ events:
       legendary listening bars. Mini cocktails and a menu of sashimi, nigiri,
       yakitori and izakaya-style bites will be circulating all evening. Stay for
       a drink or settle in for the night.
+
+
+      Part of Melbourne Food & Wine Festival 2026 Program
     event_date: '26 March, 2026'
     button_text: Buy Tickets
     button_link: 'https://www.melbournefoodandwine.com.au/events/tachiyugen/#tickets'
