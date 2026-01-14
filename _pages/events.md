@@ -42,7 +42,9 @@ events:
       each alive with flavour, sound and live music inspired by Tokyo’s
       legendary listening bars. Mini cocktails circulate alongside sashimi,
       nigiri, yakitori and izakaya-style bites throughout the night. Drop in for
-      a drink or stay and soak it all in.
+      a drink or stay and soak it all in. 
+
+      General Admission tickets: $180
 
 
       Part of the Melbourne Food & Wine Festival 2026 Program.
