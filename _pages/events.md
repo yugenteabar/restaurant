@@ -16,9 +16,7 @@ events:
       For one week only, enjoy our specially curated Lunar New Year Menu for
       $188pp, designed to share prosperity, longevity, and good fortune through
       flavour.
-
-
-      Exclusively available from 18th-22nd February.
+    event_date: '18-22 February, 2026'
   - event_image: /assets/images/MAIL_CHIMP_VDAY2.gif
     event_title: Valentine's Day
     event_description: >
