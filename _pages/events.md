@@ -50,7 +50,8 @@ events:
       Part of the Melbourne Food & Wine Festival 2026 Program.
     event_date: '26 March, 2026'
     button_text: Buy Tickets
-    button_link: 'https://www.melbournefoodandwine.com.au/events/tachiyugen/#tickets'
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
     event_description: >-
