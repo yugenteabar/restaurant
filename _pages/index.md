@@ -6,7 +6,7 @@ meta_description: >-
   Japanese Melbourne dining experiences—set in a stylish subterranean space in
   South Yarra.
 show_popup: true
-popup_title: Yugen NYE
+popup_title: TACHIYUGEN
 popup_text: >
   ![](</assets/images/Yugen Omnia Web_Chege Mbuthi33 copy.jpg>)
 
