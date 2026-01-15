@@ -8,13 +8,15 @@ meta_description: >-
 show_popup: false
 popup_title: Yugen NYE
 popup_text: >
-  ![](/assets/images/YugenNYE.jpg)![](/assets/images/YugenNYE1.jpg)
+  ![](</assets/images/Yugen Omnia Web_Chege Mbuthi33 copy.jpg>)
 
 
-  Take the party downstairs this New Year’s Eve and celebrate at Yūgen. Last
-  remaining reservations, or buy your tickets now.
-popup_button_text: BUY TICKETS
-popup_button_link: 'https://events.humanitix.com/nye-yugen'
+  One night only: Yugen becomes TACHIYUGEN–a standing-room Japanese feast of
+  sashimi, nigiri, bites and mini cocktails during Melbourne Food & Wine
+  Festival 2026.
+popup_button_text: TICKETS ON SALE NOW
+popup_button_link: >-
+  https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared
 title: >-
   A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen
   is one of the city’s best Japanese restaurants, offering a refined fusion of
