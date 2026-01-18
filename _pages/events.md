@@ -29,7 +29,7 @@ events:
       For one week only, enjoy our specially curated Lunar New Year Menu for
       $188pp, designed to share prosperity, longevity, and good fortune through
       flavour.
-    event_date: '18-22 February, 2026'
+    event_date: '15-22 February, 2026'
     button_text: Book Now
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=635170&utm_source=external&utm_medium=referral&utm_campaign=shared
