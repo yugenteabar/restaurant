@@ -30,8 +30,9 @@ events:
       $188pp, designed to share prosperity, longevity, and good fortune through
       flavour.
     event_date: '18-22 February, 2026'
-    button_text: COMING SOON
-    button_link: ''
+    button_text: Book Now
+    button_link: >-
+      https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=635170&utm_source=external&utm_medium=referral&utm_campaign=shared
   - event_image: /assets/images/Yugen opening night (123).jpg
     event_title: TACHIYUGEN
     event_description: >-
