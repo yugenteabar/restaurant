@@ -6,7 +6,7 @@ meta_description: >-
   experiences at one of Melbourne’s best Japanese restaurants in South Yarra.
 title: What’s On
 events:
-  - event_image: /assets/images/Yugen opening night (123).jpg
+  - event_image: /assets/images/TACHIYUGEN.gif
     event_title: TACHIYUGEN
     event_description: >-
       For one night, Yūgen breaks the rules. Inspired by Tokyo’s tachinomi bars,
