@@ -17,13 +17,8 @@ events:
 
       Move through every level as live Tokyo-inspired beats pulse around you.
       Sashimi and nigiri on the spot, yakitori straight off the grill, izakaya
-      bites in constant rotation and mini cocktails that keep coming.
-
-
-      This isn’t dinner. It’s a night out. Miss it, and it’s gone.
-
-
-      General Admission tickets: $180
+      bites in constant rotation and mini cocktails that keep coming. This isn’t
+      dinner. It’s a night out. Miss it, and it’s gone.
 
 
       Part of the Melbourne Food & Wine Festival 2026 Program.
