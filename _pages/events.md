@@ -36,13 +36,19 @@ events:
   - event_image: /assets/images/Yugen opening night (123).jpg
     event_title: TACHIYUGEN
     event_description: >-
-      For one night only, Yūgen transforms into a tachinomi–Japan’s lively,
-      no-reservations standing bars where food moves fast, drinks flow freely,
-      and the atmosphere crackles with energy. Explore three dynamic levels,
-      each alive with flavour, sound and live music inspired by Tokyo’s
-      legendary listening bars. Mini cocktails circulate alongside sashimi,
-      nigiri, yakitori and izakaya-style bites throughout the night. Drop in for
-      a drink or stay and soak it all in. 
+      For one night, Yūgen breaks the rules. Inspired by Tokyo’s tachinomi bars,
+      this is standing-room energy—fast plates, flowing drinks and a room that
+      never sits still. No reservations. No schedules. Come and go as you
+      please.
+
+
+      Move through every level as live Tokyo-inspired beats pulse around you.
+      Sashimi and nigiri on the spot, yakitori straight off the grill, izakaya
+      bites in constant rotation and mini cocktails that keep coming.
+
+
+      This isn’t dinner. It’s a night out. Miss it, and it’s gone.
+
 
       General Admission tickets: $180
 
