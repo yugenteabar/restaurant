@@ -26,16 +26,16 @@ events:
     button_text: Buy Tickets
     button_link: >-
       https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared
-  - event_image: /assets/images/LoRes 220908 - Yugen -0895 Gareth Sobey Photography.jpg
+  - event_image: /assets/images/LoRes 220908 - Yugen -1039 Gareth Sobey Photography.jpg
     event_title: Lunar New Year
     event_description: >-
-      Welcome the Year of the Horse in 2026 with a week of abundance, tradition,
-      and celebration over a delicious feast.
+      February 17th ushers in the Year of the Horse—fiery, fearless, and full of
+      life. 
 
 
-      For one week only, enjoy our specially curated Lunar New Year Menu for
-      $188pp, designed to share prosperity, longevity, and good fortune through
-      flavour.
+      For one week only, we’re serving a specially curated Lunar New Year
+      Banquet menu, designed to bring prosperity, luck, joy, and good
+      fortune—whether you’re celebrating with family or friends.
     event_date: '15-22 February, 2026'
     button_text: Book Now
     button_link: >-
