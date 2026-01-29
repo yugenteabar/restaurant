@@ -5,7 +5,7 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: TACHIYUGEN
 popup_text: |
-  ![](/assets/images/TACHIYŪGEN_5.1.jpg)![]()
+  ![](/assets/images/TACHIYŪGEN_5.1.jpg)![](/assets/images/TACHIYŪGEN_5.2.jpg)
 
   ONE NIGHT ONLY: TACHIYUGEN
 
