@@ -9,7 +9,7 @@ popup_text: |
 
   ONE NIGHT ONLY: TACHIYUGEN
 
-  Step inside Yugen and embark on a sensory journey—wander the space, sip cocktails, and savour sashimi, nigiri, and izakaya-inspired bites at this exclusive Melbourne Food & Wine Festival experience.
+  Step inside Yugen and embark on a sensory journey—wander the space and savour sashimi, nigiri, izakaya bites, and cocktails at this exclusive Melbourne Food & Wine Festival experience.
 popup_button_text: BUY TICKETS
 popup_button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
