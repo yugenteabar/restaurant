@@ -26,15 +26,6 @@ events:
     event_date: '15-22 February, 2026'
     button_text: Book Now
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=635170&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/MAIL_CHIMP_VDAY2.gif
-    event_title: Valentine's Day
-    event_description: |
-      Celebrate love the Yūgen way with a specially curated Valentine’s Tasting Menu from $185 per person.
-
-      Complete the experience with an added romantic touch–a single long-stem rose and personalised card available to add on for $35.
-    event_date: '14 February, 2026'
-    button_text: Book Now
-    button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=590365&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, Christina, and Edd Fisher. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
