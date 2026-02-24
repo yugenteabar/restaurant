@@ -17,15 +17,6 @@ events:
     event_date: '26 March, 2026'
     button_text: Buy Tickets
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/LoRes 220908 - Yugen -1039 Gareth Sobey Photography.jpg
-    event_title: Lunar New Year
-    event_description: |-
-      February 17th ushers in the Year of the Horse—fiery, fearless, and full of life. 
-
-      For one week only, we’re serving a specially curated Lunar New Year Banquet menu, designed to bring prosperity, luck, joy, and good fortune—whether you’re celebrating with family or friends.
-    event_date: '15-22 February, 2026'
-    button_text: Book Now
-    button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=635170&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
     event_title: Yūgen Live DJ Sessions
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, Christina, and Edd Fisher. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
