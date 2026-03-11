@@ -28,7 +28,7 @@ events:
     event_description: 'Treat your favourite matriarch to an unforgettable evening at Yugen this Mother’s Day. Surrender to the theatre of our Chef’s Experience menu, surprise her with a deluxe sashimi platter, or linger over snacks and cocktails, it''s the perfect way to say thank you.'
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
-  - event_image: /assets/images/YUGEN_SOUNDHOUSE_WEB_BANNER.gif
+  - event_image: /assets/images/Susie's 60th-413.jpg
     event_title: Live DJ Sessions
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest, including DJ DNE, Cesur, Kelvin Dana, Christina, and Edd Fisher. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
     event_date: ''
