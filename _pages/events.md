@@ -26,7 +26,7 @@ events:
   - event_image: /assets/images/YD_MD_2026_WebBanner2.png
     event_title: Celebrate Mother's Day
     event_description: 'Treat your favourite matriarch to an unforgettable evening at Yugen this Mother’s Day. Surrender to the theatre of our Chef’s Experience menu, surprise her with a deluxe sashimi platter, or linger over snacks and cocktails, it''s the perfect way to say thank you.'
-    button_text: Book Now
+    button_text: Reserve a Table
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/YD_DJBanner.png
     event_title: Live DJ Sessions
