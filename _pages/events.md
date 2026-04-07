@@ -4,12 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/41D5AE9A-4A42-4432-861C-E64ADD015430_1_105_c.jpeg
-    event_title: Easter Long Weekend
-    event_description: 'Yugen will be open on Good Friday and Saturday, giving you the perfect excuse to make the most of your long weekend with us. Join us for dinner, drinks, or swing by for some snacks. We will be closed on Easter Sunday.'
-    event_date: '3-4 April, 2026'
-    button_text: BOOK NOW
-    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/YD_MD_2026_WebBanner3.png
     event_title: Celebrate Mother's Day
     event_description: 'Treat your favourite matriarch to an unforgettable evening at Yugen this Mother’s Day. Surrender to the theatre of our Chef’s Experience menu, surprise her with a deluxe sashimi platter, or linger over snacks and cocktails, it''s the perfect way to say thank you.'
