@@ -5,7 +5,7 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: Mother's Day
 popup_text: |
-  ![](/assets/images/YD_MD_2026_WebBanner4.png)![](/assets/images/YD_MD_2026_WebBanner5.png)
+  ![](/assets/images/YD_MD_2026_WebBanner4.png)
 
   Treat your favourite matriarch to an evening at Yugen this Mother’s Day. Enjoy the theatre of our Chef’s Experience menu, indulge her with a deluxe sashimi platter, or linger over some snacks and cocktails, it’s the perfect way to say thank you.
 popup_button_text: BOOK NOW
