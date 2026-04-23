@@ -5,11 +5,11 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: Mother's Day
 popup_text: |
-  ![](/assets/images/YD_MD_2026_WebBanner4.png)![]()
+  ![](/assets/images/YD_MD_2026_WebBanner4.png)![](/assets/images/YD_MD_2026_WebBanner5.png)
 
   Treat your favourite matriarch to an evening at Yugen this Mother’s Day. Enjoy the theatre of our Chef’s Experience menu, indulge her with a deluxe sashimi platter, or linger over some snacks and cocktails, it’s the perfect way to say thank you.
 popup_button_text: BOOK NOW
-popup_button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=574842&utm_source=external&utm_medium=referral&utm_campaign=shared'
+popup_button_link: 'https://yugendining.com.au/reservations'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
 text_after_title: 'Hidden beneath the vibrant streets of South Yarra, descend into a cavernous, design-led space to discover Yūgen–one of Melbourne’s best Japanese restaurants. Yūgen offers an elevated dining experience, including an 85-seat modern fine dining restaurant, a sophisticated cocktail bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb—a suspended VIP dining space delivering a truly unique take on Japanese fine dining.'
 experience_conclusion: ''
