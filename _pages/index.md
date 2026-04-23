@@ -7,7 +7,7 @@ popup_title: Mother's Day
 popup_text: |
   ![](/assets/images/YD_MD_2026_WebBanner4.png)
 
-  Treat your favourite matriarch to an evening at Yugen this Mother’s Day. Enjoy the theatre of our Chef’s Experience menu, indulge her with a deluxe sashimi platter, or linger over some snacks and cocktails, it’s the perfect way to say thank you.
+  Celebrate your favourite matriarch at Yugen this Mother’s Day. Chef’s Menu, deluxe sashimi platters, or cocktails and snacks—an elegant way to say thank you.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://yugendining.com.au/reservations'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
