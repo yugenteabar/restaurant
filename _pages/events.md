@@ -5,7 +5,7 @@ meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal me
 title: What’s On
 events:
   - event_image: /assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c1c.gif
-    event_title: 'Gozenshu x Yugen: Sake & Izakaya Tasting'
+    event_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
     event_description: |-
       Join us for an intimate evening of sake discovery at Yugen Tea Bar on Friday 3 July.
 
