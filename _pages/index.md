@@ -3,9 +3,9 @@ permalink: /
 layout: index
 meta_description: 'Yugen offers a refined take on Asian fusion, earning its place among the best Japanese Melbourne dining experiences—set in a stylish subterranean space in South Yarra.'
 show_popup: false
-popup_title: Mother's Day
+popup_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
 popup_text: |
-  ![](/assets/images/YD_MD_2026_WebBanner4.png)
+  ![](/assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c11.gif)![]()
 
   Celebrate your favourite matriarch at Yugen this Mother’s Day. Chef’s Menu, deluxe sashimi platters, or cocktails and snacks—an elegant way to say thank you.
 popup_button_text: BOOK NOW
