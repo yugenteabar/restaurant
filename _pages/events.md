@@ -7,9 +7,7 @@ events:
   - event_image: /assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c1c.gif
     event_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
     event_description: |-
-      Join us for an intimate evening of sake discovery at Yugen Tea Bar on Friday 3 July.
-
-      Hosted by Thomas Ng (Sakelier) alongside Tsuji-san of Tsuji Honten (Okayama, Japan), this guided tasting features up to seven distinctive sakes–including a special pour–showcasing the brewery’s craft and its revival of the ancient Bodaimoto method.
+      Hosted by Thomas Ng (Sakelier) alongside Tsuji-san of Tsuji Honten (Okayama, Japan), this guided tasting hosted upstairs at Yugen Tea Bar features up to seven distinctive sakes (including a special unreleased pour) showcasing the brewery craft of Gozenshu and its revival of the ancient Bodaimoto method.
 
       A rare opportunity to explore sake in a relaxed, intimate setting alongside sake masters–whether you’re a beginner or an aficionado.
     event_date: 'Friday 3 July, 2026'
