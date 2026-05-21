@@ -7,7 +7,7 @@ popup_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
 popup_text: |
   ![](/assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c11.gif)![]()
 
-  An intimate sake pop-up hosted by Thomas Ng (Sakelier) and Tsuji-san of Tsuji Honten, featuring a guided tasting of rare Gozenshu pours—including an unreleased release—paired with a curated Yugen dining experience.
+  An intimate sake pop-up hosted by Sakelier and Tsuji-san (Tsuji Honten), featuring a guided tasting of rare Gozenshu pours—including an unreleased release—paired with a curated Yugen dining experience.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
