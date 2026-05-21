@@ -16,7 +16,7 @@ events:
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/YD_DJBanner.png
-    event_title: Live DJ Sessions
+    event_title: LIVE DJS EVERY SATURDAY
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
     event_date: ''
     event_ticket_info: ''
