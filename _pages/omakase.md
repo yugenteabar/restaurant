@@ -39,7 +39,7 @@ yugen_omakase_terms_text: |
 
   No shows or cancellations less than 48 hours in advance will be charged a $285 cancellation fee per person.
 
-  Please note a 15% surcharge apply on Sunday and public holidays.
+  Please note a 10% surcharge apply on Sunday and 15% onpublic holidays.
 
   Credit card payments will incur a processing fee Mastercard / Visa 1.2% - Amex/ Other 1.6%.
 yugen_nidaime_title: ''
