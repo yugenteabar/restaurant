@@ -61,6 +61,14 @@
                     </a>
                   </div>
                 {% endif %}
+                <!-- Second Book Omakase Button -->
+                {% if page.yugen_omakase_second_book_text and page.yugen_omakase_second_book_text != "" %}
+                  <div class="relative pt-2 pb-4 mt-4 terms animate__animated animate__fadeInUp animate__delay-1s">
+                    <a href="{{ page.yugen_omakase_second_book_link }}" class="book-now BOOK OMAKASE" title="{{ page.yugen_omakase_second_book_text }}">
+                      {{ page.yugen_omakase_second_book_text }}
+                    </a>
+                  </div>
+                {% endif %}
                 {% if page.yugen_omakase_waitlist_text and page.yugen_omakase_waitlist_text != "" %}
                   <div class="flex waitlist-text mt-6 animate__animated animate__fadeInUp animate__delay-1s">
                     <p class="mt-4 text-xs font-light lg:w-2/3">
@@ -125,6 +133,14 @@
                 <!-- <div class="book-overlay"></div> -->
                 <a href="{{ page.yugen_omakase_book_link }}" class="book-now BOOK OMAKASE" title="BOOK OMAKASE">
                   {{ page.yugen_omakase_book_text }}
+                </a>
+              </div>
+            {% endif %}
+            <!-- Second Book Omakase Button -->
+            {% if page.yugen_omakase_second_book_text and page.yugen_omakase_second_book_text != "" %}
+              <div class="relative pt-2 pb-4 mt-4 terms animate__animated animate__fadeInUp animate__delay-1s">
+                <a href="{{ page.yugen_omakase_second_book_link }}" class="book-now BOOK OMAKASE" title="{{ page.yugen_omakase_second_book_text }}">
+                  {{ page.yugen_omakase_second_book_text }}
                 </a>
               </div>
             {% endif %}

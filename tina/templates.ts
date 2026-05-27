@@ -626,6 +626,16 @@ export function omakaseFields() {
     },
     {
       type: 'string',
+      name: "yugen_omakase_second_book_text",
+      label: 'Second Book Omakase Button Text'
+    },
+    {
+      type: 'string',
+      name: "yugen_omakase_second_book_link",
+      label: 'Second Book Omakase Button Link'
+    },
+    {
+      type: 'string',
       name: "yugen_omakase_waitlist_button_text",
       label: 'Waitlist Button Text'
     },
