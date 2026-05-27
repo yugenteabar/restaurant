@@ -21,8 +21,8 @@ yugen_omakase_beverage_pairing: $185 per person
 yugen_omakase_availability: |-
   Yūgen Omakase is available for dinner Wednesday to Sunday at 7:00pm. With a limited number of seats each month, bookings are released on the first Wednesday of the month.
 
-  March & April 2026 Reservations are now open.
-  Next booking release: April 1st at 12pm, for May & June 2026 reservations.
+  June 2026 Reservations are now open.
+  Next booking release: June 3rd at 12pm, for July & August 2026 reservations.
 yugen_omakase_book_text: BOOK OMAKASE
 yugen_omakase_book_link: 'https://www.opentable.com/r/yugen-omakase-south-yarra'
 yugen_omakase_waitlist_button_text: OMAKASE WAITLIST
