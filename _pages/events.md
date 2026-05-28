@@ -9,9 +9,9 @@ events:
     event_description: |-
       Hosted by Thomas Ng (Sakelier) alongside Tsuji-san of Tsuji Honten (Okayama, Japan), this guided tasting takes place in the intimate upstairs space at Yugen Tea Bar.
 
-      Guests will explore up to seven distinctive sakes, including a special unreleased pour, highlighting the craftsmanship of Gozenshu and its revival of the traditional Bodaimoto brewing method. The experience is paired with a three-course menu featuring nigiri, sashimi, izakaya-style snacks, and dessert by Yugen.
+      Explore up to seven distinctive sakes, including a special unreleased pour, highlighting the craftsmanship of Gozenshu and its revival of the traditional Bodaimoto brewing method. The experience is paired with a menu by Chef Orita, centred on tuna in a head-to-tail expression. Expect nigiri and sashimi, followed by izakaya-style plates including tuna karaage and tuna a la ramen, and dessert to finish.
 
-      Early bird tickets: $160pp (usually $180pp). Available until 31 May or until sold out.
+      Earlybird tickets: $160pp (usually $180pp). Available until 31 May or until sold out.
     event_date: 'Friday 3 July, 2026'
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
