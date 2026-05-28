@@ -20,9 +20,9 @@ events:
     event_description: |-
       Love oysters? Join a hands-on 30-minute workshop hosted by our sister venue, Portside at Prahran Market, designed for oyster lovers and curious beginners alike.
 
-      Explore Australia’s oyster regions, estuaries, farming methods, and what shapes flavour, before learning the fundamentals of shucking with confidence. Each guest enjoys a dozen oysters, a glass of wine, and takes home their own oyster knife.
+      Explore Australia’s oyster regions, estuaries, farming methods, and what shapes flavour, before learning the fundamentals of shucking with confidence. Enjoy a dozen oysters, a glass of wine, and take home your very own oyster knife.
 
-      A simple, educational, and delicious experience centred on one of the ocean’s great delicacies. Tickets: $65 per person.
+      Tickets: $65 per person.
     event_date: 'Saturday 6 June, 2026'
     button_text: BUY TICKETS
     button_link: 'https://events.humanitix.com/portside_oyster'
