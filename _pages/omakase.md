@@ -24,14 +24,16 @@ yugen_omakase_availability: |-
   June 2026 Reservations are now open.
   Next booking release: June 3rd at 12pm, for July & August 2026 reservations.
 yugen_omakase_book_text: BOOK OMAKASE
-yugen_omakase_book_link: 'https://www.opentable.com/r/yugen-omakase-south-yarra'
+yugen_omakase_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=272606&restref=272606&experienceId=651545&utm_source=external&utm_medium=referral&utm_campaign=shared'
+yugen_omakase_second_book_text: BOOK JULY & AUGUST
+yugen_omakase_second_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731699&utm_source=external&utm_medium=referral&utm_campaign=shared'
 yugen_omakase_waitlist_button_text: OMAKASE WAITLIST
 yugen_omakase_waitlist_button_link: 'https://mailchi.mp/1679dc94ed6a/yugen-omakase'
 yugen_omakase_popup_title: Yugen Dining Omakase
 yugen_omakase_terms_text: |
-  Yugen Dining Omakase starts at 7pm sharp.
+  Yugen Dining Omakase starts at 7pm sharp, we reccomend arriving at 6:45pm.
 
-  For the best dining experience, please ensure all guests arrive at 15 mins before. Our Omakase is dependent on seasonal produce and changes daily. For this reason, we are unable to cater to food allergies and/or dietary restrictions. This is also due to the potential traces of allergens in the supplied ingredients and in the work environment. We are unable to cater for vegetarians, vegans, no raw seafood, shellfish allergies, gluten free, soy and coeliac.
+  Our Omakase is dependent on seasonal produce and changes daily. For this reason, we are unable to cater to food allergies and/or dietary restrictions. This is also due to the potential traces of allergens in the supplied ingredients and in the work environment. We are unable to cater for vegetarians, vegans, no raw seafood, shellfish allergies, gluten free, soy and coeliac.
 
   **Cancellation policy and no shows**:
 
@@ -39,7 +41,7 @@ yugen_omakase_terms_text: |
 
   No shows or cancellations less than 48 hours in advance will be charged a $285 cancellation fee per person.
 
-  Please note a 10% surcharge apply on Sunday and 15% onpublic holidays.
+  Please note a 10% surcharge apply on Sunday and 15% on public holidays.
 
   Credit card payments will incur a processing fee Mastercard / Visa 1.2% - Amex/ Other 1.6%.
 yugen_nidaime_title: ''
