@@ -15,6 +15,16 @@ events:
     event_date: 'Friday 3 July, 2026'
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
+  - event_image: /assets/images/Portside - Into It - 14th May1349_GRIFFIN SIMM_FIRST BATCH (1).jpg
+    event_description: |-
+      Love oysters? Join a hands-on 30-minute workshop hosted by our sister venue, Portside at Prahran Market, designed for oyster lovers and curious beginners alike.
+
+      Explore Australia’s oyster regions, estuaries, farming methods, and what shapes flavour, before learning the fundamentals of shucking with confidence. Each guest enjoys a dozen oysters, a glass of wine, and takes home their own oyster knife.
+
+      A simple, educational, and delicious experience centred on one of the ocean’s great delicacies. Tickets: $65 per person.
+    event_date: Saturday 6 June
+    button_text: FIND TICKETS
+    button_link: 'https://events.humanitix.com/portside_oyster'
   - event_image: /assets/images/YD_DJBanner.png
     event_title: LIVE DJS EVERY SATURDAY
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
