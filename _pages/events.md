@@ -16,6 +16,7 @@ events:
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Portside - Into It - 14th May1349_GRIFFIN SIMM_FIRST BATCH (1).jpg
+    event_title: OYSTER 101 WORKSHOP
     event_description: |-
       Love oysters? Join a hands-on 30-minute workshop hosted by our sister venue, Portside at Prahran Market, designed for oyster lovers and curious beginners alike.
 
