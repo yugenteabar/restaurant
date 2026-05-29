@@ -37,7 +37,7 @@ addEventListener("load", () => {
       pos += -delta * speed;
       pos = Math.max(
         0,
-        Math.min(pos, target.scrollHeight - frame.clientHeight)
+        Math.min(pos, target.scrollHeight - frame.clientHeight),
       );
 
       if (!moving) update();
@@ -164,7 +164,7 @@ addEventListener("load", () => {
         {
           x: 0,
           y: 0,
-        }
+        },
       );
       current.x /= positions.length;
       current.y /= positions.length;
@@ -238,7 +238,7 @@ addEventListener("load", () => {
     landingDining.addEventListener("wheel", (e) => {
       if (e.wheelDelta >= 0) {
         window.location.assign(
-          "https://restaurant-lime-xi.vercel.app/?a=hidden"
+          "https://restaurant-lime-xi.vercel.app/?a=hidden",
         );
       }
     });
@@ -252,7 +252,7 @@ addEventListener("load", () => {
           window.location.assign("https://teabar.vercel.app/?a=hidden");
         } else {
           window.location.assign(
-            "https://restaurant-lime-xi.vercel.app/?a=hidden"
+            "https://restaurant-lime-xi.vercel.app/?a=hidden",
           );
         }
         mobPrevPos = mobCurrPos;
@@ -291,13 +291,13 @@ addEventListener("load", () => {
     const yugenBoxes = document.querySelectorAll(".yugen-terms-container");
 
     const termsYugenTextOpenDialog = document.querySelector(
-      ".yugen-terms-container .terms-text-open-dialog"
+      ".yugen-terms-container .terms-text-open-dialog",
     );
     const termsYugenPopup = document.querySelector("#terms-popup-yugen");
     openCloseTermsModel(termsYugenPopup, termsYugenTextOpenDialog);
 
     const termsNidaimeTextOpenDialog = document.querySelector(
-      ".nidaime-terms-container .terms-text-open-dialog"
+      ".nidaime-terms-container .terms-text-open-dialog",
     );
     const termsNidaimePopup = document.querySelector("#terms-popup-nidaime");
 
@@ -307,17 +307,17 @@ addEventListener("load", () => {
 
     if (nidaimeBox) {
       const nidaimeTermsCheckbox = nidaimeBox.querySelector(
-        ".nidaime-terms-container .terms-text input"
+        ".nidaime-terms-container .terms-text input",
       );
       nidaimeTermsCheckbox.addEventListener("change", () =>
-        acceptTerms(nidaimeBox)
+        acceptTerms(nidaimeBox),
       );
     }
 
     if (yugenBoxes) {
       Array.from(yugenBoxes).map((yb) => {
         const yugenTermsCheckboxes = yb.querySelectorAll(
-          ".yugen-terms-container .terms-text input"
+          ".yugen-terms-container .terms-text input",
         );
 
         Array.from(yugenTermsCheckboxes).map((ytc) => {
@@ -393,4 +393,11 @@ addEventListener("load", () => {
       yugenOmakase.style.height = nidaimeOmakaseSectionHeight + "px";
     }
   }
+
+  document
+    .querySelectorAll(".text-after-reservation-widget a")
+    .forEach((link) => {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
 });

@@ -15,6 +15,12 @@
     <h1 class="title">{{ page.title }}</h1>
     <div class="text">{{ page.text | markdownify }}</div>
     <script type='text/javascript' src='//www.opentable.com.au/widget/reservation/loader?rid=170390&type=standard&theme=wide&color=6&dark=true&iframe=true&domain=comau&lang=en-AU&newtab=false&ot_source=Restaurant%20website&cfe=true'></script>
+    
+    <div>
+      <div class="text-after-reservation-widget mt-12">
+        {{ page.text_after_reservation_widget | markdownify }}
+      </div>
+    </div>
   </div>
 </main>
 

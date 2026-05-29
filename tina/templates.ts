@@ -754,6 +754,11 @@ export function reservationsFields() {
       ui: {
         component: "textarea",
       },
+    },
+    {
+      type: "rich-text",
+      name: "text_after_reservation_widget",
+      label: "Text after reservation widget",
     }
     
   ] as TinaField[];
