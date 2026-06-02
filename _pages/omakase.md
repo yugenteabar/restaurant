@@ -23,7 +23,7 @@ yugen_omakase_availability: |-
 
   June 2026 Reservations are now open.
   Next booking release: June 3rd at 12pm, for July & August 2026 reservations.
-yugen_omakase_book_text: BOOK OMAKASE
+yugen_omakase_book_text: BOOK JUNE OMAKASE
 yugen_omakase_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=272606&restref=272606&experienceId=651545&utm_source=external&utm_medium=referral&utm_campaign=shared'
 yugen_omakase_second_book_text: BOOK JULY & AUGUST
 yugen_omakase_second_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731699&utm_source=external&utm_medium=referral&utm_campaign=shared'
