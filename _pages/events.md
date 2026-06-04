@@ -4,11 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/41D5AE9A-4A42-4432-861C-E64ADD015430_1_105_c.jpeg
-    event_title: BONUS VALUE GIFT VOUCHERS
-    event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
-    button_text: SHOP NOW
-    button_link: 'https://yugen.vouchercart.com/app/'
   - event_image: /assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c1c.gif
     event_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
     event_description: |-
@@ -18,6 +13,11 @@ events:
     event_date: 'Friday 3 July, 2026'
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
+  - event_image: /assets/images/20BonusVoucher_Tile_V1.png
+    event_title: BONUS VALUE GIFT VOUCHERS
+    event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
+    button_text: SHOP NOW
+    button_link: 'https://yugen.vouchercart.com/app/'
   - event_image: /assets/images/YD_DJBanner.png
     event_title: LIVE DJS EVERY SATURDAY
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
