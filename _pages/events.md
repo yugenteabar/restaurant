@@ -4,7 +4,8 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_title: BONUS VALUE GIFT VOUCHERS
+  - event_image: /assets/images/41D5AE9A-4A42-4432-861C-E64ADD015430_1_105_c.jpeg
+    event_title: BONUS VALUE GIFT VOUCHERS
     event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
     button_text: SHOP NOW
     button_link: 'https://yugen.vouchercart.com/app/'
