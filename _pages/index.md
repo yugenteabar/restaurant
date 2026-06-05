@@ -5,7 +5,7 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
 popup_text: |
-  ![](/assets/images/64336297-4ca5-7faf-d12a-683e4d2c5c11.gif)![]()
+  ![](/assets/images/Gozenshu_Sake_Izakaya1.gif)
 
   An intimate pop-up hosted by Sakelier and Tsuji-san (Tsuji Honten), featuring a guided tasting of Gozenshu sake pours paired with a curated Yugen dining experience.
 popup_button_text: BUY TICKETS
