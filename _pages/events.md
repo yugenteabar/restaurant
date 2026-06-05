@@ -4,7 +4,7 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/64336297-4ca5-7fa-d12a-683e4d2c5c1c.gif
+  - event_image: /assets/images/64336297-4ca5-7fa-d12a-6834d2c5c1c.gif
     event_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
     event_description: |-
       Hosted by Thomas Ng (Sakelier) alongside Tsuji-san of Tsuji Honten (Okayama, Japan), this guided tasting takes place in the intimate upstairs space at Yugen Tea Bar.
