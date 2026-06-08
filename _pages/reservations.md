@@ -14,7 +14,7 @@ text: |-
   The Mezzanine level exclusively offers our Chefs Experience tasting menu at $180pp.
   Please see Omakase reservation details on our dedicated Omakase page. 
   Groups of 1–6 guests are welcome for à la carte dining. Groups of 7+ are invited to enjoy our Yūgen Banquet at $170pp in the Dining Room.
-  Oue semi-private spaces include the Golden Orb (6-9 guests) and Golden Curtain (max 26 guests). For larger events, please see our parties page. 
+  Our semi-private spaces include the Golden Orb (6-9 guests) and Golden Curtain (max 26 guests). For larger events, please see our parties page. 
 
   Please provide as much detail as possible regarding any allergies or dietary requirements in advance of your visit. At Yūgen Dining, we offer dedicated gluten-free and vegetarian/vegan à la carte menus. 
 
