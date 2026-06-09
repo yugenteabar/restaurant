@@ -7,7 +7,9 @@ above_title: ''
 title: RESERVATIONS
 text: |-
   Yūgen is open Wednesday – Sunday from 6pm – late. 
+
   All reservations are for full dining experiences. Our bar welcomes walk-ins for drinks, snacks, and dessert. 
+
   A 10% surcharge applies on Sundays and 15% on public holidays.
 
   ‘Standard Reservation’ offers an à la carte menu in the Dining Room on standard or high-top tables. A minimum spend of $80 per person (food and beverage) applies on Friday and Saturday evenings.
@@ -22,11 +24,15 @@ text: |-
   If you are running late, we will hold your table for up to 15 minutes. Please ensure to contact our team if you expect to be delayed.
 
   For a direct view of the chandelier, we recommend reserving a high-top table, which is elevated from the ground and seated on bar stools with back support. 
+
   Flash photography, tripods, portable lighting and professional photographers are not permitted in Yūgen Dining. We kindly ask that you respect the comfort and privacy of all our guests.
+
   Outside food and beverages, including cakes, cannot be brought into the restaurant. Open flames, including candles, are also not permitted.
+
   We kindly request no additional table decorations, as this may impact our ability to provide a smooth and timely service.
-  An elegant smart casual dress code is encouraged. 
+
   We may contact you prior to your reservation to confirm your details. For groups of 7 or more, if we do not receive a response, your booking may be cancelled.
+
   Please reach out to our reservations team with any questions at 03 7000 3232 or info@yugen.com.au, available Tuesday – Saturday 10am – 6pm.
 
   See you underground
