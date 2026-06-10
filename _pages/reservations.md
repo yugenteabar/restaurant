@@ -23,8 +23,6 @@ text: |-
   Reservations before 7pm are allocated a two-hour dining period from the time of your confirmed reservation. Reservations after 7pm are not time restricted.
   If you are running late, we will hold your table for up to 15 minutes. Please ensure to contact our team if you expect to be delayed.
 
-  For a direct view of the chandelier, we recommend reserving a high-top table, which is elevated from the ground and seated on bar stools with back support. 
-
   Flash photography, tripods, portable lighting and professional photographers are not permitted in Yūgen Dining. We kindly ask that you respect the comfort and privacy of all our guests.
 
   Outside food and beverages, including cakes, cannot be brought into the restaurant. Open flames, including candles, are also not permitted.
