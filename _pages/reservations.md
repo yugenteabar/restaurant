@@ -21,7 +21,7 @@ text: |-
   Please provide as much detail as possible regarding any allergies or dietary requirements in advance of your visit. At Yūgen Dining, we offer dedicated gluten-free and vegetarian/vegan à la carte menus. 
 
   Reservations before 7pm are allocated a two-hour dining period from the time of your confirmed reservation. Reservations after 7pm are not time restricted.
-  If you are running late, we will hold your table for up to 15 minutes. Please ensure to contact our team if you expect to be delayed.
+  If you are running late, are able to hold your table for up to 15 minutes.
 
   Flash photography, tripods, portable lighting and professional photographers are not permitted in Yūgen Dining. We kindly ask that you respect the comfort and privacy of all our guests.
 
