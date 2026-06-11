@@ -34,8 +34,7 @@ text: |-
   Please reach out to our reservations team with any questions at 03 7000 3232 or info@yugen.com.au, available Tuesday – Saturday 10am – 6pm.
 
   See you underground
-text_after_reservation_widget: |
-  Information collected through this form is held centrally by LK Hospitality and may be used and disclosed across all of our Venues. For full details, see our [Privacy Policy](</pdf/2026-05-26 LK Hospitality Privacy Policy_Yugen.pdf>).
+text_after_reservation_widget: ''
 _template: reservations
 ---
 
