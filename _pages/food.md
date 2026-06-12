@@ -19,7 +19,7 @@ menus:
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen_A La Carte_24.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
-    menu_description: 'Indulge in 6 meticulously crafted courses designed to delight your palate. Enhance your dining experience with a selection of expertly paired wines, thoughtfully chosen to complement each dish.'
+    menu_description: 'Indulge in 6 meticulously crafted courses designed to delight your palate. Enhance your dining experience with a selection of expertly paired wines & sake, thoughtfully chosen to complement each dish.'
     menu_link_text: Menu
     pdf_file: /assets/images/Yugen Chef's Experience 06.pdf
   - menu_title: BANQUET SET MENU | $170PP
