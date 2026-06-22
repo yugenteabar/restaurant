@@ -14,7 +14,7 @@ yugen_omakase_text: |
 
   Proudly awarded Two Hats for the fourth consecutive year in the 2026 Good Food Guide Awards, Yūgen Omakase offers an unforgettable dining experience that celebrates craftsmanship, precision, and is complemented by elevated beverage pairings.
 
-  Due to the intricacy of this experience we are unable to provide a menu free from raw items, gluten, dairy, egg and shellfish, or for those seeking a fully vegetarian, vegan or halal menu, we respectfully ask that you kindly reconsider your booking, as our menu may not be suitable. We sincerely appreciate your understanding and consideration. If you have any concerns regarding dietary requirements, please contact our team at [info@yugen.com.au](mailto:info@yugen.com.au) or 03 7000 3232. [lkhevents.com.au](www.lkhevents.com.au)
+  Due to the intricacy of this experience we are unable to provide a menu free from raw items, gluten, dairy, egg and shellfish, or for those seeking a fully vegetarian, vegan or halal menu, we respectfully ask that you kindly reconsider your booking, as our menu may not be suitable. We sincerely appreciate your understanding and consideration. If you have any concerns regarding dietary requirements, please contact our team at [info@yugen.com.au](mailto:info@yugen.com.au) or 03 7000 3232. 
 yugen_omakase_signature: ''
 yugen_omakase_price: $285 per person
 yugen_omakase_beverage_pairing: $185 per person
