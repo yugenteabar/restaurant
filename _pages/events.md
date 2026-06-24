@@ -19,7 +19,7 @@ events:
     button_text: SHOP NOW
     button_link: 'https://yugen.vouchercart.com/app/'
   - event_image: /assets/images/Entourage 10 Year Celebration -93_V2.jpg
-    event_title: 'A Taste of 67 Pall Mall: Champagne Masterclass with Tyson Stelzer'
+    event_title: CHAMPAGNE MASTERCLASS WITH TYSON STELZER
     event_description: |-
       Taste Champagne 2026 and 67 Pall Mall Australia invite guests to a rare, intimate evening of prestige Champagne, hosted within one of our dedicated event spaces above Yūgen in The Grand Room at Capitol Grand.
 
