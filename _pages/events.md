@@ -18,12 +18,10 @@ events:
     event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
     button_text: SHOP NOW
     button_link: 'https://yugen.vouchercart.com/app/'
-  - event_image: /assets/images/Entourage 10 Year Celebration -93_V2.jpg
+  - event_image: /assets/images/Entourage 10 Year Celebration93.jpg
     event_title: CHAMPAGNE MASTERCLASS WITH TYSON STELZER
     event_description: |-
-      Taste Champagne 2026 and 67 Pall Mall Australia invite guests to a rare, intimate evening of prestige Champagne, hosted within one of our dedicated event spaces above Yūgen in The Grand Room at Capitol Grand.
-
-      Led by Tyson Stelzer, guests will explore eight of Champagne’s most distinguished prestige cuvées, from iconic houses to rare and collectable releases, including the legendary Salon. Each wine reveals a different expression of craftsmanship, terroir, and time. The evening also offers a first look into the world of 67 Pall Mall ahead of its Melbourne opening, bringing to life the experience of its global Members’ Clubs in a setting designed for discovery, conversation, and exceptional wine.
+      Taste Champagne 2026 and 67 Pall Mall Australia invite guests to a rare, intimate evening of prestige Champagne, hosted within one of our dedicated event spaces above Yūgen in The Grand Room at Capitol Grand. Led by Tyson Stelzer, guests will explore eight of Champagne’s most distinguished prestige cuvées, from iconic houses to rare and collectable releases, including the legendary Salon. Each wine reveals a different expression of craftsmanship, terroir, and time. The evening also offers a first look into the world of 67 Pall Mall ahead of its Melbourne opening, bringing to life the experience of its global Members’ Clubs in a setting designed for discovery, conversation, and exceptional wine.
 
       Guests are then invited to continue the evening downstairs at Yūgen for dinner.
     event_date: 'Wednesday 29 July, 2026'
