@@ -4,17 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/Yugen MFWF 26 3_Chege Mbuthi_high res 145.jpg
-    event_title: YUGEN KAISEN 海鮮
-    event_description: |-
-      KAISEN: “seafood” or “ocean delicacies”
-
-      Join us for a one-night-only celebration of the ocean in its winter glory as part of the Broadsheet DineOut Festival.
-
-      We’re serving up four courses built around exceptional seafood, showcasing it all: pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, braised abalone, and more with the option to enjoy matched cocktails or sake throughout the evening. Seafood lovers, this is your night.
-    event_date: 'Tuesday 21 July, 2026'
-    button_text: BOOK NOW
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Gozenshu_Sake_Izakaya.gif
     event_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
     event_description: |-
@@ -24,6 +13,19 @@ events:
     event_date: 'Friday 3 July, 2026'
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
+  - event_image: /assets/images/Yugen MFWF 26 3_Chege Mbuthi_high res 145.jpg
+    event_title: YUGEN KAISEN 海鮮
+    event_description: |-
+      KAISEN: “seafood” or “ocean delicacies”
+
+      Join us for a one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival.
+
+      KAISEN brings together the finest ocean produce in a set menu experience, beginning with a seafood platter. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, braised abalone, and more.
+
+      Seafood lovers, this is your night.
+    event_date: 'Tuesday 21 July, 2026'
+    button_text: BOOK NOW
+    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/20BonusVoucher_Tile_V1.png
     event_title: BONUS VALUE GIFT VOUCHERS
     event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
