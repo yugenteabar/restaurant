@@ -20,9 +20,7 @@ events:
     event_description: |-
       KAISEN: “seafood” or “ocean delicacies”
 
-      Join us for a one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival.
-
-      KAISEN brings together the finest ocean produce in a set menu experience, beginning with a seafood platter. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, braised abalone, and more.
+      Join us for a one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival. KAISEN brings together the finest ocean produce in a set menu experience, beginning with a seafood platter. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, braised abalone, and more.
 
       Seafood lovers, this is your night.
     event_date: 'Tuesday 21 July, 2026'
