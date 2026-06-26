@@ -25,7 +25,8 @@ events:
 
       Seafood lovers, this is your night.
     event_date: 'Tuesday 21 July, 2026'
-    event_ticket_info: $165 per person
+    event_time: $165 per person
+    event_ticket_info: ''
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/20BonusVoucher_Tile_V1.png
