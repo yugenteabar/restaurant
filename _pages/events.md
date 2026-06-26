@@ -11,6 +11,7 @@ events:
 
       Explore a range of sakes (including a special unreleased pour) highlighting the craftsmanship of Gozenshu and its revival of the traditional Bodaimoto brewing method. The experience is paired with a menu by Chef Yu Orita (Yugen), centred on tuna in a head-to-tail expression including nigiri and sashimi, and izakaya-style plates.
     event_date: 'Friday 3 July, 2026'
+    event_ticket_info: $180 per person
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Yugen MFWF 26 3_Chege Mbuthi_high res 145.jpg
