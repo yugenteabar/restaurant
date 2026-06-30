@@ -33,7 +33,7 @@ menus:
   - menu_title: LATE NIGHT
     menu_description: 'For guests enjoying a drink at the bar and looking for a light bite, we’ve got you covered.'
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu.pdf
+    pdf_file: /assets/images/Yugen Dining - Late Night Snack Menu 07.pdf
   - menu_title: DESSERT
     menu_description: 'Indulge your sweet tooth and discover indulgent, handcrafted sweets inspired by modern Japanese and Asian cuisine.'
     menu_link_text: MENU
