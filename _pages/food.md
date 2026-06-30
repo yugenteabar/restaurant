@@ -37,7 +37,7 @@ menus:
   - menu_title: DESSERT
     menu_description: 'Indulge your sweet tooth and discover indulgent, handcrafted sweets inspired by modern Japanese and Asian cuisine.'
     menu_link_text: MENU
-    pdf_file: /assets/images/06 Yugen Dessert Menu.pdf
+    pdf_file: /assets/images/Yugen_Dessert Menu 07.pdf
 _template: food
 ---
 
