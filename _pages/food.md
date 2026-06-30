@@ -21,7 +21,7 @@ menus:
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: 'Indulge in 6 meticulously crafted courses designed to delight your palate. Enhance your dining experience with a selection of expertly paired wines & sake, thoughtfully chosen to complement each dish.'
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Chef's Experience 06.pdf
+    pdf_file: /assets/images/Yugen_Chef's Experience Menu 07.pdf
   - menu_title: BANQUET SET MENU | $170PP
     menu_description: 'For groups of 7 or more guests, enjoy our new banquet menu. Premium caviar service and supplements are available as add-ons.'
     menu_link_text: Menu
