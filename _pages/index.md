@@ -7,7 +7,7 @@ popup_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
 popup_text: |
   ![](/assets/images/Gozenshu_Sake_Izakaya1.gif)
 
-  Join us Friday 3 July for a guided tasting of Gozenshu sake, exploring the traditional bodaimoto method, paired with a Yūgen dining experience.
+  Experience it this Friday, 3 July: a guided tasting of Gozenshu sake exploring the ancient bodaimoto method paired with a Yūgen dining experience. Final seats remain.
 popup_button_text: BUY TICKETS
 popup_button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
