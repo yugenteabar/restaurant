@@ -28,11 +28,6 @@ events:
     event_ticket_info: ''
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/20BonusVoucher_Tile_V1.png
-    event_title: BONUS VALUE GIFT VOUCHERS
-    event_description: 'This month, purchase a gift voucher for $100 or more and enjoy 20% bonus value. Consider it a little extra leverage for your next evening out. Offer ends 30 June, 2026.'
-    button_text: SHOP NOW
-    button_link: 'https://yugen.vouchercart.com/app/'
   - event_image: /assets/images/Entourage 10 Year Celebration93.jpg
     event_title: CHAMPAGNE MASTERCLASS WITH TYSON STELZER
     event_description: |-
