@@ -2,7 +2,7 @@
 permalink: /
 layout: index
 meta_description: 'Yugen offers a refined take on Asian fusion, earning its place among the best Japanese Melbourne dining experiences—set in a stylish subterranean space in South Yarra.'
-show_popup: true
+show_popup: false
 popup_title: A SAKE & IZAKAYA EVENING WITH GOZENSHU
 popup_text: |
   ![](/assets/images/Gozenshu_Sake_Izakaya1.gif)
