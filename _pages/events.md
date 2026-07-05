@@ -4,12 +4,12 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/Yugen MFWF 26 3_Chege Mbuthi_high res 145.jpg
+  - event_image: /assets/images/Website GIF Yugen Kaisen 700x500_2.gif
     event_title: YUGEN KAISEN 海鮮
     event_description: |-
       KAISEN: “seafood” or “ocean delicacies”
 
-      Join us for a one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival. KAISEN brings together the finest ocean produce in a set menu experience, beginning with a seafood platter. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, braised abalone, and more.
+      A one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival. Yugen KAISEN brings together the finest ocean produce in a set menu experience. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, and braised abalone, with the option to add matched wines or sake, alongside a curated cocktail list.⁠
 
       Seafood lovers, this is your night.
     event_date: 'Tuesday 21 July, 2026'
