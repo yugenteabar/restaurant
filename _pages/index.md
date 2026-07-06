@@ -7,7 +7,7 @@ popup_title: YŪGEN KAISEN
 popup_text: |
   ![](</assets/images/Website GIF Yugen Kaisen 700x500_1.gif>)
 
-  A one-night-only seafood experience celebrating the ocean at its winter peak, part of the Broadsheet Dine Out Festival. Tuesday 21 July.
+  A one-night-only seafood experience celebrating the ocean at its winter peak, part of the Broadsheet Dine Out Festival.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com/booking/experiences-availability?rid=170390&restref=170390&experienceId=707431&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
