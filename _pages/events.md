@@ -21,7 +21,7 @@ events:
     event_title: Hibiki Whisky Tasting Dinner
     event_description: 'Join House of Suntory Ambassador Natalie Ng for one exclusive session into the world of Japanese whisky, exploring the rich heritage, craftsmanship, and the artistry behind Hibiki Whisky. Through a guided tasting flight showcasing three iconic Hibiki expressions, discover the depth and elegance of Hibiki whisky alongside a four-course tasting menu.'
     event_date: Wednesday 12 August
-    event_time: $250 per person. $210 per person Early Bird.
+    event_time: $210 per person (Early Bird)
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Entourage 10 Year Celebration93.jpg
