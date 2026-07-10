@@ -17,7 +17,8 @@ events:
     event_ticket_info: ''
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_title: Hibiki Whisky Tasting
+  - event_image: /assets/images/Yugen_JL1388.jpg
+    event_title: Hibiki Whisky Tasting Dinner
     event_description: |-
       Join House of Suntory Ambassador Natalie Ng for one exclusive session into the world of Japanese whisky, exploring the rich heritage, craftsmanship, and the artistry behind Hibiki Whisky.
 
