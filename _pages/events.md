@@ -19,16 +19,7 @@ events:
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Yugen_JL1388.jpg
     event_title: Hibiki Whisky Tasting Dinner
-    event_description: |-
-      Join House of Suntory Ambassador Natalie Ng for one exclusive session into the world of Japanese whisky, exploring the rich heritage, craftsmanship, and the artistry behind Hibiki Whisky.
-
-      Through a curated tasting experience, guests will discover the depth and elegance of Hibiki whisky, with each pour paired alongside a four-course tasting menu by Yugen Head Chef, Justin Edwards.
-
-      The evening begins with two curated cocktails followed by a guided tasting flight showcasing three iconic Hibiki expressions — Hibiki Harmony, Hibiki 21 Years, and Hibiki 30 Years. These exceptional whiskies highlight the precision, balance, and mastery that define Japanese whisky.
-
-      Whether you are new to Japanese whisky or a seasoned enthusiast, this intimate guided experience offers a rare opportunity to savour some of Suntory’s most celebrated expressions in the refined surrounds of Yugen.
-
-      Earlybird 
+    event_description: 'Join House of Suntory Ambassador Natalie Ng for one exclusive session into the world of Japanese whisky, exploring the rich heritage, craftsmanship, and the artistry behind Hibiki Whisky. Through a guided tasting flight showcasing three iconic Hibiki expressions, discover the depth and elegance of Hibiki whisky alongside a four-course tasting menu.'
     event_date: Wednesday 12 August
     event_time: $250 per person. $210 per person Early Bird.
     button_text: BOOK NOW
