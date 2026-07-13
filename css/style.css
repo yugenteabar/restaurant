@@ -841,6 +841,10 @@ body nav #navigation {
   margin-bottom: 1.75rem;
 }
 
+#privatedining .private-dining-text a {
+  text-decoration: underline;
+}
+
 /* ----------- */
 /*   CONTACT   */
 /* ----------- */

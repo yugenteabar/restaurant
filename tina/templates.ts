@@ -800,12 +800,9 @@ export function private_diningFields() {
           label: "Title",
         },
         {
-          type: "string",
+          type: "rich-text",
           name: "text",
           label: "Text",
-          ui: {
-            component: "textarea",
-          },
         },
         {
           type: "string",
