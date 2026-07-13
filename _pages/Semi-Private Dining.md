@@ -60,7 +60,8 @@ events:
 
 
       For more information, download our Events Brochure below, get in touch
-      with our events team or visit [lkhevents.com.au](lkhevents.com.au)
+      with our events team or visit
+      [lkhevents.com.au](https://lkhevents.com.au/)
     button_text: Download Events Pack
     file_pdf: /assets/images/Yugen Events Brochure (4).pdf
     secon_button_text: Enquire Now
@@ -69,5 +70,6 @@ events:
     text_below_second_button: ''
 _template: private_dining
 ---
+
 
 

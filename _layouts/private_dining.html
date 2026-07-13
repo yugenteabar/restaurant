@@ -18,7 +18,8 @@
         {% if event.text %}
         <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-1s">
           <div class="private-dining-text">
-            {{ event.text | markdownify }}
+            {% assign event_text = event.text | markdownify %}
+            {{ event_text | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
           </div>
         </div>
         {% endif %}
