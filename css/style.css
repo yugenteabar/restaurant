@@ -762,6 +762,7 @@ body nav #navigation {
 /*      EVENTS      */
 /*  --------------  */
 
+#privatedining .page-title,
 #events .page-title{
   font-weight: 500;
   font-size: 36px;
@@ -770,6 +771,7 @@ body nav #navigation {
   letter-spacing: 0.08em;
 }
 
+#privatedining .event-image,
 #events .event-image {
   border-radius: 125px;
   overflow: hidden;
@@ -777,11 +779,14 @@ body nav #navigation {
   max-height: 470px;
   width: 697px;
 }
+#privatedining .event-image img,
 #events .event-image img {
   width: 100%;
 }
 
+#privatedining .event-title,
 #events .event-title,
+#privatedining .event-title p,
 #events .event-title p{
   font-weight: 500;
   font-size: 24px;
@@ -789,7 +794,9 @@ body nav #navigation {
   letter-spacing: 0.08em;
 }
 
+#privatedining .event-text p,
 #events .event-text p,
+#privatedining .event-extra-text p,
 #events .event-extra-text p {
   font-weight: 300;
   font-size: 13px;
@@ -799,12 +806,15 @@ body nav #navigation {
   color: rgba(255,255,255);
 }
 
+#privatedining .event-extra-text p,
 #events .event-extra-text p {
   font-size: 14px;
   line-height: 18px;
 }
 
+#privatedining .event-text p:last-child,
 #events .event-text p:last-child,
+#privatedining .event-extra-text p:last-child,
 #events .event-extra-text p:last-child {
   margin-top: 20px;
 }

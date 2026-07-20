@@ -5,24 +5,30 @@
 {% include head.html %}
 
 {% include nav.html %}
-<main class="cover-image" style="background-image: url('{{ page.main_image }}');" title="Private Dining">
-  <div class="container mx-auto min-h-screen pt-32 md:pt-48 pb-20 flex flex-col items-end md:justify-center">
-    <div class="md:w-2/5 lg:pl-8 lg:pr-12">
-      {% for event in page.events %}
-      <div class="mb-16 md:mb-20">
-        {% if event.title %}
-        <h2 class="section-title mb-8 animate__animated animate__fadeInUp">
-          {{ event.title }}
-        </h2>
-        {% endif %}
-        {% if event.text %}
-        <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-1s">
-          <div class="private-dining-text">
-            {% assign event_text = event.text | markdownify %}
-            {{ event_text | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
-          </div>
+
+
+<main>
+  <div class="container mx-auto min-h-full pt-40 md:pt-48 pb-20">
+    <!-- <h1 class="page-title mb-20 animate__animated animate__fadeInUp">What’s on at Yugen</h1> -->
+
+    <!-- event 1 -->
+    {% for event in page.events %}
+    <div class="flex flex-col md:flex-row items-center justify-center mb-8 md:mb-12">
+      <div class="md:w-3/5 animate__animated animate__fadeInLeft animate__slow">
+        <div class="flex justify-center mx-auto event-image">
+          <img src="{{ event.event_image }}" alt="{{ event.event_title }}">
         </div>
-        {% endif %}
+      </div>
+      
+      <div class="w-full pl-8 md:pl-0  md:w-2/5 md:pl-12 md:pr-20 mt-6 md:mt-0 pb-6">
+        <h2 class="event-title mb-6 animate__animated animate__fadeInRight animate__slow">
+          {{ event.event_title | markdownify}}
+        </h2>
+        <div class="event-text animate__animated animate__fadeInRight animate__delay-1s">
+          {{ event.event_description | markdownify}}
+        </div>
+        
+
         {% if event.button_text %}
           {% if event.button_email and event.is_email %}
             <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-2s">
@@ -39,6 +45,7 @@
             </div>
           {% endif %}
         {% endif %}
+
         {% if event.text_below_button %}
         <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-2s">
           <div class="private-dining-text mt-6 italic">
@@ -46,15 +53,17 @@
           </div>
         </div>
         {% endif %}
-        {% if event.secon_button_text %}
+
+        {% if event.second_button_text %}
           {% if event.second_button_email and event.is_email_second_button %}
             <div class="mt-10 lg:mr-20 animate__animated animate__fadeInUp animate__delay-3s">
               <a href="mailto:{{ event.second_button_email }}?subject={{ event.title }} - Yugen" target="_blank" class="email-btn animate__animated animate__fadeIn">
-                {{ event.secon_button_text }}
+                {{ event.second_button_text }}
               </a>
             </div>
           {% endif %}
         {% endif %}
+
         {% if event.text_below_second_button %}
         <div class="text lg:pr-4 animate__animated animate__fadeInUp animate__delay-2s">
           <div class="private-dining-text mt-6 italic">
@@ -62,9 +71,10 @@
           </div>
         </div>
         {% endif %}
+        
       </div>
-      {% endfor %}
     </div>
+    {% endfor %}
   </div>
 </main>
 

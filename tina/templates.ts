@@ -779,30 +779,38 @@ export function private_diningFields() {
       label: "Meta Description",
     },
     {
-      type: "image",
-      name: "main_image",
-      label: "Background Image",
+      type: "string",
+      name: "title",
+      label: "Title",
     },
     {
       type: "object",
       name: "events",
-      label: "List of Events",
+      label: "Events",
       list: true,
       ui: {
         itemProps: (item) => {
-          return { label: `${item?.title} `}
+          return { label: `${item?.event_title}`}
         },
       },
       fields: [
         {
+          type: "image",
+          name: "event_image",
+          label: "Image",
+        },
+        {
           type: "string",
-          name: "title",
+          name: "event_title",
           label: "Title",
+          ui: {
+            component: "textarea",
+          },
         },
         {
           type: "rich-text",
-          name: "text",
-          label: "Text",
+          name: "event_description",
+          label: "Event Description",
         },
         {
           type: "string",
@@ -825,13 +833,13 @@ export function private_diningFields() {
           label: "File PDF",
         },
         {
-          type: "string",
+          type: "rich-text",
           name: "text_below_button",
           label: "Text Below First Button",
         },
         {
           type: "string",
-          name: "secon_button_text",
+          name: "second_button_text",
           label: "Second Button Text",
         },
         {

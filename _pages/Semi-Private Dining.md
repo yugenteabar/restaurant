@@ -12,8 +12,9 @@ meta_description: >-
   special occasions at one of Melbourne’s best Japanese restaurants.
 main_image: /assets/images/MA413.jpg
 events:
-  - title: The Golden Orb
-    text: >
+  - event_image: /assets/images/MA411.jpg
+    event_title: The Golden Orb
+    event_description: >
       Dine in our exclusive, golden orb-shaped dining room—suspended
       dramatically from the ceiling for a truly one-of-a-kind experience. This
       private space offers a breathtaking view of the entire restaurant, making
@@ -25,12 +26,13 @@ events:
     button_text: ENQUIRE NOW
     is_email: true
     button_email: info@yugen.com.au
-    text_below_button: >-
+    text_below_button: >
       Friday and Saturday nights have a minimum spend of $2500. A 10% surcharge
       applies on Sundays and 15% on public holidays.
-  - title: Group Dining
-    text: >
-      Whether you're celebrating a milestone, planning a business dinner, or
+  - event_image: /assets/images/MA2911.jpg
+    event_title: Group Dining
+    event_description: >
+      Whether you’re celebrating a milestone, planning a business dinner, or
       bringing friends together for an unforgettable evening, the Dining Room at
       Yūgen offers a sophisticated setting where exceptional cuisine, warm
       hospitality, and elegant design converge.
@@ -47,29 +49,27 @@ events:
     button_text: ENQUIRE NOW
     is_email: true
     button_email: info@yugen.com.au
-    text_below_button: Minimum spend applies.
-  - title: Private Event Hire
-    text: >
-      Yūgen offers Melbourne’s only exclusive subterranean event space,
-      featuring stunning six-meter-high stone walls and a blend of refined
-      industrial interiors with luxurious bespoke furniture and fabrics.
-
-
-      Available for exclusive hire, this unique venue accommodates up to 100
-      guests for a seated event or 230 guests cocktail-style across two floors.
-
-
-      For more information, download our Events Brochure below, get in touch
-      with our events team or visit
-      [lkhevents.com.au](https://lkhevents.com.au/)
+    text_below_button: |
+      Minimum spend applies.
+  - event_image: /assets/images/TACHIYŪGEN6.jpg
+    event_title: Private Event Hire
+    event_description: "Yūgen offers Melbourne’s only exclusive subterranean event space, featuring stunning six-meter-high stone walls and a blend of refined industrial interiors with luxurious bespoke furniture and fabrics.\n\nAvailable for exclusive hire, this unique venue accommodates up to 100 guests for a seated event or 230 guests cocktail-style across two floors.\n\nFor more information, download our Events Brochure below, get in touch with our events team or visit\_[lkhevents.com.au](https://lkhevents.com.au/)\n"
     button_text: Download Events Pack
     file_pdf: /assets/images/Yugen Events Brochure (4).pdf
-    secon_button_text: Enquire Now
+    text_below_button: ''
+    second_button_text: ENQUIRE NOW
     is_email_second_button: true
     second_button_email: events@lkhospitality.com.au
     text_below_second_button: ''
 _template: private_dining
 ---
+
+
+
+
+
+
+
 
 
 
