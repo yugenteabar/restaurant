@@ -22,12 +22,22 @@ events:
       Friday and Saturday nights have a minimum spend of $2500. A 10% surcharge applies on Sundays and 15% on public holidays.
   - event_image: /assets/images/MA2911.jpg
     event_title: Group Dining
-    event_description: |
-      Whether you’re celebrating a milestone, planning a business dinner, or bringing friends together for an unforgettable evening, the Dining Room at Yūgen offers a sophisticated setting where exceptional cuisine, warm hospitality, and elegant design converge.
+    event_description: |+
+      Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends.
 
-      For groups of 7–18 guests, enjoy our curated set menus at banquette-style tables — perfect for shared moments and seamless service.
 
-      Looking for something more exclusive? Groups of 20–26 guests can dine in our semi-private, golden-curtained area within the Dining Room. This elevated space offers a sense of intimacy while still immersing you in the energy and ambiance of Yūgen.
+
+
+      For groups of 7–18 guests, enjoy curated set menus served at banquette-style tables, designed for shared dining and seamless service.
+
+
+
+
+      For a more exclusive experience, groups of 20–26 guests can dine in our semi-private golden-curtained area on the main dining floor. This elevated space offers a sense of intimacy while still immersing you in the energy and ambiance of Yugen.
+
+
+
+
     button_text: ENQUIRE NOW
     is_email: true
     button_email: info@yugen.com.au
