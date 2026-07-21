@@ -46,7 +46,7 @@ events:
     text_below_button: ''
     second_button_text: ENQUIRE NOW
     is_email_second_button: true
-    second_button_email: 'https://lkhevents.com.au/enquiry'
+    second_button_email: events@lkhospitality.com.au
     text_below_second_button: ''
 _template: private_dining
 ---
