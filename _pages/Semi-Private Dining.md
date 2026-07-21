@@ -33,7 +33,7 @@ events:
     button_email: info@yugen.com.au
     text_below_button: |
       Minimum spend applies.
-  - event_image: /assets/images/TACHIYŪGEN6.jpg
+  - event_image: /assets/images/DFF-James-Cotton-50th-Yugen-Dining-29.jpg
     event_title: Private Event Hire
     event_description: |
       Yūgen offers Melbourne’s only exclusive subterranean event space, featuring stunning six-meter-high stone walls and a blend of refined industrial interiors with luxurious bespoke furniture and fabrics.
