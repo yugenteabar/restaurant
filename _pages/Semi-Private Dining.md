@@ -23,7 +23,7 @@ events:
   - event_image: /assets/images/MA187.jpg
     event_title: Group Dining
     event_description: |
-      Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends.
+      Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends. 
 
       For groups of 7–18 guests, enjoy curated set menus served at banquette-style tables, designed for shared dining and seamless service.
 
