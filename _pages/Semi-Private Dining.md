@@ -20,7 +20,7 @@ events:
     button_email: info@yugen.com.au
     text_below_button: |
       Friday and Saturday nights have a minimum spend of $2500. A 10% surcharge applies on Sundays and 15% on public holidays.
-  - event_image: /assets/images/MA2911.jpg
+  - event_image: /assets/images/MA187.jpg
     event_title: Group Dining
     event_description: |
       Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends.
