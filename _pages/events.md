@@ -6,7 +6,7 @@ title: What’s On
 events:
   - event_image: /assets/images/HibikiWhisky_WEB.jpg
     event_title: Hibiki Whisky Tasting Dinner
-    event_description: 'Step into the world of Japanese whisky at Yugen with House of Suntory Ambassador Natalie Ng for one exclusive evening celebrating craftsmanship, heritage, and the art of whisky. Discover the elegance and depth of Hibiki Whisky through a guided tasting flight featuring three iconic expressions, alongside cocktails and a bespoke four-course Yugen tasting menu. The evening also includes a Japanese calligraphy experience with artist Junko Azakawa–a rare and intimate opportunity to experience exceptional whisky, dining, and art. '
+    event_description: 'Step into the world of Japanese whisky at Yugen with House of Suntory Ambassador Natalie Ng for one exclusive evening celebrating craftsmanship, heritage, and the art of whisky. Discover the elegance and depth of Hibiki Whisky through a guided tasting flight featuring two expressions, alongside cocktails and a four-course Yugen tasting menu. The evening also includes a Japanese calligraphy experience with artist Junko Azakawa–a rare and intimate opportunity to experience exceptional whisky, dining, and art. '
     event_date: Wednesday 12 August
     event_time: $210 per person (Early Bird)
     button_text: BOOK NOW
