@@ -4,19 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/Website GIF Yugen Kaisen 700x500_2.gif
-    event_title: YUGEN KAISEN 海鮮
-    event_description: |-
-      KAISEN: “seafood” or “ocean delicacies”
-
-      A one-night-only celebration of the ocean in its winter glory, as part of the Broadsheet Dine Out Festival. Yugen KAISEN brings together the finest ocean produce in a set menu experience. Expect pristine cuts of Bluefin tuna, garlic-dressed crab, freshly shucked scallops, premium shellfish, and braised abalone, with the option to add matched wines or sake, alongside a curated cocktail list.⁠
-
-      Seafood lovers, this is your night.
-    event_date: 'Tuesday 21 July, 2026'
-    event_time: $165 per person
-    event_ticket_info: ''
-    button_text: BOOK NOW
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/HibikiWhisky_WEB.jpg
     event_title: Hibiki Whisky Tasting Dinner
     event_description: 'Step into the world of Japanese whisky at Yugen with House of Suntory Ambassador Natalie Ng for one exclusive evening celebrating craftsmanship, heritage, and the art of whisky. Discover the elegance and depth of Hibiki Whisky through a guided tasting flight featuring three iconic expressions, alongside cocktails and a bespoke four-course Yugen tasting menu. The evening also includes a Japanese calligraphy experience with artist Junko Azakawa–a rare and intimate opportunity to experience exceptional whisky, dining, and art. '
