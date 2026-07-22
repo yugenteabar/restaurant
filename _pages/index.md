@@ -5,12 +5,11 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: YŪGEN KAISEN
 popup_text: |
-  ![](</assets/images/Website GIF Yugen Kaisen 700x500_1.gif>)
+  ![](</assets/images/Hibiki Harmony 3 700 x 500.png>)![]()
 
-  A night dedicated to sashimi, seafood and sake.
-  Join us for a four-course set menu celebrating the finest ocean offerings.  Tuesday 21 July, $165pp.
+  Experience an unforgettable evening of Japanese whisky, fine dining, and art. Book now and secure early bird pricing.
 popup_button_text: BOOK NOW
-popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=733659&utm_source=external&utm_medium=referral&utm_campaign=shared'
+popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
 text_after_title: 'Hidden beneath the vibrant streets of South Yarra, descend into a cavernous, design-led space to discover Yūgen–one of Melbourne’s best Japanese restaurants. Yūgen offers an elevated dining experience, including an 85-seat modern fine dining restaurant, a sophisticated cocktail bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb—a suspended VIP dining space delivering a truly unique take on Japanese fine dining.'
 experience_conclusion: ''
