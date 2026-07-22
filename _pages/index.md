@@ -5,9 +5,9 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: A WHISKY TASTING WITH HIBIKI
 popup_text: |
-  ![](</assets/images/Hibiki Harmony 3 700 x 500.png>)![]()
+  ![](</assets/images/Hibiki Harmony 4 700 x 500.png>)
 
-  Experience an unforgettable evening of Japanese whisky, fine dining, and art. Book now and secure early bird pricing.
+  Experience an exclusive Japanese whisky tasting with House of Suntory Ambassador Natalie Ng. Book now to secure early bird pricing.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
