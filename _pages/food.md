@@ -25,7 +25,7 @@ menus:
   - menu_title: BANQUET SET MENU | $170PP
     menu_description: 'For groups of 7 or more guests, enjoy our new banquet menu. Premium caviar service and supplements are available as add-ons.'
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen_Banquet 07.pdf
+    pdf_file: /assets/images/Yugen_Banquet 07 v2.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: We aim offer a diverse range of plant-based options to cater to guests seeking vegetarian and vegan alternatives.
     menu_link_text: Menu
