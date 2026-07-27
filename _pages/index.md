@@ -7,7 +7,7 @@ popup_title: A WHISKY TASTING WITH HIBIKI
 popup_text: |
   ![](</assets/images/Hibiki Harmony 4 700 x 500.png>)
 
-  Experience an exclusive Japanese whisky tasting with House of Suntory Ambassador Natalie Ng.
+  Experience an exclusive Japanese whisky tasting with House of Suntory Ambassador Natalie Ng, on Wednesday 12 August.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
