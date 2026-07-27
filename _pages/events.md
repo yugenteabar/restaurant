@@ -11,15 +11,6 @@ events:
     event_time: $250 per person
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/Entourage 10 Year Celebration93.jpg
-    event_title: CHAMPAGNE MASTERCLASS WITH TYSON STELZER
-    event_description: |-
-      Taste Champagne 2026 and 67 Pall Mall Australia invite guests to a rare, intimate evening of prestige Champagne, hosted within our dedicated event space above Yūgen in The Grand Room. Led by Tyson Stelzer, guests will explore eight of Champagne’s most distinguished prestige cuvées, from iconic houses to rare and collectable releases, including the legendary Salon. The evening also offers a first look into the world of 67 Pall Mall ahead of its Melbourne opening, bringing to life the experience of its global Members’ Clubs in a setting designed for discovery, conversation, and exceptional wine.
-
-      Guests are then invited to continue the evening downstairs at Yūgen for dinner.
-    event_date: 'Wednesday 29 July, 2026'
-    button_text: BUY TICKETS
-    button_link: 'https://www.tickettailor.com/events/67pallmallmelbourneltd/2239943'
   - event_image: /assets/images/YD_DJBanner.png
     event_title: LIVE DJS EVERY SATURDAY
     event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
