@@ -23,7 +23,7 @@ events:
   - event_image: /assets/images/MA187.jpg
     event_title: Group Dining
     event_description: |
-      Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends. 
+      Yūgen is the perfect setting for special occasions, from celebrating milestones and hosting clients to gathering with friends.
 
       For groups of 7–18 guests, enjoy curated set menus served at banquette-style tables, designed for shared dining and seamless service.
 
@@ -42,7 +42,7 @@ events:
 
       For more information, download our Events Brochure below, get in touch with our events team or visit [lkhevents.com.au](https://lkhevents.com.au/) for more info and past event galleries.
     button_text: Download Events Pack
-    file_pdf: /assets/images/Yugen Events Brochure (4).pdf
+    file_pdf: /assets/images/Yugen Events Brochure_LR.pdf
     text_below_button: ''
     second_button_text: ENQUIRE NOW
     is_email_second_button: true
