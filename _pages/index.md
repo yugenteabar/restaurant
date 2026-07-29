@@ -2,7 +2,7 @@
 permalink: /
 layout: index
 meta_description: 'Yugen offers a refined take on Asian fusion, earning its place among the best Japanese Melbourne dining experiences—set in a stylish subterranean space in South Yarra.'
-show_popup: true
+show_popup: false
 popup_title: A WHISKY TASTING WITH HIBIKI
 popup_text: |
   ![](</assets/images/Hibiki Harmony 4 700 x 500.png>)
