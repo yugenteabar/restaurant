@@ -4,12 +4,12 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: ''
+  - event_image: /assets/images/Yugen_KZafiridis_009.jpg
     event_title: Father's Day
     event_description: |-
-      Celebrate Dad with an unforgettable evening at Yugen, featuring a special collaboration with Lark Distillery.
+      Celebrate Dad at Yugen with a special Father’s Day collaboration featuring Tasmanian whisky from Lark Distillery.
 
-      On Father’s Day, any à la carte reservation dining with Dad will receive a complimentary Lark nib or cocktail of his choice, along with a Lark whisky glass to take home as a gift.
+      On Father’s Day, guests dining with Dad on an à la carte reservation will receive a complimentary Lark whisky nib or cocktail of his choice, plus a Lark whisky glass to take home as a gift.
     button_text: Book Now
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/HibikiWhisky_WEB.jpg
