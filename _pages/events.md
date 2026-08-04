@@ -4,7 +4,7 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/Yugen_alexfrankphoto127.jpg
+  - event_image: ''
     event_title: Father's Day
     event_description: |-
       Celebrate Dad with an unforgettable evening at Yugen, featuring a special collaboration with Lark Distillery.
