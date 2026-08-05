@@ -4,6 +4,11 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
+  - event_image: /assets/images/MA2917.jpg
+    event_title: Qixi Festival
+    event_description: 'Celebrate the occasion with us at Yugen, where an unforgettable dining experience creates the perfect setting to share special moments together. Choose our Chef’s Experience menu for a curated journey through our cuisine, or dine à la carte and create your own celebration, your way.'
+    button_text: Book Now
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Yugen_KZafiridis_009.jpg
     event_title: Father's Day
     event_description: |-
