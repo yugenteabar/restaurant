@@ -5,11 +5,11 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: false
 popup_title: A WHISKY TASTING WITH HIBIKI
 popup_text: |
-  ![](</assets/images/Hibiki Harmony 4 700 x 500.png>)
+  ![](/assets/images/Yugen_018.jpg)
 
-  Experience an exclusive Japanese whisky tasting with House of Suntory Ambassador Natalie Ng, on Wednesday 12 August.
+  Celebrate Dad at Yugen this Father’s Day with a special Lark Distillery collaboration, featuring a complimentary whisky nib or cocktail for Dad, plus a Lark whisky glass to take home.
 popup_button_text: BOOK NOW
-popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
+popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
 text_after_title: 'Hidden beneath the vibrant streets of South Yarra, descend into a cavernous, design-led space to discover Yūgen–one of Melbourne’s best Japanese restaurants. Yūgen offers an elevated dining experience, including an 85-seat modern fine dining restaurant, a sophisticated cocktail bar, the exclusive six-seat Yūgen Omakase, and the Golden Orb—a suspended VIP dining space delivering a truly unique take on Japanese fine dining.'
 experience_conclusion: ''
