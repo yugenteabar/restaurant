@@ -15,8 +15,8 @@ events:
     event_description: 'This month, we celebrate the artistry of Hibiki Whisky with a curated selection of experiences. Discover bespoke cocktails, or explore its depth and character with a side-by-side whisky flight, exclusively available throughout August.'
     event_date: August
     event_time: ''
-    button_text: SOLD OUT
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=762529&utm_source=external&utm_medium=referral&utm_campaign=shared'
+    button_text: Book Now
+    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Yugen_KZafiridis_009.jpg
     event_title: Father's Day
     event_description: |-
