@@ -18,7 +18,7 @@ events:
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Yugen_KZafiridis_009.jpg
-    event_title: Father's Day
+    event_title: FATHER'S DAY x LARK DISTILLERY
     event_description: |-
       Celebrate Dad at Yugen with a special Father’s Day collaboration featuring Tasmanian whisky from Lark Distillery.
 
