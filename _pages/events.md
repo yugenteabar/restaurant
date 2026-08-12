@@ -12,7 +12,7 @@ events:
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Hibiki Activation Cocktail Koke Niwa Highball 3.jpg
     event_title: RAISE A GLASS TO HIBIKI
-    event_description: 'This month, celebrate the artistry of Hibiki Whisky with a curated selection of experiences. Discover bespoke cocktails, from the Koke Niwa Highball to the Ispahan Old Fashioned, or explore Hibiki’s depth and character with a side-by-side whisky flight featuring Hibiki Harmony and Hibiki 21 Years Old for $80.'
+    event_description: 'Throughout the month of August, celebrate the artistry of Hibiki Whisky with a curated selection of experiences. Discover bespoke cocktails, from the Koke Niwa Highball to the Ispahan Old Fashioned, or explore Hibiki’s depth and character with a side-by-side whisky flight featuring Hibiki Harmony and Hibiki 21 Years Old for $80.'
     event_date: Exclusively available throughout August
     event_time: ''
     button_text: Book Now
