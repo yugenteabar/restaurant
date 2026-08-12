@@ -5,7 +5,7 @@ meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal me
 title: What’s On
 events:
   - event_image: /assets/images/MA2917.jpg
-    event_title: Qixi Festival
+    event_title: QIXI FESTIVAL
     event_description: 'Celebrate the occasion with us at Yugen, where an unforgettable dining experience creates the perfect setting to share special moments together. Choose our Chef’s Experience menu for a curated journey through our cuisine, or dine à la carte and create your own celebration, your way.'
     event_date: Wednesday 19 August
     button_text: Book Now
