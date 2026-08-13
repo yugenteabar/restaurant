@@ -7,7 +7,7 @@ popup_title: FATHER'S DAY
 popup_text: |
   ![](</assets/images/Bill Lark & Chris Thomson (1) copy.jpg>)![]()
 
-  Bring Dad in for dinner and a LARK Distillery whisky or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
+  Bring Dad for dinner and he'll enjoy a LARK Distillery whisky or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
