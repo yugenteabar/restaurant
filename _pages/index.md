@@ -5,7 +5,7 @@ meta_description: 'Yugen offers a refined take on Asian fusion, earning its plac
 show_popup: true
 popup_title: FATHER'S DAY
 popup_text: |
-  ![](/assets/images/Yugen_018.jpg)
+  ![](</assets/images/Bill Lark & Chris Thomson (1) copy.jpg>)![]()
 
   Celebrate Dad at Yugen this Father’s Day with a special Lark Distillery collaboration, featuring a complimentary whisky nib or cocktail for Dad, plus a Lark whisky glass to take home.
 popup_button_text: BOOK NOW
