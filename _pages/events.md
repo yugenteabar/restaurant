@@ -17,7 +17,7 @@ events:
     event_time: ''
     button_text: Book Now
     button_link: 'https://yugendining.com.au/reservations'
-  - event_image: /assets/images/Yugen_KZafiridis_009.jpg
+  - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
     event_title: FATHER'S DAY x LARK DISTILLERY
     event_description: |-
       Celebrate Dad at Yugen with Lark Distillery.
