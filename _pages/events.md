@@ -20,7 +20,7 @@ events:
   - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
     event_title: FATHER'S DAY x LARK DISTILLERY
     event_description: |-
-      Celebrate Dad at Yugen with Lark Distillery.
+      Celebrate Dad at Yūgen with Lark Distillery.
 
       On Father’s Day, every Dad joining us for dinner will enjoy a LARK whisky nip or cocktail of his choice on us, plus a LARK whisky glass to take home – the perfect keepsake from a night worth celebrating.
     event_date: Sunday 6 September
