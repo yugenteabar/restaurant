@@ -19,7 +19,7 @@ events:
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
     event_title: FATHER'S DAY x LARK DISTILLERY
-    event_description: Bring Dad for dinner this Father’s Day and we’ll welcome him with a LARK Distillery whisky nip or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
+    event_description: Bring Dad for dinner this Father’s Day and we’ll welcome him with a LARK Distillery whisky or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
     event_date: Sunday 6 September
     button_text: Book Now
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
