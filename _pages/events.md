@@ -20,9 +20,9 @@ events:
   - event_image: /assets/images/Yugen_KZafiridis_009.jpg
     event_title: FATHER'S DAY x LARK DISTILLERY
     event_description: |-
-      Celebrate Dad at Yugen with a special Father’s Day collaboration featuring Tasmanian whisky from Lark Distillery.
+      Celebrate Dad at Yugen with Lark Distillery.
 
-      On Father’s Day, guests dining with Dad on an à la carte reservation will receive a complimentary Lark whisky nip or cocktail of his choice, plus a Lark whisky glass to take home as a gift.
+      On Father’s Day, every Dad joining us for dinner will enjoy a LARK whisky nip or cocktail of his choice on us, plus a LARK whisky glass to take home – the perfect keepsake from a night worth celebrating.
     event_date: Sunday 6 September
     button_text: Book Now
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
