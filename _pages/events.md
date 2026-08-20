@@ -4,12 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/MA2917.jpg
-    event_title: QIXI FESTIVAL
-    event_description: 'Celebrate the occasion with us at Yugen, where an unforgettable dining experience creates the perfect setting to share special moments together. Choose our Chef’s Experience menu for a curated journey through our cuisine, or dine à la carte and create your own celebration, your way.'
-    event_date: Wednesday 19 August
-    button_text: Book Now
-    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/Hibiki Activation Cocktail Koke Niwa Highball 3 WEB.jpg
     event_title: RAISE A GLASS TO HIBIKI
     event_description: 'Throughout the month of August, celebrate the artistry of Hibiki Whisky with a curated selection of experiences. Discover bespoke cocktails, from the Koke Niwa Highball to the Ispahan Old Fashioned, or explore Hibiki’s depth and character with a side-by-side whisky flight featuring Hibiki Harmony and Hibiki 21 Years Old for $80.'
