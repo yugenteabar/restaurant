@@ -21,8 +21,8 @@ yugen_omakase_beverage_pairing: $150 per person
 yugen_omakase_availability: |-
   Yūgen Omakase is available for dinner Wednesday to Sunday at 7:00pm. With a limited number of seats each month, bookings are released on the first Wednesday of the month.
 
-  July & August 2026 Reservations are now open.
-  Next booking release: August 5th at 12pm, for September & October 2026 reservations.
+  September & October 2026 Reservations are now open.
+  Next booking release: October 7th at 12pm, for November & December 2026 reservations.
 yugen_omakase_book_text: BOOK AUGUST
 yugen_omakase_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731699&utm_source=external&utm_medium=referral&utm_campaign=shared'
 yugen_omakase_second_book_text: BOOK SEPTEMBER & OCTOBER
