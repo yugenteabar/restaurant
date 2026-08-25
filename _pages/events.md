@@ -11,7 +11,7 @@ events:
     button_text: Book Now
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Portfolio_Crop - Large (1).jpg
-    event_title: YŪGEN × LARK DISTILLERY MASTERCLASS & DINNER
+    event_title: YŪGEN × LARK MASTERCLASS & DINNER
     event_description: |-
       Join Yūgen and LARK for an evening that brings together two worlds of flavour.
 
