@@ -19,7 +19,8 @@ events:
 
       Whether you’re already a LARK fan, curious to discover Tasmanian whisky, or simply know someone who appreciates a good dram, come curious and stay for the experience.
     event_date: Thursday 1st October
-    event_ticket_info: $280 per person
+    event_time: $280 per person
+    event_ticket_info: ''
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=786073&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Hibiki Activation Cocktail Koke Niwa Highball 3 WEB.jpg
