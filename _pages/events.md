@@ -15,7 +15,7 @@ events:
     event_description: |-
       Join Yūgen and LARK for an evening that brings together two worlds of flavour.
 
-      Begin in Yūgen Tea Bar with a guided LARK Whisky Masterclass, exploring a selection of Tasmanian single malts alongside a few canapés. Then, venture downstairs to our Golden Curtained dining room for a three-course dinner, with LARK pours continuing throughout the evening.
+      Begin in Yūgen Tea Bar with a guided LARK Whisky Masterclass, exploring a selection of Tasmanian single malts alongside a few canapés. Then, venture downstairs to Yūgen's dining room for a three-course dinner, with LARK pours continuing throughout the evening.
 
       Whether you’re already a LARK fan, curious to discover Tasmanian whisky, or simply know someone who appreciates a good dram, come curious and stay for the experience.
     event_date: Thursday 1st October
