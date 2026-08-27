@@ -23,10 +23,10 @@ yugen_omakase_availability: |-
 
   September & October 2026 Reservations are now open.
   Next booking release: October 7th at 12pm, for November & December 2026 reservations.
-yugen_omakase_book_text: BOOK AUGUST
-yugen_omakase_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731699&utm_source=external&utm_medium=referral&utm_campaign=shared'
-yugen_omakase_second_book_text: BOOK SEPTEMBER & OCTOBER
-yugen_omakase_second_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731704&utm_source=external&utm_medium=referral&utm_campaign=shared'
+yugen_omakase_book_text: BOOK SEPTEMBER & OCTOBER
+yugen_omakase_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=731704&utm_source=external&utm_medium=referral&utm_campaign=shared'
+yugen_omakase_second_book_text: NOVEMBER & DECEMBER COMING SOON
+yugen_omakase_second_book_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=775147&utm_source=external&utm_medium=referral&utm_campaign=shared'
 yugen_omakase_waitlist_button_text: OMAKASE WAITLIST
 yugen_omakase_waitlist_button_link: 'https://mailchi.mp/1679dc94ed6a/yugen-omakase'
 yugen_omakase_popup_title: Yugen Dining Omakase
