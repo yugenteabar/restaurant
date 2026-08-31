@@ -828,6 +828,11 @@ export function private_diningFields() {
           label: "Email for button",
         },
         {
+          type: "string",
+          name: "button_link",
+          label: "Button Link",
+        },
+        {
           type: "image",
           name: "file_pdf",
           label: "File PDF",
@@ -856,6 +861,16 @@ export function private_diningFields() {
           type: "string",
           name: "text_below_second_button",
           label: "Text Below Second Button",
+        },
+        {
+          type: "string",
+          name: "third_button_text",
+          label: "Third Button Text",
+        },
+        {
+          type: "string",
+          name: "third_button_link",
+          label: "Third Button Link",
         },
       ],
     },
