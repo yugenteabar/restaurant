@@ -12,9 +12,12 @@ text: |-
 
   A 10% surcharge applies on Sundays and 15% on public holidays.
 
-  ‘Standard Reservation’ offers an à la carte menu in the Dining Room on standard or high-top tables. A minimum spend of $80 per person (food and beverage) applies on Friday and Saturday evenings.
+  ‘Standard Reservation’ offers an à la carte menu in the Dining Room on standard or high-top tables. A minimum spend of $80 per person (food and beverage) applies on Friday and Saturday evenings year-round & every day in December.
+
   The Mezzanine level exclusively offers our Chefs Experience tasting menu at $180pp.
+
   Please see Omakase reservation details on our dedicated Omakase page. 
+
   Groups of 1–6 guests are welcome for à la carte dining. Groups of 7+ are invited to enjoy our Yūgen Banquet at $170pp in the Dining Room.
   Our semi-private spaces include the Golden Orb (6-9 guests) and Golden Curtain (max 26 guests). For larger events, please see our parties page. 
 
