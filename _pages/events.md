@@ -4,7 +4,8 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_title: NEW YEAR'S EVE PARTY
+  - event_image: /assets/images/Susie's 60th-431.jpg
+    event_title: NEW YEAR'S EVE PARTY
     event_description: |
       Take the party downstairs and descend into Yūgen this New Year’s Eve. The night promises a signature cocktail on arrival, roaming canapés, DJ & live entertainment to carry you well past dusk.
 
