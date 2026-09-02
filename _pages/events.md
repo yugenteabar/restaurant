@@ -8,7 +8,8 @@ events:
     event_title: NEW YEAR'S EVE PARTY
     event_description: 'Descend into Yūgen this New Year’s Eve for our annual celebration, with cocktails, DJs, live entertainment and roaming canapés as we count down to midnight. Tickets are now on sale, secure yours early and be part of the night.'
     event_date: 'December 31, 2026'
-    event_ticket_info: $85 per person
+    event_time: $85 per person
+    event_ticket_info: ''
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=791905&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
