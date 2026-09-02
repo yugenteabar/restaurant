@@ -6,12 +6,7 @@ title: What’s On
 events:
   - event_image: /assets/images/Susie's 60th-431.jpg
     event_title: NEW YEAR'S EVE PARTY
-    event_description: |
-      Take the party downstairs and descend into Yūgen this New Year’s Eve. The night promises a signature cocktail on arrival, roaming canapés, DJ & live entertainment to carry you well past dusk.
-
-      Ticket pricing inclusive of a welcome drink & roaming canapés 10:30pm - 11:30pm
-
-      Entry is available from 10.30pm, the venue will close at 1.00am.
+    event_description: 'Descend into Yūgen this New Year’s Eve for our annual celebration, with cocktails, DJs, live entertainment and roaming canapés as we count down to midnight. Tickets are now on sale, secure yours early and be part of the night.'
     event_date: 'December 31, 2026'
     event_ticket_info: $85 per person
     button_text: BUY TICKETS
