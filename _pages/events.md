@@ -4,6 +4,12 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
+  - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
+    event_title: FATHER'S DAY x LARK DISTILLERY
+    event_description: Bring Dad for dinner this Father’s Day and we’ll welcome him with a LARK Distillery whisky or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
+    event_date: Sunday 6th September
+    button_text: Book Now
+    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Susie's 60th-431.jpg
     event_title: NEW YEAR'S EVE PARTY
     event_description: 'Descend into Yūgen this New Year’s Eve for our annual celebration, with cocktails, DJs, live entertainment and roaming canapés as we count down to midnight. Tickets are now on sale, secure yours early and be part of the night.'
@@ -12,12 +18,6 @@ events:
     event_ticket_info: ''
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=791905&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/Bill Lark & Chris Thomson (1).jpg
-    event_title: FATHER'S DAY x LARK DISTILLERY
-    event_description: Bring Dad for dinner this Father’s Day and we’ll welcome him with a LARK Distillery whisky or cocktail on us. He’ll also take home a complimentary LARK whisky glass – the perfect keepsake from a night worth celebrating.
-    event_date: Sunday 6th September
-    button_text: Book Now
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=768743&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/Portfolio_Crop - Large (1).jpg
     event_title: YŪGEN × LARK MASTERCLASS & DINNER
     event_description: |-
