@@ -27,7 +27,7 @@ events:
       Book or enquire now to create your Yūgen experience.
     button_text: LEARN MORE
     button_link: 'https://yugendining.com.au/private-dining'
-  - event_image: /assets/images/LIVE@GR_WebBanner.png
+  - event_image: /assets/images/MA047_BW1.png
     event_title: LIVE @ THE GRAND ROOM
     event_description: |
       A new live entertainment series in the heart of Chapel Street, bringing great artists, premium dining and unforgettable nights to The Grand Room at Capitol Grand, above Yūgen Dining.
