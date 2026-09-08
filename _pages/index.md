@@ -2,7 +2,7 @@
 permalink: /
 layout: index
 meta_description: 'Yugen offers a refined take on Asian fusion, earning its place among the best Japanese Melbourne dining experiences—set in a stylish subterranean space in South Yarra.'
-show_popup: false
+show_popup: true
 popup_title: YŪGEN × LARK MASTERCLASS
 popup_text: |
   ![](</assets/images/Bill Lark & Chris Thomson (1) copy.jpg>)
