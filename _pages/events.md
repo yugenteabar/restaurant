@@ -18,9 +18,9 @@ events:
     button_text: BOOK NOW
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=786073&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/RR_Table guests seated 3.jpg
-    event_title: CELEBRATE THE YEAR AT YŪGEN
+    event_title: CELEBRATE THE YEAR
     event_description: |-
-      Celebrate the year in true Yūgen style. An immersive Japanese dining experience, elevated cocktails and striking spaces set the scene for unforgettable end-of-year celebrations.
+      Yūgen sets the scene for unforgettable end-of-year celebrations.
 
       Whether it’s an intimate dinner, a team celebration or a larger end-of-year event, Yūgen offers flexible spaces for groups from 6 to 230 guests, from the iconic Golden Orb to exclusive private hire across two levels.
 
