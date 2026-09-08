@@ -34,8 +34,6 @@ events:
 
       From iconic Australian artists and jazz big bands to soul, contemporary music and Latin nights, each event transforms the room into an intimate and elevated dinner-and-show experience.
 
-      Come for dinner. Stay for the music. Experience the night.
-
       Discover what’s coming up and book your next LIVE@ The Grand Room experience.
     button_text: BOOK NOW
     button_link: 'https://www.eventbrite.com.au/o/33266254063'
