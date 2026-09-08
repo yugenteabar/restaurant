@@ -41,7 +41,7 @@ events:
     event_date: ''
     event_ticket_info: ''
     event_extra_info: 'Every Saturday, 6pm-1am'
-    button_text: Find a Table
+    button_text: BOOK NOW
     button_link: 'https://yugendining.com.au/reservations'
 _template: events
 ---
