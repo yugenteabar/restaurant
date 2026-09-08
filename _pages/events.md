@@ -25,7 +25,7 @@ events:
       Whether it’s an intimate dinner, a team celebration or a larger end-of-year event, Yūgen offers flexible spaces for groups from 6 to 230 guests, from the iconic Golden Orb to exclusive private hire across two levels.
 
       Book or enquire now to create your Yūgen experience.
-    button_text: EXPLORE OUR SPACES
+    button_text: LEARN MORE
     button_link: 'https://yugendining.com.au/private-dining'
   - event_image: /assets/images/Susie's 60th-431.jpg
     event_title: NEW YEAR'S EVE PARTY
