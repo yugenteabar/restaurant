@@ -13,7 +13,7 @@ popup_text: |
 
   Start at Yūgen Tea Bar with a guided LARK Whisky Masterclass and canapés, then descend into Yūgen for a three-course dinner, with LARK pours continuing throughout.
 
-  Thursday 1 October · $280pp
+  Thursday 1 October · $225pp 
 popup_button_text: BOOK NOW
 popup_button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=786073&utm_source=external&utm_medium=referral&utm_campaign=shared'
 title: 'A bold, subterranean fine dining destination in South Yarra, Melbourne—Yūgen is one of the city’s best Japanese restaurants, offering a refined fusion of Japanese and Asian-inspired cuisine alongside expertly crafted cocktails.'
