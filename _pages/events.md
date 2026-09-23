@@ -36,7 +36,7 @@ events:
 
       Discover what’s coming up and book your next LIVE@ The Grand Room experience.
     button_text: EXPLORE EVENTS
-    button_link: 'https://www.eventbrite.com.au/o/33266254063'
+    button_link: 'https://lkhevents.com.au/live-the-grand-room'
   - event_image: /assets/images/Susie's 60th-431.jpg
     event_title: NEW YEAR'S EVE PARTY
     event_description: 'Descend into Yūgen this New Year’s Eve for our annual celebration, with cocktails, DJs, live entertainment and roaming canapés as we count down to midnight. Tickets are now on sale, secure yours early and be part of the night.'
