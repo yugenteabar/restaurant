@@ -7,11 +7,11 @@ events:
   - event_image: /assets/images/Portfolio_Crop - Large (1).jpg
     event_title: YŪGEN × LARK MASTERCLASS & DINNER
     event_description: |-
-      Join Yūgen and LARK for an evening that brings together two worlds of flavour.
+      This week, Yūgen × LARK invite you to an intimate evening of Tasmanian whisky and Japanese dining.
 
-      Begin in Yūgen Tea Bar with a guided LARK Whisky Masterclass, exploring a selection of Tasmanian single malts alongside a few canapés. Then, venture downstairs to Yūgen's dining room for a three-course dinner, with LARK pours continuing throughout the evening.
+      A guided LARK Whisky Masterclass, curated canapés, and a three-course Yūgen experience — with LARK pours throughout.
 
-      Whether you’re already a LARK fan, curious to discover Tasmanian whisky, or simply know someone who appreciates a good dram, come curious and stay for the experience.
+      A one-night-only experience.
     event_date: Thursday 1st October
     event_time: $190 per person
     event_ticket_info: ''
