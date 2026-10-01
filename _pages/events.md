@@ -4,19 +4,6 @@ layout: events
 meta_description: 'Discover what’s on at Yugen—exclusive events, seasonal menus, and immersive experiences at one of Melbourne’s best Japanese restaurants in South Yarra.'
 title: What’s On
 events:
-  - event_image: /assets/images/Portfolio_Crop - Large (1).jpg
-    event_title: YŪGEN × LARK MASTERCLASS & DINNER
-    event_description: |-
-      This week, Yūgen × LARK invite you to an intimate evening of Tasmanian whisky and Japanese dining.
-
-      A guided LARK Whisky Masterclass, curated canapés, and a three-course Yūgen experience — with LARK pours throughout.
-
-      A one-night-only experience.
-    event_date: Thursday 1st October
-    event_time: $190 per person
-    event_ticket_info: ''
-    button_text: BOOK NOW
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=786073&utm_source=external&utm_medium=referral&utm_campaign=shared'
   - event_image: /assets/images/RR_Table guests seated 3.jpg
     event_title: CELEBRATE THE YEAR
     event_description: |-
