@@ -19,7 +19,7 @@ yugen_omakase_signature: ''
 yugen_omakase_price: $285 per person
 yugen_omakase_beverage_pairing: $150 per person
 yugen_omakase_availability: |-
-  Yūgen Omakase is available for dinner Wednesday to Sunday at 7:00pm. With a limited number of seats each month, bookings are released on the first Wednesday of the month.
+  Yūgen Omakase is available for dinner Wednesday to Sunday at 7:00pm.
 
   November & December 2026 Reservations are now open.
 yugen_omakase_book_text: BOOK OCTOBER
