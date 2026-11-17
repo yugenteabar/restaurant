@@ -40,17 +40,6 @@ events:
     button_email: info@yugen.com.au
     text_below_button: |
       Minimum spend applies.
-  - event_image: /assets/images/MA3081.jpg
-    event_title: Mezzanine
-    event_description: |
-      Located upstairs from our main dining floor, the Mezzanine offers a more intimate dining experience. When booking our Chef’s Experience, you will be seated on the Mezzanine for the duration of your experience.
-
-      Please note, the Mezzanine is a separate space from our High Top tables, which are located on the main dining level.
-
-      The Mezzanine exclusively offers our six-course Chef’s Experience tasting menu at $180 per person.
-    button_text: BOOK NOW
-    button_link: 'https://yugendining.com.au/reservations'
-    text_below_button: ''
   - event_image: /assets/images/DFF-James-Cotton-50th-Yugen-Dining-29.jpg
     event_title: Private Event Hire
     event_description: |
@@ -68,6 +57,17 @@ events:
     text_below_second_button: ''
     third_button_text: VIEW PAST EVENTS
     third_button_link: 'https://lkhevents.com.au/pastevents'
+  - event_image: /assets/images/MA3081.jpg
+    event_title: Mezzanine
+    event_description: |
+      Located upstairs from our main dining floor, the Mezzanine offers a more intimate dining experience. When booking our Chef’s Experience, you will be seated on the Mezzanine for the duration of your experience.
+
+      Please note, the Mezzanine is a separate space from our High Top tables, which are located on the main dining level.
+
+      The Mezzanine exclusively offers our six-course Chef’s Experience tasting menu at $180 per person.
+    button_text: BOOK NOW
+    button_link: 'https://yugendining.com.au/reservations'
+    text_below_button: ''
 _template: private_dining
 ---
 
