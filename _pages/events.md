@@ -32,14 +32,6 @@ events:
     event_ticket_info: ''
     button_text: BUY TICKETS
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=791905&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/YD_DJBanner.png
-    event_title: LIVE DJS EVERY SATURDAY
-    event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
-    event_date: ''
-    event_ticket_info: ''
-    event_extra_info: 'Every Saturday, 6pm-1am'
-    button_text: BOOK NOW
-    button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/TAQUERIA-SIN-NOMBRE-MEDIA_7.jpg
     event_title: TAQUERIA SIN NOMBRE X YŪGEN DINING X CLASE AZUL
     event_description: |-
@@ -52,6 +44,14 @@ events:
     event_time: $165 per person
     button_text: BOOK YOUR SEAT
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=838591&utm_source=external&utm_medium=referral&utm_campaign=shared'
+  - event_image: /assets/images/YD_DJBanner.png
+    event_title: LIVE DJS EVERY SATURDAY
+    event_description: 'Join us every Saturday as we bring the vibe with live DJ sets from Melbourne’s finest. Whether you’re in for a few drinks, a bite to eat, or just to soak up the atmosphere, join us at Yūgen.'
+    event_date: ''
+    event_ticket_info: ''
+    event_extra_info: 'Every Saturday, 6pm-1am'
+    button_text: BOOK NOW
+    button_link: 'https://yugendining.com.au/reservations'
 _template: events
 ---
 
