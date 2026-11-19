@@ -40,24 +40,11 @@ events:
       Taqueria Sin Nombre joins forces with Yūgen Dining for a cross-cultural collaboration bringing the vibrant spirit of Mexican taqueria culture into conversation with the craft of Japanese dining.
       We invite you into Yūgen Dining for this special collaboration that explores a shared passion for fire, fermentation and bold flavours through an exclusive seven-course menu.
       An optional beverage pairing brings together artisanal tequilas and mezcals from Clase Azul, each coming to the table to meet the depth and nuance of Yūgen's Japanese-inspired flavours.
-    event_date: 'March 16, 2027 – 6.30pm–9.30pm'
-    event_time: $165 per person
-    button_text: BOOK YOUR SEAT
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=838591&utm_source=external&utm_medium=referral&utm_campaign=shared'
-  - event_image: /assets/images/YD_DJBanner.png
-    event_title: TAQUERIA SIN NOMBRE X YŪGEN DINING X CLASE AZUL
-    event_description: |-
-      Tequila, mezcal, umami! Mexico meets Japan in one of the Festival's most flavour-packed collaborations.
-
-      Taqueria Sin Nombre joins forces with Yūgen Dining for a cross-cultural collaboration bringing the vibrant spirit of Mexican taqueria culture into conversation with the craft of Japanese dining.
-      We invite you into Yūgen Dining for this special collaboration that explores a shared passion for fire, fermentation and bold flavours through an exclusive seven-course menu.
-      An optional beverage pairing brings together artisanal tequilas and mezcals from Clase Azul, each coming to the table to meet the depth and nuance of Yūgen's Japanese-inspired flavours.
-    event_date: 'March 16, 2027 – 6.30pm–9.30pm'
-    event_time: $165 per person
+    event_date: ''
     event_ticket_info: ''
-    event_extra_info: ''
+    event_extra_info: 'Every Saturday, 6pm-1am'
     button_text: BOOK NOW
-    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=838591&utm_source=external&utm_medium=referral&utm_campaign=shared'
+    button_link: 'https://yugendining.com.au/reservations'
 _template: events
 ---
 
