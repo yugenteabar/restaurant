@@ -49,7 +49,7 @@ events:
       We invite you into Yūgen Dining for this special collaboration that explores a shared passion for fire, fermentation and bold flavours through an exclusive seven-course menu.
       An optional beverage pairing brings together artisanal tequilas and mezcals from Clase Azul, each coming to the table to meet the depth and nuance of Yūgen's Japanese-inspired flavours.
     event_date: 'March 16, 2027 – 6.30pm–9.30pm'
-    event_time: $165pp
+    event_time: $165 per person
     button_text: BOOK YOUR SEAT
     button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=838591&utm_source=external&utm_medium=referral&utm_campaign=shared'
 _template: events
