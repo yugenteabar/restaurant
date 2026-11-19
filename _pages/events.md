@@ -40,6 +40,18 @@ events:
     event_extra_info: 'Every Saturday, 6pm-1am'
     button_text: BOOK NOW
     button_link: 'https://yugendining.com.au/reservations'
+  - event_image: /assets/images/TAQUERIA-SIN-NOMBRE-MEDIA_7.jpg
+    event_title: Taqueria Sin Nombre x Yūgen Dining x Clase Azul
+    event_description: |-
+      Tequila, mezcal, umami! Mexico meets Japan in one of the Festival's most flavour-packed collaborations.
+
+      Taqueria Sin Nombre joins forces with Yūgen Dining for a cross-cultural collaboration bringing the vibrant spirit of Mexican taqueria culture into conversation with the craft of Japanese dining.
+      We invite you into Yūgen Dining for this special collaboration that explores a shared passion for fire, fermentation and bold flavours through an exclusive seven-course menu.
+      An optional beverage pairing brings together artisanal tequilas and mezcals from Clase Azul, each coming to the table to meet the depth and nuance of Yūgen's Japanese-inspired flavours.
+    event_date: 'March 16, 2027 – 6.30pm–9.30pm'
+    event_time: $165pp
+    button_text: BOOK YOUR SEAT
+    button_link: 'https://www.opentable.com.au/booking/experiences-availability?rid=170390&restref=170390&experienceId=838591&utm_source=external&utm_medium=referral&utm_campaign=shared'
 _template: events
 ---
 
