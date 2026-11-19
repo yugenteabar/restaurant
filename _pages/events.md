@@ -41,7 +41,7 @@ events:
     button_text: BOOK NOW
     button_link: 'https://yugendining.com.au/reservations'
   - event_image: /assets/images/TAQUERIA-SIN-NOMBRE-MEDIA_7.jpg
-    event_title: Taqueria Sin Nombre x Yūgen Dining x Clase Azul
+    event_title: TAQUERIA SIN NOMBRE X YŪGEN DINING X CLASE AZUL
     event_description: |-
       Tequila, mezcal, umami! Mexico meets Japan in one of the Festival's most flavour-packed collaborations.
 
