@@ -7,7 +7,7 @@ beverage_sections:
   - section_title: Drinks Philosophy
     section_text: |-
 
-      Yūgen offers a thoughtfully curated selection of beverages that cater to every taste, providing the perfect pairing for our Japanese and Asian-fusion dishes. Test
+      Yūgen offers a thoughtfully curated selection of beverages that cater to every taste, providing the perfect pairing for our Japanese and Asian-fusion dishes.
 
       From expertly crafted cocktails to an extensive wine and sake list. Each drink has been curated to enhance your dining experience with every sip.
   - section_title: Sake
