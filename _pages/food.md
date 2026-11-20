@@ -17,7 +17,7 @@ menus:
   - menu_title: À LA CARTE
     menu_description: 'Experience a fusion of traditional Japanese flavours and bold Asian influences at Yugen—from expertly crafted nigiri and premium sashimi, to signature dishes featuring select cuts of Wagyu and the finest seasonal ingredients.'
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen_A La Carte_5.pdf
+    pdf_file: /assets/images/Yugen_ALC_11.pdf
   - menu_title: CHEF'S EXPERIENCE | $180PP
     menu_description: 'Indulge in 6 meticulously crafted courses designed to delight your palate. Enhance your dining experience with a selection of expertly paired wines & sake, thoughtfully chosen to complement each dish.'
     menu_link_text: Menu
@@ -25,11 +25,11 @@ menus:
   - menu_title: BANQUET SET MENU | $170PP
     menu_description: 'For groups of 7 or more guests, enjoy our banquet menu. Premium caviar service and supplements are available as add-ons.'
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen Banquet 7.pdf
+    pdf_file: /assets/images/Yugen-Banquet-111.pdf
   - menu_title: VEGETARIAN & VEGAN
     menu_description: We aim offer a diverse range of plant-based options to cater to guests seeking vegetarian and vegan alternatives.
     menu_link_text: Menu
-    pdf_file: /assets/images/Yugen-Vego & Vegan_11.pdf
+    pdf_file: /assets/images/Yugen-Vego-Vegan_111.pdf
   - menu_title: LATE NIGHT
     menu_description: 'For guests enjoying a drink at the bar and looking for a light bite, we’ve got you covered.'
     menu_link_text: Menu
@@ -37,7 +37,7 @@ menus:
   - menu_title: DESSERT
     menu_description: 'Indulge your sweet tooth and discover indulgent, handcrafted sweets inspired by modern Japanese and Asian cuisine.'
     menu_link_text: MENU
-    pdf_file: /assets/images/Yugen Dessert Menu 13_V2.pdf
+    pdf_file: /assets/images/Yugen-Dessert-Menu-111.pdf
 _template: food
 ---
 
